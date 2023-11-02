@@ -1,0 +1,13 @@
+Reviewer 3 Report
+Thank you for the opportunity to review this manuscript, which considers some interesting issues. However, there are some significant flaws that must be addressed. Please see the comments.
+Introduction
+Line 79 is [20] [ 21], should be [20,21]
+Lines 80-88: I guess these are the suggestions of the previous reviewer. Maybe it is better to remove them from the main text.
+Material and Methods
+There is no doubt that such research in the pandemic era is important. The small sample size is lowering the impact of the presented results. Although the authors indicated in the limitation paragraph why the sample is so small, still the 4 participants in the control group are not enough to draw conclusions
+Line 107: How the survey results have been converted into MET’s unit? It is worthwhile to complete this.
+The HICT took about 12 minutes and the time of vigorous activity was between 27.5 and 47.5 minutes. Did the HICT was additional exercise or was it completed during the general time of vigorous activity?
+Did the control group was allowed to perform any vigorous activity during the experiment? What the daily time of this activity was?
+Discussion
+Lines 272-273: “…it demonstrates that HICT is an exercise modality that does not induce overtraining (including stress and irritability)…” how the stress and irritability were estimated?
+Lines 294-297: I guess these are the suggestions of the previous reviewer. Maybe it is better to remove them from the main text.

@@ -1,0 +1,25 @@
+Author Response
+There might be some interesting data collected in the present study.  However, my main concern with the study is that there were too many analyses presented to interpret in a meaningful way.  The authors should revise the paper providing more theoretical background and accompanying analyses.   With better theoretical framing and a more limited set of analyses, the value of the study results should be more clear.  Some more specific suggestions are provided below.
+***Thank you for this advice. We have trimmed the paper to focus on two of the five elements of sexual subjectivity - only those that were expected to be most relevant to partnered sexual partner: entitlement to sexual partner pleasure and efficacy in achieving pleasure. This has substantially limited the analyses conducted. We provide a rationale for this (see the first paragraph on p.4) and have thoroughly revised the entire paper.
+I think it would be preferable to describe the measurement of sexual subjectivity shortly after it is defined on p. 3.  Also, a more thorough description of the measurement of the construct and the validity of the measurement could be described in that section.
+***We have done this and have also substantially revised the entire Introduction (see new section starting on p. 3 titled Definition and measurement).
+On p. 4 the first sentence of second full paragraph, “Regarding sexual subjectivity and its link to greater sexual exploration and experience, one cross-sectional with a sample of females” is missing the word “study.”
+**We have corrected this sentence.
+The authors could provide more theoretical explanation of why there might be gender differences in sexual subjectivity.
+***We have added to our theoretical explanation for why there would be gender differences (see the section titled Gender Differences in Sexual Behavior, Attitudes, and Sexual Subjectivity, p. 4).
+The authors rely too much on headings to transition between ideas.  The paper would flow more smoothly if some transition sentences were included.
+***We have substantially revised all sections of this paper to improve the flow and removed some headings.
+More specific hypotheses could be proposed.  The section where research questions are described is worded in an awkward way.
+***We have revised this section (The Current Study, p.5). We have also added hypotheses (see p. 5-6)
+The reporting of group differences in the participants section might be better placed in the results section after the measures are described.
+***We have moved this content on group difference to the first section of the Results section.
+The combining of the male and female versions of the sexual subjectivity inventories should be described in more detail, and the validity of creating the subscales should be explained.  Perhaps factor analysis could be used to determine appropriate subscales?
+***Given our focus on only two element of sexual subjectivity, this was no longer an issue because items were the same on measures for males and females.
+What were participants told about the purpose of the study?
+***We have added this information on p. 7 in the Procedure section. It reads:
+Approval from the university Human Research Ethics Committee was obtained prior to data collection. At Time 1 (T1), participants were approached at a university campus in Australia in the week before classes commenced (i.e., during orientation week) and asked to participate in a study "About You and Your Relationships." The front cover of the survey described the questions as focused on personal sexual and romantic experiences, and stressed the confidential nature of the survey.
+There is an increase in Type I error with the multiple t-tests conducted thatshould be addressed.  Similarly, there are many correlation tests performed which increases Type I error that needs to be addressed.
+***Reducing the number of elements of sexual subjectivity has reduced the number of tests performed.
+Predictions about how the specific subscales of the inventory might relate to age and experience might be provided to make the results more meaningful (see the comment about theory relating to analyses discussed above).
+***We have added hypotheses to the section titled The Current Study on p. 5-6.
+

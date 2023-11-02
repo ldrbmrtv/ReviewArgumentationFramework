@@ -1,0 +1,117 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;"It would be better to have a short but clear description about what ""bending elasticity modulus"" is and
+ its relevance to biological functions"
+Reviewer 1;Author;1;2;0;The theory section could be in the Method section with both principle and procedures to get kc values
+Reviewer 1;Author;1;3;0;"However, not all results seem to be presented. For example, it is not clear what kind of images were
+ recorded, which were used to calculate the kc values, what the sizes/shapes of the fluctuating vesicles
+ looked like. How these observations would be different or similar to other types of vesicles."
+Reviewer 1;Author;1;4;0;"It is also not clear about the “thermally induced shape fluctuations”, such as the temperatures and
+ incubation length and etc., especially this is a hyperthermophilic archaeal membrane vesicle, which
+ would be expected to be more thermostable than those eukaryotic ones."
+Reviewer 1;Author;1;5;0;We have rewritten the introductory paragraph (Lines 46–60).
+Reviewer 1;Author;1;6;0;"There are two reference lists, one for 1–31 and another from 1–34. There are repeated ones. It’s not
+ clear why the case was."
+Reviewer 2;Author;1;1;0;"This manuscript described the measurement of bending elasticity of giant vesicles (GVs) prepared by
+ archaea-derived lipids. Stroboscopic illumination measurements of GVs and theoretical models about
+ shape fluctuation of GVs revealed that the archaeal lipid-based GVs showed the almost same value of
+ bending elasticity modulus with synthetic lipid-based GVs. According to the authors, this is the first
+ report for the measurement of bending elasticity modulus for archaeal lipid-based GVs. The
+ measurement itself is novel, but same methods and theories have been reported in the authors’ previous
+ papers. In addition, the number of tables and figures are too low for article. If could, the author should
+ add other experimental data."
+Reviewer 2;Author;1;2;0;"I also have questions and comments for acceptance. The list of comments is as follows.
+ In Page 1, Lines 27–28, the author described “the experimental set-up was improved …”. However,
+ the authors have already reported the measurements of bending elasticity using stroboscopic
+ illumination in author’s previous papers (such as Genova et al., J. Optoelectro. Adv. Mat., 2005).
+ Describe how the experimental set-up was improved in this paper more precisely."
+Reviewer 2;Author;1;3;0;"As a comparison of archaeal lipids, SOPC was used in this study. SOPC contains an unsaturated bond
+ in its alkyl chains and its transition temperature seems to be quite low compared with archaeal lipids.
+ What is the reason why the authors selected the SOPC for the representative of eukaryotic lipids?"
+Reviewer 2;Author;1;4;0;In page 4, between line 108 and 109, this equation should be numbered as (6).
+Reviewer 2;Author;1;5;0;"Describe the temperature condition for measurement of fluctuation of GVs. Are there any effects of
+ temperature on the fluctuation of GVs?"
+Reviewer 2;Author;1;6;0;"In this paper, bending elasticity modulus was measured in pure water. Are there any effects of ionic
+ strength or composition of solution on the fluctuation of GVs?"
+Author;Reviewer 1;2;1;1;"Bending modulus is a material constant which does not depend on the size and shape of the
+ object, but on the composition of the vesicle membrane and aqueous solution used (Lines 121–123 in the
+ new version). We have inserted a definition of the membrane bending modulus (Lines 115–116) while
+ the text regarding this issue extends between Lines 112–128."
+Author;Reviewer 1;2;2;2;"As the referee suggested The Theory and Experimental section were organized into the
+ Section “Materials and Methods”. Other sections were renumbered accordingly."
+Author;Reviewer 1;2;3;3;"As it was explained in the text our experimental method is developed for application to almost
+ spherical vesicles. Vesicles with diameters between 20 and 40 micrometers were considered, whose
+ deviations from spherical shape (fluctuation of the radius) were small in comparison with the mean
+ sphere radius. We added the information concerning the shape and the size of the studied objects and
+ added pictures of the equatorial cross section of a fluctuating vesicle (new Figure 3), as seen under the
+ phase contrast microscope."
+Author;Reviewer 1;2;4;4;"The observed fluctuations of the membrane do not destabilize it. However, the comment of the
+ reviewer is notable and we state in the conclusion of the manuscript (Lines 229–232) that at room
+ temperature the thermophilicity is not necessarily related to the bending elasticity."
+Author;Reviewer 1;2;5;5;"It would also be helpful to clarify/expand the description about the drug delivery system using the
+ archaeal vesicle.
+ The first sentence in the introduction section should be corrected as cell should not be considered to
+ be “the building block of life”. It’s better to re-write the “basic motivation” for the study."
+Author;Reviewer 1;2;6;6;Thank you for the comment, there was a mistake. We have tidied and updated the references
+Author;Reviewer 2;2;1;1;"As the referee suggested, we have added data for the bending elasticity modulus of another
+ lipid type—POPC lipid membrane. Also, we have added a new figure (Figure 3)."
+Author;Reviewer 2;2;2;2;"A number of improvements of the experimental procedure for the thermally induced shape
+ fluctuation method were used in this study: the stroboscopic illumination was improved on several steps
+ to achieve a better experimental conditions; a thermostatic stage was used to set and control a constant
+ temperature, the analysing procedure was improved by adding strict objective criteria for qualification
+ of the vesicle as a whole as well as for acceptance or rejection of a given contour of the sequence of
+ recorded images and the white noise contribution to the amplitudes of thermal shape fluctuations was
+ R3
+ evaluated and taken into account. We have given short description of the improvements made and for
+ each of them cited the corresponding articles for detailed explanation. (Lines 181–184; 187–193)."
+Author;Reviewer 2;2;3;3;"SOPC was chosen as both lipid types have transition temperature far below the temperature
+ at experiments. In the revised version, we measured the bending modulus for another lipid type (POPC),
+ measured and analysed by the same method for the same experimental conditions"
+Author;Reviewer 2;2;4;4;We have corrected the wrong number
+Author;Reviewer 2;2;5;5;"The aim of the present study was to obtain the bending elasticity modulus of the archaeal
+ membrane at fixed temperature (27 degrees C) far above the phase transition temperature. We have not
+ measured the temperature dependence of the bending constant"
+Author;Reviewer 2;2;6;6;"In this work we present the bending elasticity modulus of archaeal lipid membrane in pure
+ water environment. We added the details concerning the water purification (Lines 173–175).
+ In other works the influence of different admixtures in the aqueous solution around the membrane was
+ studied and the values depending on the type and the concentration of it for given lipid were reported.
+ As the referee suggested we added such information with the corresponding references in the
+ introduction section (Lines 57–60)."
+Reviewer 1;Author;3;1;0;"It is also not clear about the “thermally induced shape fluctuations”, such as the temperatures and
+ incubation length and etc., especially this is a hyperthermophilic archaeal membrane vesicle, which
+ would be expected to be more thermostable than those eukaryotic ones.
+ The observed fluctuations of the membrane do not destabilize it. However, the comment of the
+ reviewer is notable and we state in the conclusion of the manuscript (Lines 229–232) that at room
+ temperature the thermophilicity is not necessarily related to the bending elasticity."
+Reviewer 1;Author;3;2;0;"If only measured at one temperature, how would it be possible to draw a conclusion with “thermally
+ induced shape fluctuations”?"
+Reviewer 1;Author;3;3;0;Is it possible to do the measurement at elevated temperatures
+Reviewer 1;Author;3;4;0;Would kc be temperature dependent? If yes, what would be the valid range
+Reviewer 1;Author;3;5;0;"The photo added merely shows the shape, but is it possible to show a few time related changes of the
+ shape at different temperatures"
+Reviewer 1;Author;3;6;0;The numbering from Lines 306–307 may not be correct as there are two 2.2
+Reviewer 2;Author;3;1;0;"The manuscript was thoroughly revised according to reviewer’s suggestions and comments. Now this
+ revised manuscript can be acceptable for publication"
+Author;Reviewer 1;4;1;1;"We thank the reviewer for further comments and hope that we can clarify the issues as given
+ below. We have made changes in the manuscript (marked red) and added one new reference (ref. [35])."
+Author;Reviewer 1;4;2;2;"In principal in order to obtain elastic constants you need to apply force and measure the
+ deformation that this force causes. If we want to obtain the bending elasticity of lipid vesicle we need a
+ force with a very small power. In the case of thermally induced shape fluctuations as a force we use the
+ Brownian (thermal) motion of water molecules, bombarding the membrane. This force is stochastic (we
+ do not know its instant value), but the mean value of it is proportional to the temperature. As a result of
+ this stochastic bombardment the lipid vesicle deforms (changes its shape or fluctuates). We acquire a
+ big amount of pictures of fluctuating vesicle in order to get the mean value of the deformation that our
+ force causes. To extract mean we need to have stationary conditions over the time, so the mean is taken,
+ that is why it is really important to have constant temperature throughout the experiment."
+Author;Reviewer 1;4;3;3;"Using our experimental system we can measure bending elasticity also at higher
+ temperatures (up to approximately 40 degrees C)."
+Author;Reviewer 1;4;4;4;"The bending elasticity modulus depends on the temperature below and near the phase
+ transition temperature, but far above the phase transition temperature (this is the case in our experiment)
+ the bending elasticity modulus is practically constant. See: Temperature and Chain Length Effects on
+ Bending Elasticity of Phosphatidylcholine Bilayers. Fernandez-Puente, I. Bivas, M. D. Mitov and P.
+ Meleard, Europhys. Lett., 28, 181 (1994). We have added this text to the Discussion (Lines 234–237)
+ and also added the reference to the reference list (ref. [35])."
+Author;Reviewer 1;4;5;5;"It is not a problem for us to make pictures of a fluctuating vesicle at different temperatures,
+ but these photos would not be related to the manuscript"
+Author;Reviewer 1;4;6;6;"We thank the referee for pointing to negligent mistakes in numbering. We have corrected
+ wrong numbering of subsections"
+Author;Reviewer 2;4;1;1;As I understand the referee had no further comments

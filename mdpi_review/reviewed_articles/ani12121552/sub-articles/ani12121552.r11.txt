@@ -1,0 +1,5 @@
+Reviewer 1 Report
+The authors studied the  optimal level of dietary zinc for newly 2 weaned pigs. These data have important meaning for the use of ZnO in the future. some questions need to be addressed:
+1.There are some errors in this manuscript (L99, L103 et .).
+2. why did you test the level of DAO and D-lactate?
+3. 16S sequence may be  better method for the Faecal microbial analysis

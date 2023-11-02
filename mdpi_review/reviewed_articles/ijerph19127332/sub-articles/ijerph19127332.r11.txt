@@ -1,0 +1,13 @@
+Reviewer 1 Report
+This study estimated the heavy metal exposure to children through soil and dust Ingestion in electronic waste (e‒waste) dismantling areas. The results provided insights into the varying health risks from different have metals. I suggested the major revision before publication.
+The authors should provide detailed data about the concentration of heavy metals in soil and biotic samples.
+The authors were suggested to introduce the spatial variation of heavy metal in samples, and to analyze the possible factors contributing to the concentration profile of heavy metals in differnt samples.
+The authors should add section(s) for the heavy metal concentrations in biotic samples. As an example, they may analyze the influences of food intake and food intake on heavy metal exposure.
+Lines 116-118: The amounts of samples were confused. Although there were 66 children involved in this study, 66 food samples, 62 feces and 64 urine samples were collected.
+Lines 176-178: Different units between manuscript and SM (figure S1).
+Lines 209-211: Different SIR values between manuscript and figure 1.
+Lines 209 and 214: check the values of Al and Sc, because they were different among discussion, Table 1 and figure 1.
+Lines 218 and 223: check the Figure 3 and figure S1.
+Lines 253 and 377: different values between SIR and figure 3.
+Lines 348-349: correct the order of HQs.
+correct the figure caption in SM.

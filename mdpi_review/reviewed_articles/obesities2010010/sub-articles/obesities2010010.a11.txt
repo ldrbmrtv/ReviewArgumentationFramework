@@ -1,0 +1,4 @@
+Author Response
+Reviewer 1:
+General comments: The manuscript by Grant el al., is an interesting study in which they exhaustively utilized a very large database generated for almost 3 decades to analyze the representation of obesity and public health policy and its association with gender, healthiness, social status, and negative stereotypes by using machine learning and computational language analysis approach. This study highlights a very relevant topic of obesity and weight stigma in the society, particularly when the research have shown that “metabolically obese normal weight” people still exhibit significant risk of developing cardiovascular and other metabolic related disorders, regardless of having normal weight and BMI. This study deals with question that needs important discussion for obesity-related public health policy development.
+No comments to address (‘Yes’ ticked for all assessment criteria). We thank Reviewer 1 for their encouraging feedback.

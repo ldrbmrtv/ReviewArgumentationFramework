@@ -1,0 +1,14 @@
+Reviewer 1 Report
+General comments
+The authors apply Latent Growth Curve Model (LGCM) approach to characterize the growth path of China’s agricultural labor productivity between 2000 and 2010 using a balanced panel data. While the topic is interesting there are some major issues that need to be properly addressed first.
+Data issue: The authors indicate their data source as “…an index of panel data on agricultural output and employment in the first sector of 287 prefectures from 2000 to 2010 is collected from the China city Statistical Yearbook (2001-2011)...” It is not clear what kind of index the authors are referring to. Are the annual agricultural output data are measured in their nominal value (at current price) or in real value (at constant price)? If it’s based on the real value then what kind of deflators are used in the estimation, national level or regional level since agricultural prices may vary across regions? Labor productivity needs to be measured using real value of agricultural output. Otherwise, it may reflect the changes in prices instead of productivity. This issue needs to be properly addressed.
+Literature discussion: Most of the literature cited in the Introduction section and Discussion section are published five years ago. The authors may want to have some brief discussion on more recent literature regarding China’s productivity estimates and policy related issues.
+Measurement issue: The authors rely on the Latent Growth Curve Modeling technique to study the trend growth of China’s agricultural labor productivity. It is not clear, however, why the authors rely on a dataset with only 10-year period to discuss labor productivity trend growth issue instead of using a dataset with longer time period if data is available. In addition, the authors may want to justify their approach by briefly discussing the advantage or shortcomings of their method comparing to other approaches in identifying the growth trend of China’s agricultural labor productivity.
+Specific Comments
+Please double check the citations and the references list as some citations are not included in the references.
+Table 1: The title of column 2 is not clear. The numbers in that column seem to be cumulative proportions of total changes over time. Please be more specific.
+Table 3: Each column title needs to be more specific.
+Figure 3: It is not clear what the axis labels represent in figure 3. It needs to be noted.
+Figure 4: Please be more specific regarding the range of slow, middle, and fast.
+Appendix Figure A1: What is the definition of “absolute value” in this figure?
+Appendix Figure A2: The figure presents the chain-linked index of output and input. It is not clear whether the output is measured in real value (at constant price) or nominal value (at current price). Please be more specific.

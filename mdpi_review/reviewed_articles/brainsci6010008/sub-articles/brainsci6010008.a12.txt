@@ -1,0 +1,23 @@
+Author Response
+We would like to thank the reviewer for their positive and critical review of our work. We have addressed each concern below and made changes in the manuscript accordingly. We feel that the manuscript has been significantly improved as a result of the suggested revisions. Our responses to the reviewer’s specific concerns follow each point and are indented and in red font.
+
+Changes in pain sensitivity after exercise vs. quiet rest were significantly correlated with changes in activity in the DLPFC (exercise vs. rest). However, in the latter case the authors need to address the issue of multiple correlations.
+
+These analyses were intended primarily for descriptive purposes. However, we recognize the need to control for multiple comparisons in order to reduce the risk of making Type I errors. Therefore, we created 3 families including 2 correlations each  (one for each of the significant regions) and performed a Bonferroni correction, making the critical alpha level for significance 0.025.
+
+This has been clarified in the statistical analysis section.
+
+Nine individuals in each group were indicated in the neuroimaging analysis, this should be indicated in the abstract.
+
+This change has been made.
+
+In table 3, the subheading “Peak X, Y, X” needs correction.
+
+This correction has been made.
+
+Considering discussion the results in relation to previous studies on exercise and neuroimaging.
+
+We agree that this would add valuable information to the discussion section and have added the paragraph shown below discussing previous work using neuroimaging to understand the effects of exercise on the brain.
+
+A growing number of studies have begun to employ neuroimaging methods to better understand the impact of exercise on the brain both longitudinally and acutely. For example, Smith and colleagues [37] conducted fMRI scans pre and post an exercise training program in older adults with mild cognitive impairment and found that exercise improved neural efficiency during cognitive tasks post-intervention. Structural MRI has also been used to show the neuroprotective effects of regular exercise in older adults with respect to preservation of brain volume[38]. In contrast to using neuroimaging to track changes in the brain over time, neuroimaging during and immediately following exercise presents some unique challenges due to artifacts associated with movement and the physiological underpinnings of many neuroimaging methods (e.g. BOLD response). EEG has been used most extensively to explore the effects of exercise on cortical activity [39]. PET and fMRI have also been used, though to a much lesser extent. For example, Boecker and colleagues used PET to demonstrate the effects of a long-distance run on opioid release in the brain and Janse Van Rensberg and colleagues used fMRI to examine brain responses to nicotine craving following 10 minutes of moderate intensity cycling. Our study adds to this important body of literature by using fMRI to show that an acute bout of moderate intensity exercise improved brain mechanisms underlying pain modulation in patients with chronic pain and further highlights the potential benefits of utilizing neuroimaging technology to better understand the more immediate effects of exercise on the human brain.
+

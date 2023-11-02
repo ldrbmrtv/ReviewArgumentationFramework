@@ -1,0 +1,70 @@
+Reviewer 2 Report
+This manuscript reports new TDCS calculations for relativistic positron and electron impact on atomic hydrogen.  Although no experimental data are available for comparison, the method is well explained and reported to agree with other electron impact calculations.  In my opinion, the primary contribution of this work is the prediction that even at relativistic velocities, the TDCS for positron impact is larger than for electron impact and that the difference increases with impact energy.  In spite of the lack of any experimental, or, as is claimed, any theoretical, verification of this or any physical interpretation as to why this should occur even at very high velocities, I believe that work deserves publication since it should incite additional theoretical attempts to verify these predictions.  Also, hopefully sometime in the future, TDCS studies for positron impact will advance to the stage where the present predictions can be tested.  I find no major problems with the manuscript, either in content or presentation.  As for minor problems, there are numerous English grammatical errors which I have attempted to list in order to facilitate publication.  In addition, I do believe that several figures could be combined in order to minimize journal space.  These are listed below.
+My overall recommendation is that after the listed items are addressed the manuscript be accepted for publication without further review.
+·         Title:  atoms, not atom
+·         Line 3: states is misspelled.   Insert “The” before “relativistic”.  Is, not are
+·         Line 5: insert “the” before “first” and before “TDCS”
+·         Line 14-15: change “a such process” to “these processes”
+·         Line 19: systems  (plural)
+·         Line 25: don’t capitalize relativistic
+·         Line 27: Plane is misspelled
+·         Line 29: insert “the” before “non”
+·         Line 31: insert “for the” before “electron-impact”
+·         Line 33: delete comma before “are described”
+·         Line 34: insert “the” before “ground state”
+·         Line 35: either “atoms”  (plural) or insert “the” before “hydrogen”
+·         Line 43: insert “the” before “ground state”
+·         Line 44: insert “the” before “hydrogen”
+·         Line 47: “include” would be a better choice for “take”
+·         Line 48: insert “the” before RPWBA   and delete the comma
+·         Line 51: insert “the” before “wave” and before “electron” and before “positron”
+·         Line 52: insert “the” before “Dirac”
+·         Line 53: “explain” not explaining
+·         Lines 58-59: insert “a” before “positron” and “an” before “electron”
+·         Lines 63 and 64: insert “The” at start of sentence and before “relativistic”
+·         Lines 67-68:  it should be stated that the bold symbols are vectors
+·         Line 69: insert either “the” or “a” before “standard”
+·         Line 70: in the equation, check cpi and cpB in as they view strange in my pdf copy
+·         Line 71: insert “the” before “Non”
+·         Line 73: in equation 7, q needs to be defined
+·         Line 81: insert “the” before “first”
+·         Line 85: either “a consistency check” or “consistency checks”
+·         Line 86: please check with journal whether a comma or period should be used in 1,0053
+·         Line 86: change “have presented” to “present”
+·         Lines 88-89: insert “the” before “Geometry” , “scattering”, “incident” and “ejected”
+·         Lines 91-92: I suggest deleting the first sentence of this paragraph since, with varying degrees of accuracy, all 3 wave functions can be used, as is shown.
+·         Line 92: delete “a”
+·         Line 93: insert “the” before “non-“
+·         Line 97: insert “the” before “non” and “ejected”
+·         Line 98: insert “the” before “residual”
+·         Line 102: insert “a” before “plane”
+·         Line 103: function (singular)
+·         Lines 99 and 104 and Table I: again, check with journal whether a comma or period should be used in the numbers
+·         Captions for figures 1 and 2: insert “are” before “geometric”   also check whether commas or periods should be used in the numbers
+·         Line 106 and figures 3 and 4: giving the energies in keV and rounding to the keV value is preferable.  Also, the shift in angle would be more apparent to the reader if identical angular scales were used.  Plus, I recommend combining the two figures and using some sort of velocity scaling on the vertical axis to illustrate the falloff in magnitude.
+·         Line 108: don’t capitalize “triple”
+·         Line 112 and caption for Table I:  insert “the” before “TDCS: and “peaks” and change “peak’s” to “peak” without italics
+·         Line 115: delete “for positron impact” at end of sentence.
+·         Table I:  check journal standards for using comma or period plus period to signify times power of 10
+·         Line 123: again, check journal standards on numbers   and “electrons” plural
+·         Line 124: “Our positron TDCS reveals”
+·         Line 125: insert “the” before “electron”
+·         Line 127: suggestion, replace “different in magnitude….electron’s one” by “larger”
+·         Caption, fig 5 and 6:  check number notation.  Also, round the numbers in Fig 6 to whole keV units.
+·         Paragraph, lines 121-128: both fig. 5 an 6 are mentioned but only 5 is discussed.  I suggest combining the figures to parts a and b and modifying the text as needed.
+·         Line 129: insert “the” before “TDCS”
+·         Table 2: number notation
+·         Line 134: replace “by” with “with”
+·         Lines 135-137: delete this sentence as it says exactly the same as the previous sentence and Table 2.
+·         Line 138: insert “the” before “TDCS”   also inserting “even at relativistic energies” would strengthen this intent of this work
+·         Line 139: reference 30 should be replaced with a theoretical reference or the text changed to not imply that ref 30 is a theoretical work
+·         Line 140: delete “one” and insert “the” before “non” plus change “that this would enhance” to “this enhances”  Also lines 141-143 are probably meant to be a single sentence.  Please correct.
+·         Line 143: change “The” to “This”
+·         Line 144: change “should be” to “is”
+·         Line 148: insert “the” before “attractive”
+·         Line 149:  capitalize “on”
+·         Paragraph 138-153: Arguments for why the positron cross section is larger at low energies are given but no discussion as to if they would, or would not, apply at high energies is given.  It could be argued that in very fast collisions the electron cloud has no time to respond so some other explanation is needed.  Please add additional comments.
+·         Line 155: change “impact of positron has” to “positron impact have”
+·         Line 157: insert “the” before “first”
+·         Line 160: delete “of the electron” and insert “and electron” before “impact”
+·         Line 162: replace “these of the” with “for”

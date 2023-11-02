@@ -1,0 +1,11 @@
+Author Response
+Reviewer 1The manuscript described ''The vibrational NH stretching transitions in secondary amines with intramolecular NH···O hydrogen bonds were investigated by experimental and theoretical methods, considering a large number of compounds and covering a wide range of stretching wavenumbers''  but the paper needs very significant improvement before acceptance for publication. There are some questions about the manuscript as follows:
+1. There are some errors in spelling, syntax, punctuation, usage of capital letters, consistency in language style in the manuscript that must be improved.      RESPONSE:  We have attempted to improve the language and hope we have found all significant errors.
+2. Full characterization of all synthesized compounds is required in the experimental section.      RESPONSE: The characterization of the compounds is provided together with the NMR spectra as Suppl. Mat. S21.
+3. All the 1HNMR and 13CNMR must be attached as supplementary information.      RESPONSE: Spectra have been included in Suppl. Mat. S21.
+4. Scheme 1 must be redrawn using ACS document 1996 and all structures cleaned up.      RESPONSE: A new Scheme 1 has been produced with the recommended format. The molecular structures in Figures 1 and 3 have been modified accordingly.
+5. The cell values do not align please correct them.      RESPONSE: The misalignment is a result of the editorial procedure. We have tried to improve the alignment.
+6. Use 4 significant figures for the RNH values in table 2.      RESPONSE: Done.
+7. It would be added value if these NH···O hydrogen bonds were also investigated in the solid state using XRD analysis.      RESPONSE: We appreciate the suggestion. However, we do not think we have time to perform a proper analysis of XRD data, considering solid state effects, crystal packing, etc.
+8. Check the font of the reference numbers in the text and correct      RESPONSE: In the submitted MSWord document the font was Times New Roman for text and reference numbers. Something has happened during the editorial procedure when changing to Palatino Linotype. Not all reference numbers were changed correctly. We have tried to find and correct the errors.
+

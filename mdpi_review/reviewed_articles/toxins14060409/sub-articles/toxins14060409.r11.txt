@@ -1,0 +1,10 @@
+Reviewer 1 Report
+Mycotoxin deoxynivalenol (DON) contamination of wheat and other grains has been a concern of food safety. Minimizing DON contamination in grains is a major goal of Fusarium Head Blight (FHB) research community. While DON concentrations in grains are usually correlated with disease severity, high DON levels have been observed in asymptomatic kernels. Studies show that infection timing has effect on disease severity and DON distribution in wheat spikes, and a late infection is an important factor for high DON levels found in healthy-looking kernels. Authors in this manuscript report that DON accumulation in wheat grain is affected by inoculation methods (infection points). Among the three methods used, the upper bilateral floret injection (UBFI) maximizes DON accumulation in grain and significantly distinguishes DON content in different wheat genotypes, indicating that the method could be useful for breeding program to develop wheat cultivars with resistance to DON accumulation. I would like to recommend its acceptance for publication. The following are some comments and suggestions.
+
+1.     I would like to suggest authors label inoculation points in Figure 1, which could give readers a clear view of three different inoculation methods.
+2.     Line 142: “proportion of PPSD” should be “proportion of PSD or PPSD”.
+3.     Line 143: “PPSD-premature spike death” should be “PPSD-proportion of premature spike death”.
+4.     Lines 168 - 169: Should it be that DON content of most lines without Fhb1 exceeded 1000 µg/kg under UBFI? Where is 4224.38 µg/kg in Table 1? Do you mean in Table S1?
+5.     Lines 411 & 413: “PPSB” should be “PPSD”.
+6.     Table S1: “PPSD - premature spike death” in the footnote should be “PPSD - proportion of premature spike death”.
+7.     Fhb1- and Fhb1+ don’t appear in Table S1, so they can be removed from the footnote.

@@ -1,0 +1,33 @@
+Author Response
+Please see the attachment, including: manuscript, and supporting information.
+Point 1、This study estimated the heavy metal exposure to children through soil and dust Ingestion in electronic waste (e-waste) dismantling areas. The results provided insights into the varying health risks of different have metals. I suggested the major revision before publication.
+The authors should provide detailed data about the concentration of heavy metals in soil and biotic samples. The authors were suggested to introduce the spatial variation of heavy metal in samples, and to analyze the possible factors contributing to the concentration profile of heavy metals in differnt samples. The authors should add section(s) for the heavy metal concentrations in biotic samples. As an example, they may analyze the influences of food intake and food intake on heavy metal exposure.
+Answer: Thank you for your advice. At first, the soil heavy metal data has been added in the supporting information (Table S4 and S5). Besides, our study focuses on estimating the children’s SIRs of from e‒waste disassembly areas by collecting and analyzing selected tracer elements in matched samples of their consumed food, feces, and urine, as well as soil samples from their play areas. We have examined the tracer elements in the food. And when we calculated the SIR, we also used the parameter “Cfood” (equation 1) to analyze the food intake.
+In addition, children’s feces and urine belong to biological samples, which is sufficient to calculate the SIR. Application of more biotic samples that you suggested is useful for our study, however, it is hard to get other samples from children, such as blood and tissue.
+At last, we also added the heavy metals information in resident or park green areas: “In resident and park green areas, the highest concentration of heavy metals is Zn and the lowest is Cd. The concentrations of heavy metals in park green areas were slightly higher than that in residential area, which may attribute to the difference of soil environmental quality management and control policy between these areas. Integrated data from the resident and park green areas, the median concentrations (mg/kg) of Cr, Ni, Cu, Zn, As, Cd, and Pb were 48.8, 63.9, 128, 413, 6.30, 0.513, and 115, respectively.”
+
+Point 2. Lines 116-118: The amounts of samples were confused. Although there were 66 children involved in this study, 66 food samples, 62 feces and 64 urine samples were collected.
+Answer: Thanks for your reminder. In our study, 66 children were taken part in our analysis. But we failed to get all children’s feces and urine sample every day. Thus, we collected sample number was less the involved 66 children.
+
+Point 3. Lines 176-178: Different units between manuscript and SM (figure S1).
+Answer: Thank you for your reminder. We have uniformed the units to “(mL/d)”
+
+Point 4. Lines 209-211: Different SIR values between manuscript and figure 1.
+Answer: Thank you for your correction. In the manuscript, the data is with outlier. However, we used the data without outlier to construct the figure. At present, the related content in manuscript has been revised to: “The SIR values based on the measured tracer element concentrations of food, feces, urine, soil and dust are presented in Table 1 and Figure 1. The median (minimum and maximum) of SIR values were ‒124.3 (‒278.0 to 228.2), ‒210.2 (‒490.1 to 273.8), 27.1 (0.4 to 106.0), ‒22532.8 (‒29443.8 to ‒6215.9), 23.9 (‒45.3 to 268.0), 175.3 (‒56.4 to 1040.7), 39.2 (‒36.4 to 284.0), and ‒263.2 (‒491.4 to 132.3) mg/d for Al, Ba, Ce, Mn, Sc, Ti, Y, and V.”
+
+Point 5. Lines 209 and 214: check the values of Al and Sc, because they were different among discussion, Table 1 and figure 1.
+Answer: Thank you for your correction. In the manuscript, the data is with outlier. However, we used the data without outlier to construct the figure. At present, the related content in manuscript has been replaced to: “The SIR values based on the measured tracer element concentrations of food, feces, urine, soil and dust are presented in Table 1 and Figure 1. The median (minimum and maximum) of SIR values were ‒124.3 (‒278.0 to 228.2), ‒210.2 (‒490.1 to 273.8), 27.1 (0.4 to 106.0), ‒22532.8 (‒29443.8 to ‒6215.9), 23.9 (‒45.3 to 268.0), 175.3 (‒56.4 to 1040.7), 39.2 (‒36.4 to 284.0), and ‒263.2 (‒491.4 to 132.3) mg/d for Al, Ba, Ce, Mn, Sc, Ti, Y, and V.”
+
+Point 6. Lines 218 and 223: check the Figure 3 and figure S1.
+Answer: Thank you for your correction. We have reorganized the SM figures and the manuscript content. The modifications are as follows: “The frequency distribution histograms show few outliers, most being high values (Figure S3 (a) and Figure S4). Experimental factors such as measurement error, source error, and transit time misalignment, may lead to some of these outliers. Other outliers may be due to the behavior of certain children, such as pica behavior or spending unusually large amounts of time playing in grassland. The medians of the SIR values after removing the high values (see Figure S3(b) and Figure 1) were taken as the final SIR values for children living in the studied e‒waste dismantling site in South China.”
+
+Point 7. Lines 253 and 377: different values between SIR and figure 3.
+Answer: Thank you for your correction. It has been changed to “The LRL is ‒112.4‒100.9 mg/d which is considered as the lower limit of the 90% confidence interval (CI) of the 2.5th percentile (P2.5), whereas the URL is 516.9‒730.2 mg/d, which is considered as the upper limit of the 90% CI of the 97.5th percentile (P97.5). However, since negative SIR values are physically meaningless, the RI of the SIR for children living in e‒waste dismantling sites is 0‒730.4 mg/d. In this study, 95th per-centile values (383.3 mg/g) would be as recommended value.”
+
+Point 8. Lines 348-349: correct the order of HQs.
+Answer: Thank you for your correction. It has been changed to “The 95th HQ values based on SIR mean value decreased in the order of Pb > As > Cr > Cu > Ni > Zn > Cd and all of them were below 1.”
+
+Point 9. correct the figure caption in SM.
+Answer: Thanks for your suggestion. We have revised all the figure captions in SM.
+
+Author Response File:  Author Response.docx

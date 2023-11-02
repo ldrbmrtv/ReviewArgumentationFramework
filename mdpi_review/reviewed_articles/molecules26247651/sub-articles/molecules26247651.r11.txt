@@ -1,0 +1,8 @@
+Reviewer 1 Report
+The manuscript described ''The vibrational NH stretching transitions in secondary amines with intramolecular NH···O hydrogen bonds were investigated by experimental and theoretical methods, considering a large number of compounds and covering a wide range of stretching wavenumbers''  but the paper needs very significant improvement before acceptance for publication. There are some questions about the manuscript as follows:1. There are some errors in spelling, syntax, punctuation, usage of capital letters, consistency in language style in the manuscript that must be improved.2. Full characterization of all synthesized compounds is required in the experimental section.
+3. All the 1HNMR and 13CNMR must be attached as supplementary information.
+4. Scheme 1 must be redrawn using ACS document 1996 and all structures cleaned up.
+5. The cell values do not align please correct them.
+6. Use 4 significant figures for the RNH values in table 2
+7. It would be added value if these NH···O hydrogen bonds were also investigated in the solid state using XRD analysis.
+8. Check the font of the reference numbers in the text and correct

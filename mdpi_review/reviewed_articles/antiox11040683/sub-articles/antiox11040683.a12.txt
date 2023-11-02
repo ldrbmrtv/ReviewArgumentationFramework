@@ -1,0 +1,5 @@
+Author Response
+Thank you again for taking time to review our manuscript and provide valuable constructive feedback, which has improved the quality of our work submitted.
+In response to your questions:
+Fig S4B. This is fully compensated. The black population illustrates the isotype control for the FITC and PE conjugated antibodies. These isotype controls were used to set the negative thresholds, as indicated by the quadrants on the plot. The red population shows positive binding of anti-CD36 and anti-CD11b to the U937 cells (gated on the previous plot S4A, FSC/SSC). The curve in the plot is not due to a compensation issue, it is demonstrating the up-regulation of CD36, which is followed by up-regulation of CD11b.
+Fig 4d. This is going in the correct direction. The DCFDA histogram data presented to the right is based on the viable homogeneous U937 cell gated population, which was determined by forward scatter (FSC) and side scatter profile (SSC) in the left hand plot. Debris in the bottom left of this FSC/SSC plot includes dead cells, which are eliminated and not considered for DCFDA analysis.

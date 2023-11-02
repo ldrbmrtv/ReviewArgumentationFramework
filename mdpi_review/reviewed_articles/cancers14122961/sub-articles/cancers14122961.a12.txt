@@ -1,0 +1,30 @@
+Author Response
+Response to reviewer 2
+
+We thank the rewiewer for their time and effort and for their very pertinent critiques.
+
+In the revised version that we are submitting, we have added remarks in the text, highlighted in yellow, in response to the reviewer:
+
+We actually did contact patients by mail in an  attempt to evaluate the long-term functional outcomes, but only 15 patients (adults) responded to the questionnaires. We have added this information, and information about tracheostomy, in the Results section (line 79 was deleted and lines 124-137 have been added) :
+
+From a functional standpoint, four adult patients and two pediatric patients required tracheostomy for concurrent laryngo-tracheal resections, but with only 1 adult patient maintaining a permanent tracheostomy. The two pediatric patients were decannulated after endoscopic laser-assisted medial arytenoidectomy. Intraoperative nerve reconstruction with ansa hypoglossi was performed in only 2 patients due to the distal resection of the nerve (close to the larynx) in most cases, but also due to the fact that in the early patients in our study, this practice was not routine. Sedondary vocal fold medialization was performed in 5 adults—3 autologous fat injections and 2 Isshiki type I thyroplasties [6]—and one child (autologous fat injection). Fifteen adult patients responded to a mailed questionnaire sent an average of 2 years post-operatively for subjective evaluation. The average voice handicap index (VHI 10) [7] for these fifteen patients was 19.7, with a median of 17 (range 4-34).  The average score on the European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-Head and Neck 35 (EORTC-QLQ-H&N35) [8] questionnaire was 60, with a median of 52 (range 35-108).
+
+
+In the discussion  we have added information pertaining to the VHI and EORTC scores and to our current practice in terms of nerve reconstruction (lines 231-238):
+The VHI and EORTC data were only available for 15 patients who responded to the questionnaires. A VHI 10 score above 11 is considered abnormal. [42] The VHI 10 scores observed (19.7 on average, with a median of 17) are similar to those reported for transoral laser-assisted vocal fold resection for laryngeal cancer. [43] The EORTC scores were comparable to average scores observed in patients treated for head and neck squamous cell carcinoma. [8] Today, we attempt ansa hypoglossi nerve anastomosis in all cases in which a small nerve stump can be preserved at the laryngeal entry point. We do not perform intralaryngeal anastomosis when the tumor involved the distal end of the recurrent nerve, but this technique seems to improve functional results when feasible.[36]
+
+We have added references 6, 7, 8, 42 and 43.
+
+Lines 52 + 53
+This has been corrected.
+
+Line 140: spelling mistake “…and UTLINE the multiple…
+
+This has been corrected to read “outline” (line 154 in the revised manuscript)
+
+Line 176, seplling mistake “…The 2018 INERNATIONAL..Neuromonitoring…”
+
+This has been corrected (line 190 in the revised manuscript)
+
+
+Author Response File:  Author Response.docx

@@ -1,0 +1,35 @@
+Author Response
+Response to reviewer 1
+
+We thank the rewiewer for their time and effort and for their very pertinent critiques that will help us greatly improve the manuscript.
+
+In the revised version that we are submitting, we have added remarks in the text, highlighted in blue, in response to the reviewer:
+REVIEWER 1
+1Cancers-1764315Dahan A, et al. Pathological Analysis of Encased Resected Recurrent Nerves in Locally Invasive Thyroid Cancer.The authors pathologically examined the presence/absence of microscopic invasion of the recurrent laryngeal nervesresected due to encasement in thyroid cancer.They compared the rate of invasion between various kind of thyroid cancers including common type follicular-cell derived tumors, aggressive subtypes (tall cell, columnar cell, and diffuse sclerosing), pediatriccases and medullary thyroid carcinoma. While, this retrospectivestudy did not show how many patients could avoid nerve resection by shaving or partial layer resection.In this biased population, the conclusion that aggressive variants and medullary thyroid carcinoma invaded the nerve more often than classic papillary thyroid carcinoma does not seem to be fair. To conclude nerve preserving techniques in the presence of an encased nerve may carry a high risk of leaving significant residual disease, local recurrence rate around the nerve should be shown in cases where the nerve waspreserved by R1/R2 resection.
+
+The reviewer points out a very important problem in our retrospective study: very few patients had R2 resection (leaving macroscopic residual disease), so that we really did not have any groups that would have enabled us to compare outcomes.  We have deleted this reference to « clinically significant disease » in the abstract (line 28) and in the conclusion (line 260).
+The resected nerves were pathologically invaded in 85% of whole cohort. Thisfact indicates that the decision to resect or preserve the nerve is quite appropriate. The authors only descried the way of decision-making as “multifactorial”. Please specify more concrete methods to choose nerve resection than the generalities in Table 2.
+
+Unfortunately, our study is retrospective and heterogenous, so there is not a simple answer to this question. Each case was discussed preoperatively in our local tumor board and nerve resection (if necessary) was validated. When complete resection (R0/R1) was deemed to be possible by the tumor board (with surgeons attending), nerve resection was validated if necessary to achieve this goal. When the tumor was known to be iodine-refractory (for differentiated thyroid cancer) our tumor board  generally also validated nerve resection. Most of these patients were treated before the widespread use of BRAF or RET inhibitors or before neo-adjuvant treatment protocols were employed. Some of these cases today may have been amenable to neo-adjuvant treatment kinase inhibitors, and their nerves could possibly be spared.
+We have added these remarks in the discussion (lines 252-262)
+
+How do the authors utilize intraoperative nerve monitoring?
+Intraoperative nerve monitoring was used in an attempt to preserve nerves in the absence of preoperative paralysis (nerve shaving, when possible). We also find it helpful when dissecting the contralateral lobe, to predict possible bilateral vocal fold paralysis and be ready to manage it postoperatively.
+Surprisingly enough, patients with preoperative recurrent nerve palsy had lower rate of microscopic invasion than who without palsy. Please describe the situations further.
+This has been shown in other studies: the nerve can resist invasion due to the fact that the nerve fibers are spread apart by the tumor but not interrupted, and this is particularaly true for relatively slow-growing tumors like thyroid cancer. On the other hand, compression and stretching, and maybe even local vascular compromize by tumor compression by a bulky tumor and/or lymph nodes may induce paralysis without invasion within the nerve sheath (lines 204-209).
+
+In recurrent cases, postoperative adhesion may make it difficult to assess the presence of true invasion intraoperatively. These cases should be described in detail including the status at initial surgery and evaluated separately.
+
+Unfortunately, most of these reoperative patients had been initially treated at oustide institutions and details regarding the initial surgery were missing (initial operating reports were often missing as well). Generally speaking, however, when we have trouble distinguishing between fibrosis and tumor intraoperatively we do rely on frozen section analysis to guide us. In addition, all of these cases had preoperative workup with contrast-enhanced cross-sectional imaging and many with 18 FDG-PET-CT which showed tumor in the area of the nerve (contrast uptake or FDG uptake).
+Minor points1. Study period was between 2005 and 2020 in Abstract, but from 2005 to 2021 in line48.Please correct.
+This has been corrected2. In this study, is microscopic invasion different from perineural invasion? The definitionof microscopic invasion (line 234-235) should be described in Methodssection.
+2
+We have made the correction (line 52)3. Did the two pathologists agree with microscopic invasion in all cases?
+Yes, the slides were unequivocal. 4. Statistical methods and software should beshown in Methodssection.
+We have made the correction (lines 54-56).5. Were all follicular-cell derived tumor papillary thyroid carcinoma?
+We have added more detail as to the pathology of the tumors (lines 62-64). 6. Continuous variables should be shown mean (average)±standard deviation or medianwith range as appropriate (a normal distributionor not).
+We have added medians and range (lines 137-140).
+Regarding the analysis of risk factors for microscopic invasion, additional table would behelpful.
+There was only one variable that was statistically significant (pathology). We have added the specific variables analyzed for clarity (lines 53-54 and 103-104).
+
+Author Response File:  Author Response.docx

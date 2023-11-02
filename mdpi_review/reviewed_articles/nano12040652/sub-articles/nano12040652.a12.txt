@@ -1,0 +1,35 @@
+Author Response
+Reply to Reviewer 2
+The article: «Influence of nanoparticles and metal vapors on the color of laboratory and atmospheric discharges»
+Authors: Victor Tarasenko, Nikita Vinogradov, Dmitry Beloplotov, Alexander Burachenko, Mikhail Lomaev, and Dmitry Sorokin
+Submission Date: 14 December 2021
+Date of this review: 19 Jan 2022 07:18:39
+
+Comments and Suggestions for Authors
+The introduction section could be improved. Some sentences are not well written or convey obvious ideas. Moreover, the aim of this work is to present an overview about the discharge behavior. The introduction would benefit from adding more content and detailed review overview to this research, such as particle lifting in electrostatic discharge, Turbulence effect, Mist-containing environment, Electrode materials.
+
+Reply:
+The introduction of the manuscript and its text have been revised. In addition, new references have been added to the article. All changes in the text are highlighted in either yellow or red font. First of all, data describing the characteristics of the pulsed nanosecond discharge used were added and the influence of the electrode material was described in more detail. On the other hand, we should note that with a voltage pulse duration from ones to tens of nanoseconds, the experimental conditions differ significantly from the conditions of an electrostatic discharge and the creation of a foggy environment.
+
+Please describe better your experimental system, such as ignition energy.
+
+Reply:
+The experimental system was described in more detail, and various modes of discharge ignition were analyzed.
+
+The choice of the electrode material should be clearly explained in the present paper.
+
+Reply:
+In our preliminary studies, as well as in the papers of other authors, it was found that during pulsed discharges of short duration, the electrode material determines the composition of the vapors that evaporate from the electrodes and diffuse into the gap, including due to shock waves and turbulence. Since under these conditions diffuse discharges, at which the voltage across the gap remains high are formed, metal vapors are excited and ionized together with gas molecules in the discharge gap. This leads to the emission of radiation at various spectral transitions of metal atoms. Only a part of these transitions has a high radiation intensity in the region of interest to researchers. Also, to obtain a high intensity of radiation, transitions of atoms in metal vapors can be used, which are populated as a result of the efficient transfer of energy from excited gas molecules and atoms. Metals, the color of the emission of vapors of which, when excited in the plasma of nanosecond discharges, corresponds to the color of high-altitude atmospheric discharges, were chosen as the material of the electrodes.
+
+Please, explain the mechanism of different color arcs produced by electrodes of different materials.
+
+Reply:
+The color of the glow of the discharge plasma at electrodes made of various metals is associated with excitation certain energy levels of particles in the vapors of these metals. So, when using electrodes made of aluminum, steel and copper, we observed the glow of red, blue and green colors, respectively. The different colors of the discharge when changing the material of the electrodes are determined not by the spark or arc stages, but by bright spots on the electrodes, which are formed due to the explosive emission of electrons [Mesyats, G.A. Ecton mechanism of the vacuum arc cathode spot. IEEE transactions on plasma science, 1995, 23(6), pp. 879-883. (DOI: 10.1109/27.476469)]. These areas in the photographs have a bright white color (see, for example, the photographs in Figures 3, 6, 7). In spark or arc discharge, as well as in bright spots the electrodes are locally heated to a high temperature, which leads to the evaporation of the electrode material. High-temperature zones on the electrodes also supply micro- and nanoparticles into a discharge gap. However, emission of individual particles is determined by their temperature, it corresponds to the Planck radiation and is broadband. We note once again that in this work, to obtain metal vapors, as well as metal nano- and microparticles, a pulsed nanosecond discharge in a non-uniform electric field was used.
+
+
+
+From authors:
+Victor F. Tarasenko and Dmitry A. Sorokin
+Institute of High Current Electronics
+E-mail: [email protected]
+Author Response File:  Author Response.docx

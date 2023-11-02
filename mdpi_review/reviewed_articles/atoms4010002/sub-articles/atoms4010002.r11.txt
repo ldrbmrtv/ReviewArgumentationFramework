@@ -1,0 +1,21 @@
+Reviewer 1 Report
+This is a nice contribution to the special issue of cold atoms in optical cavities. The auhtors investigate the motion of atoms in a periodic potential inside he cavity taking into account the effect of continuous measurement of photons leaking out of the cavity.
+I support publication, but I have a few comments that the authors hopefully can address before publication.
+The link to the sensing of weak forces (in this case gravity) is interesting, but I am not convinced whether this is a practical approach. The estimated accuracy is $10^6$ that does not sound great. Have the effects of radiation pressure forces, etc., taken into account? What is the role of excitations to higher Bloch bands?
+In my opinion, the main interest of the work is in the cold atoms and cavity dynamics, continuous observation, and in the specific optomechanical dynamics. The role of sensing may in the end be less important and could be downplayed a bit in the manuscript.
+There are several other theoretical studies of the continuous quantum measurement of many-atom/cavity systems and condensate systems more generally that could be cited.
+A condenste-cavity optomechanical  study with continuous observation
+http://dx.doi.org/10.1103/PhysRevA.90.023628
+Other examples of many-atom-cavity continuous observation papers:
+W. Niedenzu, S. Schütz, H. Habibian, G. Morigi, and H. Ritsch, Phys. Rev. A 88, 033830 (2013).
+I. B. Mekhov and H. Ritsch, Phys. Rev. Lett. 102, 020403 (2009).
+J. F. Corney and G. J. Milburn, Phys. Rev. A 58, 2399 (1998).
+I. D. Leroux, M. H. Schleier-Smith, and V. Vuletić, Phys. Rev. Lett. 104, 073602 (2010).
+
+There are other papers that link BECs, sensing and continuous quantum measurement process (in the absence of a cavity)
+M. Saba, T. A. Pasquini, C. Sanner, Y. Shin, W. Ketterle, and D. E. Pritchard, Science 307, 1945 (2005).
+M. D. Lee, S. Rist, and J. Ruostekoski, New J. Phys. 14, 073057 (2012).
+The effect of continuous measument process of scattered light on condensate dynamics:
+J. Ruostekoski and D. F. Walls, Phys. Rev. A 58, R50 (1998).
+D. A. R. Dalvit, J. Dziarmaga, and R. Onofrio, Phys. Rev. A 65, 053604 (2002).
+J. Javanainen and J. Ruostekoski, New J. Phys. 15, 013005 (2013).

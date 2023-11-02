@@ -1,0 +1,3 @@
+Reviewer 1 Report
+The manuscript is well written, well organized, and clear. The results show a higher performance of the proposed computation of inverse transforms.
+Additions also affect complexity. Please add information on the number of additions for different transform types and sizes in original and proposed variants.

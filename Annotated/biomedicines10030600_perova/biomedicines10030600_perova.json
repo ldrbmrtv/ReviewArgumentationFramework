@@ -1,0 +1,42 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "It is known that HSA can bind RNA and DNA and has RNA hydrolyzing activity. In this way your experiment in par 2.2. may lead to not all RNA after incubation with such amount of albumin. That is why some of your effects may have other explanations. Have you done some control experiments? Maybe your effect is much higher or lower.",
+      "Reviewer_1.1.2": "https://www.sciencedirect.com/science/article/abs/pii/S0960894X08011086?via%3Dihub"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "It would be of great interest if for the key results the authors would also provide MBC and / or time-resolved kill-curves. I believe this kind of data would be of great relevance for assessing the clinical relevance of the observed effects."
+    },
+    "Author": {
+      "Author.2.1": "We agree that confirming that the effect of cefiderocol is bactericidal under the conditions tested is important. We have indeed carried out some experiments in the presence of human fluids. They actually show that adding these components to the growth medium does not modify the bactericidal nature of the action of the antibiotic.\n A follow-up project that will be submitted for publication in the near future extends the studies of the effects produced by human fluids, and their components will include the experiments demonstrating a bactericidal effect of cefiderocol. We would prefer to include those results in the upcoming publication.",
+      "Author.2.2": "Finally, the article provided by the reviewer describes HSA hydrolysis of extracellular, not intracellular, RNA.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ]
+  ]
+}

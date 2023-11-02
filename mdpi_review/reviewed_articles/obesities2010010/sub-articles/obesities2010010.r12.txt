@@ -1,0 +1,4 @@
+Reviewer 2 Report
+The authors present a manuscript which evaluates weight-biased language across 30 years of Australian news reporting on obesity: Associations with public health policy. This is interesting topic that, although based on restricted area exploration, may have much broader significance in analyses that reveal worldwide social trends, as a whole.
+I would like the authors to emphasize the impact of the analyzed trends by means of mental disorders, at least to those with significant clinical and medical importance. Therefore, I suggest exploring, using the same methodology, the data regarding the associations of weight-biased language with eating disorders (the incidence of anorexia nervosa and bulimia) and mood disorders (the incidence of depression and anxiety, etc.).
+Legend for Figure 2 is missing.

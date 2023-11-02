@@ -1,0 +1,26 @@
+Author Response
+Please specify how many students were approached to participate in the study and therefore specify the response rate. A low response rate will seriously limit the validity of the findings and this should be discussed as an important limitation also.
+
+**We did not keep an exact count of the number of students approached about the study, but we estimate that we approached about 375 students. We have added this information to the paper.
+
+Important limitations of the study including that this was a study of students at one university only should be included in the Abstract.
+
+** We added a comment that data were collected at one Australian university to the abstract, and added a summary statement and note about limitations related to generalizability.
+
+The abstract now reads:
+Abstract: Many scholars have called for an increased focus on positive aspects of sexual health and sexuality. Using a longitudinal design with two assessments, we investigated patterns of entitlement to sexual partner pleasure and self-efficacy to achieve sexual pleasure among 295 young men and women aged 17-25 years attending one Australian university. We also tested whether entitlement and efficacy differed by gender, and hypothesized that entitlement and efficacy would be higher in older participants and those with more sexual experience. A sense of entitlement to sexual partner pleasure increased significantly over the year of the study, whereas, on average, there was no change in self-efficacy over time. At Time 1 (T1), young women reported more entitlement than young men. Age was positively associated with T1 entitlement, and experience with a wider range of partnered sexual behaviors was concurrently associated with more entitlement and efficacy and was also associated with increased entitlement to partner pleasure and increased self-efficacy in achieving sexual pleasure at T2 relative to T1. A group with the least amount of sexual experience was particularly low in entitlement and efficacy when compared to groups with a history of coital experience. There was no evidence that any association differed between young men and young women. Limitations of the study include a sample of predominantly middle class, Caucasian students at one university and the possibility that students more interested in sex and relationships, and with more sexual experience, chose to participate.
+
+**We also expanded the first paragraph of the Limitations to say:
+
+Although this study provided insight into how aspects of sexual subjectivity differed over one year in young men and women and uncovered associations of age and sexual behavior with sexual subjectivity, there were two limitations worthy of note. First, the participants in the study were predominantly middle class, Caucasian students at one university, who were residing in one region of Australia. There is also the possibility that individuals more interested in sex and relationships chose to participate. Therefore, the results of the current study may have some limited generalizability. Second, probably because the majority of the participants had already experienced coitus prior to the first data collection and because we measured types of sexual behavior and not frequency or some other aspect of behavior, there was high stability in sexual behavior over the one year of this study. Statistics show that the majority of Australian year 10-12 students (approximately 15-17 years) have engaged in some form of sexual behavior [12]. Therefore, in order to capture sexual subjectivity as it emerges and develops most rapidly along with sexual behavior, future studies may need to begin with a younger population.
+
+Moreover there is a comment in the Methods that 80% of the subjects reported being only attracted to members of the same sex. This seems to contrast with later statements and would also seem to be an unlikely finding. Please address this matter.
+
+**Thank you catching the typographical error (80% attracted to the same sex) - this should have read "other sex".
+
+The first paragraph of the Participants section now reads:
+The participants were 295 adolescent and young adult men (n = 112) and women (n = 183) aged between 17 to 25 years (M = 19.5 years, SD = 1.9). Although an exact count was not available, we estimate that 375 students were approached to participate, resulting in a participation rate of approximately 79%. Participants completed two waves of data collection approximately 1-year apart. Overall, 91% were white/Caucasian, 3% were Asian, 1 was Aboriginal/Pacific Islander, and the remaining participants indicated an "Other" sociocultural background. Most lived with their parents (61%) and reported being only attracted to the other sex (80%). At T1, 225 of the participants (76%) reported a history of sexual intercourse and 9% reported having had no sexual experience apart from kissing.
+
+
+Please note - we have also shortened the title, found some other typographical errors to fix, and fixed some references.
+

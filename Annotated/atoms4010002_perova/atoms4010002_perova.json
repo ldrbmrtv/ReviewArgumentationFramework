@@ -1,0 +1,118 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The link to the sensing of weak forces (in this case gravity) is interesting, but I am not convinced whether this is a practical approach. The estimated accuracy is $10^6$ that does not sound great.",
+      "Reviewer_1.1.2": "Have the effects of radiation pressure forces, etc., taken into account?",
+      "Reviewer_1.1.3": "What is the role of excitations to higher Bloch bands?",
+      "Reviewer_1.1.4": "In my opinion, the main interest of the work is in the cold atoms and cavity dynamics, continuous observation, and in the specific optomechanical dynamics. The role of sensing may in the end be less important and could be downplayed a bit in the manuscript.",
+      "Reviewer_1.1.5": "There are several other theoretical studies of the continuous quantum measurement of many-atom/cavity systems and condensate systems more generally that could be cited.",
+      "Reviewer_1.1.6": "There are other papers that link BECs, sensing and continuous quantum measurement process (in the absence of a cavity)"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "(1) It should be somehow mentioned more clearly (maybe in the abstract) that the idea is not completely new but work presents a new and more intutive picture of the system dynamics.",
+      "Reviewer_2.1.2": "(2) It is very helpful to connect cavity output spectra and forces. To my knowledge this was first discussed in: Gangl, M., EPJD, 8(1), 29-40. This should be mentioned.",
+      "Reviewer_2.1.3": "(3) The authors claim there should be no backaction of the field on the oscillation frequencies. This is somehow in contradiction with the eigenfrequency calculations (see Fig.4) in Horak, P.,Physical Review A, 61(3), 033609, 2000. Also the BEC will lead to an effective change of the cavity length and lattice constant, which should renormalize the wavelength and thus om_recoil.",
+      "Reviewer_2.1.4": "(4) the cavity is an open quantum system. This has two consequences:",
+      "Reviewer_2.1.5": "(a) any measurement of the output field will generate backaction onto the condensate (Mekhov, J.Phys. B: Atomic, Molecular and Optical Physics, 45(10), 102001). This will generate extra noise, but might also help as it reduces atom number uncertainty in the cavity.",
+      "Reviewer_2.1.6": "(b) There will be heating limiting the available measurement time. In particular for the blue detuned case not only the average momentum but also the momentum spread will grow. as the time scale can be faster than om_recoil, it could limit the measurement time to a fairly short period. Some rough estimate on the time scales should be added."
+    },
+    "Author": {
+      "Author.2.1": "Yes we agree that there will be extra noise due to the open nature of the cavity, and we already refer to this on p3 of the Introduction: \u201cThe disadvantage of working in a cavity is that quantum measurement backaction, in the form of random fluctuations in the cavity field due to photons spontaneously leaking out of the cavity, heats up the cold atoms and limits the coherence time of the measurement \\cite{Ven13}.\u201d where the cited paper is one of ours [Prasanna Venkatesh, B.; O\u2019Dell, D. H. J.; Bloch oscillations of cold atoms in a cavity: Effects of quantum noise. Phys. Rev. A 2013, 88, 013848] where we directlycalculated the heating effect for Bloch oscillating atoms in a cavity within the Bogoliubov approximation. Following the referee\u2019s suggestion we have added the reference to Mekhov\u2019s paper.The coherence time for the many-particle Bloch oscillating state is in fact very hard to calculate (mainly because even the coherent part is time-dependent rather than stationary). It can, however, be estimated and so we have added in the following sentences on p3:\u201c\\textcolor{red}{The coherence time is particularly hard to calculate in the Bloch oscillating case \\cite{Ven13} due to the time dependence introduced by the Bloch oscillations, especially in the presence of many particles, but it can be roughly estimated to be $\\tau=\\tau_{\\mathrm{sp}}/(1+C)$ \\cite{Ven09} at cavity resonance, where$\\tau_{\\mathrm{sp}}^{-1}=2 \\gamma \\vert \\alpha \\vert^2 \\Omega_{0}^2/\\Delta_{a}^2$ is the spontaneous emission rate at an antinode. The factors $\\vert \\alpha \\vert^2$ and$\\Delta_{a}$ are the mean number of cavity photons and the detuning of the laser from atomic resonance, respectively, and will be properly defined in the next section. The numerical value of $\\tau$ for the parameters considered in this paper will be given in Section \\ref{sec:metrology}. Of course, Bose-Einstein condensates can be continuously measured and used for sensingwithout a cavity, e.g.\\ \\cite{Ruostekoski98,Dalvit02,Saba05,Lee12,Java13}, but the cavity case is particularly interesting because it allows for a strong atom-light interaction even in the quantum regime.} \u201cIn addition, in Section 6 (paragraph 4, Pg 18) we have provided further details required to estimate the coherence time for the parameters used in the paper. We find thatcoherence times of up to a couple of seconds (many thousands of Bloch oscillation periods) are possible",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.6"
+    ]
+  ]
+}

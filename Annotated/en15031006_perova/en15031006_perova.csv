@@ -1,0 +1,36 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;More recent related work should be referred. There is no reference from 2021.
+Reviewer 1;Author;1;2;0;In the proposed system solar PV, wind generator and battery are the main generating system. As the proposed system is in isolated mode, how continuity of power supply be maintained? s
+Reviewer 1;Author;1;3;0;The quality of the figures needs to be improved.
+Reviewer 1;Author;1;4;0;Equations 4, 9, and 12 include some corrections and need to be modified.
+Reviewer 1;Author;1;5;0;It could be better to include base load ratings in the results section (Fig: 10)
+Reviewer 1;Author;1;6;0;Sizing of renewable energy sources and battery systems were not properly explored.
+Reviewer 1;Author;1;7;0;Please discuss how consumers’ comfortability is marinated in the proposed method.
+Reviewer 2;Author;1;1;0;Authors should avoid using the Subjective pronoun “ we” in academic works.
+Reviewer 2;Author;1;2;0;In such a study an experimental case must be presented in a specified region.
+Reviewer 2;Author;1;3;0;The authors should carefully distinguish the new contributions of their work from the new existing studies.for example: DOI: 10.1016/j.est.2020.101221
+Reviewer 2;Author;1;4;0;A comprehensive deeper literature review is necessary to address the research issue. Also, authors need to provide a literature survey in an organized way.
+Reviewer 2;Author;1;5;0;All the figures need to be improved.
+Author;Reviewer 1;2;1;1;According to your suggestion, we have modified the literature review and included some latest references i.e., [22][29][30][32].
+Author;Reviewer 1;2;2;2;The diesel generator equal to the rating of base load is kept as backup to avoid total black out situation of the system
+Author;Reviewer 1;2;3;3;According to your suggestion, we have improved the quality of Figures as can see Figure 1 and Figure2
+Author;Reviewer 1;2;4;4;According to your suggestion, we have modified the Equations 4, 9 and 12 in the revised version of the manuscript as fellows
+Author;Reviewer 1;2;5;5;"According to your suggestion the baseload is added in the result section as follows:
+ In addition, to further validate the proposed system, the appliance schedule pattern for Monday is drawn in Figure 10 and Figure 9 represents the appliance weightage given by consumers for Monday. In addition, Figure 8 represents the power generated graph for the same day. The baseload is calculated as 1000 watts for each house to keep basic appliances turn ON uninterruptedly. As there are 5 houses in the community the total base power for the system is 5000 watts. The excess power is utilize to turn ON the schedulable appliances on Monday."
+Author;Reviewer 1;2;6;6;Thank you for your comment. As Sizing of the grid system is not the main goal of the article, but as per your suggestion, it is briefly discuss in the subsections of Mathematical modelling of the Energy sources. Both solar and wind systems are designed for output power equal to the consumer’s load whose annual load curve peak is maximum out of all the consumer’s in the community. Battery storage systems have the capability to supply uninterrupted power equal to the base load of the system up to 6 hours. And diesel generator equal to the rating of system’s base load is kept as a backup to avoid total black out situation. The designed system is not the time-varying tariff, therefore the overall system is designed to treat each consumer of the community equally. In time-varying tariff based system, the sizing of the system is the main objective as to accommodate the wealthy consumers of the community
+Author;Reviewer 1;2;7;7;"According to your suggestion the consumer comfortability is discussed from line 144-160. 
+ In this work, a DSM algorithm is proposed by using renewable resources PV and wind turbines for those houses that are located far away from the main city. Battery storage bank is included in the system to provide the baseload power in the time when renewable sources are not suffice to meet the baseload power demand. Diesel generators equal to the rating of base load is kept as backup to avoid total black out in worse conditions. Our objective is to schedule and shift the controllable appliances by estimating hourly power generation and considering consumer demand as a variable function. The appliances are prioritized based on their need and demand to achieve optimum energy utilization.
+ The main contribution of this paper include:
+ • A demand side management algorithm is proposed to fulfil the energy gap between generation and consumer’s demand for standalone renewable energy system.
+ • K-mean clustering is used to make clusters of the data based on two factors: probability of turning ON a specific appliance at time t and priority number given by consumer to that specific appliance. 
+ • Linear integer programming is used to schedule the appliances clusters based on the available power and state of charge of the battery system."
+Author;Reviewer 2;2;1;1;According to your suggestion, in the revised version of the manuscript, the unnecessary use of subjective pronoun is removed and overall writing of the paper is improved.
+Author;Reviewer 2;2;2;2;Thank you for your comment. Due to the lack of real time datasets, we have used the publically available datasets for the verification of the proposed system.
+Author;Reviewer 2;2;3;3;"According to your suggestion, the novelty of the proposed work has been made more clear and understandable for readers in the introduction section as follows: 
+ In this work, a DSM algorithm is proposed by using renewable resources PV and wind turbines for those houses that are located far away from the main city. Battery storage bank is included in the system to provide the baseload power in the time when renewable sources are not suffice to meet the baseload power demand. Diesel generators equal to the rating of base load is kept as backup to avoid total black out in worse conditions. Our objective is to schedule and shift the controllable appliances by estimating hourly power generation and considering consumer demand as a variable function. The appliances are prioritized based on their need and demand to achieve optimum energy utilization.
+ The main contribution of this paper include:
+ • A demand side management algorithm is proposed to fulfil the energy gap between generation and consumer’s demand for standalone renewable energy system.
+ • K-mean clustering is used to make clusters of the data based on two factors: probability of turning ON a specific appliance at time t and priority number given by consumer to that specific appliance. 
+ • Linear integer programming is used to schedule the appliances based on the available power and state of charge of the battery system."
+Author;Reviewer 2;2;4;4;According to your suggestion, we have modified the literature review and included some latest references i.e., [22][29][30][32]. In addition, we organized the literature review in more comprehensive way
+Author;Reviewer 2;2;5;5;According to your suggestion, we have improved the Figures as can be seen in the revised version of the manuscript.

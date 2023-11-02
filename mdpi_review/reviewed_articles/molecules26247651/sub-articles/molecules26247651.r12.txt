@@ -1,0 +1,7 @@
+Reviewer 2 Report
+In this article, the authors describe the spectral characteristics of NH in the hydrogen bridge NH...O. It is a continuation of similar OH...O binding studies performed 10 years ago. The rationale for undertaking the research is a bit puzzling. I am curious what prompted the Authors to deal with N-H...O bonding in place of the earlier O-H...O. The explanation should be cleared.Anyway, I think the article has some educational significance and could be published after few major and minor points are taken into account:
+Major:
+1) The authors should give the reason for the nonlinear v(NH) vs delta correlation as it was (according to Dudek) linear for OH-O.
+2) Performing calculations with the Grimme dispersion correction did not make sense here, as D3 is important for intermolecular interactions, especially stacking. Here, calculations are performed for isolated molecules. Rather, the author could check B3PW91 (it often performs better than B3LYP) or any newer suitable functional.
+Minor:
+183: should be SD = 34.3 cm-1186: "are reasonable": Taking into account that (i) this fit is rather unphysical(ii) moving the points by say 50cm-1 one way or the other would also give rather good fit, this phrase is rather an empty cliche.Figure 5: Why is the y-axis reversed?

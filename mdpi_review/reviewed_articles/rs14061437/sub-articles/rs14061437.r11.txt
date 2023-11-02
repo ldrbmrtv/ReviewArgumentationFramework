@@ -1,0 +1,10 @@
+Reviewer 1 Report
+Dear authors,
+thank you for this interesting and well written study.
+I have a few minor points (marked in the attached PDF) and two general points, which I like you to address.
+The general points are:
+What is the main difference (except of the terrestrial data over China) to other combined GFMs, such as XGM2016 or XGM2019? What is the main methodological difference and advantage of your method? Please comment on that question quantitatifely and qualitatively.
+Your method for combining the satellte-only GFM with EGM2008 (sec. 3.3) seems quite simple for me and probably not optimal. Why do you think, that a sharp cut-off SH degree between the satellite-only GFM and EGM2008 is better than a rigorous combination by applying some sophisticated weighting approach? Could you please comment on the effects you introduce by applying such a sharp truncation combination approach.
+Kind regards
+Reviewer
+Comments for author File:  Comments.pdf

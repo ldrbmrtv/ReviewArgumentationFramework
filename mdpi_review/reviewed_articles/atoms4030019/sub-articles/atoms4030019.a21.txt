@@ -1,0 +1,22 @@
+Author Response
+Dear Editor,
+
+
+We are resubmitting the manuscript after addressing suggestions from two referees. One of the referees was fully satisfied with the previous version of the manuscript. The second referee was satisfied with all our responses except the analysis of the data in Figure 10.
+
+Accordingly, we have re-analyzed the data in Figure 10. A better representation of the signal amplitude was calculated by averaging neighbouring data points. This procedure eliminates distortions in the sinusoidal signal amplitude.
+
+Additionally points associated with small signal amplitudes near the zeroes associated with the recoil-modulated signal were removed.
+
+The error bars were estimated on the basis of the probability density function analysis described in Reference 121 (newly introduced). The weighting of the error bars was determined from the signal strength and the probability density function.
+
+Although there is very little change in the overall statistical precision (7 ppm instead of 6 ppm), the fits and the error bars provide a more realistic description of the signal amplitude.
+
+We thank the referee for motivating this analysis.
+
+We hope that the manuscript will be accepted for publication in its revised form.
+
+
+Sincerely,
+A. Kumarakrishnan and co-authors.
+

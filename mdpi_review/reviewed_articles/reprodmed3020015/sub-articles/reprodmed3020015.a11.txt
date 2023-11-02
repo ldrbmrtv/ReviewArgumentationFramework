@@ -1,0 +1,96 @@
+Author Response
+Responses to Reviewer 1
+We appreciate your review of our manuscript and constructive comments and suggestions. Our responses to your comments are as follows.
+
+1) In general, the manuscript refers often to PGRMC1 expression or downregulation. These are fuzzy terms for proteins. It is much preferable to refer to protein abundance, and changes in abundance. Such changes may occur at the translational or post-translational level. Translational level changes can be due to changed levels of transcription, to altered mRNA stability (such as that proposed here for miR-98), or to altered efficiency of translation of a steady state mRNA pool. The authors are strongly advised to change from e.g. ‘expression’ to ‘abundance’ throughout.
+>> We agree with your comments. The term ‘expression’ has, therefore, been changed to ‘abundance’ or ‘level’ throughout the manuscript.
+
+2) Additionally, the methods do not say that all results were repeated at least once, and that a representative results figure is presented. Therefore, the reviewer assumes that experiments have only been performed once. The entire set of experiments needs to be replicated to demonstrate reproducibility before it can be considered to publish these results.
+>>All experiments were repeated at least two times. We have failed the description regarding the reproducible results in the previously submitted manuscript, and so revised the section of the methods in the revised manuscript (Page 4, lins143-143).
+
+3) Line 24. AG-205. The authors must refer to the fact that AG-205 is not specific for PGRMC1, contrary to many citations in the literature (such as would be the case here, if uncorrected). Cite PMID: 34944026, PMID: 34680104, PMID: 32924377. Sensitivity of a phenomenon to AG-205 is consistent with possible PGRMC1 involvement, but does not demonstrate PGRMC1 involvement.
+>> We agree that AG-205 is not a specific inhibitor of PGRMC1. Therefore, we examined the effects of siRNA-mediated PGRMC1 knockdown on decidualization. As you mentioned, this issue was not appropriately described in the previously submitted manuscript. The citations have been inserted in the revised manuscript (page 8, lines 258-263).
+
+4) It is also suggested throughout to use “AG-205” (the correct name for the reagent: https://www.sigmaaldrich.com cat#: a1487) rather than AG205 (often incorrectly used in the literature).
+>> The name of the reagent has been corrected to AG-205 consistently throughout the manuscript.
+
+5) Line 50. “(10-12); however,” should be a full stop. Two discrete sentences “(10-12). However,”
+>> The sentence has been separated according to your suggestion.
+
+6) Lines 76-78. Statistical sample sizes were unfavourably small. The methods could describe that all subjects were ethnically Japanese/Asian (or otherwise).
+>>The description has been modified as followed (page 2, line 69). ‘Endometrial samples were obtained from Japanese patients with a normal menstrual cycle, ….’.
+
+7) Lines 88-98. Cell culture. What characterization was performed to confirm the identity of cells as ESCs? In general, there is very little detail on these primary cultured lines. How long are they held in culture? Are they stored cryogenically? How are they re-seeded into culture?
+>> The primary cultured ESCs we used were confirmed immunocytochemically to be positive for vimentin, a marker for stromal cells, and negative for cytokeratin, a marker for epithelial cells (please see above figure). ESCs at early passages (between 2 and 6 passages) were used for the experiment. In this study, the passaged cells were used without freezing. However, we have confirmed that primary ESCs can be cryopreserved in CELLBANKER, and retain characteristics such as responsiveness to decidual stimuli. These descriptions have been added to the revised manuscript (page 3, lines 96-99).
+Figure. Immunocytochemistry (ICC) of vimentin and cytokeratin in isolated human ESCs.
+
+
+8) Lines 121-133. What percentage acrylamide were the SDS PAGE gels. For what length of time and at what voltage settings was electrophoretic transfer to PVDF? In what device?
+>> The protein samples were separated by SDS-PAGE (5-20% gradient gel) and transferred electrophoretically to polyvinylidene difluoride membranes (8 cm x 8.5 cm) for 60 min at constant current of 128 mA using a semi-dry transfer system (ATTO, Tokyo Japan). These conditions have been added to the Materials and Methods section (Pages 3 and 4, lines 127-130).
+
+9) Line 126-7. Give the catalogue number of the secondary antibody.
+>>The catalogue number of the antibodies (PI-1000, PI-2000) were inserted (Page 4, line 134).
+
+10) Line 131. On what device was ECL light detected? What were the device settings? How was pixel saturation dealt with?
+>>The immunoreactive bands were visualized using an enhanced chemiluminescence (Western Lightning, PerkinElmer, Inc., Waltham, MA, USA) and analyzed with ImageQuant LAS 500 (semi-auto mode; GE Healthcare Japan, Tokyo Japan) (Page 4, lines 136-137).
+
+11) Line 132. Which ImageJ plug-in was used for quantification?
+>>The densitometry analysis was carried out using the “Gel Plot” plug-in of the Image J software. This plug-in has been described in the Materials and Methods (Page 4, line 139)
+
+12) Lines 134-137.
+Result errors should not be expressed as SEM, but as standard deviation (s.d.). All results should show s.d. error bars.
+>> As you indicated, all data are expressed consistently as means and standard deviation (Figs 1 to 4). In our previously submitted manuscript, we had described carelessly the data of as for figure 5B and C with s.d.
+
+13) Line 150. The legend to fig. 1. inappropriately ends with “2.2. Downregulation of PGRMC1 During ESC in vitro Decidualization.” This seems to be the next section heading, in which case it should follow a line break, and say: “3.2. Downregulation of PGRMC1 During ESC in vitro Decidualization.”
+All subsequent section header numbers in results should be modified to accommodate the new section.
+>> Thank you for pointing this out. The mistakes have been corrected (Pages 4,5 and 7, lines 160, 174 and 217).
+
+14) Lines 153-156, Figure 2. The result must be shown for at least each ESC cell culture (each culture or patient named separately) obtained from each patient to demonstrate that the described results are representative of multiple patients, and not potentially atypical results from an atypical patient. This result must be demonstrated in a substantively convincing manner.
+>> Based upon your suggestions, additional experiments have been performed and added individual Western blotting data from there different ESCs (named #1-3) in Figure 2.
+
+15) Line 158/Fig. 2. The western blot (also Fig.3) result must show the entire molecular weight range (e.g. in supplemental data), including MW markers. PGRMC1 is known to be Sumoylated or ubiquitinylated and then degraded by the proteasome pathway, which lead to higher molecular weight species (PMID: 31067491). The latter could well contribute to alterations in PGRMC1 abundance cited by this study. It is important that the involvement of the ubiquitin pathway contribution be either quantified or discarded in well controlled experiments to justify the title of the paper.
+
+>> Western blotting for PGRMC1 in figures 2, 3, and 4 have been replaced in the data with the whole molecular weight range. As you pointed out, PGRMC1 is known to be modified by sumoylation or ubiquitinylation which results in high molecular weight. The right panel shows the western blotting of PGRMC1. There are some higher molecular bands (white arrowhead) in lysates of ESCs, however, the band’s intensity was not changed by PGRMC1 siRNA treatment. Therefore, we believe that these high molecular bands detected in our experiment were non-specific bands.
+
+16) Nine PGRMC1 lysines are known to be ubiquitinated (https://www.phosphosite.org/proteinAction.action?id=5744&showAllSites=true).
+Individual mutation of these residues could stabilise PGRMC1 levels to reduce decidualization if miR-98 is only partially responsible for reducing PGRMC1 levels. In fact, proteasomal degradation could be much more important that miRNA reduction of the transcript in the reduction of PGRMC1 levels during decidualization. It is important to determine whether these mechanisms are both operating. At the very least this mechanism merits detailed discussion in that section. PGRMC1 protein instability could be the dominant effect involved, with miRNA transcript regulation playing only a minor part.
+>> As you pointed out, the possible involvement of posttranslational modification of endometrial PGRMC1 such as sumoylation and ubiquitinylation is interesting. Discussion regarding this possibility has been inserted in the revised manuscript (Page 9, lines 300-307). We will further examine whether posttranslational modification of PGRMC1 could be associated with decidualization in the next study.
+
+17) Line 163. Change 3.2. to 3.3.
+>> The mistake has been corrected.
+
+18) Lines 164-172. This cell culture experiment also seems to be based upon just one primary cell culture, split into replicates. I am uncertain because the methods do not explain how the experiment was performed. Cell culture methods must be much more clearly explained so that the reader can reconstruct each exact experiment.
+>> All data of cell culture represent the mean ± SD of three independent experiments with at least repeated two times each experiment. The explanation of the experiments has been inserted the method (page 4, lines142-143).
+
+19) Lines 178-9. If PGRMC1 down-regulation is critical, it should be possible to perturb decidualization by expression of an exogenous PGRMC1 protein. This could be accomplished by making an expression plasmid encoding a codon-altered PGRMC1 gene, and cotransfecting this in a controlled matrix design with siRNA. If siRNA-resistant PGRMC1 levels are able to inhibit decidualization it would provide convincing evidence in favour of the hypothesis that lowered PGRMC1 is required for decidualization, and is perhaps even a trigger. A codon-altered PGRMC1 expression vector would cost just several hundred dollars from a provider such as Genscript, so the experiment is eminently achievable.
+>>Thank you for your valuable advice to prove the significance of PGRMC1 downregulation in decidualization. Salsano et al.(19), reported that overexpression of PGRMC1 in ESCs abrogated the decidual markers expression (page 8. Lines 253-254). We will try to examine the effects of enforced expression of codon-altered PGRMC1 which is resistant for siRNA on decidualization in next study.
+
+20) Notably, Fig. 4. lacks the western blot equivalent to Fig.3A, showing that siRNA indeed depleted PGRMC1 levels.
+>> Based upon your suggestions, we have added the data of PGRMC1 knockdown in figure 4. We confirmed efficient siRNA-mediate PGRMC1 knockdown by western blotting.
+
+21) Critically, these figures compare the effects of two variables each, and therefor one way ANOVA is not the appropriate test. Assuming binomial distribution, a two-way ANOVA is required for these experiments.
+>> The statistical analysis was not appropriate in the former manuscript. The data has been re-evaluated by a two-way ANOVA followed by a Turkey-Kramer multiple comparison test (page 4, line13).
+
+22) Line 189-96. The paragraph describes a result showing that the results are independent of P4. However, the control structure of comparisons is incorrect. The simplest direct comparison would be db-cAMP/P4 vs. db-cAMP to permit the argument the authors are presenting. However, the effects of P4 in the absence of db-cAMP would also require control in cells without db-cAMP, +/- P4. The statistical significance of any result would be evaluated using multivariate analysis.
+>> As you suggested, we should have presented the data in the same graph. However, the two experiments were performed independently. Therefore, we were not able to combine the results in the graph. Because treatment with P4 alone could not induce decidualization in the experiments, we examined the effect of PGRMC1 knockdown and inhibition on db-cAMP-induced decidualization. Further study would be needed to determine whether PGRMC1 is involved in the P4 action in endometrium.
+
+23) Line 207: “The miRNA target prediction database, miRDB (http://www.mirdb.org), was screened to identify miRNAs with potential to interact with PGRMC1.” miR-98 is already known to regulate PGRMC1. The results of PMID: 22492871 and PMID: 21109987 MUST be cited here. This is not a novel finding.
+The description has been corrected and cited the references in the section (page 7, lines 223-224).
+
+24) The discussion must qualify the results of Salsano et al. who used AG-205 to inhibit PGRMC1. There was no control in PGRMC1 genomic/CRISPR KO cells (not si/miRNA KO) to demonstrate that effects induced by AG-205 were due to PGRMC1.
+>>New discussion regarding the need for PGRMC1 knockout studies to clarify the role of PGRMC1 in decidualization has been inserted in page 9, lines 281-282.
+
+25) Line 261. mechanisms HAVE not (plural mechanisms)
+>> The error has been corrected.
+
+26) Lines 261-262. “In the present study, we showed that microRNA-mediated PGRMC1 regulation during the process of decidualization.” This is confusingly worded. Suggest change to “In the present study, we showed that microRNA-mediated the regulation of PGRMC1 abundance during the process of decidualization.” (if this is what is meant)
+>> Thank you for correcting the sentence. Your correction is what we meant to mention. We have replaced this sentence in the revised manuscript.  (page9, line 284-286)
+
+27) Lines 271-76. This is very long and burdens the reader. Always make new sentences when possible. Suggest change to; “Further study is required to determine the relationship between miR-98-mediatd PGRMC1 regulation and pregnancy. Comparison of the miR-98/PGRMC1 abundance in proliferative and secretory phases of endometrial biopsy may contribute to the diagnostic prediction of uterine receptivity for embryo implantation. Furthermore, controlling their expression may support the improvement of IVF (NOT IFV) outcome. Define IVF at first use.
+>> As noted, the sentence has been separated and corrected in accordance with your suggestion (page 9, line 295-299).
+
+28) Lines 281-5. PGRMC1 (Hpr6.6) increased the rate of cell death (in a non-apoptotic mechanism) in MCF-7 cancer cells in response to H2O2 (PMID: 14523988). That could be discussed here in terms of mechanism.
+>> The report that PGRMC1 mediates H2O2-induced cell death in MCF7 cells has been inserted in discussion (page 10, lines 314-317)
+
+29) Lines 286-287. Enunciate what kind of role(s) PGRMC1 may be involved in (up/down regulation, when, how?). Suggest observations that may be able to discriminate between different possibilities.
+>> We have suggested the possibility that PGRMC1 downregulation may be involved in ESCs senescence during the decidualization (page 10, lines 319-321).

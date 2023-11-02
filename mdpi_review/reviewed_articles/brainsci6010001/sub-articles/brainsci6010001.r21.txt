@@ -1,0 +1,5 @@
+Reviewer 1 Report
+The authors have significantly improved the paper, however I have the following major comment:
+
+In table 2 the authors indicate a significant difference in NREM, specifically N1 and N2 (although it looks like there might be a similar trend in N3), between the two nap conditions.    I assume this is because the subjects were awakened at 45 min for the short nap whereas they were allowed to complete a full NREM cycle in the long nap condition resulting in longer time in NREM.  As expected they show a significant difference in time spent in REM as well.   Since there is a significant difference between time in both NREM and REM sleep between the two napping conditions I am unsure how the conclusion that REM density alone as a “marker of memory consolidation” can be drawn.  I recognize that the authors included this in their limitations section.  Based on previous literature showing that REM sleep alone affects consolidation of emotional memory I think their conclusion is probably correct.  However, in light of this limitation, based on the data provided I do not see how the authors can reach this conclusion.
+

@@ -1,0 +1,32 @@
+Author Response
+Reviewer #1:
+There is no sampling procedure, depth, or random selection of the soils evaluated.
+Response(R): Accepted and revised in L95-105. Five-point sampling method was used in both fields (0-20cm). A total of 5 topsoil samples in each field were taken using a stainless steel spade and mixed thoroughly. Afterwards the soil samples were chosen by quartation; Then plants’ debris and residues were removed. Finally soil samples were 0.3-mm sieved and stored in brown glass bottles at 4 °C.
+The following was the area that the Florida soil was collected.
+
+
+Is the explanation of χ is for molecular connectivity indices or branching index?
+R: It has been mentioned in L163-164 in the manuscript. Randic (1975) proposed molecular branching index χ, hereinafter referred to as simple molecular connectivity index (1995). Therefore, they are the same concept.
+[38] Randic M., Razinger M. (1995). Molecular Topograhic Indices. Journal of Chemical Information and computer Sciences. 35: 140-147.
+[40] Randic M. (1975). On Characterization of molecular branching. Am. Chem. Soc. 97: 6609-6615.
+The values obtained of I DW and steric hindrance are not explained.
+R: Accepted and revised in L157-160. Common topological indices, such as κ shape indices and information indices were also calculated by Molconn-Z (version 4.12S, eduSoft, La Jolla, CA). The detailed list and definitions can be found in the software user’s guide [35], and the definitions can also be found in Todeschini et al. [36]. The results of other common topological indices calculated by Molconn-Z were shown below as well. But in this study, only the steric index (R2 = 0.82 for CN soil; R2 = 0.86 for FN soil) and IDWbar (R2 = 0.83 for CN soil; R2 = 0.94 for FN soil) have a better relationship with the half lives of the isomers, which were mentioned in the Results and Discussion part.
+The results of the topological indices of the isomers
+[35] Hall, L. H.; Kellogg, G. E.; Haney, D. N. (2008). Software Package for Molecular Topology Analysis User’S Guide.
+[36] Todeschini, R.; Consonni, V.; Mannhold, R.; Kubinyi, H.; Folkers, G. (2009). Molecular Descriptors for Chemoinformatics; Wiley: New York.
+
+The more critical issue lies in the analytical methodology used for isomers quantification. First of all, figure one is a chromatogram, not a spectrum. The chromatogram is not well resolved, i.e., there is no separation among the different analytes determined. For example, look at peaks 4, 5, and 6. There is no resolution among the isomers, the same for NP 7 and 8 and NP 8 and 10; thus, it is impossible to quantify them.
+If correct quantification is not assessed, then figure 1 and table 1 and 2 are not valid.
+R: The analytical methodology of isomers quantification has been studied and published in former study (Wang et al., 2013). From Figure1 in Supporting Information, it seems that the isomers were not separated, but actually it does not affect the quantification of the isomers. Because the main quantitative ions were used for quantification and the main quantitative ion of each isomer were separated absolutely (Figure 1). Table 1 and Figure 1 were cited from Wang et al (2013). Moreover, series of research about the NP isomers were conducted and published afterwards. The following are the publications.
+
+Shiyu Wang, Wenyong Wu*, Fei Liu, Shiyang Yin, Zhe Bao, Honglu Liu. Spatial distribution and migration of nonylphenol in groundwater following long-term wastewater irrigation. Journal of Contaminant Hydrology,2015,177-178（June–July）:85-92.
+Shiyu Wang, Fei Liu*, Wenyong Wu*, Yaqi Hu, Renkuan Liao, Gaoting Chen, Jiulong Wang, Jialin Li. Migration and health risks of nonylphenol and bisphenol A in soil-winter wheat systems with long-term reclaimed water irrigation. Ecotoxicology and Environmental Safety 158 (2018) 28–36.
+Shiyu Wang，Wenyong Wu*，Fei Liu, Xiaoou Li. Sorption and desorption behaviours of 4-nonylphenol on reclaimed water-irrigated soils. Environmental Engineering Science. (2019) 36 (9) : 1100-1111。
+王世玉，刘菲*，刘玉龙，陈亮. 气相色谱-质谱法检测地下水中12种对壬基酚同分异构体.分析化学，2013，41（11）：1699-1703.
+王世玉，刘菲*，吴文勇，尹世洋，刘玉龙，陈亮，张伟，陈会会.影响12种壬基酚同分异构体液液萃取效率的因素研究. 岩矿测试，2014，33（4）：570-577.
+
+Your careful review of this manuscript is highly appreciated. I am looking forward to the good news. Please feel free to contact me if any questions.
+
+Yours sincerely,
+Shiyu Wang
+[email protected]

@@ -1,0 +1,36 @@
+Author Response
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Answer to the first referee’s report of the Manuscript ID atoms-114670
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+In the paper, the authors report the theoretical calculation of triple differential cross sections of positron ionization of hydrogen atom at relativistic regime to understand the collision dynamics. This research field, concerning the three-body dynamics, is known to be a well-studied area. The main point in this work is to theoretically study relativistic ionization.  However, the authors did not show further supports to their calculations, namely, by comparing the present calculations with  experiments or other theoretical method (from other groups). The following issues need to be addressed:
+-------------------------------
+Answer of authors
+-------------------------------
+First of all, we would like to thank you very much because you have seen at first glance the importance of this work using QED  formalism.
+
+1) Earlier publications [Physics Reports 315 (1999) 409 and related references], a fully relativistic distorted-wave  Born approximation (rDWBA) has been developed to describe the relativistic ionization processes. The authors did not mention   this method for discussions in the manuscript. The RPWBA method in the manuscript should be compared with the previous rDWBA  theory. At least the authors should mention the differences of the two methods and how far the RPWBA can be compared to rDWBA?
+-------------------------------
+1) Answer of authors
+-------------------------------
+The review article by W Nakel and C. T. Whelan  you refer to do indeed tackle the relativistic regime but at the expense of a huge amount of numerical work. So, we think that presenting for the first time a work that incorporates fully analytical results and QED formalism is interesting to the scientific community. The work of W Nakel and C. T. Whelan is devoted to study heavy atoms but Our work is aimed to study analytically the hydrogen atom, we believe that such a comparison is impossible. Another difference that makes comparison difficult is that the work of W Nakel and C. T. Whelan uses coplanar asymmetric geometry while in our work we
+use coplanar symmetric geometry.
+---------------------------------------------------------------------------------------------------------------------------------
+
+2) Again in earlier publications [Physics Reports 315 (1999) 409 and related references], there are existing experiments of triple differential cross sections for relativistic K-shell ionization of Ag, Au, and so on. The authors did not mention these experimental works in the manuscript. It would be nice if the RPWBA method in the manuscript can be compared with the experiments.
+-------------------------------
+2) Answer of authors
+-------------------------------
+We are fully aware that the mainstream trend is to study heavy atoms. But some fundamental processes have not until now been investigated fully and analytically and it is our very humble belief that such a fundamental work must be presented to the international scientific community. We are not in a position to compare with these works since they are devoted to heavy atoms.
+----------------------------------------------------------------------------------------------------------------------------------------
+3)  The authors have not carefully proofread this manuscript. Evidences of this includes
+(i) some errors in English typing, e.g. line 27 and line 119: it should be ‘plane wave …’ instead of ‘plan wave …’.  Line between 33 and 34: it should be ‘The scattered positron and ejected electron …’ instead of ‘The scattered electron and ejected positron …’.
+(ii) There are repeated Bibliography like ref. 11 and ref. 31.
+-------------------------------
+3) Answer of authors
+-------------------------------
+Points (i) and (ii) have  been  corrected and changed  following  to  the  referee’s amendments.
+------------------------------------------------------------------------------------------------------------------------------------------
+We hope that we have given convincing answers to your remarks as they were very sound and relevant. Again, we appreciate all your insightful comments.
+Thank you for taking the time and energy to help us improve the paper.

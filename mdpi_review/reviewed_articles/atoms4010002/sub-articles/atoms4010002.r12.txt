@@ -1,0 +1,11 @@
+Reviewer 2 Report
+The authors present a new interpretation to study Bloch oscillations in a cavity sustained optical lattice and the potential use of this system for very sensitive force measurement.
+The idea is closely related to previous work as Ref. 33/34 and the results are similar. Nevertheless the presentaion sheds new light onto the underlying microscopic dynamics and connects the dynamics to proven optomechanical models of cavity BEC dynamics.
+This work is nicely presented with well chosen examples and graphs.  Hence, in principle I consider it suitable for publication.
+There are however a few things to be clarified before publication:
+(1) It should be somehow mentioned more clearly (maybe in the abstract) that the idea is not completely new but work presents a new and more intutive picture of the system dynamics.
+(2) It is very helpful to connect cavity output spectra and forces. To my knowledge this was first discussed in: Gangl, M., EPJD, 8(1), 29-40. This should be mentioned.
+(3) The authors claim there should be no backaction of the field on the oscillation frequencies. This is somehow in contradiction with the eigenfrequency calculations (see Fig.4)  in Horak, P.,Physical Review A, 61(3), 033609, 2000.  Also the BEC will lead to an effective change of the cavity length and lattice constant, which should renormalize the wavelength and thus om_recoil.
+(4) the cavity is an open quantum system. This has two consequences:
+(a) any measurement of the output field will generate backaction onto the condensate (Mekhov, J.Phys. B: Atomic, Molecular and Optical Physics, 45(10), 102001). This will generate extra noise, but might also help as it reduces atom number uncertainty in the cavity.
+(b) There will be heating limiting the available measurement time. In particular for the blue detuned case not only the average momentum but also the momentum spread will grow. as the time scale can be faster than om_recoil, it could limit the measurement time to a fairly short period. Some rough estimate on the time scales should be added.

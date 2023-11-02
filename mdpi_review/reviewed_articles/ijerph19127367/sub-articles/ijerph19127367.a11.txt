@@ -1,0 +1,97 @@
+Author Response
+May 25, 2022
+
+
+
+Dear Managing Editor,
+
+On behalf of all the authors, I appreciate the opportunity of obtaining a careful evaluation from the reviewers concerning the article entitled “Short-term high-intensity circuit training does not modify resting heart rate variability in adults during the COVID-19 confinement” (ID: ijerph-1710486). We have answered the questions and the concerns of the reviewers point by point, and the manuscript has been modified according to the suggestions and guidelines of the journal (new information added is marked with blue color), and the revised version is being submitted. The suggestions offered by the reviewers have been especially helpful. My research group and I are sure that the reviewers comments have improved substantially the manuscript content.
+Once more, I would appreciate your considering this manuscript in your journal and we hope that this version will be accepted for publication.
+
+
+
+
+
+Yours faithfully,
+
+
+Alberto Jiménez Maldonado, Ph.D
+Facultad de Deportes Campus Ensenada,
+Universidad Autónoma de Baja California,
+e-mail: [email protected]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reviewer 1
+
+The first question for the authors refers to the number of subjects, in this sense I want to ask if the authors consider that the inclusion in this study of 13 participants is sufficient and relevant for this research.
+R: We thank the reviewer for this comment. As shown in table 2, the a posteriori total power (1-ß) indicates that the sample was large enough to detect a minimal change (if there were any) in the HRV variables. The computed power corresponds to the probability of detecting a difference equal to or greater than the smallest worthwhile change (threshold) recorded as the relevant difference between the control and the HICT groups for the respective response variable. The very high-power values found (close to 1.0) indicate a very low probability of not rejecting the null hypothesis, given that it is false. Thus, based on the data analyzed, we conclude that the sample size did not explain the absence of significance (i.e., p < 0.05).
+What was the reason why more subjects were not included in this study? I know it was a quarantine period but still such a number of participants is quite difficult to understand.
+R: We were unable to recruit more subjects due to prolonged lockdown.
+Changes: New information was added in the participants section.
+Introduction - is well presented and detailed. At line 52 you need to replace the year (2020) with the reference number, also for line 174, 257 etc...
+R: Thanks for the clarification of our flaw.
+Changes: We corrected the references in text.
+Lines 80 - 88: ''Introduction should briefly place the study in a broad context and highlight why it is important. It should define the purpose of the work and its significance. The current state of the research field should be carefully reviewed and key publications cited. Please highlight controversial and diverging hypotheses when necessary. Finally, briefly mention the main aim of the work and highlight the principal conclusions. As far as possible, please keep the introduction comprehensible to scientists outside your particular field of research. References should be numbered in order of appearance and indicated by a numeral or numerals in square brackets—e.g., [1] or [2,3], or [4–6]. See the end of the document for further details on references''........what is this?
+R: Thank you for pointing out the mistake.
+Changes: We deleted that sentence from the original template.
+After deleting the previous paragraph, please include very clearly, in this chapter, what was the novelty of the study.
+R: Thanks for the comment.
+Changes: We re-structured the last sentence to mention the novelty of the study.
+Did the 13 selected subjects present evidence that they are clinically healthy? This is very important, especially since these subjects will perform demanding sports programs for the body.
+R: Thank you for this observation; the subjects were cleared from any condition that would hindered them from perform high-intense exercises as assessed by the Physical Activity Readiness Questionnaire (PAR-Q).
+Changes: We added new information in the experimental procedures section.
+Line 106-107- ''Also, the participants completed an electronic version, via Google Forms, of the short-form International Physical Activity Questionnaire (IPAQ).'' What was the reason for completing this questionnaire? the authors do not present any other information regarding this physical activity assessment tool nor any information regarding its content. It is very important for readers to understand very clearly the reason for applying this questionnaire.
+R: Thank you for the comment. The participants completed the IPA-Q to determine the physical activity regime before and after the intervention.
+Changes: We added new information in this procedure.
+''Each exercise was followed by 30sec passive recovery'' Why did you opt for the passive break? Wasn't it better to take an active break to keep high the excitability of the central nervous system?
+R: The adapted HICT intervention was modified from the original author (active recovery) because the subjects had to perform 3 exercise sessions per day (36 total in a month), so we decided that a passive recovery will induce a longer time to exhaustion than active recovery https://link.springer.com/article/10.1007/s00421-003-0834-2.
+Table 1 - From IPAQ we do not see: high, medium and low PA, where are these variants of physical activity classification? I know that the intensity of an exercise or activity was calculated, but I did not see a PA classification.
+R: Thank you for the comment. The reported average energy expenditure values from the subjects are classified as moderately active individuals.
+Changes: We added the cut-off points for physical activity categories in Table 1’s foot.
+For Table 2 you must add below the table the name for each abbreviation used, also for all the tables, which is the case.
+R: Thank you for the observation.
+Changes: We added the abbreviations names in Table 2.
+Line 253-254: ''Several reports have demonstrated that physical activity levels influence HRV adaptations from exercise training [39,40] .''.... in your article we did not see a classification of PA, as we mentioned in the comment above, it was not good to have this information to be able to compare with these reports?
+R: Thank you for the comment.
+Changes: We added the classification cut-off points in Table 1.
+Line 294-297 - ''should discuss the results and how they can be interpreted from the perspective of previous studies and of the working hypotheses. The findings and their implications should be discussed in the broadest context possible. Future research directions may also be highlighted''....Again, what is this?
+R: Thank you for this comment.
+Changes: We deleted that paragraph.
+Do you think that the small number of subjects could be a limit of the paper?
+R: Thank you for your comment. We acknowledge that studying large samples will always be desirable over small samples when using a frequentist approach to null hypothesis significance testing, and under normal circumstances. We could have recruited more volunteers for our study; however, the Covid-19 pandemic prevented us from doing it. Large samples do not guarantee that the effects (if any) might be of relevant or practical importance because large samples also elicit trivial statistically significant effects (e.g., p = 0.001) (Levine & Hullett, 2006). Our data suggest that the sample size was not responsible for the lack of statistically significant differences given the a posteriori power analysis.
+
+Levine, T. R., & Hullett, C. R. (2006). Eta Squared, Partial Eta Squared, and Misreporting of Effect Size in Communication Research. Human Communication Research, 28(4), 612-625. https://doi.org/10.1111/j.1468-2958.2002.tb00828.x
+
+
+
+Author Response File:  Author Response.pdf

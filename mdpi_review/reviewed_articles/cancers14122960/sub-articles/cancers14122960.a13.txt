@@ -1,0 +1,10 @@
+Author Response
+Thank you very much for the positive comments
+1) Splicing variants are called solely based on the size difference. It is good to look into Sanger sequence of splice variants after gel elution of the band and sequencing.
+Acknowledge this comment.
+We have sequenced the RT-PCR products of all variant assays (indicated in Materials and Methods, section 2.5. Minigene Splicing Assays). In fact, all the *.ab1 sequence and*.fsa fragment analysis files of RT-PCR products will be freely available at http://hdl.handle.net/10261/270934; https://doi.org/10.20350/digitalCSIC/14662 upon manuscript acceptance (links indicated in the manuscript section “Data Availability Statement”).
+Unfortunately, Sanger sequencing only allowed us to characterize the main transcripts, while the minor ones (<10% of the overall expression) are really difficult to characterize since gel band extraction does not work properly with these small amounts, or other methods (e.g. subcloning of RT-PCR products into a PCR-vector, or RNAseq of minigene outcomes) are laborious and not cost-effective.
+Anyway, we have also been using Fluorescent fragment analysis for transcript characterization in our previous studies (since Acedo et al, 2012). We have shown that this technique is highly sensitive, accurate and shows high resolution. For example, in Figure 1c, transcripts with minimal size differences (1-3 nt) are well-discriminated. So, for minor-rare transcripts is a good option (not perfect, we agree with the reviewer) to annotate them.
+- To clarify it, we have modified this part:
+Lines 132-134:
+“RT-PCR products were sequenced by Macrogen (Madrid, Spain), which allowed the characterization of the main variant-induced transcripts. Minor transcripts were annotated according to fluorescent fragment electrophoresis size data (see below).”

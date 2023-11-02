@@ -1,0 +1,5 @@
+Reviewer 2 Report
+Dear Authors
+Thank you for taking my comments into consideration for this new version. I only have a few comments:
+delete vertical line in table 3
+line 363: there is one number too much for the Babar reference

@@ -1,0 +1,23 @@
+Reviewer 3 Report
+Greetings, Editor thank you for providing me with the opportunity to review the article. I reviewed the article with title Pilot-scale biological activated carbon filtration-ultrafiltration (BAC-UF) system for removing pharmaceutical and personal care products (PPCPs) from surface water``.  The article topic is intriguing and promising in the area. Overall, the article structure and content are suitable for the WATER journal. I am pleased to send you major level comments, there are some serious flaws which need to be corrected before publication. Please consider these suggestions as listed below.
+The title seems good, but the abstract seems to be fine. Please add one problem statement line in abstract to justify this sentence ``the long-term pilot-scale study is urged to be investigated.``.
+Research gap should be delivered on more clear way with directed necessity for the future research work.
+Introduction section must be written on more quality way, i.e., more up-to-date references addressed. Please target the specific gap such as 2015-2021 etc.
+Page 1 Line 38. Please cite this reference with existing reference 3….Role of nanotechnology for design and development of cosmeceutical: application in makeup and skin care.
+The novelty of the work must be clearly addressed and discussed, compare previous research with existing research findings and highlight novelty.
+What is the main challenge? Why author choose this material? Please highlight in the introduction part.
+Page 2 Line 55 need a reference. Please consider these at end of this sentence……The oxidation method exhibited a fast reaction speed and high removal efficiency…(i) Role of nanomaterials in the treatment of wastewater: A review (ii) Advances and challenges in developing efficient graphene oxide-based ZnO photocatalysts for dye photo-oxidation.
+The main objective of the work must be written on the more clear and more concise way at the end of introduction section.
+Please check the abbreviations of words throughout the article. All should be consistent. Please revise your paper accordingly since some issue occurs on several spots in the paper.
+Please add chemical reagents section and stated all chemical with brand specifications.
+Regarding the replications, authors confirmed that replications of experiment were carried out. However, these results are not shown in the manuscript, how many replicated were carried out by experiment? Results seem to be related to a unique experiment. Please, clarify whether the results of this document are from a single experiment or from an average resulting from replications. If replicated were carried out, the use of average data is required as well as the standard deviation in the results and figures shown throughout the manuscript. In case of showing only one replicate explain why only one is shown and include the standard deviations.
+Please use Fig. or figure? It very confusing. Article should be in one pattern. Please follow the journal guidelines. Please revise your paper accordingly since some issue occurs on several spots in the paper.
+Please provide high quality image of figure 1.
+Please use one style for units such as m3/h or m3h-1 Please revise your paper accordingly since some issue occurs on several spots in the paper.
+Please add a comparative profile section to compare your results and prove how it better than previous.
+Section 4 should be renamed by Conclusion and Future perspectives. Conclusion section is missing some perspective related to the future research work, quantify main research findings, highlight relevance of the work with respect to the field aspect. In the present form conclusion is very weird.
+To avoid grammar and linguistic mistakes, Major level English language should be thoroughly checked. Please revise your paper accordingly since several language issue occurs on several spots in the paper.
+Reference formatting need carefully revision. All must be consistent in one formate. Please follow the journal guidelines.
+
+
+

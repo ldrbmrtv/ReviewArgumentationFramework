@@ -1,0 +1,28 @@
+Author Response
+Point-by-point response to the reviewer's comments are given below
+The ms is the result of an intensive and years-long work of breeding, that eventually pyramidized several resistance genes and QTLs for abiotic traits into an indian elite rice variety. The work is not unprecedented in the concept, but provides interesting breeding material for specific indian farmers, which is an important achievement and is correctly taken up by authorities and international research centers.
+Response: Authors immensely thank reviewer for the constructive suggestions and valuable comments which greatly helped in the improvement of the manuscript. The corrections have been incorporated as per the suggestions made by the reviewer.
+The main issue with the ms is the quality of the figures: they are not clearly representing the data, arrows and text may help the reader, the controls are missing in most cases, and a general lack of precision is affecting them. Also, the legends are not clearly describing all the terms and should be revised. Legends should describe what is to be observed in the figure, possibly pointing to parts of special interest.
+Response: Figures have been revised with addition of arrows and text to represent the data. Since a large number of ILs were screened, susceptible check (SC) was used with a set of ILs and hence SC couldn’t be shown in all figures. However, SC ‘HR12’ for blast disease was shown in all blast screening figures 3 to 5. Similarly, in Fig 5, ‘TN1’ and ‘Improved Samba Mahsuri’ as susceptible and resistant checks respectively for BB in comparison with IL-19031 were shown. Authors once again thank the reviewer for pointing out the mistake in legends. Now, we have rephrased the legends clearly describing all the terms.
+Explaining briefly which and what are the Indian seasons during which experiments have been conducted would help clarity.
+Response: Figure 1 legend has been revised with inclusion of the details of kharif and rabi seasons. kharif is the wet season with crop growing period from June to November and rabi is the dry season with crop growing period from December to May. We described kharif as wet season and rabi as dry season in the materials and methods section also.
+
+The phenotypic data are important, but currently they are presented only as additional material. The authors should consider reshaping the tables, eliminating unnecessary columns (e.g. no. of genes / QTLs, which is already represented in column 1) and add the most striking phenotypic data, when possible and relevant for discussion. Also "entry nos." is probably not clear and ILs no should maybe considered instead.
+Response: Since the number of ILs is large, presenting phenotypic data for each IL will result in increasing the size of the main tables, hence data was earlier presented in supplementary tables. As suggested by the reviewers, we have revised the tables and presented the mean phenotypic data of BB, blast and drought screening in the main tables for each IL in parenthesis. Column on ‘no. of genes/QTL’ has been removed as suggested. Entry nos have been replaced with IL No as suggested.
+The data on bgs are not sufficiently presented in the text nor discussed.
+Response: The present work is not essentially a backcross breeding program aimed at development of near isogenic lines. However, Krishna Hamsa was the common background into which several genes/QTL were targeted from multiple donors and considering the morphological similarity between 27 ILs and Krishna Hamsa, background selection was done retrospectively. BGS validated our observations on morphological similarity. The same has been discussed in the 5th para under ‘discussion’. Also results on BGS have been presented under subsection 2.3 of results with data on polymorphic markers for BGS in supplementary table S8.
+Minor issues:
+revise the use of "-" instead of "( )" when mentioning the numbers of the ILs, or any other system which would ensure a better homogeneity in comparison to the one present in the ms.
+Response: “()” have been removed while mentioned the numbers of the ILs and sentences have been revised appropriately in the manuscript.
+2. check lines 21, 37, 93, 153, 183-184, 312, 351-353, 360, 377, 466
+Response: The above mentioned lines have been checked and found either spelling mistakes or revision of sentences. Accordingly, corrections were made.
+3. stick to BB instead of BLB
+Response: BLB has been replaced with BB throughout the manuscript.
+4. consider anticipating the explanation of the acronyms which are eventually presented only in the M&M, to facilitate the reading; consider this aspect also in the legends
+Response: Legends of figures and tables and text in the results section have been revised with explanation of acronyms as suggested.
+5. Lines 403 et seq. are redundant
+Response: The sentence here is required to maintain flow of the subsequent content.
+6. lines 414 et seq. seem to be contradicting lines 351 et seq.
+Response: Both lines explain our observations in different sets of ILs. Sentence at 351 explains susceptibility in ILs despite possessing the targeted gene/QTLs while sentence at 414 explains resistance in ILs despite the absence of targeted gene/QTLs.
+7. the 85 ILs presented at 414 seem to be a bit out of the blue: a short intro to where they are coming from would help the reader.
+Response: The 85 ILs is a sum total of nine ILs marker positive to blast- R genes, nine ILs harbouring QTLs for drought tolerance and 67 ILs marker positive to BB-R genes mentioned at the beginning of 4th paragraph of discussion. As suggested, we have added in brief about the same at line 414.

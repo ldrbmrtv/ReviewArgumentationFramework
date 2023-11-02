@@ -1,0 +1,51 @@
+Author Response
+Dear Professor Mok,
+
+We appreciate that you give us the possibility to revise our manuscript and we thank the reviewers for their valuable comments. Based on these comments we herewith respond to all questions raised in a point-by-point manner, as follows:
+
+
+Reviewer 1:
+
+Based on the cell line RNA and protein data the expression level of MACC1 is highly variable rather than being present or not. Is there a similar variability present among the tissue samples? Please provide the distribution of the IRS scores of the patient cohort and explain how was IRS 5 chosen as cut off?
+
+Answer: We thank the reviewer for this comment.
+As suggested, we analyzed the distribution of IRS (immunoreactivity score) across the cohort. In Figure 1 it can be clearly seen that there are two groups forming here, those with 0-4 and those with 6-12 IRS.
+In addition, we calculated the survival probability depending on the IRS (Figure 2). Patients with an IRS of 6 or higher have a similar bad prognosis compared to patients with an IRS below 5. A better survival correlates with lower MACC1 IRS. Patients with an IRS of 0 have the best prognosis.
+Based on these two analyses, the decision for cut-off value of 5 was made.
+Additionally, ROC curve analysis showed, that the IRS value of 5 has the highest Youden Index and is therefore the most suitable cut-off value. The IRS cut-off value 5 reaches a sensitivity of 76.6% and a specificity of 64.2% (Youden Index. 0.408) (Figure 3 and Table 1).
+Looking at MACC1 expression in cell lines and tissue samples, the variability looks similar. Nevertheless, it must be considered that the investigation of the homogeneous cell lines is a purely quantitative analysis of the expression by Western plot and RT-PCR. The analysis of the tissue samples by immunoreactivity score analyses both the strength of expression and the inhomogeneity of expression.
+Figure 1: Distribution of the IRS across the cohort
+Figure 2: Overall Survival depending on the IRS
+Figure 3: ROC Curve for IRS cut-off analysis (AUC 0.716 [0.656 – 0.776])
+Table 1: Sensitivity, specificity and Youden Index for different IRS cut-off values.
+
+
+The authors argue that MACC1 expression did not significantly influenced cell proliferation in the two cell line models. However, cell proliferation was analyzed only in a 24-hour long period even though most cancer cells have a doubling time around 24 hours. In order to draw a conclusion about the proliferation effect a longer (48 or 72 hours) measurement is necessary.
+
+Answer: We thank the reviewer for raising this point. However, to respond to this question appropriately, we currently can provide only the results from proliferation assays for one cell line model (FLO1-EV vs FLO1-MACC1) over the time period of 72 h. This assay was with no statistically significant difference in cell proliferation between FLO1-EV vs FLO1-MACC1 (see Figure 4).
+
+Figure 4: Proliferation of FLO1 EV and FLO1 MACC1 over 72 h. Analysis of in vitro proliferation assay.
+
+Unfortunately, the short revision period of 10 days limits the generation of additional data sets for proliferation in further tumor cell lines.
+
+The concentration used from selumetinib both for the cell line experiments (10 microM) and for the animal experiments (50 mg/kg) are quite high. Please discuss how the applied concentrations are related to the clinically used dosage (75 mg administered orally twice https://clinicaltrials.gov/ct2/show/NCT02448290) and why not the more efficient MEK1 inhibitor trametinib was used for the experiments. It would be nice to know the selumetinib sensitivity of the two used cell lines.
+
+Answer: We thank the reviewer for this question. The concept of MACC1 inhibition was originally developed by our group for the treatment of MACC1 positive colorectal cancers and was recently published (Kobelt et al. Oncogene 2021). In this study we transferred our experience with MACC1 inhibition by selumetinib on AGE/S.  Therefore, we chose the same doses for in vitro and in vivo experiments, and which was also used by other authors (Huynh et al. Mol Cancer Therapy. 2007). Further, we knew that the selected selumetinib concentrations of 10 µM has no cytotoxic effect in vitro and showed no reduction of migration in the MACC1 negative clones (FLO1-EV and OEshMACC1).
+
+Regarding the different dosages in the context of xenografted mice treatment in vivo and the clinically used dosages, the FDA recommends multiplying the dosage by a factor of 0.08 when transferring from mouse to human (Niar et al. Journal of basic and clinical pharmacy 2016). According to this calculation, the dosage of 50 mg selumetinib /kg mouse used would equal a dosage of 4 mg/kg in humans. The clinical dose of 75mg twice daily corresponds to a dose of 2x1mg per kg assuming a patient weight of 75kg. Using the aforementioned calculation, this dose equals then 12.5 mg/kg for treatment of mice. In our study, we refer again to the work of Huynh et al. Here, in which a dosage of 12 mg/kg selumetinib showed only a low level of effectiveness. At 100 mg/kg, a very good effectiveness was seen, however combined with an increased toxicity. Thus, we used in our study the dosage of 50 mg/kg as an effective dosage with low toxicity for the mice.
+
+Overall, we are considering here a pre-clinical model. The possibility of MEK1 inhibition to inhibit MACC1-induced effects in AGE/S was examined. Further, extended in vivo studies might then reveal the ideal dosage in vivo, being thereafter translated to use in humans. The use of trametinib is an interesting suggestion and might well be adapted to its use in forthcoming studies
+
+References:
+Kobelt, D., Perez-Hernandez, D., Fleuter, C., Dahlmann, M., Zincke, F., Smith, J., ... & Stein, U. (2021). The newly identified MEK1 tyrosine phosphorylation target MACC1 is druggable by approved MEK1 inhibitors to restrict colorectal cancer metastasis. Oncogene, 40(34), 5286-5301.
+Huynh H, Soo KC, Chow PK, Tran E. Targeted inhibition of the extracellular signal-regulated kinase kinase pathway with AZD6244 (ARRY-142886) in the treatment of hepatocellular carcinoma. Mol Cancer Ther. 2007 Jan;6(1):138-46..
+Nair, Anroop B.; Jacob, Shery. (2016). A simple practice guide for dose conversion between animals and human. Journal of basic and clinical pharmacy, 7. Jg., Nr. 2, S. 27.
+
+
+
+
+
+
+
+
+

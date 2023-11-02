@@ -1,0 +1,7 @@
+Reviewer 2 Report
+The manuscript  is an interesting research about developing a chemosensor array for metals ions detection simultaneously. It is very well written and presented. A detailed supllementary material is very helfup and useful for readers.Here are some comments:line. 57-58. It seems that Figure 1 should be placed in other section, namely Section 3.1. , where it is mentioned for the first time (line 176).
+Line 59. Remove "2. Results"
+line 148. What does NAA mean?
+line 251. Write "On TEM images " instead of  "Transmission electrone microscopy can be observed..."
+line 284. Remove the word "that"
+

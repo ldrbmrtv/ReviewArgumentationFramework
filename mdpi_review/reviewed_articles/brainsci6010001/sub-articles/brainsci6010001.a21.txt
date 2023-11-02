@@ -1,0 +1,19 @@
+Author Response
+We thank Reviewer #1 for her/his final comments. We reply here to this remaining comment, which was actually similarly raised by the other Reviewer on the first revision round, and adressed in our revision (Reviewer #2 declared her/himslef satisfied).
+
+Reviewer 1: In table 2 the authors indicate a significant difference in NREM, specifically N1 and N2 (although it looks like there might be a similar trend in N3), between the two nap conditions.
+Authors: As stated in the manuscript, we indeed observed significant group-differences in N1 and N2 duration. However, contrary to the statement of the Reviewer, no trend was present for N3
+
+Reviewer 1:    I assume this is because the subjects were awakened at 45 min for the short nap whereas they were allowed to complete a full NREM cycle in the long nap condition resulting in longer time in NREM.  As expected they show a significant difference in time spent in REM as well.   Since there is a significant difference between time in both NREM and REM sleep between the two napping conditions I am unsure how the conclusion that REM density alone as a “marker of memory consolidation” can be drawn.
+Authors: Again, we must correct that the difference was restricted to N1 and N2. N3 duration was similar in both nap duration. See also our answer to the next sub-question.
+
+Reviewer 1:    I recognize that the authors included this in their limitations section.  Based on previous literature showing that REM sleep alone affects consolidation of emotional memory I think their conclusion is probably correct.  However, in light of this limitation, based on the data provided I do not see how the authors can reach this conclusion.
+Authors: As acknowledged by the Reviewer, we addressed this issue in the limitation section and already pondered the manuscript in this respect. We favour the hypothesis of REM sleep involvement for the following reasons:
+1° We concluded that REM density might represent a potential marker of the consolidation of the sad story because we actually observed a significant correlation between REM density and memory performance for the sad story. Such correlation was not observed for the neutral story.In addition, memory performance was not correlated with any NREM sleep measures (spindles; duration of N1, N2 and N3; NREM sleep spectral power in all frequency bands). Based on these empirical foundation, we indeed assume that REM sleep density is associated with memory for a sad story in our study.
+This being said we agree that the claim that REM density might represent a neurophysiological marker of memory consolidation is not warranted by the data and deserves further investigation. Therefore we have toned down our conclusion section as follows : «We also found that mood improved after a long nap, an improvement however followed by mood deterioration and increased emotional reactivity at re-exposure to the emotional material. Mood and reactivity were not affected after a short nap. Altogether, our data suggest that REM sleep density is associated with  memory consolidation for sad stories, and indicate that longer naps, richer in REM sleep, might induce increased emotional reactivity on the short-term. »
+We hope and think that wit these corrections and explanations we have now addressed all the remaining concerns raised by the reviewers.
+
+
+
+
+

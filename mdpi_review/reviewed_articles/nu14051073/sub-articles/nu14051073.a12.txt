@@ -1,0 +1,16 @@
+Author Response
+Reviewer two comments:
+I am not familiar with the Bland-Altman method, so was unclear when I read the methods section whether the text in lines 204-207 was explaining the Bland-Altman method or describing a separate procedure. I take from the results that those sentences were describing the Bland-Altman procedure, and if so, adding some text along the lines of "In this procedure..." would be helpful. As it was, I couldn't understand the description provided, and it didn't seem to match the figures, which were simply labeled as FM, so seemed to be a simple plots of FM using 2 methods on first read.
+Added
+2. Relatedly, it would have been helpful to have more explanatory titles for the plots--eg "Differential correlation between methods across levels of FM". And, the meaning of the trend line was very counter-intuitive, so an interpretive note under the plots would have been helpful. (E.g., "A positive trend indicates increasing underestimation of FM at high FM levels; a negative trend indicates increasing overestimation of FM at high FM levels.
+Added to supplementary figure 1 and main figures 1 and 2
+3. There is no description of the race and ethnic composition of the sample. I am not well-versed in the ethnic composition of Mexico, however, would it be helpful to know the degree of representation of, for example, youth who are Black, of Indigenous ancestry, and of European ancestry? Or are there other ethnic or cultural groups that should be represented?
+Specified in limitations lines 993-997. Important to say is that ~89% of Mexican population is Hispanic. Only 6.6% belong to indigenous population and 5.9% to Afro-Mexican ethnic groups.
+4. I didn't understand why the data differed between Table 1 and Supplementary Table 1. Why did Ns (and means/SDs) differ?
+Corrected. In the previous version we put data of the whole sample of 293 subjects (including 5 outliers that should not been there). We have corrected the data, and now we only present data on the 288 subjects for both tables.
+5. Not all abbreviations are listed for the table footnotes (FFM, D2O, DXA, LM, BV, ADP)
+Added to table 1.
+I hope that you find this work suitable for your Journal and I look forward to hearing from you.
+Sincerely,
+Dra. Desiree Lopez-Gonzalez
+Author Response File:  Author Response.docx

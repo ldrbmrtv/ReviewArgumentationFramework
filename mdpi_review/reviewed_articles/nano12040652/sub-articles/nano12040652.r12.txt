@@ -1,0 +1,5 @@
+Reviewer 2 Report
+The introduction section could be improved. Some sentences are not well written or convey obvious ideas. Moreover, the aim of this work is to present an overview about the discharge behavior. The introduction would benefit from adding more content and detailed review overview to this research, such as particle lifting in electrostatic discharge , Turbulence effect, Mist-containing environment, Electrode materials.
+Please describe better your experimental system, such as ignition energy.
+The choice of the electrode material should be clearly explained in the present paper.
+Please explain the mechanism of different color arcs produced by electrodes of different materials.

@@ -1,0 +1,5 @@
+Reviewer 3 Report
+The main comment addressing the article improvement is the methodology applied for statistical analysis.
+The appropriate methodology considering parametric assumption for normality and homogeneity of variances before data analysis should be applied. Later one-factor analysis of variance should carry out accordingly. The application of the Duncan test should be justified because it is less sensitive in this kind of study.
+Figures 2a, 3a and 4a include photos whose resolution should be improved.
+

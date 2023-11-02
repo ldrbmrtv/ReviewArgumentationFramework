@@ -1,0 +1,8 @@
+Reviewer 2 Report
+Thank you for your hard work.
+This is a well-executed study with a solid research base.
+I only have a few minor concerns that I'd like the authors to clarify and address when revising.
+"To the best of our knowledge, this is the only study that addresses the role of economic and political uncertainty as a moderator in a model that accounts for the dynamic patterns of firm environmental performance" (line 128). --> I believe the authors intended "moderating role."
+The authors could go into greater detail to explain the logic behind this relationship. As it stands, the paper offers little insight into the reasoning behind their hypothesis.
+It would be useful if the authors provided some speculative thoughts on the finding that the slope of the GenDiv variable is negative in highly uncertain countries on the firm's environmental performance (Figure 3 (c) red line).
+Overall, I believe that this study has a high potential to add to the literature on the relationship between gender diversity and firm environmental performance. Best wishes for your future research.

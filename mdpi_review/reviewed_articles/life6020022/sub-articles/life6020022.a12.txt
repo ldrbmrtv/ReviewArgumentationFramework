@@ -1,0 +1,27 @@
+Author Response
+Reviwers comments
+The manuscript contains scientific material that can be published as a short communication. However, there are some remarks on the justification of objectives of the study and presentation of the results.
+First of all it is necessary to change the title and at least remove “The testing”.
+Reply: The title has been changed.
+The introduction part requires more arguments to prove choice of the problem and the research object (D. radiodurans).
+Reply: In the introduction we already described the problem of the destructiveness of heat sterilization like autoclaving on the organic contents of a soil, which was our motivation to test an alternative method such as low temperature plasma sterilization. D. radiodurans was used as test organism because of its resistance towards UV radiation, which is a part of the sterilizing effect of plasma sterilization. The appropriate passages in the introduction section have been edited.
+In addition, I think, a control consisting of D. radiodurans cells before and after sterilization is missing to determine the role of the Martian Analog soils.
+Reply: Since we did not intend to test the influences of the Martian Analog soils on D. radiodurans, but the sterilizing effect of the low temperature plasma treatment on cells intermixed with soil, we did not make a control to determine the effects of the Mars analog soils. The starting values of cell numbers were estimated on samples prepared the same way as the samples for the plasma sterilization (intermixed with soils and desiccated as described in the method section). They were incubated on TYG agar plates like the plasma samples after the treatment. This explanation was missing in the text and has now been added to the appropriate passages in the method section (Chapter 2.2.) for a better understanding.
+Minor comments (please see changes in text at the relevant lines)
+Lines 31-32: Bacillus subtilis and B.pumilus should be written in italic.
+Reply: The names are written in italics now, the mistake must have happened during the editing of the text.
+Line 38: Deinococcus radiodurans should be written in italic. While writing D. radiodurans R1 has always necessary to note that this is type strain R1T.
+Reply: Done, thank you.
+Line 41: Medium instead of media. If I understood correctly, you used only one medium.
+Reply: Yes, we just used one medium (TYG), so we changed it to ‘medium’.
+Line 50: R1T (=ATCC 13939T=DSM 20539T) instead of R1 ATCC13939/DSM20539
+Reply: The writing has been changed accordingly.
+Line 57: Are you sure that the Martian Analog soils were sterile before using?
+Reply: Since the bottles containing the Martian Analog soils were autoclaved before use, they should be sterile. We also made a separate test to check for sterility after autoclaving the Martian Analog soils, which has been negative (meaning no contamination could be detected via plating of the autoclaved JSC Mars-1A regolith on TYG medium).
+Line 78: Please explain in the text what is “a vacuum treatment control”.
+Reply: An explanation has been added to the text passage.
+Discussion
+How do you explain the difference between the results when using JSC Mars-1A analog and the other soils?
+Reply: The differences might be caused due to the finer grain size of the other regolith used - particularly P-MRS, which possibly increased the shielding effect. This has been added to the discussion section.
+The authors’ like to thank the reviewer for the helpful comments and suggested corrections to improve the manuscript.
+

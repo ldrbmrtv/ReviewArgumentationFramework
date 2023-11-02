@@ -1,0 +1,16 @@
+Reviewer 1 Report
+Cancers-1602413, Tumor Treating Fields Concomitant with Sorafenib Inhibit Hepatocellular Carcinoma in Vitro and in Vivo.
+In this manuscript, the authors, Davidi et al have investigated the effect of TTFields in HCC cells and an animal model, alone or in combination with sorafenib. Overall, the authors believe that this research demonstrates potential for concomitant TTFields and sorafenib application in the treatment of HCC.
+I read the manuscript with interest and commend the authors for the work done in the area of liver cancer treatment. However, I feel that the experiments around this concept were not designed well enough to support their new findings. I have raised the following concerns which is necessary to make this manuscript more scientifically interesting.
+What is the rationale of using 150 kHz TTFields? TTFields at 100 kHz has also shown significant differences as cytotoxicity at p<0.01 and p<0.001 in HepG2 and Huh-7D12 cells which have around 60% and 50% of cell survival. Why did the authors use high frequency of TTFields though the cytotoxicity was also observed in lower dose (Fig 1A).
+What is the ‘n’ number of the samples and experiments in each group? Also mention the ‘n’ number in all the experiments involved for invitro and invivo.
+LC3 is increased in all the groups except in control tissue, however, cell death was increased only in combined group. How can the authors correlate autophagy with apoptosis? It is not so trustworthy that the only expression of LC3B indicate the treated condition have increased autophagy in the tumor tissue. Other important autophagy and degradation markers like Beclin1 and P62 need to be shown to reflect the regulatory mechanism of TTFields, as well as for the combined treatment with Sorafenib.
+What was the total weight of livers in all groups? Please update the images of whole liver showing tumors on it, or at least pictures of tumors which were removed after sacrifice, if applicable.
+Several data have shown very high error bars in each group (especially Fig Can the author provide the tumor images which were harvested from mice?
+In the IHC experiment for PARP, the authors have incubated with primary antibody only for 30 min? Is that timing enough to get protein expression? What source of secondary antibody was used? In addition to IHC, I suggest performing western blot using PARP antibody where the full length and cleaved bands are observed in the same blot.
+The figure number is mislabeled in Fig 4D-LC3 Immunofluorescence.
+Why there is no error bar in the control group of all bar graphs? Please include error bars and re-calculate the statistical analysis for all the data wherever missing.
+Figure legends of Fig2D is missing. Fig C is repeated in the legend. Please label the figures appropriately. It is so frustrating to understand.
+There is no data in Fig 4A. Whole data is missing but have explained in the result section and in figure legends.??
+Line 337 seems over statement since the data are not shown in the manuscript.
+Typos: Line 111, ‘invitro’ spelling is not correct. Double ‘and’ in Line 342. Need language and grammar check.

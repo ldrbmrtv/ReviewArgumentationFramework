@@ -1,0 +1,12 @@
+Reviewer 1 Report
+Verolino et al. Present a manuscript comparing the clinical thrombosis outcome in patients undergoing abdominoplasty and being on LMWH vs anti-Xa DOACs. Overall, this is nice work demonstrating the equivalence in efficacy between the LMWH and anti-Xa inhibitor in respect to thrombotic complications. Authors, however, need to address the following concerns:
+Have authors followed on the bleeding complications like epistaxis, menorrhagia, gum bleedings, etc.?
+Authors mention there were 2 cases of hematoma in enoxaparin group. Please describe it further. Were hematomas developing paraumbilically? Or were they seen somewhere else?
+Extensive English editing is required.
+Citations needed for sentences in line 36 and line 37.
+In line 89 authors state that "thrombophilic states are rather venous than arterial". Although this may be true from a prevalence standpoint, the way this sentence is structured would mislead the reader. Revise accordingly, since there a number of arterial thromboses that thrombophilias can cause.
+In line 87 - authors state "mild thrombophilia". Severity of thrombophilic states are now yet well categorized, therefore more clarification needs to be provided here.
+Enoxaparin and rivaroxaban have to be lower case as they are not brand names.
+Line 150 - it should be "anti-thrombotic" rather than "an-thrombotic".
+P values have to presented in Table 1.
+Line 179 - authors first mention 39 factors, and then in line 179 state 40. Which is true?

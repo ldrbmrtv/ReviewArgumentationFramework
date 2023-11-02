@@ -1,0 +1,425 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "the Discussion is insufficient.",
+      "Reviewer_1.1.2": "Also, the manuscript is poorly written, it should be substantially improved. Check English grammar and Instructions to Authors.",
+      "Reviewer_1.1.3": "In line 227 \u201cback of tobacco\u201d is not clear be more specific.",
+      "Reviewer_1.1.4": "Rephrase lines 266-268 is unclear; wording, grammar and punctuation are wrong.",
+      "Reviewer_1.1.5": "Rephrase lines 317-318. Comments as above.",
+      "Reviewer_1.1.6": "In lines 271-272 and 395-396, how do you explain that salt induced promoter trans-activation? Is there any published precedent?",
+      "Reviewer_1.1.7": "Write appropriate brand of kits and reagents, followed by country. Check journal format.",
+      "Reviewer_1.1.8": "In line 38 replace \u201cFortunately\u201d with However.",
+      "Reviewer_1.1.9": "In line 63 replace \u201ctrancroptoma\u201d with transcriptome.",
+      "Reviewer_1.1.10": "In line 65 replace \u201cAnd\u201d with In addition.",
+      "Reviewer_1.1.11": "In line 69 add period after assay.",
+      "Reviewer_1.1.12": "In line 83 what extraction method was used? Mention kit of reagent brand.",
+      "Reviewer_1.1.13": "In line 91 what brand was Taq polymerase from?",
+      "Reviewer_1.1.14": "In line 100 replace \u201cligated\u201d with was ligated and quote a reference for pORERA-GFP vector or mention brand if it is commercial.",
+      "Reviewer_1.1.15": "In line 113 replace \u201cpsoup\u201d with pSOUP and \u201ctobaccos\u201d with tobacco plants.",
+      "Reviewer_1.1.16": "In line 117 and 267 replace \u201cvacuuming penetration\u201d with vacuum infiltration.",
+      "Reviewer_1.1.17": "In line 118 define \u201csymbiotic medium\u201d.",
+      "Reviewer_1.1.18": "In line 123 delete the first phrase which is repetitive (was already written before in Line 100).",
+      "Reviewer_1.1.19": "In line 129 replace \u201cstrains\u201d and \u201cstrain\u201d with lines and line.",
+      "Reviewer_1.1.20": "In line 131 delete the period after experiments.",
+      "Reviewer_1.1.21": "In line 138 Seedling should be lowercase.",
+      "Reviewer_1.1.22": "In line 149 mention the kit brand.",
+      "Reviewer_1.1.23": "In line 154 add \u201cstrain\u201d after receptor and mention kit brand.",
+      "Reviewer_1.1.24": "In line 169 add \u201cwere done\u201d at the end. A phrase must have a verb.",
+      "Reviewer_1.1.25": "In line 261 replace \u201ctobaccos\u201d with tobacco plants.",
+      "Reviewer_1.1.26": "In line 262 replace \u201cwere treatment by\u201d with were treated with.",
+      "Reviewer_1.1.27": "In line 264 replace \u201cindicate\u201d with indicated.",
+      "Reviewer_1.1.28": "In line 292 \u201cThe\u201d must be lowercase.",
+      "Reviewer_1.1.29": "In line 318 \u201cWe\u201d must be lowercase.",
+      "Reviewer_1.1.30": "In line 395 replace \u201cit revealed\u201d with revealed.",
+      "Reviewer_1.1.31": "In line 406 delete period after stress."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Why the authors do not consider to use aminoacidic sequence to compute a protein model (e.g., by using gromacs)?",
+      "Reviewer_2.1.2": "Auhtors report that Actin was used as housekeeping gene. Do the authors have performed an efficiency test before using it? Do they tried to use otherHK genes?",
+      "Reviewer_2.1.3": "Line 124: generate instead of generate",
+      "Reviewer_2.1.4": "Line 267-268: Please, check this sentence. It ends with \"then\".",
+      "Reviewer_2.1.5": "Figure 5 caption: activates instead of activate",
+      "Reviewer_2.1.6": "Line 302: plant leaves instead of plants leaves",
+      "Reviewer_2.1.7": "Line 311: plant leaves instead of plants leaves",
+      "Reviewer_2.1.8": "Line 315: maybe a semicolon after \"salt stress\" is appropriate",
+      "Reviewer_2.1.9": "Line 360: remove the space after \"assay\"",
+      "Reviewer_2.1.10": "Figure 9 caption: measure instead of measuring",
+      "Reviewer_2.1.11": "Line 392: I suggest to change the sentence in the following way \".. to drive the expression of target genes..\"",
+      "Reviewer_2.1.12": "Line 446: \"...participate in salt stress\"",
+      "Reviewer_2.1.13": "Line 448: check the word \"redycing\""
+    },
+    "Author": {
+      "Author.2.1": "Thank you for your comment. We feel sorry for the unclear statement. In our study, we used the amino acid sequence of OfSPL11 to compute the protein model. Secondary structure predictions were conducted on the PRABI (http://www.prabi.fr/spip.php?page=sommaire) protein structure prediction server. The ExPASy (http://web.expasy.org) was used to analyze the molecular weight, theoretical isoelectric point, and other physiochemical properties of the translated protein. Similar methods of operation and efforts can be found in other articles (Islam, 2021). Once again,we sincerely thank you for the recommended method, which we will use in future studies.",
+      "Author.2.2": "Thank you for your comment. We tested the amplification efficiency before using housekeeping genes. Referring to the previous study of Arabidopsis housekeeping genes (Dheda, 2004; Czechowski, 2005; Hou, 2018), we selected Atactin1 (F: AGGCACCTCTTAACCCTAAAGC, R: GGACAACGGAATCTCTCAGC), Atactin2 (F: TTGTGCTGGATTCTGGTGATGG, R: CCGCTCTCTGCTGTTGTGGTG) and Atactin8 (F: GAATTACCCGACGGACA, R: ACGGTCTGCAATACCT) were tested for efficiency, and we found that the best result was Atactin2. The best housekeeping gene for O. fragrans is OfACT, which has been reported in a previous study (Zhang, 2015).",
+      "Author.2.3": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 130).",
+      "Author.2.4": "Thank you for your comment. We have revised the manuscript according to your comments (Line 274-277). This sentence has been changed to \u201cA. tumefaciens suspensions containing the fusion vector OfSPL11pro: LUC was transiently transformed into O. fragrans callus using vacuum infiltration, and then the O. fragrans callus were cultured in a symbiotic medium containing 0 mM and 200 mM NaCl.\u201d",
+      "Author.2.5": "Thank for your kindly suggestion. We had made correction carefully (Line 283).",
+      "Author.2.6": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 310).",
+      "Author.2.7": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 319).",
+      "Author.2.8": "Thank for your kindly suggestion, we had made correction carefully (Line 324).",
+      "Author.2.9": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 366).",
+      "Author.2.10": "Special thanks to you for your good suggestion. We had made correction carefully (Line 381).",
+      "Author.2.11": "Thank you for your comment. Special thanks to you for your good suggestion, we had made correction in the manuscript (Line 398).",
+      "Author.2.12": "Thank for your kindly suggestion. We have revised the manuscript according to your comments (Line 456). The statements of \u201cparticipate in salt stress responses\u201d were corrected as \u201cparticipate in salt stress.\u201d",
+      "Author.2.13": "Thank you for your comment. We are very sorry for our negligence. We had made correction carefully (Line 457). The word of \u201credycing\u201d were corrected as \u201creducing.\u201d",
+      "Author.2.14": "Thank you for your comment. We have modified this part in revised manuscript (Line 121-125). This sentence has been changed to \u201cSymbiotic medium was prepared by weighing 4.414 g MS, 20 g sucrose, 10 g glucose, 7 g agar into a conical flask, sterile water was fixed to 1 L. The medium was sterilized in an autoclave for 30 min and the temperature was lowered to 55\u2103, add 100 \u03bcl naphthalene acetic acid (0.1 mg L-1), 500 \u03bcl zeatin (1mg L-1), 1 mL folic acid (1mg L-1), 1 mL 6-BA (2mg L-1), 500 \u03bcl acetosyringone (0.1 mol L-1).\u201d",
+      "Author.2.15": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 129).",
+      "Author.2.16": "Special thanks to you for your good suggestion, we had made correction carefully (Line 136).",
+      "Author.2.17": "Thank you for your comment. We are very sorry for our negligence, we had made correction carefully (Line 138).",
+      "Author.2.18": "We are very sorry for our negligence, we had made correction in the manuscript (Line 145).",
+      "Author.2.19": "Thank you for your comment. We had made correction in the manuscript (Line 156-157). The statements of \u201cthe MDA assay kit\u201d were corrected as \u201cthe MDA assay kit (Jiancheng Bioengineering Institute, Nanjing, China).\u201d",
+      "Author.2.20": "Thank you for your comment. We had made correction in the manuscript (Line 162 and 163). The statements of \u201cthe yeast Y187 receptor strain preparation and transformation kit\u201d were corrected as \u201cthe yeast Y187 receptor strain preparation and transformation kit (Coolaber, Beijing, China).\u201d",
+      "Author.2.21": "Thank for your kindly suggestion, we had made correction carefully (Line 177).",
+      "Author.2.22": "Thank you for your comment, we had made correction in the manuscript (Line 270).",
+      "Author.2.23": "Thank for your kindly suggestion, we had made correction carefully (Line 271).",
+      "Author.2.24": "We are very sorry for our negligence, we had made correction carefully (Line 273).",
+      "Author.2.25": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 301).",
+      "Author.2.26": "We are very sorry for our negligence, we had made correction carefully (Line 327).",
+      "Author.2.27": "Thank for your kindly suggestion, we had made correction carefully (Line 403).",
+      "Author.2.28": "Thank you for your comment, we had made correction in the manuscript (Line 415).",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.14",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.15",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.16",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.17",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.18",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.19",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.20",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.21",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.22",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.23",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.24",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.25",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.26",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.27",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.28",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.29",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.30",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.31",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.9"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.10"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_1.1.11"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_1.1.12"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_1.1.13"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_1.1.14"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_1.1.15"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_1.1.16"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_1.1.17"
+    ],
+    [
+      "Author.2.16",
+      "Reviewer_1.1.18"
+    ],
+    [
+      "Author.2.17",
+      "Reviewer_1.1.19"
+    ],
+    [
+      "Author.2.18",
+      "Reviewer_1.1.20"
+    ],
+    [
+      "Author.2.19",
+      "Reviewer_1.1.21"
+    ],
+    [
+      "Author.2.20",
+      "Reviewer_1.1.22"
+    ],
+    [
+      "Author.2.21",
+      "Reviewer_1.1.23"
+    ],
+    [
+      "Author.2.22",
+      "Reviewer_1.1.24"
+    ],
+    [
+      "Author.2.23",
+      "Reviewer_1.1.25"
+    ],
+    [
+      "Author.2.24",
+      "Reviewer_1.1.26"
+    ],
+    [
+      "Author.2.25",
+      "Reviewer_1.1.27"
+    ],
+    [
+      "Author.2.26",
+      "Reviewer_1.1.28"
+    ],
+    [
+      "Author.2.27",
+      "Reviewer_1.1.29"
+    ],
+    [
+      "Author.2.28",
+      "Reviewer_1.1.30"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.10"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_2.1.11"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_2.1.12"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_2.1.13"
+    ]
+  ]
+}

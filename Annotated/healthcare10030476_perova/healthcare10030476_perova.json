@@ -1,0 +1,232 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "Have authors followed on the bleeding complications like epistaxis, menorrhagia, gum bleedings, etc.?",
+      "Reviewer_1.1.2": "Authors mention there were 2 cases of hematoma in enoxaparin group. Please describe it further. Were hematomas developing paraumbilically? Or were they seen somewhere else?",
+      "Reviewer_1.1.3": "Extensive English editing is required.",
+      "Reviewer_1.1.4": "Citations needed for sentences in line 36 and line 37.",
+      "Reviewer_1.1.5": "In line 89 authors state that \"thrombophilic states are rather venous than arterial\". Although this may be true from a prevalence standpoint, the way this sentence is structured would mislead the reader. Revise accordingly, since there a number of arterial thromboses that thrombophilias can cause.",
+      "Reviewer_1.1.6": "In line 87 - authors state \"mild thrombophilia\". Severity of thrombophilic states are now yet well categorized, therefore more clarification needs to be provided here.",
+      "Reviewer_1.1.7": "Enoxaparin and rivaroxaban have to be lower case as they are not brand names.",
+      "Reviewer_1.1.8": "Line 150 - it should be \"anti-thrombotic\" rather than \"an-thrombotic\".",
+      "Reviewer_1.1.9": "P values have to presented in Table 1.",
+      "Reviewer_1.1.10": "Line 179 - authors first mention 39 factors, and then in line 179 state 40. Which is true?",
+      "Reviewer_1.3.1": "I have one major comment. It is still not clear how thrombophilia was defined. You write (page 3, lines 129-130): \"Only women with thrombophilia defined as a factor correlated with thrombotic phenomena linked to congenital or acquired factors. [21,40-43]\"\n \n I suggest you alter the sentence, e.g. to something like: \"Thrombophilia was defined as either the diagnosis of an inherited thrombophilia, a personal history of VTE or a familial history of VTE.\" If that is how you defined thrombophilia?",
+      "Reviewer_1.3.2": "Also, another round of language editing may be suitable."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "In the Abstract you state that \u201ctwo patients during their course of Rivaroxaban presented severe hematoma\u201d, but in Table 1 it appears that the two hematomas occurred in the enoxaparin group? Please clarify.",
+      "Reviewer_2.1.2": "The introduction is not well written. The structure is unclear, and the authors repeat themselves many times. For example, the section begins with introducing inherited thrombophilias and VTE risk in these conditions, then proceeds to surgery, then back again to thrombophilia where it repeats itself and even states other numbers for prevalences and VTE risks than previously stated. Furthermore, suitable references are lacking in some places. For the present study to be acceptable for publication, the introduction should be thoroughly revised.",
+      "Reviewer_2.1.3": "On page 1, lines 37-43, you state that: \u201cThe most important thrombophilic deficits, such as protein C, protein S and ATIII deficiency, have a 15-30 times higher thrombosis rate in the general population, with a prevalence of 0.14%-0,5 for C protein, 0.1-1% for S protein and 0.02-0.17% for TIII deficit. In the feared Factor V Leiden and PT 20210 gene homozygous, that present an about 80 times increased thrombotic risk, considering the frequency among general population, the rarity of these cases is more evident.\u201d Could you please cite relevant references for these prevalences and relative risks? Also, I know that relative risk estimates for VTE with different thrombophilias may vary and are uncertain, especially for the rarer thrombophilias. Nonetheless, an 80 times increased thrombosis risk with FV Leiden or FII 20210 homozygosity seems very high to me; it has been reported considerably lower e.g. in Sode et al CMAJ 2013 doi: 10.1503/cmaj.121636.",
+      "Reviewer_2.1.4": "Page 2, lines 47-48: \u201c\u2026and they present a highest thrombotic risk, 2-3% for 20210 gene, 3-8% for Factor V Leiden [1].\u201d This sentence is not clear. 2-3% of what for the 20210 polymorphism and 3-8% of what for FV Leiden? Also, \u201c20210 gene\u201d should be \u201c20210 polymorphisms, or \u201cG20210A polymorphism\u201d to be completely correct.",
+      "Reviewer_2.1.5": "Page 2, lines 87-88: \u201cIn this regard it is widely demonstrated that almost half of surgical patients who developed VTE have a mild thrombophilic syndrome [18].\u201d This is rather an astonishing statement, and as your source, you cite a paper from the \u201cAustralian Family Physician\u201d. Furthermore, what does \u201ca mild thrombophilic syndrome\u201d even mean? Please explain, or consider omitting this statement altogether.",
+      "Reviewer_2.1.6": "Page 3, lines 129-130: \u201cWe followed up a consecutive homogenous cohort of 48 thrombophilic female patients who underwent abdominoplasty from September 2014 to July 2019.\u201d First, how did you define \u201cthrombophilic\u201d? Second, did you perform a retrospective or \u201chistorical\u201d study, sitting down in 2019 to review all medical records 5 years back \u2013 or did you perform a prospective study, starting in 2014 and concluding in July 2019? This should be clearly stated.",
+      "Reviewer_2.1.7": "Page 3, lines 131-133: \u201cWe compiled the Caprini Risk Assessment Score for VTE preoperatively and all the patients showed a score of 7 or more, for that reason antithrombotic chemoprophylaxis was administered.\u201d Do you routinely perform a Caprini assessment for all patients in your clinic?",
+      "Reviewer_2.1.8": "Page 3, lines 133-134: \u201cPatients were then divided into two groups according to the drugs employed in antithrombotic chemoprophylaxis:\u201d How was it decided which patients received which form of prophylaxis? This is a very important point and should be described clearly.",
+      "Reviewer_2.1.9": "Page 3, lines 140-141: \u201cWe collected data for all groups of patients in terms of drain permanence, thromboembolic events, and hematoma formation.\u201d How did you define and verify a thromboembolic event? How did you define and verify excessive hematoma formation? How long was the follow-up time? And how did you obtain this information?",
+      "Reviewer_2.1.10": "Page 3, line 142: The Mann-Whitney test was used for what?",
+      "Reviewer_2.1.11": "The Discussion section could benefit from a language revision, especially in the latter part, to make the flow better. Also, a brief discussion on the limitations of your study should be included."
+    },
+    "Author": {
+      "Author.2.1": "we are very sorry for the mistake, and the manuscript was modified accordingly.",
+      "Author.2.2": "The criticism of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.3": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.4": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.5": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.6": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.7": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.8": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.9": "The observation of the reviewer has been accepted and the table 1 was modified accordingly.",
+      "Author.2.10": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.4.1": "The observation of the reviewer has been accepted and the table 1 was modified accordingly.",
+      "Author.4.2": "The new manuscript has been evaluated by an expert of English language.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_1.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_1.1.10"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.10"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.11"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.2",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.1",
+      "Reviewer_1.3.1"
+    ],
+    [
+      "Author.4.2",
+      "Reviewer_1.3.2"
+    ]
+  ]
+}

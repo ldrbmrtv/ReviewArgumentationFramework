@@ -1,0 +1,8 @@
+Reviewer 3 Report
+The manuscript reports a study about weight-biased language in the Australian media across the last decades. The topic is interesting, and the manuscript is clear. The methods applied are innovative and allow to underline new interesting evidence.
+I do not have particular concerns about the paper. I have some comments for the authors about the structure of the manuscript that should take into consideration:
+please move the research questions from the methods to the introduction
+last paragraph of the methods: why did you report here your conclusions? Please move this part from this section.
+Please revised Figure 1 because it's very difficult to read.
+A recent paper has pointed out that postbariatric patients, using a novel approach based on words, presented a weight bias regards their body, but it was not present for other bodies (see http://dx.doi.org/10.1007/s11695-020-05166-z). I think this aspect is interesting and linked to your results, showing a connection with clinical data.
+You report that an automatic approach was used to check all the papers. Is there any possible limit with this approach in the selection of the papers?

@@ -1,0 +1,4 @@
+Reviewer 1 Report
+The manuscript presents a systematic and detailed study on gelation of a new design of self-assembling molecule based on isophthalic acid. The gels have been  thoroughly characterized and their application in dye adsorption is demonstrated. The manuscript can be recommended for publication in Gels. There are a couple of minor suggestions.
+1) The word ‘Acid’ is missing in the title after ‘....Alkylamido Isophthalic...’. Also, the title has the word 'absorption' instead of 'adsorption'.
+2) Typographical error in the first paragraph: LWMG instead of LMWG

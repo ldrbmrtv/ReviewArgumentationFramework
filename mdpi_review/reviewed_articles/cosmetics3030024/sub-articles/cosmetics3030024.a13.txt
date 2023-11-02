@@ -1,0 +1,25 @@
+Author Response
+
+Dear editor,
+
+I would like to thank you and the reviewers for helping us improve our manuscript entitled “Facial Skin Lifting and Brightening following Sleep on Copper Oxide Containing Pillowcases”.
+We have carefully revised the manuscript according to the Reviewers comments. The revisions in the manuscript are highlighted in red. Below are the responses, point by point, to the Reviewer comments. For ease, the Reviewer comments are in black and our responses are in blue.
+We hope very much that you will now find the manuscript appropriate for publication in Cosmetics.
+Sincerely,
+Dr. Gadi Borkow and Dr. Adriana del Carmen Elías
+
+Reviewer 3:
+line 91: Please clarify the sleep behavior. What about study participants who are consequently back sleeper. Where there any standardization?
+As specified in Table 1, only side sleepers were included in the study. No back sleepers were included. Obviously, during the night it may be that some of the side sleepers sleep on their back for a given period of the night. We could not control for that, as participants slept in their house without being monitored. When comparing the sleeping habits of the participants in both studied group (as specified in Table 2), there were no statistical significant differences.
+The following new sentences were added to the Discussion: “Sleeping habits may influence how the pillowcase may affect the facial skin, as some individuals sleep more on one side than the other. During sleep individuals do change positions and sides, but overall some skin areas may be more in contact with the pillowcase than other parts and thus be affected more than the areas not in contact with the pillowcase. This study did not analyze the effect of the sleeping habits.”. (lines 212-219).
+line 96 /97: Where participants acclimatized?
+The “standard of test” in Dermapro is to do all measurement under a controlled environment after the study participants were acclimatized. This is now specified in the revised manuscript, line 104.
+line 128: how did you collect the skin characteristics like hydration, sebum surface and thickness? Did you used standardized biophysical measurements?
+These are standard biophysical measurements performed at Dermapro Center (http://www.dermapro.co.kr/eng/service/efficacy_face.php). Specifically, hydration was evaluated with a Corneometer(®) CM 825, sebum with a Sebumeter(®) SM 815, and skin thickness by ultrasonography by using a Dermascan C(®). This is now specified in the revised manuscript, lines 94-97.
+line 177: why does skin lifting effects and skin brightness increase after using a pillow free of copper?
+In line 177 of the original manuscript it is not specified that skin lifting or skin brightness increases in pillowcases without copper. On the contrary, it is discussed why it increases in pillowcases with copper. As mentioned in the Results section, and detailed in Tables 3, 4 and 5, in the control group using pillowcases without copper there were no statistically significant changes in the skin lifting or brightness, but only in the group using the pillowcases with copper.
+line 180: how did you verify that the face stayed in contact with the pillow over an period of 5 hours? Could it be possible that some participants sleeped on onla one side of the face over the study period?
+We could not verify that the face stayed in contact with the pillowcases over a period of 5 hours. The study participants were asked to use the test pillowcases as they are used to use their regular pillowcases. It may be that some of the participants in both groups slept only on one side of the face. However, even though some people are right or left sleepers, most people, including right and left sleepers, switch sides a few times per night while they sleep.
+As mentioned above, the following new sentences were added to the Discussion: “Sleeping habits may influence how the pillowcase may affect the facial skin, as some individuals sleep more on one side than the other. During sleep individuals do change positions and sides, but overall some skin areas may be more in contact with the pillowcase than other parts and thus be affected more than the areas not in contact with the pillowcase. This study did not analyze the effect of the sleeping habits.”. (lines 212-216).
+
+Author Response File:  Author Response.docx

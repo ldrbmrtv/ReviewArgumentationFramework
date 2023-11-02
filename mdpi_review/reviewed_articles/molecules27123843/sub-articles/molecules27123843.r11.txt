@@ -1,0 +1,5 @@
+Reviewer 1 Report
+
+This work presented the method for multiple metal ions detection using a carbon quantum dots (CQDs) based chemosensor array by functionalization with different amino acids. Although the method of preparation of these sensors is not new, the implementation to chemosensor array is well presented. The CQDs with and without metal ions were systematically characterized (TEM, IR, XRD, XPS, etc). It is also impressive that all 11 metal ions were successfully identified by LDA with 100% classification rate. The manuscript is well written. So, I suggest to accept this paper to Molecule with only minor revision:
+1.       In page 2, you write the heading “2. Results”, but the content of that paragraph belong to the introduction part. So, please remove the heading “2. Results”.
+

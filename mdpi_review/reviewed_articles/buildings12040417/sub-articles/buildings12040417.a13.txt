@@ -1,0 +1,148 @@
+Author Response
+Point 1:
+The introduction can be optimized appropriately. The introduction of the term "Biophilia" can be more detailed and easier to understand. By contrast, the introduction of “Biophilic Design” is very substantial. It may be better to find some literature to combine workplace design and “Biophilic Design”, and then to explore the relationship between them.
+
+Response 1:
+1) Further explanations of “Biophilia” are added in the Introduction.
+Revision in Page 1 Line 27-29:
+“The term "Biophilia" is evolved from human evolution research and is coined to describe humans' inherent love affinity for the living things in the natural world [1,2]. It explained why we prefer nature because it is an instinct deeply rooted in the human brain.”
+2) Literatures are added in the revised version to combine “workplace design” and “Biophilic Design”.
+Revision in Page 2 Line 48-53:
+“Workplace is one of the typologies that attracts the attentions of researchers. Scholars who research the relationship between the built environment and health found that the environment not merely directly or indirectly affects human health but also affects their work and study performance [59]. Studies proofed that biophilic design benefits workers’ health and productivity in an office environment [60, 61, 62, 63].”
+Citations are added in the Reference list:
+Derek, C. C., 2003. Environmental Quality and the Productive Workplace. In C. J. Anumba (Ed.), Innovative Developments in Architecture, Engineering and Construction. Rotterdam: Millpress Science Publishers.
+Lei, Q.H., Yuan, C., Lau, S.S.Y., 2021. A quantitative study for indoor workplace biophilic design to improve health and productivity performance. Journal of Cleaner Production. 324, 129168.
+Yin, J., Zhua, S., MacNaughton, P., Joseph, G., Allen, J.G., Spengler, J.D., 2018. Physiological and cognitive performance of exposure to biophilic indoor environment. Build. Environ. 132, 255–262.
+Yin, J., Arfaei, N., MacNaughton, P., Catalano, P.J., Allen, J.G., Spengler, J.D., 2019. Effects of biophilic interventions in office on stress reaction and cognitive function: a randomized crossover study in virtual reality. Indoor Air 29, 1028–1039. https:// doi.org/10.1111/ina.12593.
+Yin, J., Yuan, J., Arfaei, N., Catalano, P.J., Allen, G.J., Spengler, J.D., 2020. Effects of biophilic indoor environment on stress and anxiety recovery: a between-subjects experiment in virtual reality. Environ. Int. 136, 105427. https://doi.org/10.1016/j. envint.2019.105427.
+
+Point 2:
+The illustrations in the article are small and a bit vague, some pictures can shrink a little, not to the top to the border, these can be optimized.
+
+Response 2:
+Thanks for your suggestion. The figures and pictures have been adjusted in the revised manuscript.
+
+Point 3:
+Overall work of the article is sufficient, the results have the certain significance, but its limitation is obvious to all. Some of the results in the illustrations are obvious and can be reduced to less elaboration.
+
+Response 3:
+Thanks for your suggestion. The figures and pictures have been adjusted in the revised manuscript.
+The Section 3 Questionnaire Results and Section 4 are rewritten in the revised version: a) the statistical analysis is modified; b) to reduce elaboration in the text. Please kindly refer the following revisions:
+1) The original Section 3.1. Observation Results-Biophilic Design Attributes in the Selected Offices is moved to be Section 2.3.2. It is because the 2.3.1 is the selection of office, and the Section 2.3.2 provides observation details of the selected offices. After re-construction, Section 3. Questionnaire Results focus on illustrating the questionnaire results.
+2) In the revised version, the formulars in Section 3.3 2. Quantitative Results of Impacts of Biophilic Design for Workplace are removed due to the statistical analysis is modified:
+The means (SD) are only applied when the assumption of normality applies for the datasets. Hence, all the means (SD) are replaced as medians (IQR). And the corresponding figures (Figure 1 in Page 13 Line 359-361 and Figure 4 in Page 16-17 of the original manuscript) are removed in the revised version.
+
+Revision in Page 13 Line 381-394:
+The Cronbach’s α coefficient value of the main scale is 0.72, while those of the subscales GH, NR, and BDE in order are obtained as 0.68, 0.79, and 0.63, indicating that the questionnaire is reliable (i.e., an acceptable reliability: Cronbach's α>0.6) [57, 58] (Table 8).
+According to the quantitative results presented in Table 8, the medians (Interquartile Range, IQR) of the assessment show moderately high opinions toward the health and wellbeing of biophilic offices (HWBO), at 71.00 (8.00) (the score range from min. 20 to max. 100). Concerning the self-related evaluation scales GH and NR, the score range of GH and HR are minimum 4 to maximum 20, and the obtained results illustrate moderately high opinions, the values of 15.00 (2.00) and 14.00 (3.00) for GH and NR. The median (IQR) value of the POE scale BDE is evaluated as 42.00 (5.00) (range of total value: min. 12 to max. 60).
+Table 8. Medians, Interquartile Range (IQR), Mean, standard deviation, and α coefficient values of workers’ evaluation based on HWBO, GH, NR, and BDE.
+
+
+Revision in Page 18 Table 9:
+Table 9. Comparison of independent variables (Gender, Age, Educational Levels, Weekly Work Hours, Daily Sedentary Time, Work Desk Locations, Working Years, Office Locations) on self-reported GH, NR, and BDE.
+*p<.05, The significance level is .05.
+3) Elaboration for the Figure 2. Stacked graph with percentage responses for individually arranged items (from the bottom with a high percentage of disagreement to the top with high percentage of agreement) is reduced, because the illustrations are obvious in the figure.
+
+Revision in Page 15-17 Line 399-433:
+The analysis of individual items provides more details into the works' responses. As can be seen in percentage responses for individual items (Figure 2 in revision), most of the responses are distributed in the items "Neutral" and "Agree". The questionnaire results reveal that the employees from the understudy companies hold a relatively positive opinion on wellbeing, nature-relatedness, indoor environmental quality, and biophilic design for their health promotion. According to the arrangement, at the top of this, stacked graph are the evaluation of satisfaction of the work capacities and relationships in the workplace. About 73.2% of respondents agree that the workers of the companies under investigation are satisfied with their work capacity (GH3-Q10) and relationships (GH4-Q11). In the subscale nature relatedness, 62.2% and 61.7% of workers responded (agree/strongly agree) that their actions affect the environment (NR2-Q13), and they take notice of the wildlife in their daily lives (NR3-Q14). Nevertheless, only 47.8% of them selected agreed/strongly agree regarding the statements that their ideal spot for vacation would be a wilderness area (NR1-Q12). Regarding the POE results in the subscale BDE, 63.2% of workers agree/strongly agree that the natural light is an essential biophilic attribute and their offices are bright (BDE2-Q17). Furthermore, 60.7 % of the workers agreed that introducing natural colors in the office benefits workplace health and wellbeing (BDE11-Q26). More than 60 percent (approximately 60.7%) of respondents believe that greenery is a biophilic design that benefits office wellbeing (BDE6-Q21). Their feedback would be valuable for designers to note that application of the biophilic design attributes in the office design can enhance the experiences and evaluations of workers.
+The quantitative results of the questionnaire survey demonstrate that the workers agree that the biophilic design attributes in the office have positive effects on their subjective wellbeing.
+
+
+Figure 2. Stacked graph with percentage responses for individually arranged items (from the bottom with a high percentage of disagreement to the top with high percentage of agreement).
+
+
+Point 4:
+The result of biophilic design frameworks for specific workplace typology is of certain value. The location of the workplace selected in this article is limited, the related biophilic factors are scientifically screened, and the researchers have made a detailed classification study. However, the huge research scope has certain obstacles to the relevant results, and the general and targeted conclusions will be worse.
+
+Response 4:
+Thank you for your comments. These considerations are the limitations of this study. 1) these two cases are limited in representing all the workplace biophilic designs. As mentioned in the Conclusion, in the future study, we will include more offices and locations as experiment samples. 2) The investigative POE studies evaluated the self-reported health (GH), nature-relatedness (NR), and biophilic design in the workplace (BDE). The objective of the study is to evaluate the typical biophilic design attributes in office environment and the correlation between biophilic design and office health. Hence, the research scope is relatively extensive. In the future study, the research scope should be narrow down for intensive investigation.
+
+
+Point 5:
+It is best to supplement and describe the necessity of research. At the same time, it will be more complete if the results are reflected in the summary.
+
+Response 5:
+Thank you for your suggestion. The description of the necessity of research is highlight in the revised version. Please kindly refer the following revisions:
+
+Revision in Page 2 Line 56-66:
+“Although the importance of biophilic design seems to be well-acknowledged, and some international or regional green building and healthy building standards incorporate biophilic design elements into the rating system, such as WELL building standard version 2 and Singapore Green Mark [53]. However, further research on developing building typology-based biophilic design guide-lines and assessment methods are necessary.  Additionally, the effectiveness of such design in practical design projects for user wellbeing still requires confirmation. More importantly, building typology-based biophilic design guidelines should be appropriately developed because it would affect the designer's prioritization of design attributes selection in design practice.”
+
+
+Point 6:
+The object of the questionnaire should be composed of people with different ages and genders, which is best explained in the article.
+
+Response 6:
+The different genders and different ages are included in the study. The age ranges included 21-25, 26-35, 36-45, 46-60. The detailed description of the demographic information is in Section 3.1. Demographic Information.
+
+
+Point 7:
+Adding some explanations, examples and data comparison to the conclusion will be more intuitive and convincing, just as discussed earlier in the article. Perhaps this makes this article completer and more credible. At the same time, the conclusion only summarizes the article, and lacks discussions and explanations for the future research direction.
+
+Response 7:
+1) The Conclusion is rewritten to highlight the relationship between biophilic design and occupant health and wellbeing:
+Revision in Page 23 Line 516-540:
+
+“The significant research outputs from the present scrutiny are shown as following:
+a) The authors develop a POE questionnaire for evaluating the biophilic design for workplace health and wellbeing. The investigation explains that combined literature review and POE results are one of the practical methodologies to establish biophilic design frameworks for specific workplace typology. And the questionnaire can be applied in future biophilic design research for investigation.
+b) Additionally, the study provides novel design guidelines for designers with emphasizing on weight for workplace design practices. The weighting results of this study would be especially applicable to the workplace typology. The 14 Patterns of Biophilic Design has a broader range of usage for all building typologies and is more suitable for general design applications. Therefore, the weighting results of this experiment are not employed to deny the ranking in the 14 Patterns of Biophilic Design. These are exploited to show a new biophilic design framework for the workplace according to the users’ points of view (based on the POE results).
+c) Furthermore, the questionnaire results enhance our knowledge on the practical ap-plication of biophilic design frameworks for the workplace and contributed to more framework design consideration.
+d) The correlation results support the importance of biophilic design from the user perspectives. There is a significant correlation between office biophilic design and self-reported health of employees (r=.270**, p < .01).
+e) The study results contribute to provide designers with evidence-based design at-tributes for workplace design (i.e., the nine selected workplace biophilic design attributes).”
+
+2) The Conclusion is reconstructed and a separate section-- Section 6. Limitation and Future Studies is added in the revised version:
+Revision in Page 23 Line 542-551:
+
+“6. Limitation and Future Studies
+
+There are limitations in this study, first, these two cases are limited in representing all the workplace biophilic designs due to the sample size limitations. Further studies could include more offices and locations as experiment samples. 2) The investigative POE studies evaluated the self-reported health (GH), nature-relatedness (NR), and biophilic design in the workplace (BDE). The objective of the study is to evaluate the typical biophilic design attributes in office environment and the correlation between biophilic design and office health. Hence, the research scope is relatively extensive. In the future study, the research scope should be narrow down for intensive investigation.”
+
+
+
+Point 8:
+The theoretical part of the presentation is extensive, but the application part is relatively poorly described.
+
+Response 8:
+The applications of the results are highlighted in Section 1.4. Objectives and in Section 5 Conclusion:
+In Section 1.4. Objectives, the three practical applications of the results are mentioned: first, a POE questionnaire for assessing the biophilic design for workplace accounting for health and wellbeing. Second, the study will provide a new biophilic design guidelines for workplaces, which can effectively assist researchers and designers to improve office biophilic design practices and decision-making on design attributes selection.
+The Conclusion is rewritten to highlight the contribution and implementation of the results:
+
+Revision in Page 23 Line 516-540:
+
+“The significant research outputs from the present scrutiny are shown as following:
+a) The authors develop a POE questionnaire for evaluating the biophilic design for workplace health and wellbeing. The investigation explains that combined literature review and POE results are one of the practical methodologies to establish biophilic design frameworks for specific workplace typology. And the questionnaire can be applied in future biophilic design research for investigation.
+…
+“c) Furthermore, the questionnaire results enhance our knowledge on the practical ap-plication of biophilic design frameworks for the workplace and contributed to more framework design consideration.”
+…
+“e) The study results contribute to provide designers with evidence-based design at-tributes for workplace design (i.e., the nine selected workplace biophilic design attributes).”
+
+
+Point 9:
+It is better to supplement the temperature, humidity, and other parameters of the selected office in the part of the experiment, so as to facilitate readers' reference rather than just giving the location.
+
+Response 9:
+The supplemental Information (i.e., office temperature, number of employees) are added in the revised version.
+Revision in Table 5:
+
+Table 5. Basic information of the understudy offices.
+
+
+
+
+
+
+
+
+
+
+
+Point 10:
+The author can think about the impact of such a pro biological design model on the psychology of different experimental personnel. I think psychological factors will also affect human physiological comfort.
+
+Response 10:
+We agree with the comment. Previous studies proofed that biophilic design in workplaces benefits both psychological and physiological health [60, 61, 62, 63]. This study is a questionnaire survey that focus on investigating the subjective evaluation on workplace biophilic design and of workers. Physiological measurements will be included in the future study to investigate the impacts of the psychological factors on physiological comfort.
+References:
+Lei, Q.H., Yuan, C., Lau, S.S.Y., 2021. A quantitative study for indoor workplace biophilic design to improve health and productivity performance. Journal of Cleaner Production. 324, 129168.
+Yin, J., Zhua, S., MacNaughton, P., Joseph, G., Allen, J.G., Spengler, J.D., 2018. Physiological and cognitive performance of exposure to biophilic indoor environment. Build. Environ. 132, 255–262.
+Yin, J., Arfaei, N., MacNaughton, P., Catalano, P.J., Allen, J.G., Spengler, J.D., 2019. Effects of biophilic interventions in office on stress reaction and cognitive function: a randomized crossover study in virtual reality. Indoor Air 29, 1028–1039. https:// doi.org/10.1111/ina.12593.
+Yin, J., Yuan, J., Arfaei, N., Catalano, P.J., Allen, G.J., Spengler, J.D., 2020. Effects of biophilic indoor environment on stress and anxiety recovery: a between-subjects experiment in virtual reality. Environ. Int. 136, 105427. https://doi.org/10.1016/j. envint.2019.105427.
+Author Response File:  Author Response.docx

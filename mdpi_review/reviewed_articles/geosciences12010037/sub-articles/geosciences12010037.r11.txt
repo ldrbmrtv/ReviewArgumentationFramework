@@ -1,0 +1,18 @@
+Reviewer 1 Report
+General comment.
+The authors present an interesting case study integrating geophysical, geological and hydrochemical data to map potential pathways for water and gases across complex sedimentary formations in the Northern Territories, in Australia. The approach used by the authors is innovative and allows to elaborate several hypotheses regarding the occurrence and movement of both paleo and more recent fluids. Results appear to be sound and supported by the illustrations. Figures, however, need to be significantly improved for the final manuscript (see detailed comments below). Overall, the implications of this study are important not only for industrial purposes (reservoir exploration and operation) but also for our basic understanding of subsurface flow processes over geological timescales. This study should therefore gather significant interest and is worthy of a prompt publication.
+Figures.
+Figure 1: Are colors in Figure 1 A related to the hydrostratigraphy or depicting topography? If the latter applies, make sure to provide a scale.
+Figure 2: The left spine (or border) does not appear on the pdf reviewed. This figure could be improved by adding shaded satellite image to help the reader compare the mapped drainage systems (which were automatically mapped) and fault traces/lineaments with the real features observed.
+Figure 3: The text (lines 258-259) mentions magnetic lineaments as prominent features, which can be caused by faulting. Such features are hard to visualize. It would certainly help if they were highlighted directly on the figure.
+Figure 4: This figure could go in the appendix. It is good to let the reader know that not all seismic surveys provided the same quality, but this is more a technical point.
+Figure 6: Put the title of each subfigure above the plot. It doesn’t read well otherwise.
+Figure 7: What is special about the locations highlighted by the markers (crosses on Figure 7B and square markers on Figure 7C). At this scale, the reader can’t see much detail.
+Figure 9: Remove ‘s’ from <10 yearss. Also, increase the thickness of the fault lines to make them more obvious.
+Text.
+Lines 271-272: Why is the signal quality so variable, and how were the categories (excellent, average and poor) defined?
+Lines 323-324: The authors should explain why low magnitude local seismic signals can be believed to represent permeable pathways promoting water or gas migration.
+Lines 339-357/Section 4.3: The map shown on Figure 9 that provides the location where groundwater and springs were sampled could be referred to.
+Line 360: Here and throughout the text, the word ‘recent’ is used to describe some tectonic activity. It would be good define what recent means in the context of this study. An indication is provided in the Discussion (Line 414), but it would go to state this value upfront in the text.
+Discussion: One general comment, could the use of other tracers (radon, of stable isotopes of water) yield also insight on the origin of the fluids sampled in this study?
+Comments for author File:  Comments.pdf

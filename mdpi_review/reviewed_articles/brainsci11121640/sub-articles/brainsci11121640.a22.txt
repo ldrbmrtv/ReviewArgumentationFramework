@@ -1,0 +1,21 @@
+Author Response
+In line 119, the capital "a" changes lower case.
+
+Correction done
+Correction done
+In line 226, notice the format of the comma.
+
+Correction done
+Correction done
+In line 253, where is the F value?
+
+Correction done. The F value has been added.
+Correction done. The F value has been added.
+In line 282, the result showed r2 = 0.24, p = 0.03 but it is a difference in Fig. 5.
+
+The coefficient of determination is for the regression analysis and indicates that Lat differences were significant predictors of MEP facilitation. However, as we explained in the text, when participants were sorted into two groups (early and late I-waves), the difference between the two was not significant according to the Mann-Whitney U test.
+The coefficient of determination is for the regression analysis and indicates that Lat differences were significant predictors of MEP facilitation. However, as we explained in the text, when participants were sorted into two groups (early and late I-waves), the difference between the two was not significant according to the Mann-Whitney U test.
+Although you state you defined the rMT in Fig. 1 you did not.
+
+Actually, we did, but it seems that the new figure legend with the correction was not properly inserted when the system reformated the document.
+Actually, we did, but it seems that the new figure legend with the correction was not properly inserted when the system reformated the document.

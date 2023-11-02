@@ -1,0 +1,7 @@
+Reviewer 1 Report
+The article “Facial Skin Lifting and Brightening following Sleep 2 on Copper Oxide Containing Pillowcases” demonstrated the beneficial effects of copper oxide particles on the skin.
+I found the manuscript very interesting, it is well written and the data presented are exhaustive and in agreement with the conclusions that the authors presented. The technology presented was also innovative and intriguing.
+Although one important issue was not addressed at all by the authors, which was the proved cytotoxicity of copper oxide particles on the skin. Recent papers clearly demonstrated that copper particles, above a certain concentration, may have harmful effect on skin cells, both fibroblasts and keratinocytes. They may also activate apoptotic mechanisms and cause DNA damages (Luo et al, 2014, Int J Nanomed; Alarifi et al 2013, Int J toxicol).
+In this article only the beneficial effect of Cu was described but the potential toxicity of the Cu particles never mentioned, especially if Cu was used above a certain concentration.
+Could the authors address this point? Do the authors have any idea on the amount of copper particles that is delivered on the skin by the pillow cases?  Could they talk about the limit of their technology in order to keep under control the safety issue?  Please add this info in the introduction and/or discussion part.
+

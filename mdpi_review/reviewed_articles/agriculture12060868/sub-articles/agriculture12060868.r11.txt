@@ -1,0 +1,10 @@
+Reviewer 1 Report
+1.       In the introduction, (Line 76   79), you present the objectives, but those are not clear, I respectfully suggest focusing on your hypothesis
+2.       Line 78: You wrote, “designed to meet the basic behavioral needs of the sow at farrowing”, but this is not tested on the paper.
+3.       Lines 80 – 83 moves to discussion section
+4.       Figure 1 is missing
+5.       Figure 2 needs more description, maybe include which wall… Please describe units of the dimensions
+6.       Figure 4. Please indicate which is “sowconf” and which is “trad”. In the left graph the units are in m2, but in right side it does not have unit, seems ar?
+7.       Line 206:  I don’t understand why you use just 10 o 12 sows, 50% primi and multiparous, but in line 225 mentioned that “there were no secure information about sow parity” please be consistent.
+8.        Please include P values when report significant differences.
+

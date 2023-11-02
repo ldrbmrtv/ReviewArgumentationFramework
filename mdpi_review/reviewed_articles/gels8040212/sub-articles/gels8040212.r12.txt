@@ -1,0 +1,19 @@
+Reviewer 2 Report
+This article compares the production of emulsion gels by two different methods, namely heat-and TGase- induced emulsion gels. The article is very well written and only requires few minor changes. One main request would be to make it clearer what was the formulations and conditions tested.
+Line 60: define WPI at first use
+Line 84-88: This is a summary of what was carried out and not a discussion, please remove
+Figure 1: Include in Fig.1c what was the the % of WPI used
+Figure 2: Increase the font of the legend
+Line 166: English check
+Figure 3: rename using latin alphabet
+Figure 4: Increase legend as it is not visible. B1, B2, and B3 looks biphasic, was this the case?
+Figure 7-B: I suggest choosing just one shear rate, instead of providing both graphs one can provide the numerical values at a fixed shear rate
+Line 474: What is meant by optimize condition?
+Line 478 and 485: Are the gel continuous phase and the protein-emulsion mixture the same thing? This section is a bit confusing so I would suggest authors include a Table with all the sample formulations/conditions tested.
+Line 496: remove respectively
+Line 499. Characteristics or characterization?
+Line 500: Define PDI at first use
+Line 507: Clearance height or gap`?
+Line 512: Was 1% found to be within the viscoelastic region?
+Line 516: rephase
+Line 530: English check

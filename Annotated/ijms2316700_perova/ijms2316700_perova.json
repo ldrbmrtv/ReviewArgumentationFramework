@@ -1,0 +1,70 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "On Fig 4c the labeling is shifted, should be corrected. I think also, that more explenation is needed for this experiment. The presented western blot shows that Mwt of the secreted form is different from the \"in cell\" fraction - probably the signal sequence is cutted outside, but it is not mentioned. M37 protein shows a very weak expression - it seems that probably not only the secretion but expression is better for M37(-), some explanation is required. (Similar phenomenon can be seen with other proteins)",
+      "Reviewer_1.1.2": "On Fig6A - it seems that marker labeling is fault.",
+      "Reviewer_1.1.3": "On Fig 8 it seems that C samples contains very different amount of proteins - again expression level of the protein may alter the secretion of protein as well. In this experiment ABC transporters are expressed from plasmids as well but proof of ABC transporter expression is not presented. Moreover a control would be interesting without ABC transporter overexpression as supplemental data."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "It should be indicated which positive residues are found in the supercharged regions of the proteins in Figure 2. This is important given that Lys is less harmful than Arg.",
+      "Reviewer_2.1.2": "Contrasting colors should be used in Figure 2b,c to enhance visibility.",
+      "Reviewer_2.1.3": "The nonexisting term \u201cprimary sequence\u201d should be replaced by \u201camino acid sequence\u201d or \u201cprimary structure\u201d."
+    },
+    "Author": {
+      "Author.2.1": "We added two panels as Figure 2d and 2e, describing the amino acid sequences in the highlighted regions in Figure 2b and 2c.",
+      "Author.2.2": "We changed the color scheme used in Figure 2b and 2c, enhancing the contrast.",
+      "Author.2.3": "We corrected the erroneous term into \u201camino acid sequence\u201d.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ]
+  ]
+}

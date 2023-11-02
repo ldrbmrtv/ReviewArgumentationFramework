@@ -1,0 +1,9 @@
+Reviewer 2 Report
+The paper presents original results on the fabrication of diamond MOSFET on a free-standing heteroepitaxial single crystal diamond. The results are meaningful and clearly presented. The following points should be addressed before publication:
+1) The language in the introduction is sometimes vague: "It is gratifying that diamond heteroepitaxy on Ir has achieved some excellent results" - It is not clear what is meant by excellent results. When say "China has achieved excellent results".
+The same applies to the sentence: "The performance of MOSFET with the same size is much better than that we reported previously". It is not clear what is meant by "the performance".
+2) Materials and methods sections start with the results of XRD (first sentence) obtained by characterization of the diamond sample, and photographs of the diamond sample(second sentence). The description of sample preparation is after the results.
+I recommend following chronological order - first to write how was the sample preparation and after that how it was characterized. Otherwise, it is confusing for readers.
+3) The substrate for diamond growth is not specified.
+4) Type of MPCVD system is not mentioned.
+5) The conclusion states "The annealing condition for Al2O3/H-diamond need to be controlled precisely." It is not clear what is meant by precise control.

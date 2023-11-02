@@ -1,0 +1,14 @@
+Reviewer 1 Report
+Many thanks for your response. The manuscript has been largely improved.
+Modified content should be marked in the revised manuscript for easy review by reviewers.
+
+Some specific comments:
+The abstract could be more concise.
+The introduction part can highlight the key points and innovations of this paper.
+The definite article “the” is missing in many places in the whole article. please check it.
+Too many parentheses are used in the essay, which is not recommended in writing.
+Line 135: “impairment water resources”  Is this expression appropriate?
+Table 1: The pH values are different from those in the previous version.
+Attention should be paid to the number of decimal places in all numbers throughout the text.
+Line 909: “c, f, f, a” should be superscripts, indicating the author's work unit. Please check the format of all references.
+The conclusion is too long and does not highlight the key results.

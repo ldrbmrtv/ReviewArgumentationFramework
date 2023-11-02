@@ -1,0 +1,12 @@
+Author Response
+Responses to the Reviewer 2:
+We thank the Reviewer 2 for his/her careful and comprehensive evaluation of our manuscript. We appreciate the comments and suggestions for improvement. We revised the manuscript as indicated below to address the points raised by the Reviewer 2.
+Review comments:Q1.
+The authors provided interesting data stating that GB as a PAFR inhibitor increases CDDP sensitivity in oral squamous cells that combination treatment of GB and CDDP significantly induced cell apoptosis and reduced PAFR activation.
+The western data of p-Akt and p-Erk expression (figure 8C) of GB treatment alone did not show inhibitory effects, but PAFR expression data (figure 3) and IL-1b expression data (figure S5) provided evidence that GB inhibited PAFR expression and function. Please add few words in your text to state that figure S5 data supported the inhibitory effects of GB on PAFR function.
+
+Responses (Q1):
+We thank the Reviewer for this comment. According to the reviewer’s suggestion, we have added the comments in the Results section as follows:
+Additional comment
+‘First, we assessed the capability of GB as a specific inhibitor of PAFR, and found that PAF-induced IL-1β expression was significantly decreased after treatment with GB (Unpaired t-test, P < 0.001, Figure S5).’ (page, 8; lines, 198-200)
+Author Response File:  Author Response.docx

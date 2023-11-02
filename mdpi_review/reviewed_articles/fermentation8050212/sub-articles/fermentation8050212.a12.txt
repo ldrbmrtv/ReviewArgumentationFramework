@@ -1,0 +1,59 @@
+Author Response
+Honored reviewers,
+Thank you for your contribution to reviewing work. This is the list of corrections of our manuscript entitled ‘Study on the Antioxidant Properties Enhancement of Rice Bran by Mixed Bacteria Solid-state Fermentation (No. 1703121)’ for publication in the Fermentation. For your suggestion we have dealt with the comments as follows:
+Comments to the Author
+Sometimes the document is different to follow due to English issues. Examples: Page 1, Lines 9-11: "In order to enhancement the antioxidant properties of rice bran, solid state fermentation of rice bran with mixed bacteria was adopted and optimized fermentation technology."; Page 4, Lines 141-143: “In the morning (on set light), breeding 9 fishes interbreed 1h, embryos were obtained from natural spawning collection of embryos were completes in petri Dishes; Page 4, Lines 153-155: “AAPH group only added AAPH. Four experimental groups were added AAPH and 0.1, 0.2, 0.3, 0.4 mg/ mL sample, respectively.”; Page 5, Lines 188-190: “The optimum sodium humate content was found to be 1.0 %, which DPPH free radical scavenging rate of 81.22%.”; Page 6, Lines 218-219: “The significantly less polysaccharide content of FRBE than that of RBE (P＜05).”; Page 8, Lines 241-242: “Schmidt et al. (2014) also found that ferulic acid content of rice bran water-soluble extracts significant improvements, up to 765 mg/g [16].”; Page 10, Lines 321-323: “At the concentration of 0.3 mg/mL and 0.4 mg/mL, CAT activity induced by AAPH of FRBE group significantly higher than that of AAPH and RBE.”.
+Response: Thanks for your comment. We have improved English language.
+
+Explain what FRBE is. It appears for the first time on Page 1, Line 17;
+Response: Thanks for your comment. FRBE is water-soluble fermented rice bran extracts.
+The hot water extraction conditions were tested before?
+Response: Thanks for your comment. The hot water extraction conditions was adopt according to previous methods (Dong et al., 2021).
+Dong, C.L.; Liu, N.; Wang, Y.; Song, M.; Wang, R.F.; Yang, Y.P.; An, X.P.; Qi, J.W. Study on Antioxidant Activity of Fermented Rice Bran Water Extract. Feed Industry 2021, 42(24), 8-13. DOI:10.13302/j.cnki.fi.2021.24.002.
+What do the authors mean by 24hpf (Page 4, Line 148)?
+Response: Thanks for your comment. 24hpf means 24 hours post fertilization.
+Explain what AO solution is. It appears on Page 4, Line 162;
+Response: Thanks for your comment. AO solution is acridine orange.
+Explain the role of sodium humate.
+Response: Thanks for your comment. Humates added to feed stimulate the microbial growth(Huck et al., 1991). Sodium humate added to fermentation substrate improved the growth of bacteria (Liu et al., 2014, Shi et al., 2016). The role of sodium humate is fermentation synergist.
+
+Huck, T.A., N. Porter and M.E. Bushell, 1991. Effect of humates on microbial activity. Gen. Microbiol. 137: 2321-2329.
+Liu, N.; An, X.P.; Qi, J.W.; Tong, B. S.; Chen, D. Y.; Yu, C.Q. Study on the effect of sodium humate on solid fermentation of lactobacillus plantarum. Chinese Journal of Animal Science 2014, 50(05),79-82.
+Shi, J.X.; Qi, J.W; An, X.P.; Liu, N.; Luo, X.G; Chen, D.Y. The influence of sodium humate on fermentation characteristics of yeast. Feed Industry, 2016, 37(04), 44-47.
+
+Page 6, Lines 217-218: Check the values presented in the following sentence: “As shown in Table 1, the water-soluble polysaccharide content of FRBE and RBE were 552.30±2.68 mg g-1 and 450.28±1.69 mg g-1 respectively.”, because they are opposite to the ones presented in Table 1.
+Response: Thanks for your comment. It is my mistake to write the water-soluble polysaccharide content of FRBE and RBE on the wrong sides. The water-soluble polysaccharide content values have been corrected.
+
+Table 1: The number of decimal places of some constituents is excessive. Example: for polysaccharide content, I suggest writing 552+3 for RBE.
+Response: Thanks for your comment. We have taken your advice to change the number of decimal places.
+
+Why did the water-soluble phenolic acids contents increase after the fermentation?
+Response: Thanks for your comment. Phenolic acids belongs to polyphenols. The increasing of content of water-soluble phenolic acids in FRBE may be attributed to the degradation of rice bran cell wall during fermentation.
+
+Page 9, Line 280: Is Fig. 3b showing different groups of LPO rate, or is Fig.3a?
+Response: Thanks for your comment. Fig.3a and 3b showing different groups of LPO rate.
+
+Page 10, Lines 306 and 307: check the 73.85 and 77.00 values. They seem interchanged with each other.
+Response: Thanks for your comment. The 73.85 and 77.00 values are correct.
+Rewrite the first sentence in Conclusions.
+Response: Thanks for your comment. We have rewrited the first sentence in Conclusions.
+In summary, the DPPH radical radical scavenging abilities of rice bran water-soluble extracts and the content of bioactive constituents were considerably altered by mixed bacteria solid-state fermentation.
+Minor comments
+Page 1, Line 9: Change "tastea" to "taste".
+Response: Thanks for your comment. I have changed.
+Page 2, Lines 66 and 67: Write the microorganisms' names in italic.
+Response: Thanks for your comment. I have changed.
+Page 3, Line 124: Change "ethyl acetate reagents" to " ethyl acetate reagent".
+Response: Thanks for your comment. I have changed.
+Page 3, Line 124: What do you mean “oscillated for 10 minutes”? Is mixing for 10 minutes?
+Response: Thanks for your comment. I have changed. The “oscillated for 10 minutes” means “shaked for 10 minutes”.
+Page 4, Line 131: Change "flsk" to "flask".
+Response: Thanks for your comment. I have changed.
+Page 4, Line 133: Change "VWD detector" to "Variable wavelength detector (VWD)".
+Response: Thanks for your comment. I have changed.
+Page 8, Line 261: Change “FRB” to “FRBE”.
+Response: Thanks for your comment. I have changed.
+In the reference list, write the names of the microorganisms in italic. Some journal titles are registered in abbreviated form, and others have a full name. Standardize, taking into account the rules of the journal.
+Response: Thanks for your comment. The abbreviated form of some journal titles have been corrected to full form taking into account the rules of the journal.
+
+

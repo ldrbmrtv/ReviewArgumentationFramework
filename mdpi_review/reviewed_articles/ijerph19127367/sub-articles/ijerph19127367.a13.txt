@@ -1,0 +1,50 @@
+Author Response
+May 25, 2022
+
+
+
+Dear Managing Editor,
+
+On behalf of all the authors, I appreciate the opportunity of obtaining a careful evaluation from the reviewers concerning the article entitled “Short-term high-intensity circuit training does not modify resting heart rate variability in adults during the COVID-19 confinement” (ID: ijerph-1710486). We have answered the questions and the concerns of the reviewers point by point, and the manuscript has been modified according to the suggestions and guidelines of the journal (new information added is marked with blue color), and the revised version is being submitted. The suggestions offered by the reviewers have been especially helpful. My research group and I are sure that the reviewers comments have improved substantially the manuscript content.
+Once more, I would appreciate your considering this manuscript in your journal and we hope that this version will be accepted for publication.
+
+
+
+
+
+Yours faithfully,
+
+
+Alberto Jiménez Maldonado, Ph.D
+Facultad de Deportes Campus Ensenada,
+Universidad Autónoma de Baja California,
+e-mail: [email protected]
+
+Reviewer 3
+
+Thank you for the opportunity to review this manuscript, which considers some interesting issues. However, there are some significant flaws that must be addressed. Please see the comments.
+
+Introduction
+Line 79 is [20] [ 21], should be [20,21]
+Changes: We corrected that mistake
+Lines 80-88: I guess these are the suggestions of the previous reviewer. Maybe it is better to remove them from the main text.
+Changes: We deleted that paragraph
+Material and Methods
+There is no doubt that such research in the pandemic era is important. The small sample size is lowering the impact of the presented results. Although the authors indicated in the limitation paragraph why the sample is so small, still the 4 participants in the control group are not enough to draw conclusions
+R: We thank the reviewer for this comment. As shown in table 2, the a posteriori total power (1-ß) indicates that the sample was large enough to detect a minimal change (if there were any) in the HRV variables. The very high-power values found (close to 1.0) indicate that the absence of statistical significance (i.e., p < 0.05) was not explained by the sample size. Nevertheless, we acknowledge that studying large samples is desirable over small samples under normal circumstances. As mentioned in the manuscript, we could have recruited more volunteers for our study; however, the Covid-19 pandemic prevented us from doing it. In addition, large samples do not guarantee that the effects (if any) might be of relevant or practical importance because large samples also elicit trivial statistically significant effects (e.g., p = 0.001) (Levine & Hullett, 2006).
+
+Levine, T. R., & Hullett, C. R. (2006). Eta Squared, Partial Eta Squared, and Misreporting of Effect Size in Communication Research. Human Communication Research, 28(4), 612-625. https://doi.org/10.1111/j.1468-2958.2002.tb00828.x
+Line 107: How the survey results have been converted into MET’s unit? It is worthwhile to complete this.
+Changes: We added new information in methods and Table 1 for MET’s calculation and cut-off values for the subjects’ categorization.
+The HICT took about 12 minutes and the time of vigorous activity was between 27.5 and 47.5 minutes. Did the HICT was additional exercise or was it completed during the general time of vigorous activity?
+R: The time reported for the HICT was in total minutes per day. Since the subjects performed the 3 sessions a day, 3 times a day for 4 weeks.
+Did the control group was allowed to perform any vigorous activity during the experiment? What the daily time of this activity was?
+R: Thanks for your question, unfortunately, the information vigorous activity (minutes per day) was missed, the researches employed Google Forms questionnaires for the collection of  IPAQ data at post-intervention, however, the CON did not answer it. Nevertheless, we considered that the CON maintained the daily life-style, a similar pattern showed at the pre intervention. The reason of this hypothesis is that the work was performed during the first wave of the lockdown (same period).
+
+Discussion
+Lines 272-273: “…it demonstrates that HICT is an exercise modality that does not induce overtraining (including stress and irritability)…” how the stress and irritability were estimated?
+R: Thank you very mucho for this interesting observation
+Changes: We re-structure that sentence.
+Lines 294-297: I guess these are the suggestions of the previous reviewer. Maybe it is better to remove them from the main text.
+Changes: We removed that part from the text
+Author Response File:  Author Response.pdf

@@ -1,0 +1,11 @@
+Author Response
+Honored reviewers,
+Thank you for your contribution to reviewing work. This is the list of corrections of our manuscript entitled ‘Study on the Antioxidant Properties Enhancement of Rice Bran by Mixed Bacteria Solid-state Fermentation (No. 1703121)’ for publication in the Fermentation. For your suggestion we have dealt with the comments as follows:
+The main comment addressing the article improvement is the methodology applied for statistical analysis.
+The appropriate methodology considering parametric assumption for normality and homogeneity of variances before data analysis should be applied. Later one-factor analysis of variance should carry out accordingly. The application of the Duncan test should be justified because it is less sensitive in this kind of study.
+Response: Thanks for your comment. The statistical analysis were conducted as follows:
+All experiments were conducted in triplicate. The UNIVARIATE procedure of SAS was used to test the normality of the data before any further analyses were carried out. Data were subjected to ANOVA using the MIXED procedure of SAS (SAS 9.2, SAS Institute Inc., Cary, NC). Mean ± standard error (S.E.) were reported, and means were separated by LSD multiple comparisons. Differences were accepted as statistically significance at P < 0.05.
+
+Figures 2a, 3a and 4a include photos whose resolution should be improved.
+Response: Thanks for your comment. We have enhanced clarity and detail of the image for easy reading.
+

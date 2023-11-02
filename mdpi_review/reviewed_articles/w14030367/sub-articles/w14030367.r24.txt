@@ -1,0 +1,16 @@
+Reviewer 4 Report
+Title: Pilot-scale biological activated carbon filtration- ultrafiltration (BAC-UF) system for removing pharmaceutical and personal care products (PPCPs) from river water.
+The authors have improved the manuscript. However, I still have some concerns. The manuscript could be accepted for publication after a minor revision.
+Comments:
+Authors should avoid abbreviations in the title. Authors should add a list of abbreviations before the references.
+Please avoid repeating the full name and abbreviation throughout the manuscript if you used the first-time abbreviation.
+Line 46-52: & line 84-85 “Ultrafiltration (UF) as an emerging alternative technology to conventional water treatment processes, has been widely used to remove pollutants such as particles, colloids, bacteria, and viruses, thus reducing the risk of water-borne diseases [10]. Size exclusion is considered the primary removal mechanism for the UF. However, in the case of the PPCPs with a small molecular weight (typically < 600 Da), UF membranes also cannot effectively reject these PPCPs, but nanofiltration and reverse osmosis are able to remove these PPCPs based on the thin-film composite”. Sorry, but I don't see why UF can reject viruses and bacteria but not PPCPs. Is it true that the molecular weight of viruses and bacteria is more than that of PPCPs? Please elaborate.
+The authors should include some information regarding the biological degradation of PPCPs by microorganisms in the introduction section.
+Line 53-55: “The combined process with ultrafiltration may be another promising choice, featuring a comparable removing performance as the nanofiltration and low operational cost”. Have the authors compared the BAC-UF performance to that of nanofiltration?
+I strongly suggest that the authors explain how they performed the t-tests. Please include the sample size (n) or degree of freedom (df).
+Please show the t-value and p-value in a scientific view (e.g., 2.79E-4 would be P <.001).
+Line 161-176: Please delete the name of medicinal compounds not used for this study.
+Point 6: Why the same trend of increase or decrease in graphs (Fig. 1) was observed in Fig. 1(c). Why is the DO concentration of BAC-effluent sometimes higher than the Raw water. Please explain it in the manuscript. The reviewer suggests statistical analysis using a t-test (Raw water- BAC-Effluent and Raw water – BAC/UF-effluent).
+Response 6: Thanks very much for this comment. The same trend (Figure 2) was mainly due to the stable removal ability of BAC and UF for organics, causing the removal restriction. The periodic backwash (7days) of BAC caused sometimes the dissolved oxygen concentration of BAC-effluent higher than that of raw water. After the gas scrubbing and the hydraulic backwashing, the dissolved oxygen detection of the effluent was carried out, resulting in the above results for dissolved oxygen. Besides, the t-test was used and proved the significant difference between BAC-Effluent and BAC/UF-effluent.
+Thanks for the response. Please include it in the manuscript.
+What is the utility or deterioration of PPCPs sludge after removing it from river water? If possible, please add at least one paragraph.

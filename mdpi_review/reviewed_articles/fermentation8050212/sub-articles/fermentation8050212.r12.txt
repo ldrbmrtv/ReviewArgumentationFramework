@@ -1,0 +1,30 @@
+Reviewer 2 Report
+Ms. Ref. No.: fermentation-1703121
+Title: Study on the Antioxidant Properties Enhancement of Rice Bran by Mixed Bacteria Solid-state Fermentation
+
+Overview and general recommendation:
+The article entitled "Study on the Antioxidant Properties Enhancement of Rice Bran by Mixed Bacteria Solid-state Fermentation", and submitted to publication in "Fermentation", is within the scope of the journal and discusses an important topic. It consists of performing a solid-state rice bran fermentation using a bacteria mix. Furthermore, some bioactive constituents of water-soluble extracts and the antioxidant activity were determined before and after the fermentation. Thus, in my opinion, the current study is on a topic of relevance and general interest to the journal's readers.
+The paper is overall well described. Since I have some doubts that I would like clarified, I recommend that a major revision be warranted. I explain my concerns in more detail below. I ask that the authors specifically address each of my comments in their responses.
+
+Major comments
+Sometimes the document is different to follow due to English issues. Examples: Page 1, Lines 9-11: "In order to enhancement the antioxidant properties of rice bran, solid state fermentation of rice bran with mixed bacteria was adopted and optimized fermentation technology."; Page 4, Lines 141-143: “In the morning (on set light), breeding 9 fishes interbreed 1h, embryos were obtained from natural spawning collection of embryos were completes in petri Dishes; Page 4, Lines 153-155: “AAPH group only added AAPH. Four experimental groups were added AAPH and 0.1, 0.2, 0.3, 0.4 mg/ mL sample, respectively.”; Page 5, Lines 188-190: “The optimum sodium humate content was found to be 1.0 %, which DPPH free radical scavenging rate of 81.22%.”; Page 6, Lines 218-219: “The significantly less polysaccharide content of FRBE than that of RBE (P＜05).”; Page 8, Lines 241-242: “Schmidt et al. (2014) also found that ferulic acid content of rice bran water-soluble extracts significant improvements, up to 765 mg/g [16].”; Page 10, Lines 321-323: “At the concentration of 0.3 mg/mL and 0.4 mg/mL, CAT activity induced by AAPH of FRBE group significantly higher than that of AAPH and RBE.”.
+Explain what FRBE is. It appears for the first time on Page 1, Line 17;
+The hot water extraction conditions were tested before?
+What do the authors mean by 24hpf (Page 4, Line 148)?
+Explain what AO solution is. It appears on Page 4, Line 162;
+Explain the role of sodium humate.
+Page 6, Lines 217-218: Check the values presented in the following sentence: “As shown in Table 1, the water-soluble polysaccharide content of FRBE and RBE were 552.30±2.68 mg g-1 and 450.28±1.69 mg g-1 respectively.”, because they are opposite to the ones presented in Table 1.
+Table 1: The number of decimal places of some constituents is excessive. Example: for polysaccharide content, I suggest writing 552+3 for RBE.
+Why did the water-soluble phenolic acids contents increase after the fermentation?
+Page 9, Line 280: Is Fig. 3b showing different groups of LPO rate, or is Fig.3a?
+Page 10, Lines 306 and 307: check the 73.85 and 77.00 values. They seem interchanged with each other.
+Rewrite the first sentence in Conclusions.
+2. Minor comments
+Page 1, Line 9: Change "tastea" to "taste".
+Page 2, Lines 66 and 67: Write the microorganisms' names in italic.
+Page 3, Line 124: Change "ethyl acetate reagents" to " ethyl acetate reagent".
+Page 3, Line 124: What do you mean “oscillated for 10 minutes”? Is mixing for 10 minutes?
+Page 4, Line 131: Change "flsk" to "flask".
+Page 4, Line 133: Change "VWD detector" to "Variable wavelength detector (VWD)".
+Page 8, Line 261: Change “FRB” to “FRBE”.
+In the reference list, write the names of the microorganisms in italic. Some journal titles are registered in abbreviated form, and others have a full name. Standardize, taking into account the rules of the journal.

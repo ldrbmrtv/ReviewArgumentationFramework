@@ -1,0 +1,14 @@
+Author Response
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Answer to the second referee’s report of the Manuscript ID atoms-114670
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+This manuscript reports new TDCS calculations for relativistic positron and electron impact on atomic hydrogen. Although no experimental data are available for comparison, the method is well explained and reported to agree with other electron impact calculations.  In my opinion, the primary contribution of this work is the prediction that even at relativistic velocities, the TDCS for positron impact is larger than for electron impact and that the difference increases with impact energy.  In spite of the lack of any experimental, or, as is claimed, any theoretical, verification of this or any physical interpretation as to why this should occur even at very high velocities, I believe that work deserves publication since it should incite additional theoretical attempts
+to verify these predictions.  Also, hopefully sometime in the future, TDCS studies for positron impact will advance to the stage where the present predictions can be tested.  I find no major problems with the manuscript, either in content or presentation.  As for minor problems, there are numerous English grammatical errors which I have attempted to list in order to facilitate publication.  In addition, I do believe that several figures could be combined in order to minimize journal space.  These are listed below. My overall recommendation is that after the listed items are addressed the manuscript be accepted for  publication without further review.
+
+-------------------------------
+Answer of authors
+-------------------------------
+- First of all, we would like to thank you very much for this relevant and detailed report.
+- As you requested, we have made all necessary changes in our manuscript.  A major revision of   the paper has been carried out to take all the comments, suggestions and english corrections     into account. We believe that the paper has been significantly improved.
+- We  are  very  grateful  to  you  for  your  sound  and  relevant  corrections.

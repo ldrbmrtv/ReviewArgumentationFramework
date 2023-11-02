@@ -1,0 +1,10 @@
+Reviewer 2 Report
+This study identified the efficacy of TTFields treatment for hepatocellular carcinoma and the combined effect of sorafenib in vitro and in vivo.
+The authors suggested that the therapeutic effects of the combination were apoptosis via autophagy.
+This is an interesting scientific study, as it concerns the issue of hepatocellular carcinoma, it also has a clinical aspect.
+The authors indicated that TTField had potential to be a new treatment option of hepatocellular carcinoma.
+The materials and methods section are elaborated in the details.
+The present study was examined in terms of autophagy and apoptosis in the antitumor effects of TTField and sorafenib.
+However, the exact mechanism of the combination therapy-induced cell death is not yet known as the activation of autophagy in the combination therapy was not increased.
+Therefore, I expect further additional examination in the future.
+References contain mostly publications printed in the last 10 years.

@@ -1,0 +1,27 @@
+Author Response
+Dear Reviewer
+We would like to thank You for your attention to our work and for carefully reading our manuscript.
+We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done. Changes in respect to the previous version are in track changes.
+Below point by point response to concerns
+Reviewer 2
+Tripodi et al., seeks to set a basis of authenticity of ‘Peperone Cornetto di Pontecorvo’ sweet pepper by using a combinatory approach of biochemical, genetic, and agronomic markers/traits. This work is quite interesting and is well-written.
+#Answer: Again, we would like to thank You for your attention and for carefully reading the manuscript. We also thank you for the positive and encouraging comment.
+I only have some minor comments.
+1) The introduction part is a bit long, although it states the importance of this local variety of sweet pepper and of tracing its origin.
+#Answer: We prefer to keep the introduction in order to give a broad overview to readers
+2) In figure 3: why CP cultivars in purple lines are clustered with CC and MG in green? Any explanation?
+#Answer: The cluster analysis is based on phenotypic traits, this analysis revealed specific clusters of "Cornetto di Pontecorvo" and similar types, although they were not clearly separated at the hierarchical level. The genotyping analysis provided more in-depth insights. We addressed this in the discussions section (see L485 and subsequent).
+Others:
+Line 37: “products”
+#Answer: Product is correct since refer to This crop (singular), we specify (as a food and non-food product)
+Line 245: would be better to show the value of each agronomic trait mentioned here
+#Answer: We agree and better positioned the table 3 after the sentence
+Line 385-388: the figure legend does not provide enough information on this figure
+#Answer: Figure 4 caption has been improved
+Line 435: it may not be worth to mention the sweet pepper as the first 30 crops
+#Answer: We agree and modified the sentence (see L439)
+Line 468: “GBS”? Genotype by sequencing?
+#Answer: We change referring to ddRAD seq (see L473)
+Conclusion: What kind of broader impact of this work could be?
+#Answer: In order to answer to this question, we improved the conclusion (L524-529)
+We hope that these revisions successfully address the raised concerns, remaining available for any other requests regarding the manuscript.

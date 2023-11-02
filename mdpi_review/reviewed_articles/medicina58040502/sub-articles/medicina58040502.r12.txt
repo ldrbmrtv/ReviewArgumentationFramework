@@ -1,0 +1,10 @@
+Reviewer 2 Report
+The study aim should be more precise "The aim of this study was...."
+Study sample - please provide more precise data on population (faculties at the university and its share in the total sample of recruited subjects)
+Please attach an English version of the questionnaire as supplementary material or precisely describe questions that were used to assess the smoking status
+The results section is too extensive - please avoid describing all the results in the text. Please provide the most important results in the text, and the rest of them are present in Tables.
+In table 5 please provide thr number of subjects (n=.....)
+Tables 6 and 7 are unclear and should be more precise (Especially confidence intervals)
+Please provide practical implications of this study
+Please provide a conclusion based on obtained findings and please avoid overwhelming conclusions
+

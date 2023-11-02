@@ -1,0 +1,15 @@
+Author Response
+1.    The largest concern is regarding the colocalization of IFITM3 and Rab11A. It seems (as the authors state) that these represent abortive events (Figure 7). Therefore the inclusion of the movie examining the colocalization of Rab11A GFP, IFITM3-SNAP, and labeled virion seems completely unnecessary. In addition, the movie does not provide any details on cellular features and a viewer is left wondering where the foci are coming from and going. This reviewer suggests removing the movie or alternatively including labels on the movie of cellular features and including a scale bar.
+Following the suggestion of this reviewer, we have removed the movie in the revised version.
+2.    Additional minor comments on the figures include:
+a.    Supplemental figures should be included in the main text.
+The supplemental figures only include experiments that reproduce previously published work or are not absolutely necessary to support the major and most novel findings of the paper. We therefore suggest to keep these data in the supplement. If this is not acceptable we will make the changes in final revision.
+b.    The NP stain in HSAEpCs is only shown to be cytoplasmic, inclusion of an uninfected control would demonstrate specificity of the staining. At later timepoints is the NP stain nuclear as expected, is this simply a delay in replication?
+We show indirect immunofluorescence analysis with anti-IFITM3 and anti-NP antibodies of HSAEpCs in Figure S6. No unspecific signal is detected in the cytosol of HSAEpCs, indicating that the observed cytoplasmic NP stain is specific.
+Nuclear NP stain is detected at 10 h p.i., and this may indeed indicate delayed replication compared to A549 cells as suggested by the reviewer, but no direct side-by-side comparison of replication kinetics in different cells was performed.
+c.    Labels or zoomed out images from those presented in Figure 3 and 7 are needed to orient the reader to where within a cell the colocalization is observed.
+The IFITM3 images were acquired in the cytosol distant from the nucleus and absent from the plasma membrane. We included this information in the respective figure legend of Figure 3 and 7.
+Figure 3: “STED images (raw data) show representative subcellular regions located in the cytosolic part distant from the nucleus and absent from the plasma membrane as used for cluster analysis.”
+Figure 7: “Images show regions located in the cytosolic part distant from the nucleus and absent from the plasma membrane.”
+d.     Figure 2B - Western blot examining levels of IFITM3 should include 24 hpi to correlate with the data presented in Figure 1.
+We now include the Western Blot analysis suggested by the reviewer as Figure S2B and thank the reviewer for suggesting this important control.

@@ -1,0 +1,14 @@
+Reviewer 2 Report
+The paper entitled “Free cholesterol accelerates Aβ self-assembly on membranes at physiological concentration” by Hashemi et al. deals with investigated aggregation of amyloid Aβ by cholesterol in membranes which may be a relevant factor in Alzheimer disease. The technical procedures are correct and the results are clear-cut. However, authors should revise and correct several syntax mistakes (which require major corrections):
+
+Major concerns:
+
+Figure 1. what is the significance of the data? PC-PS free chol vs PC-PS
+Figure 2 C-D, Figure 3 C-D: significance and standard error of the mean are missing
+Cholesterol metabolism in the brain should be studied separately from peripheral cholesterol metabolism because it is not able to cross the Blood Brain Barrier (BBB) into the brain. However, oxidized cholesterol metabolites (oxysterols) are able to cross the BBB from the circulation. Authors should discuss it!
+At what stage in the AD pathogenesis would an Aβ-targeted therapeutic intervention show maximum efficacy? The specific lipid-Aβ interactions would be the key factors. Recently, Aducanumab, the first monoclonal antibody approved by the FDA based on reduction of the Aβ load in the brain. Please add more critical evaluation of the literature, and an impartial opinion of the pros and cons of the model used of free Cholesterol on the disease-prone aggregation of Aβ (1-42)
+
+
+Typos:
+
+Check the references [X], in several occasions they appear in italics

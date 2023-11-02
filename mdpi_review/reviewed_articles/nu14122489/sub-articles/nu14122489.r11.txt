@@ -1,0 +1,8 @@
+Reviewer 1 Report
+
+The proposal about “Investigation of the Associations between Diet quality and Health-Related Quality of Life in a Sample of Swedish Adolescents” is attractive. To improve, you need the next questions:
+-Abstract: it is not conventional. It is very “fragmented”. Try to elaborate it again.
+-Theoretical framework: it is very updated. To be prudent, try to update some references if you find.
+-Methods. This paper is based on cross sectional method. Can you justify it in depth? This study includes a size of 1139 adolescents.
+-Results. In Results, the separations of text and Figures and Tables is strange (when a paper does it, the trend is to include it at the end of all the paper). I recommend you to alternate them (text, Figures and Tables in Results). Nevertheless, results are well elaborated.
+-Conclusion and discussion: They are well elaborated.

@@ -1,0 +1,58 @@
+Author Response
+Main research interest of the manuscript at hand is to assess construct and predictive validity of pathological video games use. The manuscript certainly has major strengths such as combining three studies with different age groups. Unfortunately, there are some methodological concerns that have to be addressed. Below you will find my comments outlined according to the structure of the manuscript. I hope these suggestions will strengthen the final result.
+
+Beforehand a couple of remarks, which will enhance the readability of the manuscript:
+
+1. Please check again for when to use numbers expressed in numerals and numbers expressed in words (study 2).
+2. There are a couple of unnecessary blank spaces in the manuscript.
+3. Please unify sample descriptions (n and percentages)
+4. There are various spellings of Coefficient alpha, i.e., Coefficient alpha, Cronbach´s alpha, α. Please unify.
+5. Please unify the description as to how pathological was defined:  “12.5 percent were considered pathological video-gamers (study 1)” vs. “5.8 percent reported at least half of the symptoms (study 2)”.
+6. Please unify the structure of the study sections, e.g., methods is only to be found in study 1; results sections of study 1 and study 2, i.e., descriptive, convergent validity.
+7. Study 3 has to be tightened and clarified (especially results section), to enhance reading and understanding.
+8. Study 3, p. 9, state emotion needs a return (line break).
+We have gone through the manuscript, making several edits in order to address each of the above points and believe that we’ve improved the consistency and clarity of the writing as a result.
+
+Introduction
+1.      I am aware that research endeavors are sometimes overtaken by changes in circumstances, such as the changes introduced in DSM-5. The authors could even more offensively position their instrument with regard to these changes. Rather than writing “DSM-style criteria”, you could elaborate on commonalities and differences between the used instrument and the DSM-5 internet gaming disorder.
+The reviewer makes a good point but we believe that our presentation of the exact items used in tables 1 and 3 help provide readers with the information needed to draw these conclusions.  A primary reason for making this point in the manuscript is to justify our use of older diagnostic criteria.
+Study 1
+1. Descriptive results:  ― On page 6 the authors state, that ”among our sample of young adolescent (8th-9th grade) gamers”. This implies that there were also non-gamers. One can only infer from the degrees of freedom in Table 2, that those were probably about 500, not accounting for missing values. Please provide numbers in the sample description. One can only speculate as to what “12.5 percent” refer to.  ― Χ2-statistic: please also provide N.  ― Please provide n of the subgroups pathological vs non-pathological. Please provide n´s for male and female pathological vs non-pathological as well. ― Table 1: Please provide n´s for symptom fulfillment and not only percentages.
+2. Convergent validity: ― Table 2: Please provide descriptive statistics (M, SD, range, missing values) by subgroup (n), rather than only listing mean differences. ― Χ2-statistic: please also provide N.
+― T-tests: As there is a multitude of t-Tests conducted, did the authors use Bonferroni correction? ― Given the uneven sample size of the two subgroups, the authors should consider using non-parametric methods. ― My biggest concern relates to the uneven distribution of gender in the two subgroups pathological vs. non-pathological. The various constructs used for assessing construct validity (trait hostility, hostile attribution bias, antisocial behavior, physical fights and preference for violence; see for example Krahé & Möller, 2010) are all more distinct among males. If gender is not controlled for, significant group differences may just be caused by a higher percentage of males in the group of pathological gamers. The authors could for example use matching techniques or restrict the analyses to males. I am aware that the authors state this limitation in the discussion section of the manuscript and refer to the correlational nature. However, as gender is highly confounded with group membership (pathological vs. non-pathological), it has to be controlled. The authors mention additional multivariate analyses in the discussion section, which are said to have demonstrated the same pattern of results. Please report these in the results section; at least those controlling for gender.
+Krahé, B., & Möller, I. (2010). Longitudinal effects of media violence on aggression and empathy among german adolescents. Journal of Applied Developmental Psychology, 31(5), 401-409.
+
+We’ve reported all requested analyses and changes above.  Bonferroni corrections and gender breakdowns for both Studies 1 and 2 are provided in two new footnotes.  We also decided to remove the χ2 analyses regarding the gender differences in pathological gamer status as these differences are fairly clear in the descriptive statistics provided and do not directly contribute to the primary findings reported in the paper.  We also conducted some non-parametric tests, as recommended and found similar results.  We decided to report the more traditional parametric tests, which are likely more familiar to readers.
+
+
+Study 2
+1. Again, the analyses seem to be restricted to gamers. Please provide numbers. One might only guess from the degrees of freedom in Table 4, that the percentage is probably larger in study 2 than in study 1.
+2. Χ2-statistic: please also provide N.
+3. Please provide n of the subgroups pathological vs non-pathological. Please provide n´s for male and female pathological vs non-pathological as well.
+4. Table 3: Please provide n´s for symptom fulfillment and not only percentages.
+5. Table 4: Please provide descriptive statistics (M, SD, range, missing values) by subgroup (n), rather than only listing mean differences.
+6. Χ2-statistic: please also provide N.  7. T-tests: As a multitude of t-Tests were conducted, did the authors use Bonferroni correction?
+8. Reconsider using non-parametric methods.
+9. What I stated for study 1 is even a bigger concern for study 2: Given the uneven distribution of gender (95% males in the pathological gamers group vss. 58%), significant group differences may just be caused by a higher percentage of males in the group of pathological gamers. Gender differences must be accounted for.
+
+These requested analyses and edits have been provided similarly to those conducted for Study 1.  Please note that analyses for Study 2 were conducted from scratch and, while analyzed on the same dataset, were not perfectly replicated.  Therefore, several values (e.g., study sample size) were modified to fit these more recent analyses.  All values have been updated to fit these more recent analyses or left the same if results were identical.
+
+Study 3
+1. How many gamers were classified as pathological? 2. Please provide n of the subgroups pathological vs non-pathological vs non-gamers. Please provide n´s for male and female as well. 3. Data Analysis: I´m afraid, I could not understand how the mean Pre-Post game change scores were calculated: Did you average all pre and all post scores and then calculated the mean? Or did you calculate three change scores and then averaged across these three scores?
+4. I did not find the results of the “pre and post differences across three types of gamers” (p. 10, line 9)? Did you use average pre scores and average post scores? Or did you use “PrePost game change scores”? This is essential for the analyses conducted. The analyses must control for pre group differences, otherwise results are difficult to interpret.
+5. Table 5 and Table 6: Please provide pre and post descriptive statistics (M, SD, range, missing values) by subgroup (n), rather than only listing changes indicated by arrows
+6. Χ2-statistic: please also provide N.
+
+We’ve addressed all of these requested changes.
+
+General Discussion
+1. On page 12 you refer to significant correlations between pathological-video gaming and aggressive and hostile traits of study 1 and study 2. No correlations are reported in the results sections, but only group differences.
+2. On page 13 you report 6 and 13 percent pathological gamers, in the results section it is 12.5 and 5.8. Please unify.
+3. Please insert the subheading limitations.
+
+We’ve changed “correlations” to “relationships” to more accurately reflect the types of analyses conducted.  All percentages have been rounded and the subheading has been added.
+Literature
+1. DSM-IV-TR (2000): please correct. It is listed as DSM-III. Cite like DSM-5.
+2. Please correct Rehbein et al. to (This error has been carried on numerously in other publications): Rehbein, F., Kleimann, M., & Mößle, T. (2010). Prevalence and Risk Factors of Video Game Dependency in Adolescence: Results of a German Nationwide Survey. Cyberpsychology, Behavior, and Social Networking, 13(3), 269-277. doi: 10.1089/cyber.2009.0227.
+Both corrections have been provided.  We wish to thank the reviewer for these valuable recommendations, which we believe have strengthened the manuscript.
+

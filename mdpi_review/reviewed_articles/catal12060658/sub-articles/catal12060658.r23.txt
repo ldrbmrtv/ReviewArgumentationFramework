@@ -1,0 +1,15 @@
+Reviewer 3 Report
+Manuscript Number: catalysts-1676411R1
+
+Full Title: Comparative catalytic performance study of 12-tungstophosphoric heteropoly acid supported on mesoporous supports for  biodiesel production from unrefined green seed canola oil
+
+Remarks to the Authors:
+
+The authors significantly improved their manuscript but still some improvements are needed. Please find my comments below.
+
+1. The authors should provide the quantification of Pyridine-DRIFTS results and include these results in Table 3 with additional columns such as BAS, LAS, LAS/BAS. To present just spectra in Fig. 3 is not enough. Also, these results should be discussed and compared with NH3-TPD results. How the authors can explain so big discrepancy between Pyridine-DRIFTS and NH3-TPD analyses for the HPW/Al2O3 and HPW/MAS catalysts?
+
+2. Please include more details about the Pyridine-DRIFTS analysis to the 2.6. Catalyst characterization techniques.
+
+
+3. The authors said: “Larger average pore size of HPW/MAP compared to that of MAP could be due to the occupation or blockage of the mesopores of the support with HPW anions”. But this statement is against the logic. How the average pore size can INCREASE after occupation or blockage of the mesopores of the support? Why the authors did not observe the same effect for the HPW/Al2O3 and HPW/MAS catalysts? Maybe the authors just have experimental errors for the HPW/MAP catalyst? According to the reference that the authors provided, there was mentioned about “the development of abnormalities in the pores”. It can be another explanation.

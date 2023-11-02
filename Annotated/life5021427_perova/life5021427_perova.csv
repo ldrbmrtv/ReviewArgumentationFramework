@@ -1,0 +1,17 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;"Giving specific examples is certainly a good idea. However, being experts in their field the authors
+ might not be aware that for readers less familiar with the metabolism/physiology of archaea, the
+ examples are not always easy to follow, such as examples given on p. 7 starting line 196 (The main
+ difference here is between a ferredoxin-dependent and/or a NAD-dependent decarboxylation of
+ pyruvate into acetyl-CoA?/A few lines later when I read that “halophilic archaea do not contain the
+ coenzyme methanopterin”, I had to go back and reread the preceding sentences to get an idea of the
+ argument.), p. 10 starting Line 299, and p. 12 starting Line 354."
+Reviewer 2;Author;1;1;0;"There is now available a great resource for the gene discovery in Haloferax volcanii (Kiljunen et al
+ 2014: BMC Biology). A comprehensive insertion mutant library has been generated for this model
+ archaeon in order to facilitate gene discovery. This should be mentitioned and discussed in the text; i.e.,
+ how this resource could be used to assign functions for genes."
+Author;Reviewer 1;2;1;1;"We have rephrased the four paragraphs where the referee found that the
+ described examples are not always easy to follow."
+Author;Reviewer 2;2;1;1;"We have added a short “outlook-type” paragraph towards the end of the conclusions. In this
+ paragraph we mention three approaches that will facilitate gene discovery, among them large-scale
+ screening techniques as exemplified by the insertion mutant library pointed out by the referee."

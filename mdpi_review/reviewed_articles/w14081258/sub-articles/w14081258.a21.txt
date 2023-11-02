@@ -1,0 +1,13 @@
+Author Response
+Dear Editor：
+Thank you very much for the comments of my manuscript. I have carefully read the comments and made a revision. The following are the details of the revision and marked red in the “resubmit” version.
+Comments
+I do not understand why soil samples were 0.3 mm sieved. Moreover, in the subsequent sentence is reported: "The soil was 0.25 mm-sieved to remove large particles; and then weighed series of 10 g aliquots into 250 mL brown jars"Did you sieve the soil twice at 0.3 mm and then 0.25 mm? Why?The active soil components (lime, sand, clay) where microorganisms live and organic carbon is accumulated is just less than 2mm. Consequently you excluded an important part of the active soil from your study, therefore your resuts are very limited.R： Actually, the soil samples were 0.25 mm sieved. At first, the soil was 0.3 mm sieved, but the big particle size was not appropriate for the soil ultrasonic treatment of NP extraction. Therefore, 0.3mm-sieved soil was not used for the experiment(which has been deleted in the manuscript in L104). Then the soil was 0.25mm-sieved, which was suitable for the NP extraction. If the soil was 2 mm-sieved, the extraction of the NP was more inappropriate. So 0.25mm sieve was used in this study. Indeed, this size particle excluded an important part of the active soil where microorganisms live and organic carbon is accumulated. But for this study, the degradation was completed within 30 days in both of the two soils. Therefore, though some of the organic carbon was adsorbed on the surface of the particle, the amounts of the microorganisms are enough for the degradation of NP. However, the degradation rate could be affected by this. In the future study, this would be taken into accounted. What’s more, the microbial community could be taken into accounted as well.
+Figure 1 legends of axis need font size larger, please make readable the figuresR：Accepted and revised in L204. Figure 1 has been changed in the manuscript.
+Your careful review of this manuscript is highly appreciated. I am looking forward to the good news. Please feel free to contact me if any questions.
+
+Yours sincerely,
+Shiyu Wang
+[email protected]
+
+Author Response File:  Author Response.docx

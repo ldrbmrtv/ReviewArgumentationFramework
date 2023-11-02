@@ -1,0 +1,17 @@
+Reviewer 2 Report
+
+A brief summary
+The authors conducted a pilot study of genome wide CNA analysis using 2.5 million markers in four diagnostic groups: reference, low grade dysplasia, high grade dysplasia, and invasive carcinoma. They found statistically significant difference of CNA burden between case and reference groups in different sizes of CNAs that included deletions and amplifications, e.g., a statistically significant difference of >100 kb deletions were observed between the reference and pre-cancer and cancer groups.  Recurrent aberrations of 98 CNA regions were also identified in cases only. A total of 32 CNA regions identified contained tumor suppressor genes and oncogenes.
+Broad comments
+This is the first genome-wide copy number analysis of CNAs identified for cervical cancer in the U.S. Latino population. The manuscript is well-written. The experimental design is adequate and the statistical methods are updated. The results are novel and provide insight into how multiple CNAs might contribute to cervical cancer development. No major issues were found.
+The authors have acknowledged the limitation of this study, for example, the small sample size. Therefore, the authors pointed out that validation and confirmation of the results in a large sample size will be needed in the future.
+Specific comments
+There comments are minor.
+1) Line 34. The authors need to make clear about “pre-, cancer (91.3%) groups”. It is not clear if there is one or two groups but just one percentage.
+2) Line 40. The authors may add up to 6 key words.
+3) Lines 196-197. It is not clear which statistical method is used for the significant results in Table 2.Please give more details.
+4) Line 199. The authors need to define “pre-cancer” in materials.
+5) Lines 202-206. The authors mentioned the results by using PCA but PCA was not found in methods. The authors need to give more details about how to use PCA in statistical methods.
+6) Lines 214-216. It is not clear which statistical method is used for the significant results. Please give more details.
+7) Lines 238-242 are replicated in discussion lines 376-380. The authors may need to delete the part in lines 238-242.
+

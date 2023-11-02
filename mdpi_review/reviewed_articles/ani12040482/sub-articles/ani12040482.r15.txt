@@ -1,0 +1,64 @@
+Reviewer 5 Report
+The study reports that pet dogs whose leaving routines changed most during the COVID-19 pandemic (i.e., their owners left them alone less frequently) would be at greater risk of developing separation-related behaviours following the lifting of pandemic restrictions. The authors gathered data (via owner surveys) about the same dogs before the pandemic, at the beginning of the pandemic and approx. 5 months later. The article is generally well-written, the topic is timely, important, and interesting from a dog welfare aspect. However, currently, the paper seems too long, and it goes into too much detail about how the pandemic took place in the UK. This information would have been interesting if data on the mood, stress level, general mental health of the owners had also been collected in connection with the pandemic and the links with dog behaviour have been investigated. But the questionnaire only asked how long the dogs had been alone and what they were doing during this time. Therefore, the detailed description of the pandemic is unnecessary and could be moved to the Supplemental material, together with Figure 1.
+According to the authors, the main finding is that dogs whose leaving time reduced the most during the lockdown were most at risk of developing new SRBs. I think that according to the statistics, the strongest finding is that dogs who showed SRB in February or May had increased odds of having SRB during the subsequent measures which is not surprising. What is surprising though is that 55.7% of the dogs who were reported to show SRB in February (before the pandemic) were clear in October which is good news. However, the authors do not focus on this result and do not explain this finding.
+
+Specific points requiring attention:
+L18-20 „Whether dogs showed SRBs or not changed considerably over the months of the study, and one in ten dogs were found to have developed new SRBs in October, that they didn’t show before the pandemic”
+Overall, the percentage of dogs showing SRBs decreased during the study, and this should be clarified in the sentence above. What I see in Figure 4 and in the text is that approx. half of the dogs from the SRB group moved to the Clear group in October.
+
+L22 and elsewhere: dogs’ “leaving time” or “leaving hours”
+I think this expression is misleading because it is not the dogs that have left home, but the owners. But this is the opinion of a person using English as a second language.
+
+L33 10th instead of “10th”
+
+L45 Separation behaviour, separation-related behaviour, separation distress, separation anxiety terms are used interchangeably throughout the text, although these terms do not necessarily describe the same behaviours. Please provide a clear definition of the behaviour aimed to study and stick to one term.
+
+L92 delete the comma after Bowen et al.’s.
+
+L92-92 28.5% of dogs reported to have SRPs – this is a much higher number than mentioned in previous studies and needs to be discussed.
+
+L118 Materials and Methods
+This section (after the Ethics) should begin with the Subjects section. It is confusing to read about the surveys without knowing the sample sizes per survey and the demographics.
+
+L127-137 The dates of data collections have been already mentioned in L121-126, so there is no need for repeating them. The whole section is not relevant to the main question.
+
+L131-132 and elsewhere: (Error! Reference source not found.) This error occurs 7 times in the text, please correct.
+
+L148 Please explain why a periof of 7 days were asked to be reported
+
+L165-167 Figure 1. This Figure should be moved to the Supplement material as it tells nothing about the dogs’ behaviour.
+
+L216-218 “The text was then coded by two researchers”
+I could not find agreement data reported later.
+
+L238 Do the authors have information about the Owner demographics? What was the proportion of females? Was there a relationship between age and leaving hours? Or explain why this information has not been used.
+
+L232-242 These sections should be moved to the Materials and Methods as a “Subjects” section
+
+L232 How many owners have filled in the questionnaire altogether? What was the proportion of owners who did not leave their dog at home before the pandemic? Why were they excluded? It is perfectly feasible that some owners did not leave their homes because they were for example, ill, but they did so during the pandemic.
+What was the proportion of owners who indicated that they would like to participate in the follow-up study? Among them, what was the proportion of owners who has not responded to the request afterward?
+
+L278-280 “There were 1,407 dogs who were clear of SRB at baseline in February 2020. When looking at SRB status in October, of 1,187 dogs who were left alone in October, 117 (9.9%) were reported to have shown at least one SRB”.
+In other words, 1407/1807 (78%) of dogs were clear of SRB in February and 90.1% in October. This is good news, and it is unclear for me why is it reported as bad news. The next section (l281-283) emphasizes that 55.7% of the dogs who were reported to show SRB in February were clear in October. This is a big improvement, I think.
+
+L285 Figure 4. This is a great figure, thank you for including it. However, an explanation would be useful for those readers who are not familiar with this type of depicting.
+
+L291 The odds ratio (OR) is 5.38 and not 4.38 in Table 1.
+
+L293-295 “The final variable associated with October SRB status was the difference in the number of days dogs were left alone for between the February baseline and lockdown”.
+OR was 0.81 here. Please explain the relationship between the variables.
+
+L298 Table 1 legend: Add what bold indicates
+
+L307 The odds ratio (OR) is 4.97 in Table 1 and not 3.60
+
+L314 Table 2: bold is not used here although it was used in Table 1
+
+L333 table 3: same: bold is not used here
+L382 Please refer to Flannigan and Dodman (2001) here (owner’s work schedule affects separation problems). Flannigan, G., & Dodman, N. H. (2001). Risk factors and behaviors associated with separation anxiety in dogs. Journal of the American Veterinary Medical Association, 219(4), 460-466.
+
+L395-397 “This value is likely to be an underestimate”
+The underestimation has already occurred during the baseline.
+
+
+I think that after the revision, the paper would make an interesting contribution to the journal. I hope this review helps – thank you for the opportunity.

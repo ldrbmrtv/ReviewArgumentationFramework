@@ -1,0 +1,23 @@
+Reviewer 1 Report
+There might be some interesting data collected in the present study.  However, my main concern with the study is that there were too many analyses presented to interpret in a meaningful way.  The authors should revise the paper providing more theoretical background and accompanying analyses.   With better theoretical framing and a more limited set of analyses, the value of the study results should be more clear.  Some more specific suggestions are provided below.
+
+I think it would be preferable to describe the measurement of sexual subjectivity shortly after it is defined on p. 3.  Also, a more thorough description of the measurement of the construct and the validity of the measurement could be described in that section.
+
+On p. 4 the first sentence of second full paragraph, “Regarding sexual subjectivity and its link to greater sexual exploration and experience, one cross-sectional with a sample of females” is missing the word “study.”
+
+The authors could provide more theoretical explanation of why there might be gender differences in sexual subjectivity.
+
+The authors rely too much on headings to transition between ideas.  The paper would flow more smoothly if some transition sentences were included.
+
+More specific hypotheses could be proposed.  The section where research questions are described is worded in an awkward way.
+
+The reporting of group differences in the participants section might be better placed in the results section after the measures are described.
+
+The combining of the male and female versions of the sexual subjectivity inventories should be described in more detail, and the validity of creating the subscales should be explained.  Perhaps factor analysis could be used to determine appropriate subscales?
+
+What were participants told about the purpose of the study?
+
+There is an increase in Type I error with the multiple t-tests conducted thatshould be addressed.  Similarly, there are many correlation tests performed which increases Type I error that needs to be addressed.
+
+Predictions about how the specific subscales of the inventory might relate to age and experience might be provided to make the results more meaningful (see the comment about theory relating to analyses discussed above).
+

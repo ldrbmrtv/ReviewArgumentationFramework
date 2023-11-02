@@ -1,0 +1,20 @@
+Reviewer 2 Report
+This works presents the main large-scale atmosphric processes connected to the precipitation anomalies observed in the Tropical South America. To pursue their goals, the authors used an observational-based gridded dataset (the GPCC Full Data Monthly Product) and the ERA-20C reanalysis dataset, as well as several teleconnections indices (related to SST anomalies). A well-known Principal Component Analysis (PCA) has been carried out to extract the leading modes of precipitation variability in the study area.
+The overall judgement about this study is positive. In my opinion, the results from this study can be of interest for the atmospheric scientists dealing with Tropical Meteorology and Climatology. However, I think that this paper can be considered for publication on Atmosphere after the authors have fixed the following questions.
+Main comments
+1) In Data and Methods Section, the authors stated that they limited their study to 1931-2016 period, because before 1931 there were too few stations in the study region (mainly over Amazon). In my opinion, more details about this point are necessary. It is very important to assess the impact of the number of station on the realibility over the time of the considered gridded-data set. Can you produce a simple plot showing the evolution over the time of the number of rain-gauges available for the study region?
+2) About the methods. Can you motivate the use of PCA? Why did you not use the cluster analysis?
+3) Section 3.1 (lines 149-152). Those sentences must be motivated and supported by a quantitative investigation (for example by a correlation analysis). See the next comment.
+4) A point of weaknesses of this work is related to the absence of a coherent quantitative investigation about the relationship between the main PCs and the large-scale atmospheric features. For example, I think that is necessary to perform at least a correlation analysis to support the association between the first PCO (considered in terms of amplitude) and the SACZ intensity, as the authors have done to support their findings about the linkages between the second PC and the ENSO.
+5) Section 3.2: what happens in the negative phase of the second PC?
+6) Moreover, I do not see any detailed analysis or discussion about the variability over time of the precipitation anomalies, with specific reference to the last 50 years (1970-2020), in which most of the global warming phenomenon occurred. I suggest to add a section about this point and to investigate about (potential) changes in the relationship between large-scale features and tropical south America precipitation anomalies in the global warming era.
+
+Minor comments
+1) I suggest to standardize the citation style within the text. According to MDPI Journal style, the reference citation numbers should be placed in square brackets, i.e. [ ], and placed inside the punctuation. For example, at Page 2 (line 50) I see a different citation style.
+2) At the end of the introduction section, the authors should devote a couple of sentences to the structure of their manuscript.
+3) Figure 2: I suggest to reverse the colorbar. Usually, the red colors indicate positive values, whereas blue colors are related to negative values. Please modify the colorbar and make it consisent with the other figures. The same consideration can be applied to the Figure 8.
+6) Conclusions (Pag. 11, lines 343-344): the investigated period is 1931-2016, not 1931-2010.
+Finally, I suggest to carefully check the paper in order to address some minor typos.
+
+Best regards.
+

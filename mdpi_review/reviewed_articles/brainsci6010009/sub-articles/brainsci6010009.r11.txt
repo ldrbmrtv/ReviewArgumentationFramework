@@ -1,0 +1,8 @@
+Reviewer 1 Report
+I highly recommend this manuscript for publication with minor revisions. This is a straightforward analysis of an important database with profound implications for public health. The Odds ratios presented are dose dependent and, above 37.5 uG of Hg, they reach over 4.5 which are tremendous associations between an exposure and a disease outcome. These results are relevant and important as thimerosal is still included in global vaccines although they have largely been removed from childhood vaccine in the United States. The writing is clear, the analysis is sound, and the presentation is excellent with a few exceptions.
+
+1. In table 1, the "-" is used to signify absent values but that should be footnoted in the table precisely what this signifies.
+2. In the exposed and control groups were there other related diseases such as Autism? If so, how many and what would happen to the analysis if you removed them?
+3. On page 3 line 22, they describe children with the diagnosis before the exposure. How many were there that fit in this category?
+4. On page 11 line 4 you say levels of Hg in the environment and in humans are increasing but your reference #26 doesn't speak to that point. Are there better references to substantiate this point?
+5. Can the authors address this point: is this database publicly available?

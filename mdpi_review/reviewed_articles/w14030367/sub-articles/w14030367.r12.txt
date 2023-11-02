@@ -1,0 +1,13 @@
+Reviewer 2 Report
+In this study, the authors investigated the removal efficiency of Biological activated carbon (BAC) and biofilter coupling ultrafiltration (UF) system process for the treatment of surface water contaminated by pharmaceutical and personal care products (PPCPs).
+The study was carried out in the pilot-scale BAC-UF process with a treatment capacity of 0.16 m3/h.
+After the process, the water quality was analyzed including CODMn, UV254, NH4+-N, and PPCPs.
+They concluded based on the results from this study that the BAC-UF process is a promising process for producing clean drink water.
+I can see very well-defined experiments and produced good results.
+I also believe that this study will be useful and of interest to many readers.
+Moreover, the authors present the results properly.
+They also discussed their results in detail and put the difference in their results compared to the data with the literature.
+However, there are some mistakes in the writing of the paper.
+Please also see the attached file for my corrections/comments.
+Overall, the manuscript can be accepted after the minor correction/revision to be published in the journal of Water.
+Comments for author File:  Comments.pdf

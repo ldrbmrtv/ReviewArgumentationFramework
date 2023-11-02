@@ -1,0 +1,5 @@
+Reviewer 2 Report
+The manuscript is well written and the presented evidence supports the conclusions being made. There are some small edits that need addressing for clarity.Pg 1 line 45: the wording "and so on" is awkward and imprecise. Please rephrase and indicate what other processes are being referred to.Pg 2 line 67: don't assume that everyone reading the manuscript are aware of miRNA roles in plant stress physiology. Pg 3 Plasmid and sweet potato genetic transformation section: Include relevant protocols instead of just referring to another manuscript. Citing the original source is required but so are details needed to reproduce and evaluate the soundness of the manuscript. The same applies to other parts of the materials and methods:
+Pg 6 line 239: I don't understand the point being made here. "sequester the normal expression" is nonsensical. Please clarify and rephrase.
+
+

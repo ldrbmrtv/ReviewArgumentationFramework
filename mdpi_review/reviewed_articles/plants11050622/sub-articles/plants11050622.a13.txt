@@ -1,0 +1,30 @@
+Author Response
+Point-by-point response to reviewer's comments
+This paper described the multi-parents introgression assisted by molecular markers. The content is informative, however, the tables should be reorganized and the statistical methods description have to be improved. Please see the suggestion and comments below.
+Response: We appreciate the suggestions from the reviewer, which has resulted in improving the message of the manuscript.
+L48-63: should add some citations on the first part of introduction.
+Response: Added references appropriately at two places as suggested by the reviewer.
+2. L127: Please add the explanation of “boro season”.
+Response: Explanation for boro season has been added.
+3. The legend of supplementary table should be improved. Table and main text are independent, so the authors have to describe the table more carefully.
+Response: Legends of the supplementary tables have been revised and inference of the table is given in foot note.
+4. L562: the section of statistical analysis should add more details. For example, how does H2calculate? Also please indicate the R version.
+Response: Authors once again thank the reviewer for the valuable suggestion. More details on the statistical analysis have been added as suggested.
+5. On Supplementary table S2, does significant mean p-value? Indicate DFF = days to fifty percent flowering. What is the “treatment”? What do the results on “check” mean? How did you analyze “control vs IL”?
+Response: Yes, significant means p-value. In the supplementary tables, expanded form of DFF is given as suggested. Treatments refers to introgression lines and check to control. For uniformity, we have changed the terminology to treatment instead of using IL or variety and check to control in all the revised supplementary tables and rephrased the legends accordingly.
+6. On Supplementary table S3, similar questions as S2, please also explain.
+Response: Similar to Supplementary Table S2, S3 has been revised
+7. On Supplementary table S5, what is “C.D”? How did you calculate those values on those comparison types?
+Response: CD is the critical difference at 1% and 5% level of significance (p-value) for testing of significant differences among the ILs. The details of CD calculation have been added in the materials and methods section as suggested.
+8. Please re-organize the Supplementary table S5, I suggest use each ILs only appear one time and add one more column to show their PC groups. Then the table can be more informative and ease to read.
+Response: Supplementary table S5 is on CD and corrections have been addressed as suggested as at S. No 7. Supplementary table S6 have been modified by shifting data of BB and blast scores to main table. Each PC group is mentioned on top as sub heading at the start of each group. Each IL is presented only once in the entire table under separate PC groups.
+9. Please add the full name of abbreviations. For example on L203 “CD”, L211 “SES“, L228 “UBN“ and L332 “ICAR-IRRR”.
+Response: Full names of the abbreviations have been added as suggested.
+10. The last paragraph of results is about background selection. Suggest to add subtitle “2.2.8”.
+Response: Subtitle has been added as suggested.
+11. Please add some gel pictures of the foreground selection markers you used in order to visualize the genotyping results and showed the polymorphism of these markers on gel.
+Response: A representative gel picture has been added as suggested.
+12. L296-L302: the marker descriptions on main text cannot match the supplementary table S8. Also, what are those 27 ILs on L298?
+Response: Table S8 represents polymorphic markers between pairs of parents including some common polymorphic markers. Hence the total number represented in the table S8 is not additive and not matching with the numbers given in the text. 124 is the total polymorphic markers excluding repetition. 27 ILs were selected based on their agro-morphological similarity with recurrent parent ‘Krishna Hamsa’ and evaluated for background recovery. The list of 27 ILs has been included in the revised manuscript as suggested.
+13. L602: there is no appendix.
+Response: Mention of appendix at L602 is a typo error and has been removed

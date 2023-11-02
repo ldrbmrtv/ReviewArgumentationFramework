@@ -1,0 +1,9 @@
+Author Response
+Point 1: The aim of this work is to prepare emulsion gels based on whey protein isolate and gelatin by two different methods: an enzymatic and a physical method. The obtained emulsion gels are well characterized in terms of their structure and rheological and mechanical properties. Droplet size and gelatin concentration are the factors that most affect the structure and texture of emulsion gels. The results of this study are important for structuring emulsion gels and adjusting the texture of food products. The manuscript is presented in a well-structured manner. The references cited are relevant and current, mostly published within the last three years. The results of the manuscript are reproducible using the information in the methods section, but some minor explanations are missing.
+Response 1: It is our great pleasure to get your positive comments. Thanks very much for your responsible and efficient work in the process of our manuscript.
+Point 2: What equipment was used for the texture profile analysis?
+Response 2: Thanks for your suggestion. In this study, texture profile analysis was investigated by a Texture Analyzer (TA.XT PLUS/50, STABLEMICVO, UK) using a P/0.5R cylindrical probe, and corresponding description has been added to the manuscript in Line 526 marked in red font.
+Point 3: Describe the emulsion blank gel.
+Response 3: Thanks for your comment. The gel without the emulsion was taken as the emulsion blank gel, which was the gel formed only by gel continuous phase.
+Point 4: What does the term "wet gel" mean?
+Response 4: Thanks for your question. Wet gel were the emulsion gels we obtained, which had a three-dimensional network structure that can hold a large amount of water. The corresponding Line  570 in the manuscript has been revised to a more accurate expression, emulsion gels. Thanks again for your careful review.

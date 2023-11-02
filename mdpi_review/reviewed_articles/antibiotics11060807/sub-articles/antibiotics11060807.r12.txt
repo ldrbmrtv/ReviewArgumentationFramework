@@ -1,0 +1,20 @@
+Reviewer 2 Report
+Comments and suggestions for authors are provided below and for supplementary materials in an attached file.
+Journal: Antibiotics
+Review comments for manuscript entitled:
+Effects of Typical Antimicrobials on Growth Performance, Morphology and Antimicrobial Residues of Mung Bean Sprouts
+
+Line 43: “…meat bacterial…” change to “…meat bacteria…”
+Line 78: “…risks.[19]” change to “…risks [19].”
+Line 123: “…were repeated for…” delete “for” and change to “…were repeated…”
+Line 154: “…and 1 mL were taken…” change to “…and 1 mL was taken…”
+Line 169: “…employed as nebulizer…” add “a” and change to “…employed as a nebulizer…”
+Line 191: “…were detected for…” change to “were prospected for”
+Table 1. and Line 198 : there are no letters within a column in the table which define the statistical significances
+Line 242: “…was shown…” change to “…is shown…”
+Line 293: “…were shown…” change to “…are shown…”
+Line 297: “…(P <05)…” change to “…(P > 0.05)…”
+Line 337: “Antimicrobial residues were…” delete “were” and change to “Antimicrobial residues…”
+Line 348: “Over use…” change to “Overuse…”
+Line 349: “…caused residue and pollution of antimicrobials in…” change to “…caused occurrence of antimicrobial residues and pollution in…”
+Comments for author File:  Comments.pdf

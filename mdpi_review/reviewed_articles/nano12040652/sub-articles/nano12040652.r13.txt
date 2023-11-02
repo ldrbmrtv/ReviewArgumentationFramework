@@ -1,0 +1,10 @@
+Reviewer 3 Report
+The paper provides interesting data concerning the colors of some specific kinds of plasma discharges in different gases and compares them to atmospheric discharges, considering the presence of metal vapors and nanoparticles coming from the electrodes.
+The topic is timely and the results provided are interesting. However, most of the results provided consist in photographs of the discharges: while these are clear and descriptive, they provide a qualitative information only. A spectral analysis is given for one discharge only (discharge in air with a copper electrode): more quantitative results, such as a spectral analysis of the other discharges also, would be helpful for the comparison between the discharges produced in the lab and the ones observed in the atmosphere.
+A point that should be clarified is the choice of the gases used for the discharges. One would expect a comparison between discharges that happen in gas mixtures of similar composition. Is there any relationship between the specific choice of gases made by the authors and the composition of the atmosphere at the altitudes where the atmospheric discharges take place?
+A couple of requests of clarification about specific parts of the text are also provided in the following.
+Page 5, line 168
+The authors state: “An increase in the track brightness is apparently determined by an increase in the particle charge and size due to the evaporation of metal from the surface.”
+The sense of this sentence is not completely clear to me. Where does the evaporation of the metal take place? It it took place on the particle surface, it should produce a reduction of its size, rather than an increase.
+Page 6, line 218
+The authors state: “Particles of metal and its compounds with oxygen and nitrogen with a size of 500 nm and less are nonuniformly distributed on the surface of the slide”. Some data should be provided to show the elemental composition of the particles.

@@ -1,0 +1,10 @@
+Reviewer 1 Report
+Ren et al.'s study focus on the characterization of IbmiR319 based on its effect on plant architecture and drought response. While congratulating the authors on this interesting study, I have the following comments.
+Major comments
+The authors look at the expression of IbTCP11/17 (targets of miR319) from lines 418-424. Here authors capture the early response to PEG compared to the drought response (water withdrawal) assessed earlier. To have a meaningful comparison, the authors need to show the expression level of these two genes in the drought assay (Lines 400-417). As the authors briefly mentioned, PEG stress is more severe than water withdrawal, so it will not give a solid verification provided there are two variables, inducer, and timing. In our experience, we observed completely different responses when we tried to compare PEG, air drying, and water withdrawal. This is essential given that no temporal expression baseline is established for IbTCP11/17 under water withdrawal stress and the presence of other regulatory mechanisms of IbTCP11/17.
+It is interesting to see that only MDA content increases in response to drought. The possible mechanism/reason should be included in the discussion.
+The discussion needs to be further expanded. Esp. RNA-Seq results need to be further discussed.
+There should be a summary (concluding statement at the end). This manuscript ends very abruptly.
+Minor Comments
+Please see the attached file.
+Comments for author File:  Comments.pdf

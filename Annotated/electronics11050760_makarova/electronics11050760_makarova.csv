@@ -1,0 +1,155 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;Please add information on the number of additions for different transform types and sizes in original and proposed variants.
+Reviewer 2;Author;1;1;0;Keywords : We suggest that the authors should replace keywords such as “video coding” and “transform” because these keywords are already found in the article title. It is better that they replace them with other keywords to increase the reach of the manuscript
+Reviewer 2;Author;1;2;0;Introduction:The authors should add the main contributions briefly at the end of the introduction.
+Reviewer 2;Author;1;3;0;Methodology Section: It should be structured, sub-headings should be added to facilitate tracking and understanding.
+Reviewer 2;Author;1;4;0;The authors should add a section where they discuss comparing their results with those of existing research.
+Reviewer 2;Author;1;5;0;Also, they should clarify the limitations of the proposed method. There is a lot of recent research out there that can be used for comparison. As this discussion and comparison can clarify the fairness and rationality of the results of the proposed method.
+Reviewer 2;Author;1;6;0;Conclusions: Future directions should be added to the conclusion section.
+Reviewer 2;Author;1;7;0;Figures and Tables: All figures and tables are shown before they are used in the text.
+Reviewer 2;Author;1;8;0;The names of the researchers must follow the style of the journal format. 
+Reviewer 2;Author;1;9;0;The double quotation should be omitted from the research titles in the list of references.
+Reviewer 2;Author;1;10;0;Some search names in the reference list begin an uppercase letter for each word (such as [4], [5] ... etc.) and others use only an uppercase letter in the first word (such as [2], [9] … etc.), authors should standardize style. All journal names should be italic.
+Reviewer 2;Author;1;11;0;Some references do not contain enough information such as [16], [18] … etc.
+Reviewer 2;Author;1;12;0;Some links do not work in the reference list like [22] … etc.
+Reviewer 2;Author;1;13;0;This article requires extensive proofreading. Authors should check the entire article to remove all extensive mistakes (grammatical and typos) and to improve English writing quality.
+Author;Reviewer 1;2;1;1;According to reviewer’s comment, we added Equation (14), and Tables 3 and 4 on the number of additions for the VVC inverse transforms. 
+Author;Reviewer 2;2;1;1;"According to the reviewer’s comment, we modified and added some keywords as follows:
+We replaced “Keywords: VVC; HEVC; video coding; transform; computational complexity”
+With “Keywords: VVC (Versatile Video Coding), HEVC (High Efficiency Video Coding, Linear 
+Inverse Transform, computational complexity, DCT (Discrete Cosine Transform), Discrete 
+Sine Transform (DST), BD-rate”"
+Author;Reviewer 2;2;2;2;"According to the reviewer's comments, we updated the last paragraph of Section 1 as follows:
+We replaced “Section 2 presents a proposed inverse transform using linearity to reduce the computational complexity.” With
+“In Section 2.1, we introduce the transforms used in VVC. And we propose a fast inverse transform using linearity to reduce the computational complexity in Section 2.2.”"
+Author;Reviewer 2;2;3;3;"According to the reviewer’s comment, we divided Section 2 as follows:
+2. VVC Transforms and Proposed Method
+2.1. Introduction to DCT-II, DST-VII, and DCT-VIII 
+2.2. Propose Fast Inverse Transform Using Linearity "
+Author;Reviewer 2;2;4;4,5;"According to the reviewer’s comment, we included the following sentence in the end of 3. Experimental Results section on page 11:
+~~ “Fast encoding methods only in the encoder side were proposed to reduce the encoding 
+complexity of VVC but all the fast encoding methods increased the BD-rates [29][30][31] in 
+terms of the bit-rate reduction so that the proposed inverse transform using linearity in the 
+decoder side differs from those approaches in that it keeps the BD-rate in VVC while reducing 
+the decoding complexity. If the proposed inverse transform is applied to the VVC standard, 
+the inverse transform of the VVC standard should be changed to include the proposed method. 
+Therefore, the proposed method can be considered in the next-generation video coding 
+standards because it reduces the decoding complexity while the BD-rate is maintained.” ~~ 
+And three new references [29],[30], and [31] in Reference section were included."
+Author;Reviewer 2;2;5;6;"According to the reviewer’s comment, we added the future directions in the conclusion section as follows:
+“The proposed method can be considered in the next-generation video coding standards 
+because it reduces the decoding complexity while the BD-rate is maintained.”
+"
+Author;Reviewer 2;2;6;7;"Only Table 6 was shown before it was used. So, we removed the word Table 6 in the following sentence:
+~~. “Table 3 lists the percentages of horizontal and vertical transforms in VTM-8.2 for all test 
+sequences in Table 6 which are to be explained in Section 3—at each Quantization …” ~~~"
+Author;Reviewer 2;2;7;8,9,10,11,12;"Thank you for pointing out our mistake. According to the reviewer’s comment, we completely updated the list of references as follows: 1. Advanced Video Coding (AVC), Standard ITU-T Recommendation H.264 and ISO/IEC 14496-10, May 2003.
+2. Wiegand, T.; Sullivan, G. J.; Bjontegaard, G.; Luthra, A. Overview of the H.264/AVC Video Coding Standard, 
+In IEEE Transactions on Circuits and Systems for Video Technology, 2003, vol. 13, pp. 560-576, doi: 
+10.1109/TCSVT.2003.815165..
+3. High Efficient Video Coding (HEVC), Standard ITU-T Recommendation H.265 and ISO/IEC 23008-2, Apr. 
+2013.
+4. Sullivan, G. J.; Ohm, J.; Han, W.; Wiegand, T. Overview of the High Efficiency Video Coding (HEVC) 
+Standard, In IEEE Transactions on Circuits and Systems for Video Technology, 2012, vol. 22, pp. 1649-1668, doi: 
+10.1109/TCSVT.2012.2221191. 
+5. Bross, B.; Chen, J.; Liu, S.; Wang, Y.-K. Versatile Video Coding (Draft 10). In Proceedings of the 19th Meeting 
+Joint Video Experts Team (JVET) of ITU-T SG 16 WP 3 and ISO/IEC JTC 1/SC 29/WG 11, Teleconference 
+(Online), 22 June-1 July 2020;
+6. Bross, B.; Wang, Y.-K; Ye, Y,; Liu, S.; Sullivan, G. J.; Ohm, J. Overview of the Versatile Video Coding (VVC) 
+Standard and its Applications, In IEEE Transactions on Circuits and Systems for Video Technology, 2021, vol. 31, 
+pp. 3736-3764, doi: 10.1109/TCSVT.2021.3101953
+7. Karhunen, K. Ü ber Lineare Methoden in der Wahrscheinlichkeitsrechnung, Soumalainen Tiedeakatemia, 1947; pp. 
+1-79.
+8. Ahmed, N.; Natarajan, T.; Rao, K. R. Discrete Cosine Transform, In IEEE Transactions on Computers, 1974, vol. 
+C-23, pp. 90-93, doi: 10.1109/T-C.1974.223784.
+9. Rose, K.; Heiman, A.; Dinstein, I. DCT/DST Alternate-Transform Image Coding, In IEEE Transactions on 
+Communications, 1990, vol. 38, pp. 94-101, doi: 10.1109/26.46533.
+10. Zhao, X.; Chen, J.; Karczewicz, M.; Zhang, L.; Li, X.; Chien, W. -J. Enhanced Multiple Transform for Video 
+Coding, 2016 Data Compression Conference (DCC), 2016, pp. 73-82, doi: 10.1109/DCC.2016.9.
+11. Han, J.; Saxena, A.; Melkote, V.; Rose, K. Jointly Optimized Spatial Prediction and Block Transform for Video 
+and Image Coding, In IEEE Transactions on Image Processing, 2012, vol. 21, pp. 1874-1884, doi: 
+10.1109/TIP.2011.2169976.
+12. Budagavi, M.; Fuldseth, A.; Bjøntegaard, G.; Sze, V.; Sadafale, M. Core Transform Design in the High 
+Efficiency Video Coding (HEVC) Standard, In IEEE Journal of Selected Topics in Signal Processing, 2013, vol. 7, 
+pp. 1029-1041, doi: 10.1109/JSTSP.2013.2270429.
+13. Zhao, X.; Chen, J.; Karczewicz, M.; Said, A.; Seregin, V. Joint Separable and Non-Separable Transforms for 
+Next-Generation Video Coding, In IEEE Transactions on Image Processing, 2018, vol. 27, no. 5, pp. 2514-2525, 
+doi: 10.1109/TIP.2018.2802202.
+14. Zhao, X.; Chen, J.; Said, A.; Seregin, V.; Egilmez, H. E.; Karczewicz, M. NSST: Non-separable secondary 
+transforms for next generation video coding, 2016 Picture Coding Symposium (PCS), 2016, pp. 1-5, doi: 
+10.1109/PCS.2016.7906344.
+15. Zhao, X.; Kim, S,-H,; Zhao, Y.; Eglimez, H.; Koo, M.; Liu, S.; Lainema, J.; Karczewicz, M. Transform Coding 
+in the VVC Standard, In IEEE Transactions on Circuits and Systems for Video Technology, 2021, vol. 31, no. 10, pp. 
+3878-3890, doi: 10.1109/TCSVT.2021.3087706.
+16. Koo, M.; Salehifar, M.; Lim, J.; Kim, S. -H. CE6-Related: 32 Point MTS Based on Skipping High Frequency 
+Coefficients. In Proceedings of the 13th Meeting Joint Video Experts Team (JVET) of ITU-T SG 16 WP 3 and 
+ISO/IEC JTC 1/SC 29/WG 11, Marrakech, Morocco, 9-18 January 2019;
+17. Koo, M.; Salehifar, M.; Lim, J.; Kim, S.-H. Low Frequency Non-Separable Transform (LFNST), 2019 Picture 
+Coding Symposium (PCS), 2019, pp. 1-5, doi: 10.1109/PCS48520.2019.8954507.
+18. Koo, M.; Salehifar, M.; Lim, J.; Kim, S. -H. CE6: Reduced Secondary Transform (RST) (CE6-3.1). In Proceedings 
+of the 14th Meeting Joint Video Experts Team (JVET) of ITU-T SG 16 WP 3 and ISO/IEC JTC 1/SC 29/WG 11, 
+Geneva, Swiss, 19-27 March 2019;
+19. Chiang, M.-S.; Hsu, C. –W.; Huang, U. -W.; Lei, S. –M. CE6-related: Simplifications for LFNST, documentO0292, In Proceedings of the 15th Meeting Joint Video Experts Team (JVET) of ITU-T SG 16 WP 3 and ISO/IEC 
+JTC 1/SC 29/WG 11, Gothenburg, Sweden, 3-12 July 2019;
+20. Siekmann, M.; Schwarz, H.; Marpe, D.; Wiegand, T. CE6-2.1: Simplification of Low Frequency Non-Separable 
+Transform, document-O0094, In Proceedings of the 15th Meeting Joint Video Experts Team (JVET) of ITU-T 
+SG 16 WP 3 and ISO/IEC JTC 1/SC 29/WG 11, Gothenburg, Sweden, 3-12 July 2019;
+21. Schwarz, H.; Coban, M.; Karczewicz, M.; Chuang, T.-D.; Bossen, F.; Alshin, A.; Lainema, J.; Helmrich, C.; 
+Wiegand, T. Quantization and Entropy Coding in the Versatile Video Coding (VVC) Standard, In IEEE 
+Transactions on Circuits and Systems for Video Technology, 2021, vol. 31, no. 10, pp. 3891-3906, doi: 
+10.1109/TCSVT.2021.3072202.
+22. VVC Test Model (VTM-8.2) Reference Software. Available online: 
+https://vcgit.hhi.fraunhofer.de/jvet/VVCSoftware_VTM/-/tree/VTM-8.2 (accessed on 6 September 2021)
+23. Hung, C. -Y.; Landman, P. Compact inverse discrete cosine transform circuit for MPEG video decoding, In 
+1997 IEEE Workshop on Signal Processing Systems. SiPS 97 Design and Implementation formerly VLSI Signal 
+Processing, 1997, pp. 364-373, doi: 10.1109/SIPS.1997.626269.
+24. Zhao, X.; Li, X.; Luo, Y.; Liu, S. CE6: Fast DST-7/DCT-8 With Dual Implementation Support (Test 6.2.3), 
+document-M0497, In Proceedings of the 13th Meeting Joint Video Experts Team (JVET) of ITU-T SG 16 WP 3 
+and ISO/IEC JTC 1/SC 29/WG 11, Marrakech, Morocco, 9-18 January 2019;
+25. Zhang, Z.; Zhao, X.; Li, X.; Li, L.; Luo, Y.; Liu, S.; Li, Z. Fast DST-VII/DCT-VIII With Dual Implementation 
+Support for Versatile Video Coding, In IEEE Transactions on Circuits and Systems for Video Technology, 2021, 
+vol. 31, pp. 355-371, doi: 10.1109/TCSVT.2020.2977118.
+26. Bossen, F.; Boyce, J.; Suehring, K.; Li, X.; Seregin, V. JVET Common Test Conditions and Software Reference 
+Configurations for SDR Video, document JVET-T2010, In Proceedings of the 20th Meeting Joint Video Experts 
+Team (JVET) of ITU-T SG 16 WP 3 and ISO/IEC JTC 1/SC 29/WG 11, Teleconference (Online), 7-16 October 
+2020;
+27. Bjontegaard, G. Calculation of Average PSNR Differences Between Rd-Curves, Austin, TX, USA, pp. 10-18, 
+Apr. 2001, Available online : http://wftp3.itu.int/av-arch/video-site/0104_Aus/. (accessed on 3 January 2022)
+28. Bjontegaard, G. Improvement of Bd-PSNR Model, Berlin, Germany, pp. 10-18, Jul. 2008, Available online : 
+https://www.itu.int/wftp3/av-arch/video-site/0807_Ber/. (accessed on 3 January 2022)
+29. Dong, X.; Shen, L.; Yu, M.; Yang, H. Fast Intra Mode Decision Algorithm for Versatile Video Coding. IEEE 
+Transactions on Multimedia, 2022, vol. 24, pp. 400-414, doi: 10.1109/TMM.2021.3052348.
+30. Yang, H.; Shen, L.; Dong, X.; Ding, Q.; An, P.; Jiang, G. Low-Complexity CTU Partition Structure Decision 
+and Fast Intra Mode Decision for Versatile Video Coding. IEEE Transactions on Circuits and Systems for Video 
+Technology, 2020, vol. 30, no. 6, pp. 1668-1682 doi: 10.1109/TCSVT.2019.2904198.
+31. Park, S. -H.; Kang, J. -W. Fast Affine Motion Estimation for Versatile Video Coding (VVC) Encoding. IEEE 
+Access, 2019, vol. 7, pp. 158075-158084, doi: 10.1109/ACCESS.2019.2950388.
+"
+Author;Reviewer 2;2;8;13;According to the reviewer’s comment, the revised manuscript was reviewed and substantially modified by an English native speaker
+Reviewer 2;Author;3;1;0;Introduction Section: This comment still requires a response. The authors should add the main contributions briefly at the end of the introduction.
+Reviewer 2;Author;3;2;0;Discussion Section: The authors did not respond accurately to this comment. The authors should add a section where they discuss comparing their results with those of existing research. Also, they should clarify the limitations of the proposed method.
+Reviewer 2;Author;3;3;0;Figures and Tables: All figures and tables are shown before they are used in the text.
+Author;Reviewer 2;4;1;1;"According to reviewer’s comment, we the following sentences at the end of the Introduction.
+“In this paper, we analyze the number of multiplications of the existing fast transform methods in the VVC standard, and we propose a new fast inverse transform using the number
+of non-zero coefficients based on linearity to reduce the number of multiplications.”"
+Author;Reviewer 2;4;2;2;"According to reviewer’s comment, we added Discussion Section.
+4. Discussion
+The previously proposed fast methods were mainly addressed to reduce complexity
+in the video encoder with the BD-rate loss. In [29], a fast intra mode decision algorithm was proposed and the result showed the encoding time savings of 51%~53% with BD-rate loss of
+0.93%~1.08%. A low-complexity CTU (Coding Tree Unit) partition structure decision and fast
+intra mode decision were proposed in [30] and showed the average encoding time saving of
+63% with the BD-rate loss of 1.93%. The fast encoders for video coding reduce only the encoder
+complexity but the BD-rates were always increased without decreasing the decoder
+complexity. However, the proposed fast inverse transform is different from the fast encoders
+in that it reduces the complexity in both the encoder and decoder while maintaining the BD-
+rate of the VVC standard. In the RA configuration, the proposed method reduces the average
+encoding and decoding times by approximately (4, 10) %, respectively, while maintaining
+average BD-rates.
+If the proposed inverse transform using the number of non-zero coefficients is applied to the
+VVC standard, the inverse transform of the VVC standard should be changed to include the
+proposed method. This fact can be demerit. However, the proposed method can be considered
+in the next-generation video coding standards because it achieves decoding run-time saving,
+while maintaining average BD-rate. In addition to that, the proposed method is more effective
+in high QP value than in low QP value, because the higher the QP value is, the fewer no-zero
+coefficients there are."
+Author;Reviewer 2;4;3;3;We cannot find them.

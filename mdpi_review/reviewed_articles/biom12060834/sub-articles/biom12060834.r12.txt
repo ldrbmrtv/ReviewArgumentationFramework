@@ -1,0 +1,10 @@
+Reviewer 2 Report
+The presented manuscript is related to the study of an exopolysaccharide isolated from the extremophilic microorganism Bacillus haynesii CamB6. The authors used the RSM based on central composite design technique to maximize the EPS production by B. haynesii, and also conducted a diverse study of the EPS properties. The studied EPS showed promising properties to use in the food industry. In combination with a high yield of polysaccharide from the bacterial mass, this makes it attractive for practical use.
+Basically, the work was done at a fairly high professional level, the material is presented clearly, well structured, the data obtained are discussed with the previously obtained literature data. Methods are described adequately.
+Major remarks
+To my deep regret the structural characteristic of EPS is the weak point of this publication. Fourier transform infrared spectroscopy (FTIR) and NMR spectroscopy data can only be regarded as preliminary. According to the 1H NMR spectrum, it can be assumed that EPS has a complex branched structure. Probably, to establish its structure, it is necessary to use chemical methods (hydrolysis, methylation, etc.), as well as two-dimensional NMR spectroscopy.
+
+EPC is isolated from a thermal spring of volcanic origin, which contains a set of various elements, including heavy metals. It is advisable, in my opinion, to provide information on the content of heavy metals in the EPS, since the authors plan to offer this product for the food industry in the future.
+Minor remarks:
+Line 42: It is premature to include the term "structure" in keywords at this stage.
+Line 526-527: The proposal should be reformulated. According to Figure 7. the activity of the ascorbic acid is higher than the activity of EPS produced by CamB6.

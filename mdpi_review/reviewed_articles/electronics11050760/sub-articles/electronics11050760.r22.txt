@@ -1,0 +1,5 @@
+Reviewer 2 Report
+The authors should accurately address the below comments.
+Introduction Section: This comment still requires a response. The authors should add the main contributions briefly at the end of the introduction.
+Discussion Section: The authors did not respond accurately to this comment. The authors should add a section where they discuss comparing their results with those of existing research. Also, they should clarify the limitations of the proposed method.
+Figures and Tables: All figures and tables are shown before they are used in the text.

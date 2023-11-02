@@ -1,0 +1,19 @@
+Reviewer 1 Report
+The present study entitled “Facilitation of motor evoked potentials in response to a modified 30 Hz intermittent theta-burst stimulation protocol in healthy adults” investigated the effectiveness of intermittent 30 Hz/6 Hz TBS in inducing lasting facilitation of MEPs. The authors reported that the modified iTBS protocol facilitated MEPs for up to 45 min post-stimulation and that small latency differences were predictive of the facilitatory effect on corticospinal excitability. The study is interesting and well written. In my opinion, the major potential issues were already discussed in the limitation sections. I only have minor comments and questions that the author should answer to improve the manuscript.
+Introduction
+Line 31 – "(4-10 Hz) induced…" this is not theta range; please correct.
+Line 32 – add the reference.
+Methods
+Participants
+Did the authors take note of the menstrual cycle of the female participants?
+Although the differences in handedness would not profoundly affect the overall results, can the author check if there were significant differences in stimulation intensity (AMT and RMT) in right and left-handed participants? Left-handed individuals often have a high threshold on the left motor cortex.
+Line 89-90: edit this part.
+Line 145  - Edit the subheading
+Results
+Are there differences in stimulation intensities taken from the two devices (Magstim Rapid and BiStim2)?
+Can you report the F value and effect size? Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al. (2016)?
+In line 209, the authors reported that “Of 21 participants, 19 (13 females) completed the protocol without any issues. Two female participants had to be excluded….”. However, looking at Figure 3, it is obvious that plotted data were from 20 participants. Can the author correct this discrepancy?
+Is the cut-off plus or minus 10 standard for the responder and non-responders? Looking again at Figure 3,  we can observe very high variability. In my opinion, plus or minus 10% is arbitrary.
+Although we would assume that the figure on the left is always the letter “A” and the one on the right is “B”, for the sake of clarification, kindly add a  letter legend on the figures.
+Discussion
+Line 402: in SIFC, one pulse is suprathreshold, and the other is subthreshold.

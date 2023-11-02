@@ -1,0 +1,3 @@
+Reviewer 2 Report
+The authors provided interesting data stating that GB as a PAFR inhibitor increases CDDP sensitivity in oral squamous cells that combination treatment of GB and CDDP significantly induced cell apoptosis and reduced PAFR activation.
+The western data of p-Akt and p-Erk expression (figure 8C) of GB treatment alone did not show inhibitory effects, but PAFR expression data (figure 3) and IL-1b expression data (figure S5) provided evidence that GB inhibited PAFR expression and function. Please add few words in your text to state that figure S5 data supported the inhibitory effects of GB on PAFR function.

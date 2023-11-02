@@ -1,0 +1,5 @@
+Reviewer 1 Report
+The authors presented the paper "Human Serum Proteins and Susceptibility of Acinetobacter baumannii to Cefiderocol: role of iron transport".
+It is known that HSA can bind RNA and DNA and has RNA hydrolyzing activity. In this way your experiment in par 2.2. may lead to not all RNA after incubation with such amount of albumin. That is why some of your effects may have other explanations. Have you done some control experiments? Maybe your effect is much higher or lower.
+https://www.sciencedirect.com/science/article/abs/pii/S0960894X08011086?via%3Dihub
+

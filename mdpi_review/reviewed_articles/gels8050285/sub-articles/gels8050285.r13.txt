@@ -1,0 +1,22 @@
+Reviewer 3 Report
+In this work titled: “Self-Assembly of Alkylamido Isophthalic Acids Toward the Design of a supergelator: Phase Selective Gelation and Dye Absorption”, Makeiff et al. report on a series of 5 new supramolecular gelators derived from 5-amido isophthalic acid with linear and branched alkyl chains. Even though many other isophthalic acid derived gelators were already reported in the literature the structures of the present work are new and the organogels, their properties and potencial applications and characterization were performed exhaustively so I consider the work will be of interest to the supramolecular gel community of the journal. But there are some minor points that need to be revised before this manuscript is accepted to be published.
+
+In a structure based search I found that the authors have patented the use of these gelators as phase selective gelators and organogel formulations, it would be interesting to cite those patents and refer to them in the text, since they reflect the potential applications of the materials:
+Phase selective gelation with alkylated aromatic acid compounds
+Application number:      CN201210548127 20121217
+Priority number(s):        US201113327664 20111215
+
+Organogel Compositions Comprising Alkylated Aromatic Acids
+Application number:      US201113327655 20111215
+Priority number(s):        US20100820497 20100622 ; US201113327655 20111215
+
+National Center for Biotechnology Information (2022). PubChem Patent Summary for US-2011311813-A1, Self-assembled nanostructures. Retrieved April 18, 2022 from https://pubchem.ncbi.nlm.nih.gov/patent/US-2011311813-A1.
+
+At the abstract, line 16 “…gelators for low, polarity solvents” should say “…gelators for low polarity solvents…”
+Since the chemical structures of the 5-alkylamido ISA compounds in Figure 2 are different (but closely related) than the alkylated ISA gelators previously reported by Hamilton et al [37] or Lv et al [38]. I consider that Figure 1 should be completed with the identity of R at position 5 present on the isoftalic acid derived gelators previously reported by Hamilton and Lv (as they are related structures it would make it easy to the reader to relate to the gelators of the present work).
+Gelator ISA16 L is similar to CP14IP form reference 38. The main difference being the inverted amide group (and one carbon on the alkyl chain). Both gelators should be compared and their properties discussed in base of the structural difference, and if possible, a conclusion about the effect of the amide inversion.
+Gel of ISA12 in xilenes has a MCG of <0.5 according to table S1, but in figure 4a, blue line, it can be seen that if can form gels even at concentrations as low as 0.01. I wonder if this difference has a reason, if not in table S1 it should say MCG <0.01. check the other MCGs.
+The authors used a cryo-SEM microscope to take images of what they call in situ aerogels, (freeze- dried), I do not understand why it is necessary to use the expensive cryo-SEM microscope if the sample is an aerogel, so it is already dried and there is no liquid to freeze, I understand you can use regular SEM to analyze the aerogels or xerogels (formed in situ or ex situ). If my analysis is wrong, the text should be revised to clarify this.
+NMR experiments does not give any highly relevant information, but that the gelator forms aggregates in chloroform. I think figure 8 can be placed at the supporting information file. Also, Figure S31 is not discussed, what is the information that it gives? Why there is a THF signal on the spectra, is not pure chloroform? If this experiment does not give any info should be removed, or if it does, the discussion should be added.
+In figure 9, XR patterns of aerogels of ISA24 from freeze-dried cyclohexane organogels (2 wt %) are shown. What is the difference between a and b? I mean, they are the same aerogel? They were prepared with different methodology? With the info given, they seem to belong to the same sample, but that is not possible. Please indicate the diffecence between a and b samples on the text and figure.
+Line 477, it refers to Figure 11a, but there is no figure 11, I think it should refer to figure 9a.

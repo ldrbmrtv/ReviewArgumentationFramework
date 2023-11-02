@@ -1,0 +1,8 @@
+Reviewer 4 Report
+The paper is well structured and presented in a very meaningful manner. It definitely adds a value to the existed literature. There are minor corrections to be considered. This includes:
+Line 169 page 4, studies [28] & [29] do not reference to any presented argument(s) unless the preceding para.
+The word of Table in all text should start with capital letter (e.g. Line 199, L. 223)
+Paragraph presented after Table 2 (page 7) is a repetitive content to what has been presented in the Table. It could be removed or move to footnote.
+It is better to show the P-values in Table 3 rather than (***) although a note is indicated in this regard.
+Very good practical recommendations and criticism to the B Corp certification have been presented in the last para. of section (6). No any future research recommendations have been suggested by the respected authors.
+References list is well prepared.

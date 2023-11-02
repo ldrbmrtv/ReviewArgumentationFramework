@@ -1,0 +1,22 @@
+Author Response
+Reviewer 3:
+General comments: The manuscript reports a study about weight-biased language in the Australian media across the last decades. The topic is interesting, and the manuscript is clear. The methods applied are innovative and allow to underline new interesting evidence. I do not have particular concerns about the paper. I have some comments for the authors about the structure of the manuscript that should take into consideration.
+Comment 1: Please move the research questions from the methods to the introduction.
+Response: The research questions have been moved to the Introduction.
+Comment 2: Last paragraph of the methods: why did you report here your conclusions? Please move this part from this section.
+Response: This text was intended as an overview of what follows in the Results. We have moved it to the beginning of the Results and rephrased it as follows:
+In this section, we show the associations between obesity-related terms and the gender, healthiness, social status, and stereotype dimensions. These associations are subsequently cross-matched with the obesity policy timeline in the Discussion, to help interpret the context of change in biases over time.
+Comment 3: Please revise Figure 1 because it's very difficult to read.
+Response: Figure 1 has been removed, along with the following associated text:
+Data extraction and analysis processes are illustrated in Figure 1.
+Comment 4: A recent paper has pointed out that post-bariatric patients, using a novel approach based on words, presented a weight bias regards their body, but it was not present for other bodies (see http://dx.doi.org/10.1007/s11695-020-05166-z). I think this aspect is interesting and linked to your results, showing a connection with clinical data.
+Response: We have added the following text from this paper in the first paragraph of the discussion as it seems to fit best with our results:
+Such entrenched weight biases, persistent in the media, may lead to internalised or self-stigma among individuals with overweight and obesity that persist even after weight loss. A recent study [insert numbered citation] performed a semantic evaluation of body shapes in obesity surgery patients and overweight/obesity controls and found that both groups were more willing to accept positive adjectives as a match when BMI was low and negative adjectives as a match when BMI was high.
+Comment 5: You report that an automatic approach was used to check all the papers. Is there any possible limit with this approach in the selection of the papers?
+Response: We have now added a Limitations and Future Research section to the Discussion to address this point and others:
+There are two limitations in our data curation process, the automated approach we used to check and select papers. Firstly, automatic classifiers of any sort can include some irrelevant or false positive articles. Due to the large amount of articles in our dataset, in Step 2 of our methodology, we developed a machine learning binary classifier – a support vector machine - with 87.56% accuracy to automatically identify relevant articles (accuracy is the number of correct predictions made, divided by the total number of predictions made, and then multiplied by 100 to convert it into a percentage). As a rule of thumb, accuracy of a predictive model that is above 80% is very commonly used to summarise the performance of that model. Still, it doesn’t exclude the possibility of irrelevant articles in our final dataset, but that possibility is less than 12.44 percent and this has to be considered against the benefit of scale and efficiency that this method allows.
+We also acknowledge that our analysis limited is in not being able to consider visual content visual content, images within articles (known as image framing), which have been shown to carry stigmatising elements [48]. This is something that could be added to the approach by including image classification along with additional measures. Furthermore, even though the Dow Jones is one the largest news databases, it might still miss some articles or news sources (although this doesn’t relate to the automatic approach as such). This applies to social media, even though this would not span as long a timeframe.
+
+
+
+

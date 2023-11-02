@@ -1,0 +1,10 @@
+Author Response
+Responses to Reviewer 2
+
+We appreciate your review of our manuscript and constructive comments and suggestions. Our responses to your comments are as follows.
+
+1) Some of the tissue samples are from patients with endometriosis, then according to eutopic endometrium determinism, whether such selection will cause the research results to be inaccurate？The sample size is small. And please provide basic information of the patient.
+>>As you mentioned, our description of ESCs isolation may be inappropriate in terms of the patients with genetical differences. ESCs were isolated from histologically normal region in the patients with leiomyoma (age 42-45). It has been reported that ESCs obtained from the eutopic endometrium of the patients with endometriosis showed impaired decidualization. Therefore, we should consider the possible influence of leiomyoma on the decidual response, but we confirmed that the isolated ESCs have differentiated into decidual cells in response to cAMP analogue and progesterone, as you pointed out. The information of the patients has been inserted in the method
+
+2) The conclusion has been verified by other 2-3 articles, and the design of this study is not rigorous enough. It is suggested to add cell lines or normal endometrial cells for verification. If further mechanism exploration is carried out, the research will be more complete and persuasive.
+>> Because of the ethical difficulties of isolating ESCs from disease-free healthy women, we routinely used ESCs isolated from the patients in surgical cases. ESC lines are commercially available (T-HESC, ATCC) and maybe useful tool to investigate the role of PGRMC1 in decidualization, as you pointed out. However, the cell lines are also established from the endometrium of leiomyoma and immortalized by transfection with hTERT. Therefore, we believe that ESCs used in this study are no different than the above cells and cell lines in examining the role of PGRMC1.In the future, we plan to use several ESCs and their cell lines to clarify the precise mechanisms of PGRMC1 downregulation and decidualization.

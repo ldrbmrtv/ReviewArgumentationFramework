@@ -1,0 +1,7 @@
+Reviewer 2 Report
+Marwa Elmasri and colleagues report that several GoF and LoF mutations in GRIN2B influence NMDA functions. Particularly, GluN2B GoF and LoF mutants show similar phenotypes in the presence of GluN1/2A/2B triheteromers, while the LoF mutation, C456Y, shows much less rescue effect than GoF mutation in the absence of both GluN2A and GluN2B. The authors conclude that the presence of triheteromeric NMDA receptors, and the types of the mutated GluN2 subunit are all important factors that can influence the function of the NMDA variants. There are some concerns need to be addressed.
+
+Even though fig.2aiii shows a comparable relative peak amplitude, which indicates both GOF and LOF rescue NMDA-EPSC in Grin2b-/- neurons, it looks to me that the absolute amplitude in fig.2aii shows a quite big difference in un-transferred groups which are supposed to be comparable, not as consistent as shown in fig.1ci.  How to explain this discrepancy?
+The supplementary figures are inaccessible.
+
+The abstract is too long, which does not actually abstract the whole content very well. There are also a number of sentences that are so complicated for easy read. This part should be substantially polished into a shortened and precise style.

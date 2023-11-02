@@ -1,0 +1,15 @@
+Reviewer 3 Report
+Dear Authors
+The paper has been significantly improved since the previous version.
+Yet, some issues still need to be addressed:
+1- In lines 28 and onwards, you argue a lack of literature looking at dynamic (GMM) analysis of the role of female on CSR and ESG issues, but fail to mention some examples. Please provide some, and position your work in that (brief) strand of literature. One example you should consider is Gaio, C., & Gonçalves, T. C. (2022). Gender diversity on the board and firms’ corporate social responsibility. International Journal of Financial Studies, 10(1), 15.
+2- Please revise if it makes sense to present your research hypothesis in the introduction.
+3- Please reconsider the use of adjectives such as "complicated" (line 79), interestingly (line 88) and so on.
+4- What do you mean by "in the crowd" (line 141). Please revise carefully english for clarity.
+5- Please revise your data: your max tangibility is over 2 (which means that Net PP&E, a subset of Assets, is 2 times those same Assets - this should be a typo. Similar problems might exist for a negative tobin's Q.
+6 - In line 192 you mention "all the sectors". But you are working one sector only, aren't you?
+7- Explain your sentences in lines 242-244. What did you do specifically?
+8- Lines 330 and onwards are presenting conclusions that are not warranted by the results and the english is a bit strange (what do you measnby "households' anxiety"?). Similar problems stem from the following paragraphs discussing the results.
+Thank you for your paper.
+Kind regards
+

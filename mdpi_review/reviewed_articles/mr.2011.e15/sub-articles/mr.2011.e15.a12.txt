@@ -1,0 +1,17 @@
+Author Response
+Response to Reviewer 2 Comments
+
+Point 1: I think the manuscript is relevant, given that estrogen receptor characterization in teleosts like the zebrafish have paved the way for the investigation of basic and translational research problems alike. However, I think the mere identification of receptor transcripts in the eel eye may not constitute a well-rounded manuscript, without any further investigation of downstream estrogen targets. Therefore, it is recommended that the authors execute gene expression analyses of estrogen receptor target genes directly related to their study (such as vtg) to prove the activation of the estrogen receptors. This will further strengthen the conclusions of the manuscript.
+
+Response 1: To verify the activation of estrogen receptors, as suggested by the reviewer, we aim to analyze the expression of target genes of estrogen receptors that are directly related to vitellogenesis. Although estrogen certainly induces vitellogenin production in the ovaries, the goal of the present study is to investigate the influence of E2 produced during sexual maturation on the eyes. E2 is secreted during sexual maturation. This study particularly aimed to discuss the role of E2 in the enlargements of the eyes and retina, independent of the canonical estrogen receptor pathway. Significant enlargement of the eyes during sexual maturation in vertebrates, including fish, is a very special phenomenon. Therefore, we hypothesized that this morphological change is based on E2 and proceeded with our experiments. Seed production was impossible in the Japanese eels used in this study, and more than 95% of juvenile fish captured and grown under farming conditions are male, for some unknown reason. Accordingly, females that are used need be captured from the natural environment. Since the Japanese eel is classified as a threatened species by the International Union for Conservation of Nature, only eels captured between September and October may be used. This would extend the time required for future studies. To address the reviewer's comments, we plan to perform these experiments as part of a future study.
+
+Minor changes:
+Point 2:  Figures 2, 3, 4A and $B, it is not clear as to which experimental groups were compared for statistical analyses. Therefore, it is recommended that the authors use segmented lines or other symbols to indicate the groups being compared. Please also mention the p values directly instead of a, b, c etc, or use conventional asterisks (*) symbology, as it is makes it these tests easier to interpret.
+Response 2: We have also added * symbols and P-values directly to the figures. However, to improve the clarity of the figures, we additionally used alphabetical letters for multiple comparisons. As suggested by the reviewer, we also added an additional explanation in the figure caption.
+
+Point 3: Line 30, please remove the word "Since".
+Response 3: According to reviewer comment, we delete a “since” in the sentence.
+
+Point 4: Line 61, a preposition is missing in "Mariana Islands the Mariana Trench"
+Response 4: According to reviewer comment, we changed “the Mariana Islands the Mariana Trench” to “the Marian Ridge”.
+

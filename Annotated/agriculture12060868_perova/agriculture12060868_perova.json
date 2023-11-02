@@ -1,0 +1,223 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "In the introduction, (Line 76 79), you present the objectives, but those are not clear, I respectfully suggest focusing on your hypothesis",
+      "Reviewer_1.1.2": "Line 78: You wrote, \u201cdesigned to meet the basic behavioral needs of the sow at farrowing\u201d, but this is not tested on the paper.",
+      "Reviewer_1.1.3": "Lines 80 \u2013 83 moves to discussion section",
+      "Reviewer_1.1.4": "Figure 1 is missing",
+      "Reviewer_1.1.5": "Figure 2 needs more description, maybe include which wall\u2026 Please describe units of the dimensions",
+      "Reviewer_1.1.6": "Figure 4. Please indicate which is \u201csowconf\u201d and which is \u201ctrad\u201d. In the left graph the units are in m2, but in right side it does not have unit, seems ar?",
+      "Reviewer_1.1.7": "Line 206: I don\u2019t understand why you use just 10 o 12 sows, 50% primi and multiparous, but in line 225 mentioned that \u201cthere were no secure information about sow parity\u201d please be consistent.",
+      "Reviewer_1.1.8": "Please include P values when report significant differences."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Figure 1 does not appear in the pdf that this reviewer could download. Only the Figure Caption appears.",
+      "Reviewer_2.1.2": "It is not totally clear to the reviewer how stillborn piglets were evaluated as compared to \u201cpiglets with no milk in stomach\u201d.",
+      "Reviewer_2.1.3": "Line 224-225, it states that that no information/security on the productivity data on whether it was primiparous or multiparous sow. Again this creates a bit of confusion. Sows were recorded, 50% primiparous and 50% multiparous to evaluate behaviour, and results are discussed accorging to that (lines 320-321). Why productivity data was not available?",
+      "Reviewer_2.1.4": "Figure 5 and 7 display the overall causes of mortality for the three batches. However, differences in batches were found. Could this overall causes be biased by this batch effect?"
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "Please add the important information to the footnote or figure legend of the tables and figures. Such as: abbreviations, replicates n=?, mean\u00b1SD/SE, ect.",
+      "Reviewer_3.1.2": "Please italic the P value throughout the paper.",
+      "Reviewer_3.1.3": "Lines 129-133, where is the figure 1?",
+      "Reviewer_3.1.4": "Line 263, please add \u201c(3 batches with TRAD and 2 batches with SOWCOMF)\u201d to the figure legends.",
+      "Reviewer_3.1.5": "Line 275-276, Space needed before and after \u201c\u00b1\u201d.",
+      "Reviewer_3.1.6": "The quality of the Figrue 6 need to be improved.",
+      "Reviewer_3.1.7": "Figure 7, using \u201c*\u201d to substitute the different letters to express the difference.",
+      "Reviewer_3.1.8": "Table 4, please using the writing way to present the table.",
+      "Reviewer_3.1.9": "Figure8, do not understand the meaning of \u201c***\u201d here?",
+      "Reviewer_3.1.10": "Figure 7, please improve the perspective of the figure."
+    },
+    "Author": {
+      "Author.2.1": "mean + se is given in all tables and figures, Replicates are now included and abbreviations explained.",
+      "Author.2.2": "Italic for P-values in the text. Done!",
+      "Author.2.3": "Figure 1 was no included by an error in the last MS. It is now inserted again.",
+      "Author.2.4": "Batches and number of litters are added to the figure legends.",
+      "Author.2.5": "Space before and after sign is added.",
+      "Author.2.6": "A new and improved version of figure 6 is now included.",
+      "Author.2.7": "We have inserted * to denote differences instead of letters.",
+      "Author.2.8": "Table 4 is inserted again in the writing form.",
+      "Author.2.9": "The meaning of ***: this is explained.",
+      "Author.2.10": "Quality of figure 7 is improved.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_3.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_3.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_3.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_3.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_3.1.10"
+    ]
+  ]
+}

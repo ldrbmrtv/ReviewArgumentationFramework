@@ -1,0 +1,111 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The impact of Tocilizumab on radiological changes can not be adequately analyzed without a control group not receiving the drug.",
+      "Reviewer_1.1.2": "The proposed timing of Tocilizumab administration based on oxygen flow rate is interesting but undoubtedly requires a more detailed statistical analysis to convince the readers.",
+      "Reviewer_1.3.1": "Still, I disagree with the title of the paper, \"The impact of tocilizumab on radiological changes...\". Without the control group, this paper does not provide evidence that the radiological changes are indeed the result of TOC.",
+      "Reviewer_1.3.2": "Therefore I would suggest the authors to change the title of their paper. Something in line with \"Optimal timing of TOC administration\" would seem more appropriate."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "If there are mutations or differences in viral strains during the course of the study, should differences in response to TOC and timing of administration depending on the strain be considered?",
+      "Reviewer_2.1.2": "86 cases are excluded from 187 cases, which is too many. What is the reason?",
+      "Reviewer_2.1.3": "When comparing different oxygen delivery methods, isn't it more appropriate to compare FiO2 rather than oxygen flow rate?",
+      "Reviewer_2.1.4": "The median oxygen flow rate is shown to be 14 L/min, but FiO2 may vary depending on the method of oxygen delivery (nasal canulae, HNF, MV).",
+      "Reviewer_2.1.5": "The oxygen flow rate of 13 L/min measured by ROC as a cutoff value for TOC administration should be presented by FiO2.",
+      "Reviewer_2.1.6": "In Table 2, about the change in CT findings in fatal and non-fatal patients before and after TOC administration, isn't it the same as the difference in imaging findings between patients who survive after severe illness and those who do not, regardless of TOC?",
+      "Reviewer_2.1.7": "As mentioned above, the cutoff value is O2 13L/min, but the oxygen volume is difficult to interpret because FiO2 varies depending on the method of oxygen delivery."
+    },
+    "Author": {
+      "Author.2.1": "This is an interesting point. While knowledge of variants is of great importance from an epidemiologic point of view as they have different transmission rates and can cause diseases of different severity, the mechanism of the acute inflammatory response in severe infection seems to be similar regardless the strain. While we did not perform specific sequencing of the strain for every patient as this wouldn\u2019t have been feasible, patients were included before the Delta variant emerged and we expect most of them to have had the initial D614G and UK B.1.1.7.\n Nonetheless, we have included a comment addressing this aspect in our limitations section to highlight this area of uncertainty.",
+      "Author.2.2": "We agree with the referee that the reasons for the exclusions were unclear and have rephrased accordingly. Addresed in text: \u201eAll those excluded were not administered TOC either because of contraindications or TOC supply gaps.\u201d",
+      "Author.2.3": "We added the data using FiO2 ROC curve. The area under the curve for FiO2 ROC curve was smaller than the area under the curve for oxygen flow. In addition, the cut-off value for FiO2 corresponded to the cut-off for the oxygen flow rate, so the two groups in Table 3 would be similar. We added this information also in Table 3.",
+      "Author.2.4": "We analysed FiO2 (depending on the method of oxygen delivery - nasal canulae, HNF, MV), as you suggested and the cut-off value of FiO2 corresponded to the cut-off for the oxygen flow rate, so the two groups in Table 3 would be similar. We added this information also in Table 3.",
+      "Author.2.5": "Addressed in text and in Table 3.",
+      "Author.2.6": "Thank you for pointing this out, we have changed Table 1 accordingly and we removed the imaging data, which as you mentioned, was the same as \u201cbefore TOC\u201d in Table 2.",
+      "Author.2.7": "Addressed, see previous comments and answers.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.2.1"
+    ],
+    [
+      "Reviewer_1.3.2",
+      "Author.2.2"
+    ]
+  ]
+}

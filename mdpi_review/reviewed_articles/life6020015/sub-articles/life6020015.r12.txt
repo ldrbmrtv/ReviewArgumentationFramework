@@ -1,0 +1,41 @@
+Reviewer 2 Report
+I found the English language and style at times made it difficult to understand the authors' meaning, for example in lines 96-98: "Amino acids in prebiotic conditions were abundant, but their incorporation in a nascent biologic system should have been dependent of the chemical interaction with the ribozymes...", with the phrase presumably meant to read either ''...dependent on the chemical interaction..." or "...independent of the chemical interaction...".
+
+There were also a few references with no explanation, such as (in line 71): "...self-generation or self-reference..." The inheritance of information with modification is normally refered to as Darwinian evolution, while the term 'self-reference' will be obscure to most readers, referring as it does to work by Romeu Guimaraes, although his 2011 paper [17] which has this term in its title isn't cited until line 83.
+
+In section 2.1 "tRNA and first gene analysis" of the Materials and methods section, I would have found it helpful if the ancestral tRNA sequences generated were included, perhaps as supplementary material. There is also reference to using only tRNAs with RNY anticodons, but the reasons for doing this are not discussed. There needs to be some discussion of this point here, with references to some of the earlier publications on this e.g. Eigen and Schuster etc. I am not sure that Maximum likelihood is the best method to use to generate such sequences. It would be a good idea for the authors to consult someone in the field with expertise in tRNA phylogenetics, such as Professor Rob Knight from the University of Colorado Boulder, to get advice on this aspect. I was also surprised at the lack of detail regarding the analysis comparing potential tRNA coding sequences and protein sequences, where there is no detail given as to the results of the homology search other than a list of proteins and their functions (in Table 1). I would like to see the homologous sequences for myself so that I could make a judgement on their significance. I am unsure too of the way in which the nine ancestral tRNA sequences were ordered to do the Blast search, as the wording in this section is somewhat clumsy. I find the phrase (lines 166-167) "All analyzed sequences were similar regardless of the level of similarity with the query sequence..." difficult to understand. On a minor note, 'glycolysis' is misspelt a number of times in the last column of Table 1.
+
+Other points:
+line 78: the model is known as the RNA world hypothesis – not the "ancient RNA world".
+line 81: I'm not sure that Gustavo Caetano-Anolles [14,15] would consider his model 'the protein world'. There is a model known (colloquially at least) as 'proteins first', but I'm not sure that Gustavo completely subscribes to this. The comparison of the three models is fairly superficial: "these models have their own views", and then the authors go on to describe a transition from the RNA world to the ribonucleoprotein world – what has happened to the proteins first model? Is there something the authors don't like about it. If so, they need to state this.
+Line 98: the phrase "that introduced a compositional bias induced by hydropathic correlations between amino acids and RNA" needs some kind of explanation and possibly a reference or two.
+Line 103: the modern translation system involves more than "several kinds" of proteins.
+Lines 110-111: "The size of the nucleotide chain...was present in relatively few nucleotides" is not well expressed.
+Line 117: "...many combinations of proto-RNAs worked as ribozymes..." Is there any evidence from modern biology of tRNAs functioning as ribozymes?
+Line 121: you write that "tRNA molecules orchestrated the organization of the first codified biological system..." How do the authors propose they did this, or have I missed something?
+Lines 125-126 (also in lines 266-268): In [28,29], Bloch et al. compare tRNA sequences with those of the small ribosomal subunit RNA (e.g. the 16S rRNA in E. coli), not the 5S rRNA.
+Line 148: the authors state "...the folds of the proto-tRNA were similar to the folds of both the proto-mRNA and proto-rRNA..." Wouldn't folds or secondary structure be detrimental to the function of a proto-mRNA, in that it needs to be 'read' and therefore mainly in a single-stranded conformation? On th contrary, isn't the evolution of proto-tRNA into proto-mRNA more likely to have occurred through the loss of secondary structure, and – if this is so – how do the authors propose this would have happened?
+Line 155: as mentioned above, the concept of tRNAs with RNY anticodons is introduced with no explanation; the significance of this sequence will be lost on many readers. You need to discuss the ideas behind this model and refer to the main papers e.g. by Eigen and Schuster etc.
+Lines 182-185: some explanation of why you were interested in the frequencies of dinucleotides might be helpful here.
+Lines 193-194: some explanation of Szathmary's proposal that amino acids acting as cofactors were important in the emergence of the genetic code would be useful here.
+Figure 2: what you have labeled as "Proto-tRNAs (canonical structure)" in the figure look like hairpin loops – are these supposed to represent the anticodon stem/loop? If so, this needs to be described better in the figure and in the figure legend.
+Lines 205-206: How do the authors propose that the tRNAs molecules interacted with the amino acids as cofactors or – especially – riboswitches? Is there any evidence of tRNAs binding small molecules? The only example I can think of is the binding by tRNA of Pb2+ and its subsequent cleavage (Brown et al. (1983) Nature 303:543-6).
+Lines 221-222: this sentence does make sense as it is written.
+Lines 226-227: How do the authors propose that "the primordial metabolic pathways of amino acid synthesis started its organization"?
+Lines 230-232: "Thus, these primordial routes that emerged in an environment without proteins, were gradually replaced by primordial enzyme(s)-catalyzed versions, after the emergence of the primordial translation system of peptides..." But if the authors are proposing the evolution of a ribonucleoprotein world from an earlier RNA world (as stated in the introduction), wouldn't there have been an intermediate stage when the metabolic etc reactions were catalyzed by ribozymes?
+Line 239: By the phrase proteins "involved in the translation process", are the authors meaning ribosomal proteins?
+Line 251: "conclusions are consistent with" is better.
+Lines 261-263: the same thing as before regarding use of the phrase "self-reference"; and "could persist for the rest of the history of life on Earth" is probably unnecessary.
+Lines 266-267: misquote of Bloch et al. again.
+Lines 269-272: Sadly, Davidovich et al. haven't yet managed to show that their self-folded SES dimers are able to catalyze peptide (or any other form of) synthesis.
+Line 287: "...the results of other groups..." What other groups? This comment needs elaboration and citations.
+Linew 291-292: "...where (the) tRNA commanded the organization, and consequently the whole development of biological systems". This is a very big claim, and I am not sure that your results support this.
+Line 309: this line needs rewording.
+Line 311: should be Dr Ada Yonath.
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+Reviewer 2 Report
+By comparing the gauge fields with non-constant and constant Wilson loops, the authors studied  the effects of artificial U(3) gauge potentials on ultracold atoms. The paper reads well and the theoretical model is clearly discussed. Therefore, I would recommend the manuscript for publication in Condensed Matter after the authors make the minor modifications.
+(1) Please rewrite the figure caption of Figure 5 to make the statement of right figure clear.
+(2) The authors should put more sentences in conclusion of how U(2) gauge potentials is relevant to artificial U(3) gauge potentials on ultracold atoms.
+

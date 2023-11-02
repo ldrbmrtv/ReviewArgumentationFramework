@@ -1,0 +1,41 @@
+Reviewer 1 Report
+The manuscript entitled “Determination of Mehlich 3 extractable elements with visible and near infrared spectroscopy in a mountainous agricultural land, the Caucasus Mountains” aims to evaluate the potential of VIS-NIR spectroscopy and PLSR modeling to predict M3 extractable elements (Ca, Mg, Cd, Cu, Fe, K, P, Pb, Mn, and Zn) in a representative test area of Caucasus Mountains. A lot of work has been done. However, there are some issues that need to be resolved before this manuscript can be considered for publication.
+
+My major concerns:
+This manuscript attempts to integrate different preprocessing methods (8 kinds), sample grouping designs (88/26, 75%/25%), and soil spectral data to predict 15 soil properties by building PLSR models. Although this manuscript is about the application of proximal remote sensing technology to the prediction of soil properties in mountainous areas, the research focus of this manuscript is not prominent, and the conclusions drawn are not very clear. In other words, the manuscript feels like a lot of work has been done, but it doesn't specify what the important conclusions and innovations are.  The abstract and conclusion parts lack conciseness and prominence. Especially in the results and discussion section, most of the content is to state the experimental results (correlation of data), while the discussion (eg. prediction mechanism, prediction accuracy, etc.) is not in-depth, and the analysis of model accuracy is rarely involved in the discussion.
+
+Specific comments:
+When the samples are grouped, it is generally carried out according to 7:3 or 3:1 or a certain ratio. There are 114 soil samples in this study, what is the basis for grouping by 88/26 (77.2%/22.8%)?
+Should the writing of the results and discussion sections be separated? Please think carefully.
+During the discussion, the reasons behind the experimental results should be analyzed, not only from the correlation between the sample data but also cannot be explained by relying too much on the VIP score curve.  In addition, partial correlation analysis (e.g., Cheng et al., 2019) could be helpful and bring more insights given the fact that soil spectra are simultaneously influenced by several soil properties (e.g., SOM and Iron oxide).  This may help to analyze the underlying mechanism.
+
+Line 104, 195, 223, 544: Is it “modelling” or “modeling”? The whole text should be unified.
+Lines 145-146: “, soil reaction (pH) in 1:1 soil to KCl solution” is not clearly expressed.
+Lines 163-164: “…were conducted under a controlled laboratory environment.” Can you explain this sentence? Generally, soil spectral measurement is carried out in a dark room to avoid interference from external light sources.  What does the controlled laboratory environment you describe look like?
+Line 174: “…resulting in 12 spectra”. It is not clear how the 12 spectra were obtained here.
+Line 176: “…resulted 50 spectra…”. It is also not clear how 50 spectra were obtained.
+Line 190: “…moving window sizes (mainly 7, 9 and 11)”. Need to use 3 different moving window sizes? It undoubtedly increases your experimental workload, and you do not explain it later. As far as I know, most articles use only one moving window size.
+Line 191, 365: “…with different gaps and segment sizes.” “…with gap segment size of…”. Do these two places mean the same thing?
+Line 194: “was” should be “were”. Please pay attention to the singular and plural in the sentence.
+Line 233: It’s usually written as “Results and discussion”.
+Line 243: “(pH, temperature, precipitation)” should not be placed after the word elevation.
+Line 264: “…CaCO3 and Fe),”  Where is the left parenthesis?
+Line 264: “…, and hence parent material.” It’s not clear here.
+Lines 281, 249: Why did you use Spearman's Rho correlation coefficients earlier and Pearson correlation coefficients here?
+Lines 325-328: “Regardless of… spectra.” Is there a necessary connection between these two sentences? The spectral absorption characteristics near 1400, 1900, and 2200 nm have their corresponding influencing factors.
+Line 347: “different pattern” should be “different patterns”. Note the singular and plural in the sentence.
+Lines 353-354, 374: “Savitzky-Golay 1st derivative…” “Savitzky-Golay 2nd derivatives” This is a very confusing way to write it.
+Line 354-355: “…, in our case 11 bands…” “…in our case 10 wavebands…” It's confusing here. And all in Table 3 are “10-bands”.
+Lines 356-357: Can the first derivative preprocessing method be used to remove illumination differences?
+Lines 360-362: “… due to overtones and combination of fundamental vibrations of soil organic matter occurring in the VIS and NIR region.” The meaning of this sentence is not expressed clearly.
+Line 409: Note the singular and plural in the sentence.
+Line 449, 479: “CO3”?
+Line 455: “soil mineralogy”?
+Lines 456-457: What does this sentence do here?
+Line 471, 480, 520: “(r = 0.4*)” “(r =-0.52*)” “(r = 0.40*)”, etc. It is recommended that the number of digits after the decimal point for the value of the correlation coefficient throughout the text be consistent.
+Lines 490-491: “Unlikely, a weakly represented VIP peak centered at ~850 nm was a significant predictor for the Cd content.” The meaning of this sentence is not clear, and it is a little strange.
+Lines 516-518: You call attention to the spectral signature at 2326 nm, and then what?  Readers may be more interested in your analysis and interpretation.
+Line 520: The correlation between K content and P content is not very high (r = 0.40*), but their corresponding VIP patterns are “identical”, how do you explain it?
+Line 523: “correspond absorption” should be “correspond to absorption”.
+Lines 522-525: Is there a necessary connection between the first half of the sentence and the second half of the sentence? Is VIP peak related to Fe or SOC content?
+Lines 541-543: Is this sentence appropriate here?

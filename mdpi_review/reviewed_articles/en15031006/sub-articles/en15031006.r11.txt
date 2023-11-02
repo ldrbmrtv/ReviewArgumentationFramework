@@ -1,0 +1,10 @@
+Reviewer 1 Report
+In this paper, a demand-side management system for a renewable-based isolated residential community is proposed. The proposed load scheduling algorithm is developed with the help of Kmean clustering and linear integer programming. Simulation results are presented to show the effectiveness of the proposed method. There are certain concerns.
+
+More recent related work should be referred. There is no reference from 2021.
+In the proposed system solar PV, wind generator and battery are the main generating system. As the proposed system is in isolated mode, how continuity of power supply be maintained? s
+The quality of the figures needs to be improved.
+Equations 4, 9, and 12 include some corrections and need to be modified.
+It could be better to include base load ratings in the results section (Fig: 10)
+Sizing of renewable energy sources and battery systems were not properly explored.
+Please discuss how consumers’ comfortability is marinated in the proposed method.

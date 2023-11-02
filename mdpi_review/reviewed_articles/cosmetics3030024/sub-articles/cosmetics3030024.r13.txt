@@ -1,0 +1,8 @@
+Reviewer 3 Report
+line 91: Please clarify the sleep behavior. What about study participants who are consequently back sleeper. Where htere any standardization?
+line 96 /97: Where participants acclimatzed?
+line 128: how did you collect the skin characteristics like hydration, sebum surface and thickness? Did you used standardized biophysical measurements?
+
+line 177: why does skin lifting effects and skin brightness increase after using a pillow free of copper?
+line 180: how did you verify that the face stayed in contact with the pillow over an period of 5 hours? Could it be possible that some participants sleeped on onla one side of the face over the study period?
+

@@ -1,0 +1,8 @@
+Reviewer 1 Report
+In this manuscript, the Authors examined the efficacy of the liposome preparations to neutralise the exotoxins like SLO and SLS present in the bacterial culture medium. I have the following comments.
+The authors used the term liposome nanotraps. The authors have used conventional liposome preparations. It is not clear why they are calling the preparations as the nanotraps.
+The authors have used bacterial culture supernatants to examine the cytotoxic effect on the THP-1, Jurkat, and Raji cell lines. Quantitation fo the the culture medium is required (by measuring the total protein content, or by providing some quantitative indicator). Volume of the culture supernatant is mentioned in the results. It is not quantitative, and will vary from batch to bath of the bacterial culture.
+LDH-release assay of cytotoxicity or MTT assay of cell viability should have been used for measuring the cell death.
+It is well-known that SLO binds to the cholesterol-containing lipid bilayer. Therefore, it is obvious that the cholesterol-containing liposomes would neutralise SLO present in the bacterial culture. Therefore, no new information is provided with these experiments.
+It appears that the cholesterol-containing liposomes provide partial protection against the GGS supernatant. This is an interesting observation. However, authors did not make any attempt to explore this aspect in mechanistic detail.
+In my opinion, differential inhibition of the SLS activity in GGS supernatant by the liposome preparations is interesting, and may provide new insights, if explored in more detail.

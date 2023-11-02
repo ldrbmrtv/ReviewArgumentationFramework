@@ -1,0 +1,7 @@
+Reviewer 2 Report
+Regarding the form, the reference errors have been removed, but the line breaks when referring to figures are still there. I will give a clearer example from p.15, line 345:
+Second, the ( Figure 4. COVID-19 Scenario: Outbreak of COVID-19 in Korea ) scenario assumed by this study is uncertain.
+should appear as
+Second, the Figure 4 scenario assumed by this study is uncertain.
+Regarding the content, the motivation is clearer in the abstract, and this clarifies the contribution as well. I thus find it now less essential to discuss the practical aspects of service adding and removing. The legal and ethical aspects are still too much overlooked in my opinion, but I appreciate that the authors added a note on the legal framework of Korea. I still encourage the authors to have a deep reflection on the legal and population acceptance of their proposal, but this can be the goal of another paper. I was not conviced by the authors' response regarding my suggestion for putting 3.1 into Section 2, but this was a quite minor comment anyway, and there is not only one good way to structure a text, the paper is also understandable with the structure proposed by the authors.
+In brief, the authors' changes and explanations are a bit light for what I expected from a major revisions recommendations, but they added some nice clarifications that, for the most part, satisfy my concerns. So I am fine with the article being published.

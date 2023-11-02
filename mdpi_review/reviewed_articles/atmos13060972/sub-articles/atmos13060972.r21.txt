@@ -1,0 +1,11 @@
+Reviewer 1 Report
+I have read the manuscript entitled “Dynamics of Precipitation Anomalies in Tropical South America” again. The objective of the manuscript is to study the teleconnections and dynamics related to precipitation anomalies in Tropical South America over a longer period, using precipitation and circulation data from 1931 to 2016. The paper has improved a lot after the first revised version. However, there are still some points that need to be revised before publication.
+
+1)        LINE 73: The full name of GPCC should be given when its first appearance.
+2)        LINE 139: What’s the meaning of the “positive phase”, which should be defined clearly.
+3)        LINE 190: The process description should be given more details.
+4)        LINE 205-207: I don't understand why you put the last sentence here?
+5)        LINE 216: This description is not appropriate. The time scale of the extremes of the amplitude of the first PC is shown in Figure 5a.
+
+6)        LINE 323: Figure 3(c) is a boxplot of the normalized magnitudes of PC3 month by month, which cannot reveal that the magnitudes of PC3 are greater for the negative phase than for the positive phase.
+

@@ -1,0 +1,3 @@
+Author Response
+Thanks for your encouragement and suggestion. We agree that transient analysis is important in designing a robot joint. However, the transient analysis requires relevant parameters of the robot arm be determined besides the parameters of the joint. The following sentence has been added at the end of Conclusions:
+"For future work we will develop variable stiffness techniques of this joint, and explore its application in a robot arm considering both kinetostatic and transient behaviors"

@@ -1,0 +1,10 @@
+Reviewer 3 Report
+The manuscript is devoted to research on the phase transformations of CL-20 at various temperatures. The nano-scale defects were studied by using Wide Angle X-ray Scattering (WAXS) and Small Angle X-ray Scattering (SAXS), during the temperature range from 30 °C to 200 °C .
+I recommend publishing the manuscript after minor the revision.
+Comments on the manuscript.
+1.         Section 2.1. Materials and instruments, you need to specify the particle size of the initial CL-20 powders.
+2.         “The electron density of ε-CL-20 crystal form is 622.7 nm-3 and that of γ-CL-20 is 584.8 nm-3, while the electron density of GPL107 is 571.7 nm-3” You need to specify the reference in which this data were obtained.
+3.         Page 6. 199-198
+“The specific surface area and volume fraction of pores are calculated, and the results are shown in figure 7.”  From the text of the manuscript it is not clear what method was used to obtain the calculated data on the specific surface area and volume fraction of pores.
+4.         The conclusion must be supplemented with a forecast about the change in the performance of the SL-20 in terms of safety and suitability for use after temperature effects.
+Comments for author File:  Comments.pdf

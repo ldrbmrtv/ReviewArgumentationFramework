@@ -1,0 +1,19 @@
+Reviewer 1 Report
+The purpose of the article “Identification of ethidium degrading bacteria from laboratory waste” is to reported a characterize of ethidium bromide degrading bacterial isolates for their application and safety point of view including their antibiogram, identification, phylogenetic relationship and pathogenicity. The article, however, must be improved in terms of writing since some grammar and syntax errors are present in the manuscript. They should address the subject and critically review the information from the literature.
+My suggestions:
+The authors need to revise the title of the paper in a more meaningful way. “Identification of ethidium bromide degrading bacteria from laboratory gel electrophoresis waste”
+The abstract is written in a way lacks logic. It should highlight the salient findings more critically.
+Keywords are present in the title, choose others.
+Introduction need more convincing rational for this article.
+The introduction has long paragraphs, I suggest reducing the size of the paragraphs.
+Provide experimental work plan at the start of M&M. No detail description is available about the experiment.
+What statistical method is used?
+In the materials and methods, where are described how the Pathogenic Status of BR3 and BR4 analyzes were carried out? Just a bibliographic survey? in my opinion does not fit as results found.
+Authors should discuss the results integrally. The discussion is based on individual results. I suggest that integrating the results will give more value to the work. I suggest that you discuss by integrating all your results. You can use correlation tests (PCA or Pearson Correlation).
+The results of this study are not fully explained therefore the interpretation of the results is very difficult. The author needs to provide the % increase or decrease rather than just writing ''significantly increased….''.
+Figure 4 and 5, where is the outgroup?
+Table 1: Please provide standard error or standard deviation of the results.
+Figure 1 and 2: insert figure scales.
+Figure 3: insert molecular mass marker and improve the quality of the gel.
+The discussion is poorly written hence, needs rewriting. The discussion should be further strengthened by adding some more relevant papers. The literature search is insufficient, only few related research papers in the past three years are cited, add the latest research results appropriately. See the below links if you think it will benefit your discussion.
+Rewrite the conclusion! It needs to be much improved.

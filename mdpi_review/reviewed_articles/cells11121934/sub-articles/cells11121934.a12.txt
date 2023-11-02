@@ -1,0 +1,5 @@
+Author Response
+The Comments were addressed sufficiently. However, it is worthy to cite some of the papers, which address about the feature characterization using OCT.
+Ex: Biophotonic approach for the characterization of initial bitter-rot progression on apple specimens using optical coherence tomography assessments.
+
+Thank you for your suggestion. We have added four papers, including the one suggested, displaying the use of OCT and OCTA for feature characterization in diverse fields in both biology and medicine. We hope that these will further anchor our manuscript in the current literature and further demonstrate the feasibility of our work.

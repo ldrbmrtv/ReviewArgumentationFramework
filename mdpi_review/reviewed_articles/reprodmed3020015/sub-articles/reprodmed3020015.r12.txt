@@ -1,0 +1,5 @@
+Reviewer 2 Report
+The manuscript explored the mechanisms of PGRMC1 regulation during the decidualization of human ESCs. The research has a certain degree of scientific significance. However there are some issues.
+Some of the tissue samples are from patients with endometriosis, then according to eutopic endometrium determinism, whether such selection will cause the research results to be inaccurate？
+The sample size is small. And please provide basic information of the patient.
+The conclusion has been verified by other 2-3 articles, and the design of this study is not rigorous enough. It is suggested to add cell lines or normal endometrial cells for verification. If further mechanism exploration is carried out, the research will be more complete and persuasive.

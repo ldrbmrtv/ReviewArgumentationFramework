@@ -1,0 +1,36 @@
+Author Response
+We would like to thank the reviewer for their positive and critical review of our work. We have addressed each concern below and made changes in the manuscript accordingly. We feel that the manuscript has been significantly improved as a result of the suggested revisions. Our responses to the reviewer’s specific concerns follow each point and are indented and in red font.
+
+We concur that a brief description of the literature regarding EIH in FM is warranted and have added information to the discussion as follows: “Previous research regarding the effects of acute bouts of exercise on pain sensitivity in FM patients is largely equivocal. Some studies have demonstrated a hypoalgesic effect [5,24] while other studies show either no changes in pain perception or an exacerbation of pain [25–27].”
+
+With respect to the reviewer’s comment regarding the lack of EIH in controls, we have included some additional information to demonstrate the consistency of our findings with previous research. The passage now reads: “However, it appears that the exercise bout as prescribed was not a sufficient stimulus to induce a decrease in pain sensitivity in our pain-free controls. This is consistent with previous literature regarding the effects of acute exercise on pain in healthy controls, which typically finds that higher intensity exercise is necessary to elicit a hypoalgesic response [33].” Additionally, we want to again mention that our study was not primarily designed to induce EIH in controls; it was designed to examine brain responses to pain following exercise and thus we wanted to ensure that FM patients could complete the exercise bout. Exploring brain responses associated with EIH in healthy individuals would be an interesting future direction.
+
+With respect to the reviewer’s comment on generalizability, we agree that our exclusionary criteria were stringent and have added the following sentence to our limitations section. “Further, we excluded individuals with diagnosed mental health conditions and those who were taking medications that could impact pain or the interpretation of brain responses. As such our results may not apply to FM patients with comorbid conditions.”
+
+Lastly, with respect to the comment about controlling for physiological noise, the following statements have been added. “Though the evidence is equivocal, it has been suggested that cardiovascular mechanisms may be involved in the hypoalgesic response to exercise [34] and thus statistically controlling for these effects may have influenced the interpretation of our results. However, without controlling physiological differences between EX and QR the neuroimaging data would have been very difficult to interpret.”
+
+I don’t see that the reference actually indicates studies of activities of daily living so the authors should revise the sentence or add an appropriate reference.
+
+This sentence has been revised to better reflect the reference used.
+
+A reference for the determination that a dosage of antidepressants was “high” should be provided.
+
+We agree. We consulted with each physician with respect to type and dosage of medication, including whether this was a low, moderate or high dose. We also double-checked each medication and dose with the Physician’s Desk Reference (60th-65th editions). We have added the following information to the methods section “Medication information and dosage were supplied by the patient and their physician and dosage levels (low, moderate, high) were determined through both physician consultation and use of the Physician’s Desk Reference (65th edition). “
+
+
+Each temperature was applied twice so I assume averages were used, but the authors should clarify.
+
+This addition has been made.
+
+The time post-exercise before scanning was provided, but not the time post-quiet rest.
+
+This addition has been made.
+
+Elevations should be revised to higher so that readers do not erroneously believe that a pre-scan application of heat stimuli was administered.
+
+The suggested change has been made.
+
+I am uncertain why the authors only report the effect sizes of group differences in the first run.
+
+Thank you for catching this omission. This was an oversight on our part and these effect sizes are now included on page 11.
+

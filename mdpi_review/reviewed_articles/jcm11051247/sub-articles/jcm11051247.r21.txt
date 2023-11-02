@@ -1,0 +1,3 @@
+Reviewer 1 Report
+Thank you for improving this paper, especially regarding the timing of TOC administration.Still, I disagree with the title of the paper, "The impact of tocilizumab on radiological changes...". Without the control group, this paper does not provide evidence that the radiological changes are indeed the result of TOC.
+Therefore I would suggest the authors to change the title of their paper. Something in line with "Optimal timing of TOC administration" would seem more appropriate.

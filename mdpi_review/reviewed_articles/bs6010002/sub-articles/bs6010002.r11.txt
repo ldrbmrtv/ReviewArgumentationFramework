@@ -1,0 +1,15 @@
+Reviewer 1 Report
+This is an interesting and timely paper which reports a test of emotional response in macaques using a paradigm comparable to that recently reported with chimpanzees. I think this paper would be of interest to many and my only comments concern the presentation of the methods. In particular, I would like to have seen more detail throughout and I provide comments specifying what additional information would be useful.
+
+I also note that one of the authors’ key motivations for using these new methods is that they are quicker to implement (less training and testing time). Given this, I was surprised that a recent study with chimpanzees (Bateson & Nettle, 2015) was not cited, as this study tested a new method for testing primates’ emotions that a) did not require the animals to be touchscreen trained and b) implemented a fast training paradigm. I would recommend that this paper be cited: Bateson M & Nettle D 2015 Development of a cognitive bias methodology for measuring low mood in chimpanzees. PeerJ 3:e998 https://doi.org/10.7717/peerj.998
+
+Page 5 (2.1 Participants and Housing) – please provide more detailed information about the monkeys’ housing. For example, were they housed singly, in pairs, or in groups? What size were their enclosures? Was the meal they received at the end of testing their only meal of the day? Was it withheld if they did not participate in the testing? Were they on a reduced-weight diet? What were they fed? Could the monkeys see the other subjects participating in the study? Where they tested simultaneously or sequentially?
+
+Page 6 (2.2. Stimuli and Apparatus) – Were the stimulus monkey photographs also of rhesus macaques? Did you take these photographs or were they stock images? (if the latter, please provide credits for the photographs).
+
+Page 6 (2.3 Procedure) – How long did this training for the 'simply attentional task' take? How many trials and over what period of time? Equally, how long did testing take and over what period of time? Was there a range for the different monkeys?
+
+Page 7 (Fig 2) – so the monkeys were rewarded for touching the face stimuli 100% of the time as they were the grey squares, correct? What if the monkeys made no response? And how often did that happen?
+
+Page 8 (Fig 3) – how come Fig 3 shows total n=12 when in your methods you say you only tested 10 monkeys? This figure also mentions a “health check”. Given that this is the key part of your methodological design, please provide more details on this in your methods. Were the monkeys anaesthetized for this? How regularly did such health checks occur? Were they removed from their cage for these health checks? How long did the health check last?
+

@@ -1,0 +1,41 @@
+Reviewer 3 Report
+The paper need more attention from the side of the authors.
+- The abstract is somehow unorganized. Even if it is an unstructured abstract, it should respond to the following point one after the other. Background, aims, methods, results, and conclusion
+- The background is missing.
+- The aims are not clearly presented.
+- Methods should be written in brief before presenting the results.
+- Results they took the most of your abstract. Please be brief; most of the text is not important for a reader who only wants to get an idea about your paper before reading it. Just put your key results in brief.
+- The conclusion is missing.
+
+
+- Font of the reference is different from the text
+
+- This sentence “‪Polytopic ligands containing hydrazide-hydrazone moiety (—CO—NHN=CH—) are important for new drug development” should be better connected to the next one to explain why they are important for new drug development
+
+- Replace “‪In addition to that, the compounds were tested in vitro bioassays against some Gram-negative and Gram-positive ‪bacteria and the fungus strain showing specially promising results for L2. Molecular docking methodology was used to study molecular behavior of L1 and L2 with Bacillus Megaterium to identify their binding interactions” with “‪In addition to that, the compounds were tested in vitro against Gram-negative and positive ‪bacteria and two fungi. Molecular ‪docking was used to study the molecular behavior of L1 and L2 against tyrosinase from Bacillus megaterium.‪
+Section 2.3.1.
+Reference for the used strains is required. Why are those specific strains used?
+
+Section 3.2.  and 4.9.
+
+ODB ID 4j6u is for tyrosinase from Bacillus megaterium, not the bacillus megatherium cristal structure. Please change the info accordingly
+
+Section 3.2.
+
+The data at least should be split into 2 more subheads, one for the ligand and receptor preparation and the second for the docking analysis. Divide the data into those 2 subheads and add more about the software used to perform the docking and the parameters used (Grid box, extensiveness …)
+
+Section 4.8.
+
+There is no proper description of the results and no discussion in this part.
+Please revise
+
+- This sentence should be moved to the materials and methods or deleted from the section “‪Two gram-positive Staphylococcus aureus (cars-2) and Bacillus Megaterium (BTCC-18),
+‪two gram-negative Escherichia coli (carsgn-2) and Salmonella Typhi (JCM-1652) bacteria,
+‪and two fungal strains Trichoderma harzianum (carsm-2) and Aspergillus niger (carsm-3)
+‪were used in this study.”
+
+- The molecular docking study is missing a control to properly analyse the results.
+
+- Conclusion: Repeated abstract.  The conclusion must remind the reader why the article was written in the first place and why it is important in the field. The conclusion should briefly give an insight into the obtained results and also the limitations.
+
+‪

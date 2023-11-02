@@ -1,0 +1,8 @@
+Reviewer 2 Report
+The paper deals with an interesting topic and totally up to date to provide farmers with solutions for free farrowing (which in Europe may become mandatory under The End of the Cage Age initiative). The paper is clearly written, with nice figures and with a discussion supported by the results obtained.
+There are only minor comments with very specific issues:
+Figure 1 does not appear in the pdf that this reviewer could download. Only the Figure Caption appears.
+It is not totally clear to the reviewer how stillborn piglets were evaluated as compared to “piglets with no milk in stomach”.
+Line 224-225, it states that that no information/security on the productivity data on whether it was primiparous or multiparous sow. Again this creates a bit of confusion. Sows were recorded, 50% primiparous and 50% multiparous to evaluate behaviour, and results are discussed accorging to that (lines 320-321). Why productivity data was not available?
+Figure 5 and 7 display the overall causes of mortality for the three batches. However, differences in batches were found. Could this overall causes be biased by this batch effect?
+

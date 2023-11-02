@@ -1,0 +1,6 @@
+Reviewer 1 Report
+Thank you for giving the opportunity to read such an interesting paper.
+For a  better and accurate model I recommend the authors to eliminate from the model the extreme value. For example in Fig 2. - workers values greater then 40, community greater than 58, environment 45,  customers 46 (the bullets), in  Fig 3 - values with global score greater than 130, in Fig. 5 also all the bullets. Then repeat all the statistical analysis.
+In lines 391-395 I would prefer an Sk and Ku between -1 and 1. You have some values that are not included in this interval - maybe because of the outliers from the figures above that I recommend to exclude.
+Overall the information presented it makes sense to me.
+

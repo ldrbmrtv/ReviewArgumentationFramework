@@ -1,0 +1,34 @@
+Reviewer 1 Report
+Major corrections
+The manuscript by Zhu et al., describes the cloning of OfSPL1 transcriptional activator from Osmanthus fragans, its molecular characterization, subcellular localization, gene-expression, trans-activation in tobacco cells and two-hybrid system, and overexpression in Arabidopsis, displaying and enhanced salt-tolerance phenotype and protection from oxidative damage. In addition, heterologous overexpression promotes induction of several genes involved in tolerance to abiotic stress. Although the work is thorough, the Discussion is insufficient.  Also, the manuscript is poorly written, it should be substantially improved. Check English grammar and Instructions to Authors.
+In line 227 “back of tobacco” is not clear be more specific.
+Rephrase lines 266-268 is unclear; wording, grammar and punctuation are wrong.
+Rephrase lines 317-318. Comments as above.
+In lines 271-272 and 395-396, how do you explain that salt induced promoter trans-activation? Is there any published precedent?
+Write appropriate brand of kits and reagents, followed by country. Check journal format.
+
+Minor corrections
+In line 38 replace “Fortunately” with However.
+In line 63 replace “trancroptoma” with transcriptome.
+In line 65 replace “And” with In addition.
+In line 69 add period after assay.
+In line 83 what extraction method was used? Mention kit of reagent brand.
+In line 91 what brand was Taq polymerase from?
+In line 100 replace “ligated” with was ligated and quote a reference for pORERA-GFP vector or mention brand if it is commercial.
+In line 113 replace “psoup” with pSOUP and “tobaccos” with tobacco plants.
+In line 117 and 267 replace “vacuuming penetration” with vacuum infiltration.
+In line 118 define “symbiotic medium”.
+In line 123 delete the first phrase which is repetitive (was already written before in Line 100).
+In line 129 replace “strains” and “strain” with lines and line.
+In line 131 delete the period after experiments.
+In line 138 Seedling should be lowercase.
+In line 149 mention the kit brand.
+In line 154 add “strain” after receptor and mention kit brand.
+In line 169 add “were done” at the end. A phrase must have a verb.
+In line 261 replace “tobaccos” with tobacco plants.
+In line 262 replace “were treatment by” with were treated with.
+In line 264 replace “indicate” with indicated.
+In line 292 “The” must be lowercase.
+In line 318 “We” must be lowercase.
+In line 395 replace “it revealed” with revealed.
+In line 406 delete period after stress.

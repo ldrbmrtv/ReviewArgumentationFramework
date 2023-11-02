@@ -1,0 +1,15 @@
+Reviewer 1 Report
+I have read the manuscript entitled “Dynamics of Precipitation Anomalies in Tropical South America”. The objective of the manuscript is to study the teleconnections and dynamics related to precipitation anomalies in Tropical South America over a longer period, using precipitation and circulation data during 1931-2016. The data of this paper is rich and its conclusions and analysis are interesting. However, there are still some points needed to be revised before further acceptance and publication.
+
+LINE 18-19: It seems that “knowledge” should be conclusions?
+The methods of the manuscript should be introduced in the abstract.
+LINE 75-77: difficult to understand.
+LINE 110: Why remove the time-mean yearly(seasonal) cycle before Principal Component Analysis (PCA) is performed on the precipitation data? And how to remove the time-mean yearly(seasonal) cycle?
+LINE 120: Please specify the range of the “10 years”, Because the period you provided on the page is 1931-2016. And why did you choose 10 years to analyze?
+LINE 163: Why choose DJF composites and PC1 to analyze VIDMF anomalies?
+What is “15 g kg -1ms-1” at the bottom of figure 4?
+The characters should be adjusted larger in figure 5.
+LINE 270: Where did you come to the conclusion that “In the climatology, the position of the ITCZ, which coincides with the minimum value of ω, is located at 4°N”?
+LINE318: Please specify the range of the “10 years”.
+What’s the meaning of the “10 g kg -1ms-1” and “100 g kg -1ms-1” in figure 9?
+

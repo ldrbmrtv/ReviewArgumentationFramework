@@ -1,0 +1,10 @@
+Author Response
+Thank you for the valuable critiques you provided. We hereby send you a point-by-point response to your review. Your original comment is colored black, while our response is colored red.
+The manuscript is devoted to identification of the sequence requirements for protein translocation through a bacterial membrane. The authors considered the role of positively and negatively charged residues and their abundance on the translocation. The results are very interesting and the approach proposed to regulate protein secretion may have a wide application in research in biotechnology. The study was very well planned and performed. The results are solid, and the manuscript is well written. I have only minor technical remarks.
+It should be indicated which positive residues are found in the supercharged regions of the proteins in Figure 2. This is important given that Lys is less harmful than Arg.
+We added two panels as Figure 2d and 2e, describing the amino acid sequences in the highlighted regions in Figure 2b and 2c.
+Contrasting colors should be used in Figure 2b,c to enhance visibility.
+We changed the color scheme used in Figure 2b and 2c, enhancing the contrast.
+The nonexisting term “primary sequence” should be replaced by “amino acid sequence” or “primary structure”.
+We corrected the erroneous term into “amino acid sequence”.
+Author Response File:  Author Response.pdf

@@ -1,0 +1,297 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "LINE 18-19: It seems that \u201cknowledge\u201d should be conclusions?",
+      "Reviewer_1.1.2": "The methods of the manuscript should be introduced in the abstract.",
+      "Reviewer_1.1.3": "LINE 75-77: difficult to understand.",
+      "Reviewer_1.1.4": "LINE 110: Why remove the time-mean yearly(seasonal) cycle before Principal Component Analysis (PCA) is performed on the precipitation data? And how to remove the time-mean yearly(seasonal) cycle?",
+      "Reviewer_1.1.5": "LINE 120: Please specify the range of the \u201c10 years\u201d, Because the period you provided on the page is 1931-2016. And why did you choose 10 years to analyze?",
+      "Reviewer_1.1.6": "LINE 163: Why choose DJF composites and PC1 to analyze VIDMF anomalies?",
+      "Reviewer_1.1.7": "What is \u201c15 g kg -1ms-1\u201d at the bottom of figure 4?",
+      "Reviewer_1.1.8": "The characters should be adjusted larger in figure 5.",
+      "Reviewer_1.1.9": "LINE 270: Where did you come to the conclusion that \u201cIn the climatology, the position of the ITCZ, which coincides with the minimum value of \u03c9, is located at 4\u00b0N\u201d?",
+      "Reviewer_1.1.10": "LINE318: Please specify the range of the \u201c10 years\u201d.",
+      "Reviewer_1.1.11": "What\u2019s the meaning of the \u201c10 g kg -1ms-1\u201d and \u201c100 g kg -1ms-1\u201d in figure 9?",
+      "Reviewer_1.3.1": "The paper has improved a lot after the first revised version.",
+      "Reviewer_1.3.2": "However, there are still some points that need to be revised before publication.",
+      "Reviewer_1.3.3": "LINE 73: The full name of GPCC should be given when its first appearance.",
+      "Reviewer_1.3.4": "LINE 139: What\u2019s the meaning of the \u201cpositive phase\u201d, which should be defined clearly.",
+      "Reviewer_1.3.5": "LINE 190: The process description should be given more details.",
+      "Reviewer_1.3.6": "LINE 205-207: I don't understand why you put the last sentence here?",
+      "Reviewer_1.3.7": "LINE 216: This description is not appropriate. The time scale of the extremes of the amplitude of the first PC is shown in Figure 5a.",
+      "Reviewer_1.3.8": "LINE 323: Figure 3(c) is a boxplot of the normalized magnitudes of PC3 month by month, which cannot reveal that the magnitudes of PC3 are greater for the negative phase than for the positive phase."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "In Data and Methods Section, the authors stated that they limited their study to 1931-2016 period, because before 1931 there were too few stations in the study region (mainly over Amazon). In my opinion, more details about this point are necessary. It is very important to assess the impact of the number of station on the realibility over the time of the considered gridded-data set. Can you produce a simple plot showing the evolution over the time of the number of rain-gauges available for the study region?",
+      "Reviewer_2.1.2": "About the methods. Can you motivate the use of PCA? Why did you not use the cluster analysis?",
+      "Reviewer_2.1.3": "Section 3.1 (lines 149-152). Those sentences must be motivated and supported by a quantitative investigation (for example by a correlation analysis). See the next comment.",
+      "Reviewer_2.1.4": "A point of weaknesses of this work is related to the absence of a coherent quantitative investigation about the relationship between the main PCs and the large-scale atmospheric features. For example, I think that is necessary to perform at least a correlation analysis to support the association between the first PCO (considered in terms of amplitude) and the SACZ intensity, as the authors have done to support their findings about the linkages between the second PC and the ENSO.",
+      "Reviewer_2.1.5": "Section 3.2: what happens in the negative phase of the second PC?",
+      "Reviewer_2.1.6": "Moreover, I do not see any detailed analysis or discussion about the variability over time of the precipitation anomalies, with specific reference to the last 50 years (1970-2020), in which most of the global warming phenomenon occurred. I suggest to add a section about this point and to investigate about (potential) changes in the relationship between large-scale features and tropical south America precipitation anomalies in the global warming era.",
+      "Reviewer_2.1.7": "I suggest to standardize the citation style within the text. According to MDPI Journal style, the reference citation numbers should be placed in square brackets, i.e. [ ], and placed inside the punctuation. For example, at Page 2 (line 50) I see a different citation style.",
+      "Reviewer_2.1.8": "At the end of the introduction section, the authors should devote a couple of sentences to the structure of their manuscript.",
+      "Reviewer_2.1.9": "Figure 2: I suggest to reverse the colorbar. Usually, the red colors indicate positive values, whereas blue colors are related to negative values. Please modify the colorbar and make it consisent with the other figures. The same consideration can be applied to the Figure 8.",
+      "Reviewer_2.1.10": "Conclusions (Pag. 11, lines 343-344): the investigated period is 1931-2016, not 1931-2010.",
+      "Reviewer_2.1.11": "Finally, I suggest to carefully check the paper in order to address some minor typos.",
+      "Reviewer_2.3.1": "The authors have provided convincing responses to the questions raised in the first revision round. Therefore, I suggest to accept the manuscript for publication."
+    },
+    "Author": {
+      "Author.2.1": "We thank the reviewer for this comment that adds useful information in the present study, when we decided to limit our study period to the 1931-2016 range, we based our decision in the maps of the number of stations for each pixel in the dataset. We have added a figure in supplementary material (Figure S1), as the figure shows, the plot for 1931 is the first one to show stations over the Andes and the central Amazon rainforest. We believe that data prior this time (as seen on the 1921 figure and the ones before) are not sufficient for the analysis we perform.",
+      "Author.2.2": "PCA is very useful tools for studying of climate. We chose this technique as it is very adequate to distinguish among different modes of variability that are independent from each other (as each PC is calculated after the effect of the previous ones is removed), which was the objective of our analysis. Another reason for us to choose PCA was that we needed to reduce the dimensions of our dataset, thus this method was the most suitable to fulfill of these requisites.",
+      "Author.2.3": "We thank the reviewer for this suggestion. Please refer to our reply for the next comment.",
+      "Author.2.4": "We are thankful to the reviewer for this observation that improves and strengthen the analyses of our manuscript. In order to calculate the SACZ intensity we calculated an index based on Outgoing Longwave Radiation (OLR) data over central-eastern Brazil delimited by 65\u201330\u25e6 W, 40\u25e6 S\u20130\u25e6 N. The SACZ index is the first PC of the DJF OLR anomalies over this area. This methodology is described in [1]. We had to calculate the correlation between PC1 and the SACZ index for the 1979-2016 period, as OLR data is only available since 1979. \n When we correlated the SACZ index with our PC1 we found a correlation coefficient equal to 0.69. Thus, we confirm that our first PC and the associated precipitation anomalies are related to the SACZ intensity.",
+      "Author.2.5": "We have added the effects in precipitation anomalies of La Ni\u00f1a (or the negative phase of the second PC) to Section 3.2.",
+      "Author.2.6": "As observed in Figure 5, the 4 leading PCs of precipitation anomalies in Tropical South America do not have any observable trends over time. Thus, these time series do not show a sign of the climate change in the past 50 years. However, we do comment on the implications of our results in the context of climate change in the Conclusions section. We refer to how the SAMS has changed, and also about how the relation between our PCs and their corresponding precipitation anomalies could be useful to infer precipitation changes should these modes of variability change in the future. However, there is an apparent, change in the frequency and amplitude of the extremes after 1970, we have made a comment about this in the conclusions.",
+      "Author.2.7": "We thank the reviewer for this comment, we have fixed these errors of standardization in the citation style format.",
+      "Author.2.8": "We thank the reviewer for this comment. We have written a short paragraph in the end of the Introduction section. We think this is a good addition to our manuscript.",
+      "Author.2.9": "We thank the reviewer for this comment. This is something that we considered carefully and discussed when deciding on the color bars, not only for this figure but also for the others (4 and 6). We decided on the color bars as they are to relate blue colors to more rainfall, moisture, and thus water; and red colors to less rainfall and thus drought. This is also stated in the figure captions. We believe this makes for a more intuitive reading of the papers and figures. Therefore, we would like to keep our figures in their current format.",
+      "Author.2.10": "We thank the reviewer for their careful revision of our paper, we have corrected this typo.",
+      "Author.2.11": "We have checked our paper to correct the mentioned typos.",
+      "Author.4.1": "We have implemented this change.",
+      "Author.4.2": "We thank the reviewer for this comment. We have introduced a description of what these maps of the positive phase show in the Methods section. Please refer to lines 128-130 in the revised version of the manuscript.",
+      "Author.4.3": "We have added a short paragraph summarizing the evidence that demonstrates that PC1 is related to the SACZ intensity. Please refer to lines 194-197 in the revised version of the manuscript.",
+      "Author.4.4": "We thank the reviewer for this comment. We agree that the purpose of the sentence was not clear. We have added more details now. The purpose is to connect it to the start of the next Section about PC2 which starts comparing the time scales of variation of PC1 and PC2 timeseries and associating this to the relevant processes (short time scale changes in SACZ intensity vs longer time scale ENSO fluctuations).",
+      "Author.4.5": "We thank the reviewer for this comment. We have made this sentence clearer now, citing Figure 5a when referring to PC1 and Figure 5b when referring to PC2.",
+      "Author.4.6": "The normalization of our data was performed by dividing each PC time series by the maximum of the absolute value for each time series. We did this because we wanted to keep this relevant information in our data. Therefore, the figure reveals that the magnitudes of the negative phase of PC3 are greater than for the positive phase. We have clarified this in the Methods section.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_1.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_1.1.10"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_1.1.11"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.10"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_2.1.11"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.1",
+      "Reviewer_1.3.3"
+    ],
+    [
+      "Author.4.2",
+      "Reviewer_1.3.4"
+    ],
+    [
+      "Author.4.3",
+      "Reviewer_1.3.5"
+    ],
+    [
+      "Author.4.4",
+      "Reviewer_1.3.6"
+    ],
+    [
+      "Author.4.5",
+      "Reviewer_1.3.7"
+    ],
+    [
+      "Author.4.6",
+      "Reviewer_1.3.8"
+    ]
+  ]
+}

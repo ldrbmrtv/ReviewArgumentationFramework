@@ -1,0 +1,12 @@
+Reviewer 3 Report
+It is nice paper about attempt to delineate N fertilization maps by using NDVI, especially the attempting to provide an answer for plots that do not show agreement between NDVI classified images and grain yield classified maps. However, it is some weakness for the conclusion that the mismatch may be the result of a delay in the onset of tillering, which causes a shortening of the tillering phase. Maybe a figure showing the comparison of the NDVI seasonal evolution in unrelated plots and in the related plots can give more clear evidence.
+In detail:
+English check should be more carefully for example
+L16 a third should be one third and L18: another third should be another one-third.
+
+L135: ANC fertilizer dose applied was 220 and 210 kg ha-1. These numbers are not coordinate with Table 1.
+L173: annual rainfall　should be monthly rainfall
+L237: change “Geoeuskadi a repository for spatial data for the Basque Country” to geomorphological variables: Elevation, soil type and orthophoto
+L264-266: Sentences are not well. Maybe it can be changed as “The degree of similarity between maps is quantified using KI, as it is considered a more reliable measure of agreement than simple percent agreement, since KI takes into account the likelihood of agreement occurring by chance.”
+L384-404: Suggestion: give a figure to show the seasonal evolution of NDVI of unrelated plots and the related plots as Figure 5.
+

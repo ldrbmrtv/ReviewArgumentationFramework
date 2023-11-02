@@ -1,0 +1,10 @@
+Reviewer 1 Report
+In this manuscript, the authors proposed the texture analysis of the CC images taken by optical coherence tomography angiography (OCTA). Even though it might be the first try, unfortunately, in the technical point of view the manuscript is not completed. It just presents the application of the split-spectrum amplitude-decorrelation angiography (SSADA) software to the OCTA images.
+
+Optical coherence tomography (OCT) is an imaging technique based on the optical scattering properties of specimens. To get the specific parameter from the OCT images of different specimens, the gray scale might be adjusted properly. Therefore, it is recommended to add detail explanations about the image processing processes performed to calculate each texture feature.
+
+In section 2, it is recommended to present the en-face OCTA images obtained with the split-spectrum amplitude-decorrelation angiography (SSADA) software. Explanation is necessary on what this software is.
+
+In section 3.1, it would be better to add reference(s) explaining the reason for selecting the parameters. Explanation on the meaning of each texture feature is necessary.
+
+With Figure 3 and 4, the authors conclude that the texture analysis through OCTA gives coherent and consistent results. However, without any control group, it is not easy to get the conclusion. The multiple measurements with a same specimen will give well coherent and consistent results. Similarly, the measurements with a same group will do the same.

@@ -1,0 +1,29 @@
+Author Response
+Reviewer #2
+
+1.Why did not compare to the sham stimulation group and 50 Hz/ 5 Hz standard iTBS protocol? I think COVID-19 is not reason. Do you think 30 Hz/6 Hz TBS protocol (intermittent mode) increased MEP amplitude as compared to 50 Hz/ 5 Hz standard iTBS? What are the benefits of 30 Hz/6 Hz TBS protocol (intermittent mode) in comparison with 50 Hz/ 5 Hz standard iTBS?
+
+We agree with the Reviewer that having a direct comparison with the 50 Hz protocol would have been ‘ideal’ but we have clearly stated the reasons as to why we did not perform such a comparison. First, our primary goal was to describe the effects of a modified 30 Hz iTBS protocol and not to test the relative efficacy of 30 vs 50 Hz bursts. Besides, as we have stated, there is already ample evidence of the effects of 50 Hz/5 Hz in the literature. Second, as we have explained in the limitations, our study was performed in the context of a worldwide pandemic. In this respect, we disagree with the reviewer. The pandemic has and continues to have a major impact on our research activities. Our lab is located in a geriatric hospital setting. For this reason, we had to follow very strict rules regarding who was coming on the premises and how long they would stay. We were allowed to recruit research participants only if they came for a short period and stayed in one room. A comparison between 30 and 50 Hz protocols would have meant having participants come twice (on different days), exposing them each time to risks for COVID. As for the benefits of the 30 Hz protocol, those are clearly stated in the discussion regarding the number of responders and the size of the facilitation.
+Does the participants have a neurological disease or other diseases? Please write in the manuscript.
+We have added a sentence to clarify that participants were screened for health conditions.
+
+3          The single-pulse TMS elicited 20 MEPs at baseline but at three specific time points after post-iTBS (i.e., 5-, 20- and 45-min) just elicited 15 MEPs respectively. Why did not also test 20, 25 or 30 MEPs?
+
+We collected more MEPS at baseline to account that variations in excitability are often larger when participants received their first series of TMS pulses (even if they have received some stimuli before collecting data to experience the sensation). Thus, 20 MEPs were deemed adequate to get a reliable estimate of resting corticomotor excitability. Along with the same reasoning, we collected 15 MEPs post iTBS since participants were now more familiar with the sensation elicited by TMS pulse and saved time. As we have explained, we had constraints imposed on us by the local REB to limit the time participants were on-site. The fact that we use 130% rMT for the test intensity also reduced inter-trial variability to provide reliable estimates of corticospinal excitability.
+
+In figure 1, the rMT needs to be defined.
+Done
+In line 125, MT needs to be defined.
+We have revised the sentence so that abbreviations are defined.
+Please do not define aMT the second time in line 134.
+Correction done.
+In line 145, full stop marked an error.
+Correction made.
+In line 28, please define rTMS.
+Done
+How do you test the aMT and rMT? Please give the detailed process.
+We have provided more explanations in the text as to how we used the MTAS software to estimate MT.
+How do you get the hotspot? Please give the detailed process.
+We have added more details as to how the hotspot was determined?
+In lines 459 and 461, pay attention to the space between words.
+Corrections were made to check for extra spaces.

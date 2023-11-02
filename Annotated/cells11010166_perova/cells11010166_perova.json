@@ -1,0 +1,90 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The authors used the term liposome nanotraps. The authors have used conventional liposome preparations. It is not clear why they are calling the preparations as the nanotraps.",
+      "Reviewer_1.1.2": "The authors have used bacterial culture supernatants to examine the cytotoxic effect on the THP-1, Jurkat, and Raji cell lines. Quantitation fo the the culture medium is required (by measuring the total protein content, or by providing some quantitative indicator). Volume of the culture supernatant is mentioned in the results. It is not quantitative, and will vary from batch to bath of the bacterial culture.",
+      "Reviewer_1.1.3": "LDH-release assay of cytotoxicity or MTT assay of cell viability should have been used for measuring the cell death.",
+      "Reviewer_1.1.4": "It is well-known that SLO binds to the cholesterol-containing lipid bilayer. Therefore, it is obvious that the cholesterol-containing liposomes would neutralise SLO present in the bacterial culture. Therefore, no new information is provided with these experiments.",
+      "Reviewer_1.1.5": "It appears that the cholesterol-containing liposomes provide partial protection against the GGS supernatant. This is an interesting observation. However, authors did not make any attempt to explore this aspect in mechanistic detail.",
+      "Reviewer_1.1.6": "In my opinion, differential inhibition of the SLS activity in GGS supernatant by the liposome preparations is interesting, and may provide new insights, if explored in more detail."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Although the sensitivity of immune cells to GAS or GGS supernatants is shown in the first section of the results, were any controls used in the neutralization assays with liposomes?",
+      "Reviewer_2.1.2": "In the material and methods section it is stated that the cells survival assays start with the addition of a fixed volume of supernatant but it is not clear to me the criteria for reflecting different amounts of supernatant in Figures 2 and 3. It should be explained more clearly. What is the reason for using different amounts of supernatant with cytolysins depending on its source or the type of cell line it is tested against in figures 2 and 3? This should be explained. Furthermore, it should be justified why this difference does not influence the comparison of the results with the different cell lines (THP1, Jurkat, Raji)."
+    },
+    "Author": {
+      "Author.2.1": "We used two controls in the protection experiments. In one control we challenged the cells with bacterial supernatant without adding liposomes, to determine that the baseline cytotoxicity is in line with the results displayed in the Figure 1.\n The second control consists of the immune cells without toxin or liposomes. This control represents 100% survival and allows us to normalize our survival data. We also tested the intrinsic toxicity of liposomes on their own to see if they did impede cell growth or were cytotoxic. At the concentrations used in current study the liposomes were not cytotoxic (data not shown).\n The following text was added to the material and method section: The data were normalized to a control incubated with PBS instead of bacterial supernatant (considered as 0% cell death). A control challenged by bacterial supernatant without liposomes was added for each assay to verify the expected cytotoxic activity",
+      "Author.2.2": "We selected the specific supernatant volumes used to reach a similar lethal dose to compare the protection capability and efficiency of the liposomal nanotraps. However, as the immune cell lines have different sensitivities depending on the toxin profile of the tested strain, a similar lethal dose corresponds to different supernatant volumes. We used the results displayed in Figure 1 of the manuscript to determine which volume to use.\n We agree that the way we presented it can lead to confusion and we replaced the supernatant volume values by LD% values.\n The following text was added to the material and method section: The added supernatant volume was determined based on the toxicity assay results and was used either at saturating dose (lethal dose >90, LD>90) or at non-saturating dose (LD60-90) to study minor toxin activities.\n We agree that the distinction between saturating (LD>90) and non-saturating (LD60-90) was confusing. To clarify our process we did add clarifications throughout the results part and we added a panel in figure 2 to include results obtained after challenge of LD>90 of GGS 5804 supernatant.",
+      "Author.2.3": "While LDH-release or MTT assay are frequently used techniques and might be preferred by some investigators, other approaches assessing cell viability might be more popular by others, dependent on particular experimental settings of a particular study. Figure 2 (for referee inspection only) demonstrates that Alamar blue cell viability assay and Trypan blue live/dead quantification provide results that are identical to those obtained in the cell proliferation protocol used in our study. We believe that the latter protocol is the most suitable experimental approach for our study since it allows distinguishing between cell lysis, cytotoxisity and cytostatic effects (i.e. between cytolysins, cytotoxins and cytostatic agents) in a single experiment. The techniques and algorithms used by the CellDrop relies on accurate and unbiased measurements, akin to previously published techniques[2,3].",
+      "Author.2.4": "The focus of our study is to highlight that successful protection against the whole palette of streptococcal toxins can be achieved by using liposomal nanotraps and to show that the liposome requirements differs between bacterial species and between different types of immune cells. We agree that the SLO neutralization is not novel and simply confirm results from previous publications by us and others. In the current work we do not intend to reveal new neutralization mechanisms either for SLO or for SLS.",
+      "Author.2.5": "Streptolysin S (SLS) is a small, non-immunogenic, peptide. This means that no commercial antibody against it is available and the peptide is too small for reliable mass spectrometry detection. It is heavily post-translationally modified and is the product of a complex operon. Its exact mode-of-action is still not yet fully clarified. In a previous publication, we were able to show that SLS is neutralized by phosphatidylcholine as well as sphingomyelin liposomes [1]. However, given the poor characterization of SLS, its unavailability from commercial providers and its extremely tedious purification, the mechanistic details of the SLS\n neutralization will require an extensive a project of its own and are beyond the scope of the current study.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ]
+  ]
+}

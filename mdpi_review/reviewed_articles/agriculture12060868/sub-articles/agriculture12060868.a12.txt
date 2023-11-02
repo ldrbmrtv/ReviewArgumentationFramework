@@ -1,0 +1,5 @@
+Author Response
+Figure 1 was missed from the last MS. Sorry for this error. This is now included
+Stillborn piglets vs piglets with no milk: more details are included about this in the description of the M/M
+224-225: confusion about parity is corrected, same comment as reviewer one
+Figure 5 and 7. There is always effects of batches in these types of studies. This is also why we prefer to have several batches, but  the main effect should not be biased by the batch effect in the present study, as the main finding are quite clear even in our small data set. However, it would be more elegant to have more batches. This was unfortunately not possible in the present iinnovation project. As mentioned earlier, we did not have resources t continue the data collection within the time period we had.

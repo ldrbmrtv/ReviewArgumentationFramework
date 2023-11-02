@@ -1,0 +1,4 @@
+Reviewer 2 Report
+Although, I disagree in some cases, I recommend to accept the paper as is
+The fact that R. Weiss is a pioneer does not mean he is systematically right. Again, the HSP allows one to find out whether a solvent is not too good nor not too bad for a system to be able to aggregate and form structures. Nothing very new under the sun!
+Yet, all depends upon the gel definition, which should not rely only upon a rheological approach that may be deceiving. Flory's parameter is to some extent like the HSP parameter, and yet it does not permit to predict whether spherulitic systems will form (not a gel) or fibrillar structures (potentially a gel). It is the same here as some systems are straightforwardly considered gels while they are not. The gelation phenomenon (LMWG and polymers) cannot be reduced to one parameter.

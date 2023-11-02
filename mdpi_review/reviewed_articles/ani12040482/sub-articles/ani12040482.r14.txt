@@ -1,0 +1,26 @@
+Reviewer 4 Report
+The authors examined how separation-related behaviors in pet dogs changed in relation to time spent away from home by UK owners in February 2020 (pre-pandemic), May-July 2020 (first lockdown during the pandemic), and October-November 2020 (local tier-system for restrictions; follow-up). Their main finding is that close to 10% of dogs developed new signs of separation-related behaviors by the follow-up survey. The sample size is good, and the results are interesting. My specific comments are detailed below.
+I found the writing awkward in places. Here are some suggestions that can be made throughout the paper:
+Title: change “Leaving Pattern” to “Time Spent Away”; leaving pattern is less clear (it could be frequency of leaving each day)
+Line 27: change “reduced” to “decreased”
+Line 29: change “dogs whose leaving hours reduce most” to “dogs whose time left alone decreased most”
+Line 30: change “leaving hours increase again” to “time left alone increased again”
+Line 214: if possible (might not be possible if this was how it was phrased in the survey), change “different to before” to “different from before”
+Lines 383-384: Change “dogs’ leaving routines” to “dogs’ time left alone”
+Materials and Methods:
+Line 151: how was the criterion of “at least 5 minutes” chosen?
+My main question when reading this section concerned how owners would know that certain separation-related behaviors occurred when they were away? There would be evidence for some behaviors, such as destructive behavior or defecation, but how would owners know about pacing or tail-chasing? This topic is not addressed until the Discussion section (line 395) but should be addressed here in the Methods and Materials section. Were behaviors, including different vocalizations, defined for owners? For example, what is the difference between pined, whined, and cried?
+Also, I might have missed it, but did all of these owners live alone with their dog(s), meaning no other people in the household? If other people were present, did all of them have to be away or just the dog’s owner? This information might be presented in your other paper, but it would be good to include this basic information here as well, so readers can better understand your methods and findings.
+Line 166: define “devolved nations” for readers unfamiliar with the term.
+Results:
+Figure 2: should the blank box for “Feb, Not at all” be 0.0%?
+Figure 4 is not called out in the text of the Results section.
+Conclusions:
+I believe Animals requires a Conclusions section.
+Minor issues:
+Line 35: insert “of” after 9.9%
+Line 100: insert “the” after “in”
+An error message occurred in several places (e.g., line 131, line 246, line 265)
+Line 148: change “focusses” to “focuses”
+Line 355: delete the first “the”
+Line 461: change “onto” to “on to”

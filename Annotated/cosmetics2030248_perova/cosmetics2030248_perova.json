@@ -1,0 +1,169 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "Some errors in the legend of Figure 4, such as EM/PHYT/BHT, EM/PHYT is not presented in\n Figure 4.",
+      "Reviewer_1.1.2": "In Figure 4, the results is represented in three times or signal one or other times. Therefore, you\n must rewritten the legend of Figure 4."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "We recommend \u201cgalenic\u201d can be changed to herbaceous, because galenic is not usually to see for\n non-professional fields or general cosmetics reader.",
+      "Reviewer_2.1.2": "Less a parenthesis at line 132.",
+      "Reviewer_2.1.3": "At line 160, \u201cFigureure\u201d should be \u201cFigure.\u201d",
+      "Reviewer_2.1.4": "At line 161 mentioned Tonset DCS, but does not explain what this word mean.",
+      "Reviewer_2.1.5": "In Table II, Tonset DCS is a units of temperature, it should be used comma instead of decimal point.",
+      "Reviewer_2.1.6": "At line 167, \u201cdonateis\u201d is typically used to represent donate money, we proposed change to be\n \u201cprovide\u201d, in additional, this sentence is not fluent at grammar.",
+      "Reviewer_2.1.7": "The sentence in line 168 is not fluent at grammar.",
+      "Reviewer_2.1.8": "At line 189, it dors (does) not have sample named EBL, it needs to be check again.",
+      "Reviewer_2.1.9": "Integration of all the above problems, this post Journal does not provide future applications of phytic\n acid in cosmetics and its title is mentioned in herbal lotion but the experiment did not use any herb\n emulsion formulation. For the antioxidant capacity of phytic acid only do the experiment of DPPH that\n has not more in-depth study. Lot of grammatical errors is found in sentences. So we suggested to big\n modifications, then returned for review.",
+      "Reviewer_2.3.1": "From the experimental results that phytic acid will decrease the thermal stability of the emulsion, but\n at line 220 mention that phytic acid has the effect of lipid peroxidation and therefore can be added as an\n anti-oxidant in the emulsion. So we recommend authors to describe these two points much clearer."
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "The conclusions reported are very short and poor. More discussion of the presented results is\n needed.",
+      "Reviewer_3.1.2": "The authors missed to report other authors\u2019 studies which agree or disagree with their findings.",
+      "Reviewer_3.1.3": "What is the output of this study? What are the implications in the use of PA in galenic/cosmetic\n formulations?",
+      "Reviewer_3.1.4": "What are the suggestions of the authors about the use of PA in Cosmetics based on their results?\n And what the parameters and the tricks that the formulators should be aware of while using PA in\n their products?"
+    },
+    "Author": {
+      "Author.2.1": "All the corrections are highlighted in green. We expanded the discussion of the results on pages 7,\n 10 and the conclusion on page 11 (item 4).",
+      "Author.2.2": "As mentioned in this paper, there are few studies related to the phytic acid in cosmetic products.\n However we added more references regarding about phytic acid antioxidant activity. References 24, 25\n and 26.",
+      "Author.2.3": "We mentioned in the text more information about incorporation of phytic acid into emulsion on\n Thermal Analysis results, DPPH results and conclusion.",
+      "Author.2.4": "Regarding with this queries we improved the discussion in the results on page 7. But we need to\n study more about.",
+      "Author.2.5": "We removed the units of temperature from the Table.",
+      "Author.2.6": "We changed \u201cdonate\u201d to provide and the other word donor to provider.",
+      "Author.2.7": "We changed this sentence.",
+      "Author.2.8": "The sample\u00b4s name corrected (EM/BL) at line 189.",
+      "Author.2.9": "We integrated all the problems and correct he errors.",
+      "Author.4.1": "We described these two points more clearly. The thermal analysis technique applies high\n temperatures in the samples due to this thermal stability of the emulsion associated with phytic\n acid decreased.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Reviewer_2.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.1",
+      "Reviewer_2.3.1"
+    ]
+  ]
+}

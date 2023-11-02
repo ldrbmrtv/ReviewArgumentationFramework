@@ -1,0 +1,9 @@
+Reviewer 2 Report
+This manuscript titled, "Involvement of estrogen and its receptors in 2 morphological changes in the eyes of the Japanese 3 eel, Anguilla japonica, in the process of artificially-4 induced maturation" investigates the role of the estrogen receptors (ERs) and E2 in the sexual maturation of the Japanese eel (Anguilla japonica) with a specific reference to ERs in the eye. Overall, the manuscript demonstrates clarity in rationale, experiment design, and interpretation of data. As such, I recommend the publication of this manuscript, pending a few changes:
+Major changes:
+I think the manuscript is relevant, given that estrogen receptor characterization in teleosts like the zebrafish have paved the way for the investigation of basic and translational research problems alike. However, I think the mere identification of receptor transcripts in the eel eye may not constitute a well-rounded manuscript, without any further investigation of downstream estrogen targets. Therefore, it is recommended that the authors execute gene expression analyses of estrogen receptor target genes directly related to their study (such as vtg) to prove the activation of the estrogen receptors. This will further strengthen the conclusions of the manuscript.
+
+Minor changes:
+In Figures 2, 3, 4A and $B, it is not clear as to which experimental groups were compared for statistical analyses. Therefore, it is recommended that the authors use segmented lines or other symbols to indicate the groups being compared. Please also mention the p values directly instead of a, b, c etc, or use conventional asterisks (*) symbology, as it is makes it these tests easier to interpret.
+Line 30, please remove the word "Since".
+Line 61, a preposition is missing in "Mariana Islands the Mariana Trench"

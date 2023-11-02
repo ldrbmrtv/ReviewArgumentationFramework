@@ -1,0 +1,4 @@
+Reviewer 3 Report
+The effort made by the authors during the first round of revision is clear and the paper was improved greatly. nevertheless some points were not addressed properly.
+1. The molecular study needs a control molecule to compare the results of  L1 and L2. how would we know that −7.7 and −8.8 are good scores or not. Either perform a quick analysis for a molecule known for its tyrosinase inhibition or compare with other studies control that used the same methods in your paper.For exemple in this study "https://doi.org/10.1016/j.bmc.2011.10.078" they used Arbutin to compare the results of their studied molecule.
+2. The references are in a weird format containing only the author's name, journal name and date. article title and other data are missing. Reference style followed by the journalAuthor 1, A.B.; Author 2, C.D. Title of the article. Abbreviated Journal Name Year, Volume, page range.

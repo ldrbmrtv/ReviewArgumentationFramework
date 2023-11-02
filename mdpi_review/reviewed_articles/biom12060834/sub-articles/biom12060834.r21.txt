@@ -1,0 +1,10 @@
+Reviewer 1 Report
+The English language was improved, but there are still errors.
+
+The following comments were not addressed correctly:
+Why was linkage analysis not performed? (I was referring to the chemical method by methylation.)
+Bacterial EPSs are normally composed of repeating units. Based on the 1H NMR spectrum, the purity and/or heterogeneity of the EPS is questioned. (I was referring to peak intensities that are not uniform. The new spectra emphasize this even more: for example, I count at least 10 H1/H2 cross peaks of different intensities on the COSY.)
+
+The authors added a COSY spectrum but did not analyze it. They deleted erroneous information about mannose residues, but came up with new conclusions about mannose identity and linkages based solely on chemical shift of anomeric proton/carbon.
+
+TOCSY and HMBC are mentioned in methods, but no results are presented. The information contained in the other 2D spectra was not exploited to provide structural information. Chemical shift similarity is not sufficient to identify monosaccharide and linkage in a polysaccharide repeating unit. The evidences for the partial structure given are not convincing. If the authors do not add methylation analysis and perform full NMR spectral analysis, the claims about structure determination should be removed from the manuscript.

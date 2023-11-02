@@ -1,0 +1,2 @@
+Reviewer 2 Report
+The manuscript has been much improved, although I still have some concerns about the standard of English language used. My only other query relates to Supplement 1, which contains the ancestral sequence of cognate tRNAs. The way these sequences are presented, it is not clear to me how they relate to the full tRNA sequences. For example, the length of the sequences vary between 25 and 57 nucleotides, and the ancestral serine sequence (25 nucleotides) does not appear to contain any serine anticodon.

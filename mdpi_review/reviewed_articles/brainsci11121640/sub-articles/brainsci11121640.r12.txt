@@ -1,0 +1,13 @@
+Reviewer 2 Report
+This study investigated whether the modified 30 Hz/6 Hz TBS protocol (intermittent mode) proposed by Goldsworthy et al. (2012) would lead to lasting MEP facilitation. Some questions please need authors to answer.
+Why did not compare to the sham stimulation group and 50 Hz/ 5 Hz standard iTBS protocol? I think COVID-19 is not reason. Do you think 30 Hz/6 Hz TBS protocol (intermittent mode) increased MEP amplitude as compared to 50 Hz/ 5 Hz standard iTBS? What are the benefits of 30 Hz/6 Hz TBS protocol (intermittent mode) in comparison with 50 Hz/ 5 Hz standard iTBS?
+Does the participants have a neurological disease or other diseases? Please write in the manuscript.
+The single-pulse TMS elicited 20 MEPs at baseline but at three specific time points after post-iTBS (i.e., 5-, 20- and 45-min) just elicited 15 MEPs respectively. Why did not also test 20, 25 or 30 MEPs?
+In figure 1, the rMT needs to be defined.
+In line 125, MT needs to be defined.
+Please do not define aMT the second time in line 134.
+In line 145, full stop marked an error.
+In line 28, please define rTMS.
+How do you test the aMT and rMT? Please give the detailed process.
+How do you get the hotspot? Please give the detailed process.
+In lines 459 and 461, pay attention to the space between words.

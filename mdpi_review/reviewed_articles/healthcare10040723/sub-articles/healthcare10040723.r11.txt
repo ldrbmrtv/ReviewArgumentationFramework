@@ -1,0 +1,10 @@
+Reviewer 1 Report
+The article presents a study of perception of AI and digitization healthcare which is achieved by qualitative and quantitative surveys. Importantly, the study has pointed out the lack of in-depth awareness about digital health technologies in students and highlighted the need for education of the same. Authors have sufficiently described the study methodologies including the survey and drawn
+The following revisions should be addressed before publication:
+The citations are not formatted according to the journal guidelines. Please revise.
+Include the full form of STD described in the results.
+Table 3 “Health apps and computer algorithms are for patients disturbing (=)…” should “(=)” be “(0)”?
+Line 252, 24/7 is the commonly accepted form of 7/24.
+Line 267 and 268, the description of figure 1 is not clear. Does “focused on senses” mean in-person patient-doctor interaction?
+Table 4 data suggest Digital networks increase doctor nurse communication but Line 266 says it undermines the same. Can you clarify?
+Table 5, what does numbers 1 through 7 represent?

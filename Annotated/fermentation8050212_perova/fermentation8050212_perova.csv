@@ -1,0 +1,53 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;please include a more specific section about the statistical methods
+Reviewer 1;Author;1;2;0;English language should be improved.
+Reviewer 2;Author;1;1;0;"Sometimes the document is different to follow due to English issues. Examples: Page 1, Lines 9-11: ""In order to enhancement the antioxidant properties of rice bran, solid state fermentation of rice bran with mixed bacteria was adopted and optimized fermentation technology.""; Page 4, Lines 141-143: “In the morning (on set light), breeding 9 fishes interbreed 1h, embryos were obtained from natural spawning collection of embryos were completes in petri Dishes; Page 4, Lines 153-155: “AAPH group only added AAPH. Four experimental groups were added AAPH and 0.1, 0.2, 0.3, 0.4 mg/ mL sample, respectively.”; Page 5, Lines 188-190: “The optimum sodium humate content was found to be 1.0 %, which DPPH free radical scavenging rate of 81.22%.”; Page 6, Lines 218-219: “The significantly less polysaccharide content of FRBE than that of RBE (P＜05).”; Page 8, Lines 241-242: “Schmidt et al. (2014) also found that ferulic acid content of rice bran water-soluble extracts significant improvements, up to 765 mg/g [16].”; Page 10, Lines 321-323: “At the concentration of 0.3 mg/mL and 0.4 mg/mL, CAT activity induced by AAPH of FRBE group significantly higher than that of AAPH and RBE.”."
+Reviewer 2;Author;1;2;0;"Explain what FRBE is. It appears for the first time on Page 1, Line 17;"
+Reviewer 2;Author;1;3;0;The hot water extraction conditions were tested before?
+Reviewer 2;Author;1;4;0;What do the authors mean by 24hpf (Page 4, Line 148)?
+Reviewer 2;Author;1;5;0;"Explain what AO solution is. It appears on Page 4, Line 162;"
+Reviewer 2;Author;1;6;0;Explain the role of sodium humate.
+Reviewer 2;Author;1;7;0;Page 6, Lines 217-218: Check the values presented in the following sentence: “As shown in Table 1, the water-soluble polysaccharide content of FRBE and RBE were 552.30±2.68 mg g-1 and 450.28±1.69 mg g-1 respectively.”, because they are opposite to the ones presented in Table 1.
+Reviewer 2;Author;1;8;0;Table 1: The number of decimal places of some constituents is excessive. Example: for polysaccharide content, I suggest writing 552+3 for RBE.
+Reviewer 2;Author;1;9;0;Why did the water-soluble phenolic acids contents increase after the fermentation?
+Reviewer 2;Author;1;10;0;Page 9, Line 280: Is Fig. 3b showing different groups of LPO rate, or is Fig.3a?
+Reviewer 2;Author;1;11;0;Page 10, Lines 306 and 307: check the 73.85 and 77.00 values. They seem interchanged with each other.
+Reviewer 2;Author;1;12;0;Rewrite the first sentence in Conclusions.
+Reviewer 2;Author;1;13;0;"Page 1, Line 9: Change ""tastea"" to ""taste""."
+Reviewer 2;Author;1;14;0;Page 2, Lines 66 and 67: Write the microorganisms' names in italic.
+Reviewer 2;Author;1;15;0;"Page 3, Line 124: Change ""ethyl acetate reagents"" to "" ethyl acetate reagent""."
+Reviewer 2;Author;1;16;0;Page 3, Line 124: What do you mean “oscillated for 10 minutes”? Is mixing for 10 minutes?
+Reviewer 2;Author;1;17;0;"Page 4, Line 131: Change ""flsk"" to ""flask""."
+Reviewer 2;Author;1;18;0;"Page 4, Line 133: Change ""VWD detector"" to ""Variable wavelength detector (VWD)""."
+Reviewer 2;Author;1;19;0;Page 8, Line 261: Change “FRB” to “FRBE”.
+Reviewer 2;Author;1;20;0;In the reference list, write the names of the microorganisms in italic. Some journal titles are registered in abbreviated form, and others have a full name. Standardize, taking into account the rules of the journal.
+Reviewer 3;Author;1;1;0;"The main comment addressing the article improvement is the methodology applied for statistical analysis.
+ The appropriate methodology considering parametric assumption for normality and homogeneity of variances before data analysis should be applied. Later one-factor analysis of variance should carry out accordingly. The application of the Duncan test should be justified because it is less sensitive in this kind of study."
+Reviewer 3;Author;1;2;0;Figures 2a, 3a and 4a include photos whose resolution should be improved.
+Author;Reviewer 1;2;1;1;We have taken your advice and changed statistical methods in the manuscript.
+Author;Reviewer 1;2;2;2;We have improved English language.
+Author;Reviewer 2;2;1;1;Thanks for your comment. We have improved English language.
+Author;Reviewer 2;2;2;2;Thanks for your comment. FRBE is water-soluble fermented rice bran extracts.
+Author;Reviewer 2;2;3;3;"Thanks for your comment. The hot water extraction conditions was adopt according to previous methods (Dong et al., 2021).
+ Dong, C.L.; Liu, N.; Wang, Y.; Song, M.; Wang, R.F.; Yang, Y.P.; An, X.P.; Qi, J.W. Study on Antioxidant Activity of Fermented Rice Bran Water Extract. Feed Industry 2021, 42(24), 8-13. DOI:10.13302/j.cnki.fi.2021.24.002."
+Author;Reviewer 2;2;4;4;Thanks for your comment. 24hpf means 24 hours post fertilization.
+Author;Reviewer 2;2;5;5;Thanks for your comment. AO solution is acridine orange.
+Author;Reviewer 2;2;6;6;Thanks for your comment. Humates added to feed stimulate the microbial growth(Huck et al., 1991). Sodium humate added to fermentation substrate improved the growth of bacteria (Liu et al., 2014, Shi et al., 2016). The role of sodium humate is fermentation synergist.
+Author;Reviewer 2;2;7;7;Thanks for your comment. It is my mistake to write the water-soluble polysaccharide content of FRBE and RBE on the wrong sides. The water-soluble polysaccharide content values have been corrected.
+Author;Reviewer 2;2;8;8;Thanks for your comment. We have taken your advice to change the number of decimal places.
+Author;Reviewer 2;2;9;9;Thanks for your comment. Phenolic acids belongs to polyphenols. The increasing of content of water-soluble phenolic acids in FRBE may be attributed to the degradation of rice bran cell wall during fermentation.
+Author;Reviewer 2;2;10;10;Thanks for your comment. Fig.3a and 3b showing different groups of LPO rate.
+Author;Reviewer 2;2;11;11;Thanks for your comment. The 73.85 and 77.00 values are correct.
+Author;Reviewer 2;2;12;12;"Thanks for your comment. We have rewrited the first sentence in Conclusions.
+ In summary, the DPPH radical radical scavenging abilities of rice bran water-soluble extracts and the content of bioactive constituents were considerably altered by mixed bacteria solid-state fermentation."
+Author;Reviewer 2;2;13;13;Thanks for your comment. I have changed.
+Author;Reviewer 2;2;14;14;Thanks for your comment. I have changed.
+Author;Reviewer 2;2;15;15;Thanks for your comment. I have changed.
+Author;Reviewer 2;2;16;16;Thanks for your comment. I have changed. The “oscillated for 10 minutes” means “shaked for 10 minutes”.
+Author;Reviewer 2;2;17;17;Thanks for your comment. I have changed.
+Author;Reviewer 2;2;18;18;Thanks for your comment. I have changed.
+Author;Reviewer 2;2;19;19;Thanks for your comment. I have changed.
+Author;Reviewer 2;2;20;20;Thanks for your comment. The abbreviated form of some journal titles have been corrected to full form taking into account the rules of the journal.
+Author;Reviewer 3;2;1;1;"Thanks for your comment. The statistical analysis were conducted as follows:
+ All experiments were conducted in triplicate. The UNIVARIATE procedure of SAS was used to test the normality of the data before any further analyses were carried out. Data were subjected to ANOVA using the MIXED procedure of SAS (SAS 9.2, SAS Institute Inc., Cary, NC). Mean ± standard error (S.E.) were reported, and means were separated by LSD multiple comparisons. Differences were accepted as statistically significance at P < 0.05."
+Author;Reviewer 3;2;2;2;Thanks for your comment. We have enhanced clarity and detail of the image for easy reading.

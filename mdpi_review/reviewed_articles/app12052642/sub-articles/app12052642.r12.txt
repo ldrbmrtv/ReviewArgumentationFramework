@@ -1,0 +1,5 @@
+Reviewer 2 Report
+Chen, G.; Ma, F.; Hao, G.; Zhu, W. Modeling large deflections of initially curved beams in compliant mechanisms using 277 chained Beam-Constraint-Model, ASME J. Mech. Robot., 2019, 11: 011002, https://doi.org/10.1115/1.4041585.
+The article being evaluated is an extension of the above cited reference, and the authors would be well advised as to summarize this article, in part, and to delineate what has changed as of 2019, i.e. put this in a paragraph and to explain the subsequent evolution since 2019.
+Secondly what is missing in the article is in terms of application a clear delineation as to what benefits robotics accrue by the developments summarized in this article . What new capacities and abilities so created by this evolutionary jump
+Aside from that the article is solidly researched and is useful as a source of technology development

@@ -1,0 +1,32 @@
+Reviewer 3 Report
+Manuscript Number: catalysts-1676411
+
+Full Title: Comparative catalytic performance study of HPW/MAP and HPW/MAS catalysts in simultaneous esterification and transesterification of unrefined green seed canola oil
+
+Remarks to the Authors:
+
+The authors studied the esterification and transesterification of unrefined green seed canola oil over HPW/MAP, HPW/MAS, and HPW/γ-Al2O3 catalysts in a 100 mL Parr reactor at 200 °C with 600 rpm for 7 h under 4 MPa. The authors characterized synthesized catalysts by BET, XRD, NH3-TPD, TGA, and TEM analyses. The highest biodiesel yield (82.3%) was achieved over the HPW/MAS catalyst, which possessed the highest acidity and surface area. I think that the topic of this investigation is in the scope of MDPI Catalysts and can be interesting for the journal audience. At the same time, I have found some weaknesses in the manuscript body. In my opinion, this work can be considered for publication in MDPI Catalysts only after major revision. Please find my comments below.
+
+The title must be corrected/improved. The authors did not mention the HPW/γ-Al2O3 Moreover, I recommend the authors decrypt or exclude abbreviations in the title.
+
+The authors must mention in the abstract obtained product (biodiesel).
+
+Did the authors analyze the real catalyst composition? I think this information should be provided in Table 2. ICP-OES or XRF analyses can be useful.
+
+How the authors can explain the average pore size increasing for the HPW/MAP catalyst compared to MAP (Table 2), while for the other HPW catalysts it was observed opposite effect?
+
+How the pore size distribution curves were built? Based on adsorption or desorption volume? This information must be presented in the manuscript.
+
+The carbon and/or mass balance must be provided.
+
+The authors should decrypt the type of percent for the obtained product yield.
+
+I recommend the authors compare their achieved catalytic results with well-known literature data in a table format and include it in the Results and Discussion section.
+
+How the authors can explain decreasing of total acidity (Table 3) over the HPW/Al2O3 catalyst while other HPW supported catalysts showed reverse results?
+
+How the authors can make a statement about Bronsted acidity based on NH3-TPD? For these conclusions, the authors should utilize a Pyridine-DRIFTS technique.
+
+What about the Lewis acid sites (LAS)? Why did the authors exclude LAS from the discussion? This must be explained. Moreover, the authors mentioned Lewis site in the proposed mechanism of HPW immobilization on MAS.
+
+The authors said: “According to them, the intensity of peaks in the range of 100-300 °C, which is related to the mild Bronsted acidity”. What about the weak acid cites in this temperature range? Why did not the authors discuss it? This needs to be elucidated.

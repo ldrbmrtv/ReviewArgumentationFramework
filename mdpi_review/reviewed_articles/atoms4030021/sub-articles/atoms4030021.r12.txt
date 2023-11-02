@@ -1,0 +1,30 @@
+Reviewer 2 Report
+The paper  "Analysis of polarizability measurements made with atom interferometry" describes slightly revised values of the electric dipole polarizability of alkali atoms and presents a long analysis of these results.
+This paper is a complement to the PRA paper published in 2015 by this team (quoted in the abstract  and as ref 3). The revision of the values published in 2015 only reduces their uncertainties.
+
+The analysis of these results is made by separating the polarizability alpha in two parts: the contribution of the first resonance state (more than 95% of the polarizability) and the residual part alpha_r (<5% of alpha). Such an analysis was already presented more briefly in their PRA paper. The discussion is somewhat complex because the problem is analysed in several ways:
+
+a) the main part (alpha-alpha_r), which is due to the first resonance levels, can be precisely evaluated thanks to alpha_r which has been calculated by theory by various authors. This first analysis gives dipole moments, lifetimes, oscillator strengths and line strengths for the D1 and D2 lines of the alkalis. The uncertainty on lifetimes is slightly better for Cesium than the data collected in table 3. However, even if the stated uncertainty on alpha_r  and the sensitivity of the result to this uncertainty are both small, this evaluation of lifetimes has a mixed theory-experiment character and this should be made more clear.
+
+b) then, the C_6 coefficient of the VdW potential is deduced from the knowledge on the polarizability. This is interesting because many efforts were done before producing precise C_6 theoretical values. However, the paper is not very clear on the treatment  of alpha_r(i omega). If I understand clearly, the authors use a scaling of the main part (alpha-alpha_r) and keep alpha_r(i omega) as calculated theoretically. This technique modifies somewhat the C_6 value and reduces slightly the error bars.  (Note: probable misprint in table 4 for delta alpha_r(0) of Rb)
+
+c) the logic is now inverted with respect to analysis a: the goal is to get alpha_r from the polarizability and resonance level lifetime values.
+
+d) the logic is now inverted with respect to analysis b: the goal is to
+get alpha_r from the polarizability and C_6.
+
+I am not fully convinced that these last two parts of the analysis are really useful but they cannot be suppressed if one wants to keep the final discussion which gives a comparison of the various alph_r(0) including their own values.
+
+This paper carries new material with respect to the PRA paper published in 2015 by this team and I think it can be published but I am not enthusiastic because it is interesting only for a small community strongly interested in lifetimes, polarizability, and C_6 and also because the parts c and d of the long analysis are essentially a reversal of parts a and b!
+
+Minor remarks:
+bottom of page 5: the summation includes not only excitation to discrete states labeled by n' but also the continuum.
+
+misprints in lines 107 and 109, in line 144
+
+page 9: the statement that the VdW coefficients C_8 and C_10 can be predicted based on alpha(0) measurements is strongly puzzling !
+
+eq 22: imega_D3 appears several times. If the D line has 3 components, this is a great news!!!
+
+
+line 160: alpha_r(0) and alpha_r(I omega): 2nd r is missing

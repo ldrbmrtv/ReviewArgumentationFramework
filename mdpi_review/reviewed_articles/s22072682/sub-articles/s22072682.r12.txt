@@ -1,0 +1,9 @@
+Reviewer 2 Report
+Dear Authors:
+I appreciate the possibility to review the paper entitled "Exploration of an inflection point of ventilation parameters with anaerobic threshold using strucchange" by the authors Aida et al. In this paper, using a maximal exercise test on a cycle ergometer, it is proposed to determine the anaerobic threshold using the strucchange analysis of the time series and compare it with the V slope method and the respiratory and metabolic indexes proposed by Wasserman. In this respect, I find the work interesting, well-structured, and with promising results. However, I would like to make a few comments.
+-The paper's aim should be the same in the abstract and the introduction.
+- I suggest presenting the paper's aim as the last idea in the introduction to make the manuscript easier to read.
+- Given the poor quality of the images (Fig 1 and 2), it might be better to redraw them and describe them as an adaptation of the original publication.
+- The methods do not specify how the baseline load of the participants was determined.
+- In figure 3, the indication of the test time appears in the reverse direction. Time "0" should be at the start.
+- I recommend deleting graphs 5, 8, and 11 because graphs 7, 10, and 13 show the same information together with lines obtained by analyzing the structural change of the time series.

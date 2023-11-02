@@ -1,0 +1,11 @@
+Author Response
+1. line 76 and 79: Sentence about two farms with financial support is deleted from the aim.
+2.Line 78: "designed to meet behavioural needs...." is deleted
+Overall, the objective now is focused on the hypotheses.  The reviewer is completely right in adressing this point.
+3. l 80-83 is now deleted from the objectives
+4. Figure 1 must was lost from the last document, and we are so sorry for this. The figure is now included in the new document.
+5. More explanation is included in the figure text of figure 2
+6. Corrections are made in the text of figure 4.
+7. l 206, l225 Info is changed according to the reviewers request.
+8. The system we have used is to refer to the table with statistical values when reporting significant differences for the results presented in figures and tables, but for those that are presented in the text only, we also have P- and F-values in brackets. Insted of inserting P-values in the text when reporting significant differences for the ones that are in tables, we have included more references to the stat-tables. I hope the reviewer find that satisfactory.
+Finally, thank you for being so patient with our manuscript

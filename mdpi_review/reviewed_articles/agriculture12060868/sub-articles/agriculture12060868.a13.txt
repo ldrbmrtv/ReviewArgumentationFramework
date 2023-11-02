@@ -1,0 +1,11 @@
+Author Response
+mean + se is given in all tables and figures, Replicates are now included and abbreviations explained.
+Italic for P-values in the text. Done!
+Figure 1 was no included by an error in the last MS. It is now inserted again.
+Batches and number of litters are added to the figure legends.
+Space before and after sign is added.
+A new and improved version of figure 6 is now included.
+We have inserted * to denote differences instead of letters.
+Table 4 is inserted again in the writing form.
+The meaning of ***: this is explained.
+Quality of figure 7 is improved.

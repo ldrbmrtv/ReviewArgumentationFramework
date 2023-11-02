@@ -1,0 +1,15 @@
+Author Response
+Thank you very much for the positive comments
+1- in the Introduction in the sentence 61-69 the authors do not mention anything about BRCA1 (they mention MLH1 though); I would expect that as BRCA1 splice variants are  deeply studied.
+
+- Acknowledge this suggestion. We have added two references of BRCA1 and BRCA2 studies.
+
+2- In the Materials and Methods, the section 2.6 is not actually a section that described some methodology. It appears to be more appropriate as results and maybe some information could be in the introduction.
+- Acknowledge this comment. In this section we have tried to describe the classification approach and the rules we have followed to classify the variants. Certainly, we agree with the referee as sometimes the method is mixed with some results. So, we have moved some sentences of the last paragraph of Materials and Methods to Results.
+“The PM3 evidence (in trans with a pathogenic variant in a recessive disorder) did not con-tribute to the final classification. Not surprisingly (FANCO is an extremely rare FA complementation group) [37], none of the tested variants has been identified in Fanconi Anemia patients (ClinVar and Global Variome shared LOVD databases and literature search-es). Similarly, the BS2 evidence (in trans with a pathogenic variant in a healthy individual) does not contribute to the final classification of our tested variants. Finally, we have considered that some pathogenic (PS2, PM1, PM6, PP2, PP4) and benign (BP1, BP3, BP5) codes are not applicable to the classification of RAD51C variants.”
+
+3-The acronyms need to be explained. Not all readers are familiar with PTC (premature termination codon) and NMD (nonsense mediated decay); as some variants are found PTC-NMD, this needs to be explained better. I would also stress a little more  that FL is almost undetectable.
+-We have included explanations of these acronyms in text and Table 1 and have modified the following sentence:
+“Of the 19 characterized transcripts, 14 introduced premature termination codons (PTC; PTC transcripts), and of these, 10 are predicted to be degraded by the Nonsense-Mediated Decay pathway (NMD; PTC-NMD transcripts) that is considered convincing evidence of deleteriousness (Supplementary Table S3). “
+- We have modified the sentence of the Fl-transcript:
+“All variants altered splicing, 18 of which produced no traces of the mgFL-transcript or almost undetectable levels (<2.4%, c.904G>A)…”

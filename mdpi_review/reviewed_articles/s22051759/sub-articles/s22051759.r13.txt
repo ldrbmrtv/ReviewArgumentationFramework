@@ -1,0 +1,10 @@
+Reviewer 3 Report
+This work presents a channel-based physical layer authentication system for dual-hop wireless networks. Optimal power with respect to the sum of FAR and MDR is also derived. Numerical simulations show the validity of the proposed solution.
+The results are plotted vs SNR, it would be good to see how the results vary with the thresholds.
+Equation (40) and (42) are the same.
+Minor corrections:
+Page 2 - "Power P1 , realay recieves and forwards to Bob" -> "Power P1 , relay receives and forwards to Bob"
+Page 5 - "and then copared with threshold" -> "and then compared with threshold"
+Page 6 - "propabality" -> "probability"
+Page 7 - "Based on formula formula (21 )" -> "Based on formula (21 )"
+Page 8 - "HRB( k,  t − 1) ≈  HRB( k,  t − 1)," -> "HRB( k,  t) ≈  HRB( k,  t − 1),"

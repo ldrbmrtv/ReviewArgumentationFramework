@@ -1,0 +1,29 @@
+Reviewer 1 Report
+This is a cross sectional study comparing body composition results from five different methods (DXA, ADP, Deuterium Dilution, MRI, and skinfolds) with the assumed gold standard 4-C model. The techniques are considered to be improvements over BMI for obesity assessment. Significant differences from the 4-C model are noted. No technique is recommended, and the authors conclude that the methods are not interchangeable – not a novel finding.
+Some specific comments and questions:
+TITLE
+The “Part 1” in the title, while perhaps intriguing, calls for some explanation of future directions. This does not seem to be addressed in the article, thus there seems to be no reason to include this phrase in the title.
+ABSTRACT
+Regarding “The clinical context in which BC is evaluated usually defines the ideal model to be used”: This is somewhat confusing. Perhaps a simpler definition or specification could be used here, as clinical ‘context’ more often dictates the availability of methods, not necessarily models. Cost, manpower, location, all play a role in driving the selection of BC techniques.
+INTRODUCTION
+P2 L61: FFM is obtained via the 4C model – it is not a surrogate. Also, the difference(s) between FFM and LM definitions are nuanced and complex and should either be defined, or alternate text should be used here. It seems that the authors are simply trying to point out that use of the 4C model is not common and that other methods are normally used. Best to clarify this statement.
+P2 L69: The aim stated here does not follow the logic of the preceding statements in the paragraph, i.e., what does comparing BC methods have to do with lack of healthcare or technology? Is the focus then on finding low cost, easy to apply methods? The aim (and intent) of the study seems too simplistic as stated here – merely comparing methods. How would the results be applied to the healthcare situation in Mexico? These topics should be tied together or an alternative motivation needs to be presented.
+MATERIALS AND METHODS
+P3 L94: This is awkwardly worded. Who was asked to assent?
+P3 L125: DXA: Was the head ROI excluded from the analyses (as per recommendation by the ISCD)? If so, it should be stated. If not, DXA analysis should be redone and all relationships recalculated.
+P5 L176: “(n=52??)” Is there uncertainty of the number of participants or is this merely a typo?
+P5 L191: TBW should be in liters, not kg.
+P5 L207: The means of FM would be compared using t-test, not calculated.
+RESULTS
+Table 1: The n values in the column headers add up to 293 rather than 288. Are the n values incorrect or is the entire cohort presented here?
+Table 1; Body Composition Variables: The mean values do not all agree with those in supplementary Table 1.
+Table 1; MRI subsample: There is no indication of age, BMI, etc. in this group. That information may be helpful, perhaps also as supplementary data.
+P7 L226: It would be helpful if it was made clear that this refers to comparisons of means of all subjects (not broken down by age, sex).
+P12 L283: Is Table 4 necessary? The title (and aim?) of the paper is all about comparing techniques against the 4C model. One also begins to wonder about affecting type 1 errors due to multiplicity of comparisons (debatable but worth considering).
+It may be worth considering moving Table 4 to the supplementary file and bringing supplementary Table 1 into the main document. If the focus (see the title) of the article is comparisons with the 4C model, then supplementary Table 1 seems to merit more direct attention.
+P13 L294: The legend for Figure 3 seems incorrect. It matches that for Figure 1.
+As stated above, it may be worth considering moving these Bland-Altman figures to the supplementary file.
+DISCUSSION
+P15 L393: This paragraph reads more like a conclusion and seem out of place. It should perhaps be the last paragraph in the Discussion.
+OVERALL
+Much of the Discussion addresses strengths and weaknesses of the different BC methods, as if to provide guidance for clinicians in selecting the best techniques according to their needs and capabilities. None of the methods are ideal – all are flawed (in comparison with a gold standard). Yet a firm conclusion seems to be lacking. Concluding that methods differ is not surprising. One may be better served by discussing how the differences in methods (i.e. over or under estimating FM) may affect health assessments. That is, what impact may underestimating FM, by relying on one particular method, have on child care? How critical is the method selection? Somehow this needs to be tied more firmly to the population and environment being studied.

@@ -1,0 +1,2 @@
+Reviewer 1 Report
+Nice piece of research but one aspect needs to be addressed. Following the reported physical experiments (Fig. 10 + description) steady state inverstigation is acceptable. Transient analysis followed by reliability experiments/analysis/modeling of the proposed structure would be interesting and critical in aspect of joint application contrains. In my opoinion is should be added or explained in context of scheduled follow-up activities.

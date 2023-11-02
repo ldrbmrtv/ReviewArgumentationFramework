@@ -1,0 +1,42 @@
+Author Response
+Dear reviewer.
+Thank you for all your valuable feedback. We have worked to address all your concerns on our paper. Please find below the response (in blue) to each of your comments.
+
+Title of the paper and abstract
+The title could have been more precise. Based on the focus of the journal, the paper must change its title for an international audience.Title of the paper was changed to "Magnetic trails: a novel artificial pheromone for swarm robotics in outdoor environments". As noted, this change looks to limit the scope of the paper (swarm robotics) and highlight the novelty of it (use for outdoor environments).
+
+The abstract is well written, and its rationale is clearly articulated. However, it can be further improved. Firstly, the author(s) should address several grammatical/syntax errors in the abstract which are distractive and make it difficult to read.A new abstract was written to address all concerns. Previous grammatical errors were corrected.
+
+The main findings of the research is hardly novel nor revealing, which perhaps indicates the need to refine the research question OR re-analyze the data from a different theoretical perspective. As a result, the contribution of the paper is bound to be limited.New abstract highlights the problem statement and the value proposed by the research.
+
+The methodology component of the abstract should clarify the types of data analytics used. Finally, the final section of the abstract needs to mention which aspects of the study would cross-apply to professional environmen.New abstract clarifies the objective of the validation methodology. Also, it mentions the value to the swarm robotics area and mobile robotics in general.
+
+Introduction
+The introduction presents a good background for the study but does not clearly articulate the problem statement and research questions. As such, the introduction needs more work. The research problem and objectives need to be articulated more specific to issues and problems associated with it.Introduction section was divided to differentiate it from Literature review (section 2). Also it was improved, to provide context of the research area (paragraphs 1, 2 and 5), problem statement (paragraph 3), objectives and novelty of the research (paragraph 4), and finally context of the research group (paragraph 6).
+
+Literature review
+Add some literature related to the manuscript research questions.Section 2 "Background and related work" was created. It presents a review on swarm robotics, robot communication and pheromone implementations.
+
+The context of the research is not explicitly engaged. The paper takes it for granted that the readers share their view with the authors’ view.Subsections 2.1, 2.2 and 2.3 were created. They provide context and literature references about swarm robotics, direct communication and indirect communication in robotics.
+
+Before developing the conceptual framework of the current research, the paper should first engage with existing theoretical frameworks in literature to demonstrate the need for the proposed framework. What literature is there to support this claim? This aspect of the paper, is one of the weakest and needs in-depth relook to strengthen the theoretical aspect.Subsections 2.4, 2.5 and 2.6 were created. They provide a review on the state of the art of pheromone representation in swarm robotics. This pretends to define the current baseline on the subject. On each subsection, disadvantages on the type of implementation are presented. The final problem statement is presented in section 3.
+
+It would be helpful in clarifying the importance of the proposed study if the paper can include references to some latest articles published in recent years within the scope of the current research. The literature review should be more carefully synthesized and structured. The use of sub-headings and signposting would help the reader to follow the argument being developed through the paper. For clarity and to strengthen the literature review the authors should begin by presenting past work and identify the gaps in the previous work that the findings from the proposed study may shed some light on.Section 2 was created to present context and related works. Subsections were used to provide structure on the literature review. Subsection 2.6 presents the closest research area to current research; therefore, a more detailed review is conducted.Section 3 "Problem statement" was created to explicitly present the gaps mentioned in literature and present the novelty of the proposed work.
+
+Methodology
+The methodology is appropriate for the study although several areas need to be expanded on to improve on the quality of the methods employed.
+The methodology needs to be explained well. It should be clearly explained how the methods used in the study are appropriate for analyzing the collected data. For example, for rigor, expand on how the content analysis was conducted. How many themes emerged etc.Experiment methodology and data analysis was expanded. The objective of each experiment was explicitly added (first paragraphs of subsections 5.1 and 5.2, second paragraph of subsection 5.3) New diagrams were created (figure 3.a and figure 5.a) to clarify how experiments were conducted and data obtained.
+
+Findings
+This findings section needs a lot of improvements: with regards to the findings, the novelty of the paper findings is low. The analysis should be pushed further to distill higher value insights.Findings of the research were improved.  Experiments were modified and repeated to include several surfaces at outdoor conditions (subsections 5.1 and 5.2). This highlights the novelty of the research against the state of the art on pheromone representation (used indoors). Also another experiment was included (subsection 5.3) to provide evidence on the novelty of using magnetometer sensors against chemical sensors as in the revised literature. Analysis for each experiment was improved to provide further details and insights.
+
+Discussion
+In the discussion section, the paper should relate the main findings back to previous studies. Doing this will strengthen the paper. In general, the discussion of results could adopt a more critical, analytical perspective to supplement and strengthen the descriptive reporting of the data. Regarding the limitations and reflections, the authors could profitably dig more deeply into some of the variables that might or might not have come into play in generating the results.
+Discussion was also improved with the use of new experimental results. It is presented in Section 5 (last paragraph of subsections 5.1, 5.2 and 5.3). It also was modified to include references to previous studies and compare current results with the ones presented in literature. This looks to explicitly discuss the advantages shown on data versus previous studies.
+
+Conclusion
+The structure of the conclusion is good. To improve this section, ensure the conclusions made highlight the unique contributions of the paper and the limitations of the research. Discussions on what should be done in the future are useful. The discussion and conclusion should make it clear how the research findings contribute to new knowledge.Section 6 "Conclusion" was also expanded. On new structure, paragraph 1 mentions the research problem and the novelty of the presented work. Paragraphs 3 and 4 mention validation methodology and the specific contributions of the research. Limitations of the research are detailed in paragraph 5. Discussion on future work is presented on paragraph 6.
+
+References and grammar
+The paper needs thorough proof reading and editing to fix grammatical issues.Paper was reviewed and many grammatical errors fixed.
+

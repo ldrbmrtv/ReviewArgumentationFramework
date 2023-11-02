@@ -1,0 +1,22 @@
+Reviewer 1 Report
+
+Review of the article
+«Influence of nanoparticles and metal vapors on the color of la- 2 boratory and atmospheric discharges»
+Authors: Victor Tarasenko, Nikita Vinogradov, Dmitry Beloplotov, Alexander Burachenko, Mikhail Lomaev, and Dmitry Sorokin
+
+The article is devoted to the study of the influence of nanoparticles and metal vapors on the color of laboratory and atmospheric plasma discharges.
+The article may be of interest, but for researchers in the field of plasma physics and gas discharges. Of course, the article discusses the effect of particles, including possibly nanoparticles, on the discharge glow, but the article is not suitable for the journal's topics.
+In addition, there are comments on the research methodology and interpretation of research on the article itself. Here are some of them:
+1) Of course, metal vapors, nano- and micro-particles can affect the characteristics of the discharge. This is known from numerous studies of simpler and more understandable plasma objects such as glow discharge and arc. Similar studies and comparisons with known experimental data could be carried out on these objects. In this connection, the use of high-voltage pulse discharges is not justified. The authors draw an analogy with the formation of sprites, then, in my opinion, the study would be more suitable for another journal related, for example, atmospheric research.
+2) The article is more descriptive in nature, there is no explanation of physical laws, but which are misleading readers. For instance:
+
+Lines 168, 169
+"An increase in the track brightness is apparently determined by an increase in the particle charge and size due to the evaporation of metal from the surface."
+One can agree with the influence of the particle size on the track size, but how can an increase in the particle charge affect the track glow?
+
+Lines 173-175
+«Based on the brightness of the track glow, the plasma concentration at the particle surface increases with distance from the cathode.»
+Again, it is not clear how the plasma density on the particle surface can affect the brightness of the track glow.
+
+Such inaccuracies are found throughout the text.
+In this regard, I would recommend that the authors revise the article (taking into account their colossal authority in the scientific community and the possibility of conducting more thorough experimental research) and send the article to a more specialized journal.

@@ -1,0 +1,26 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;lines 102 and 113: Were the seeds collected in 2000 and sown in 2021?
+Reviewer 1;Author;1;2;0;How many seeds were collected?
+Reviewer 1;Author;1;3;0;line 115: Did one repetition mean one plant?
+Reviewer 1;Author;1;4;0;line 130: How many fruits were used as a sample of representative fruits? 
+Reviewer 1;Author;1;5;0;line 135: How many fruits were used as a bulk of representative fruits?
+Reviewer 2;Author;1;1;0;The introduction part is a bit long, although it states the importance of this local variety of sweet pepper and of tracing its origin.
+Reviewer 2;Author;1;2;0;In figure 3: why CP cultivars in purple lines are clustered with CC and MG in green? Any explanation?
+Reviewer 2;Author;1;3;0;Line 37: “products”.
+Reviewer 2;Author;1;4;0;Line 245: would be better to show the value of each agronomic trait mentioned here
+Reviewer 2;Author;1;5;0;Line 385-388: the figure legend does not provide enough information on this figure.
+Reviewer 2;Author;1;6;0;Line 435: it may not be worth to mention the sweet pepper as the first 30 crops.
+Reviewer 2;Author;1;7;0;Line 468: “GBS”? Genotype by sequencing?
+Reviewer 2;Author;1;8;0;What kind of broader impact of this work could be?
+Author;Reviewer 1;2;1;1;We better clarified this in the method section (L101, L105-106). 2000 is the year of the establishment of Conservation and Safety Network. In this frame, seeds were collected and maintained in long term storage conditions by Arsial in the subsequent years.
+Author;Reviewer 1;2;2;2;Between 8-10 grams (about 2000 seeds) we don’t think is a detail to insert in the manuscript.
+Author;Reviewer 1;2;3;3;Yes, we clarified (L116).
+Author;Reviewer 1;2;4;4,5;We added these details (L132 and L136). The results are described and discussed in detail.
+Author;Reviewer 2;2;1;1;We prefer to keep the introduction in order to give a broad overview to readers
+Author;Reviewer 2;2;2;2;"The cluster analysis is based on phenotypic traits, this analysis revealed specific clusters of ""Cornetto di Pontecorvo"" and similar types, although they were not clearly separated at the hierarchical level. The genotyping analysis provided more in-depth insights. We addressed this in the discussions section (see L485 and subsequent)."
+Author;Reviewer 2;2;3;3;Product is correct since refer to This crop (singular), we specify (as a food and non-food product)
+Author;Reviewer 2;2;4;4;We agree and better positioned the table 3 after the sentence.
+Author;Reviewer 2;2;5;5;Figure 4 caption has been improved
+Author;Reviewer 2;2;6;6;We agree and modified the sentence (see L439).
+Author;Reviewer 2;2;7;7;We change referring to ddRAD seq (see L473).
+Author;Reviewer 2;2;8;8;In order to answer to this question, we improved the conclusion (L524-529).

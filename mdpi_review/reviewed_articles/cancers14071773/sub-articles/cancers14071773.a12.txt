@@ -1,0 +1,35 @@
+Author Response
+Dear Professor Mok,
+
+We appreciate that you give us the possibility to revise our manuscript and we thank the reviewers for their valuable comments. Based on these comments we herewith respond to all questions raised in a point-by-point manner, as follows:
+
+
+Reviewer 2
+
+Major Issues:
+[1] Figure 4 is missing. In the pdf I reviewed, the caption is there, but the figure is not.
+We apologize for the inconvenience. Figure 4 can be found on page 14 in the submitted version. We inserted Figure 4 in the revised manuscript again to solve the technical issue.
+[2] Abstract says 266 patients were analyzed (line 36), while result says 360 patients were analyzed (line 249). Please fix this inconsistency.
+Answer: We address this question in the results part MACC1 expression: “ Due to the procedure of cutting and staining, some samples could not be used for the evaluation. Samples with insufficiently representative tumor tissue were also excluded from the evaluation. Cores with representative tumor material and evaluable staining were available in 266 of 360 samples (73.9%)…”.
+To avoid misunderstandings, we corrected the abstract to: 266 Samples of 360 AGE/S patients were analyzed for MACC1 expression.
+[3] Throughout the paper, 10^x wrongly displays as 10x (e.g. "105" instead of "10^5" in lines 152 and 170, "106" instead of "10^6" in line 217, "X2" instead of "X^2" in line 241, "108" instead of "10^8" in lines 353, 354, 365, 366, 367, 368, 370, 371).
+Answer: We thank the reviewer for this correction. This formatting issue was corrected throughout the entire manuscript.
+Minor Issues:
+[4] In Figures 3G and 3H, please specify p-values for untreated vs selumetinib in FLO-1/EV and OE33/shMACC1 respectively. If the difference is statistically significant, please briefly explain/speculate why.
+Answer: We thank the reviewer for this valuable hint. As suggested, we included p-values in Figure 3G and 3H. In Figure 3G there is a significant increase in migration of cells without MACC1 expression. This is based on a sufficiently large N, that renders even small differences statistically significant. Further, this increase is rather small and is outperformed by the MACC1-mediated increase in migration and the reduction in the MACC1-mediated migration by selumetinib. The data show, that selumetinib does not reduce migration of the MACC1-negative FLO1 and that MACC1 induces migration in this cell line that can be inhibited by selumetinib.
+[5] If possible, please use a higher resolution version of Figures 3F and 3I (the legends are blurry and hard to read in the current version).
+Answer: We thank the reviewer for this suggestion to improve the visual quality of the manuscript. The legends of 3F and I have been enlarged and the resolution of the figure has been increased.
+[6] In line 306/307, please explain/speculate briefly why the control clone had higher MACC1 expression than the wildtype.
+We thank the reviewer for this discussion. The empty vector control clone was transduced and selected afterwards. During the selection procedure it is possible that a subclone was generated that expresses slightly more (or less) of any mRNA and protein. It differs from the wildtype by handling (transduction, selection etc) and somewhat by age (cell divisions). Therefore, for all comparisons the empty vector clone was used, as this clone was generated in parallel to the MACC1 clone.
+[7] In line 272/273: (i) please report median survival in each group (instead of mean survival), (ii) please specify Hazard ratio with 95% confidence interval (in addition to p values), (iii) please report both overall survival result and disease-specific survival result (since you showed both in Figures).
+Answer: We thank the reviewer for pointing this out: Survival reports were changed in median survival and the 95% confidence interval were included. Additionally, disease-specific survival results were reported.
+[8] In line 274, please change "OR 1.51" to "OR 1.51 [... - ...]", i.e. specify the 95% confidence interval.
+Answer: We thank the reviewer for pointing this out: OR with the confidence interval is now included.
+[9] In line 277-279: (i) please report median survival in each group (instead of mean survival), (ii) please specify Hazard ratio with 95% confidence interval (in addition to p values). Same for lines 425/426.
+Answer: We thank the reviewer for pointing this out: all survival reports were changed in median survival and the 95% confidence interval were included.
+[10] If the journal allows it, please break up the abstract into Introduction, Methods, Results, Conclusion. If the journal requires an unstructured abstract instead, please reorganize the current abstract so that the content flows uninterrupted (e.g. "MACC1 is an independent negative prognostic marker in AGE/S patients." should be after "Expression was correlated with survival and morphological characteristics." and before "To analyze the role of MACC1 in vitro the cell lines FLO-1 and OE33 were lentivirally manipulated." and so on).
+Answer: Thank you for this valuable comment. The journal requires an unstructured abstract. As suggested by the reviewer, we have therefore reorganized the abstract and improved the flow of reading:
+Abstract:
+Esophageal and Gastric Adenocarcinomas (AGE/S) are characterized by early metastasis and poor survival. MACC1 (Metastasis Associated in Colon Cancer 1) acts in colon cancer as a metastasis inducer, linked to reduced survival. This project illuminates the role and potential of inhibition of MACC1 in AGE/S.
+
+Using 266 of 360 TMAs and survival data of AGE/S patients we confirm the value of MACC1 as an independent negative prognostic marker in AGE/S patients. MACC1 gene expression correlated with survival and morphological characteristics. In vitro analysis of lentivirally MACC1 manipulated subclones of FLO-1 and OE33 showed enhanced migration induced by MACC1 in both cell line models, which could be inhibited by the MEK1 inhibitor selumetinib. In vivo, the efficacy of selumetinib on tumor growth and metastasis of MACC1-overexpressing FLO-1 cells xenografted intrasplenically in NOG mice was tested. Mice with high MACC1 expressing cells developed faster and larger distant metastases. Treatment with selumetinib led to a significant reduction of metastasis exclusively in the MACC1 positive xenografts.

@@ -1,0 +1,7 @@
+Author Response
+Author’s Response:
+We appreciated the reviewers’ comment.
+If we understand correctly, the reviewer’s argument, i.e., a reduction in RNA when the cells were cultured in the presence of HSA may be due to the HSA’s RNA-hydrolyzing activity, requires that HSA contacts the RNA that will be hydrolyzed. This is not the case; HSA and the other fluids tested as inductors were added to the growth medium (LB) medium, and the cells were allowed to grow in these conditions for 5 h at 37ºC. After that, the cells were collected, and RNA was extracted. Since HSA does not reach the cytosol, at least not in an intact manner, hydrolysis seems not possible during cell growth. It could be argued that some RNA is hydrolyzed during extraction, but for this to be the case, one should assume that the cells were not well washed after being pelleted by centrifugation, which is not the case. Therefore, the RNA is intracellular at all moments during the experiment, and the HSA stays in the milieu.
+It is also worth mentioning that the presence of HSA in the growth medium produced a reduction only in some mRNA species. These results speak against an unspecific hydrolyzing effect.
+We also want to underscore that all RNA samples were checked after extraction. Agarose gels electrophoresis confirmed the integrity of RNA and lack of DNA contamination. The same cDNA amount for every condition was used to perform qRT-PCR assays.
+Finally, the article provided by the reviewer describes HSA hydrolysis of extracellular, not intracellular, RNA.

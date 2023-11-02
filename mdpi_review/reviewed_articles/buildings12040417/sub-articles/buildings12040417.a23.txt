@@ -1,0 +1,37 @@
+Author Response
+Response to Reviewer 3 Comments
+
+Point 1: Figure 1 should be improved regarding the arrow.
+Response 1: Thank you for your comment. Figure 1 is updated in this version.
+
+Revision in Page 6 Line 216:
+
+
+Point 2: Photo in table 6 should check the copyright of these photo.
+
+Response 2: All the photos in Table 6 are taken by the designers. And we added an annotation under Table 6.
+
+Revision in Page 11 Line 339:
+“(Photos: by the authors)”
+
+Point 3: Please bring strong relevance to the scope of journal "Buildings" by investigating most recent literature.
+
+Response 3: Thank you for your suggestions. The references are added in the manuscript.
+
+In-text citations in Page 1 Line 27-28:
+“The term "Biophilia" is evolved from human evolution research and is coined to de-scribe humans' inherent love affinity for the living things in the natural world [1,2,64].”
+
+In-text citations in Page 1 Line 40:
+“…the modern built environment' as 'Biophilic Design' [24,25,65].”
+
+In-text citations in Page 2 Line 69-70:
+“…occupant satisfaction, health, and wellbeing after occupancy of buildings [27, 28, 67].”
+
+Citations are added in the Reference list:
+
+Parsaee, M., Demers, M. H. C., Potvin, A., Hébert, M., Lalonde, J.F., Window View Access in Architecture: Spatial Visualization and Probability Evaluations Based on Human Vision Fields and Biophilia.  2021. Buildings, 11(12), 627. https://doi.org/10.3390/buildings11120627
+Mollazadeh, M., Zhu, YM., Application of Virtual Environments for Biophilic Design: A Critical Review. 2021. Buildings, 11(4), 148; https://doi.org/10.3390/buildings11040148
+Gillis, K., Gatersleben, B., 2015. A Review of Psychological Literature on the Health and Wellbeing Benefits of Biophilic Design. Buildings. 5(3), 948-963. https://doi.org/10.3390/buildings5030948
+Candido, C., Chakraborty, P., Tjondronegoro, D., 2019. The Rise of Office Design in High-Performance, Open-Plan Environments. Buildings. 9(4), 100. https://doi.org/10.3390/buildings9040100
+
+Author Response File:  Author Response.docx

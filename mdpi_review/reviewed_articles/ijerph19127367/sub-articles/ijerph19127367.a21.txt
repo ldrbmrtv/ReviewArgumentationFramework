@@ -1,0 +1,56 @@
+Author Response
+Dear Managing Editor,
+
+On behalf of all the authors, I appreciate the opportunity of obtaining a careful evaluation from the reviewers concerning the article entitled “Short-term high-intensity circuit training does not modify resting heart rate variability in adults during the COVID-19 confinement” (ID: ijerph-1710486). We have answered the questions and the concerns of the reviewers point by point, and the manuscript has been modified according to the suggestions and guidelines of the journal (new information added is marked with blue color), and the revised version is being submitted. The suggestions offered by the reviewers have been especially helpful. My research group and I are sure that the reviewers comments have improved substantially the manuscript content.
+Once more, I would appreciate your considering this manuscript in your journal and we hope that this version will be accepted for publication.
+
+
+
+
+
+Yours faithfully,
+
+
+Alberto Jiménez Maldonado, Ph.D
+Facultad de Deportes Campus Ensenada,
+Universidad Autónoma de Baja California,
+e-mail: [email protected]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reviewer 1
+Line 113-117: ''The participants also completed an electronic version, of the short-form International Physical Activity Questionnaire (IPAQ) to describe the physical activity habits before and after HICT. Additionally, the Physical Activity Readiness Questionnaire (PAR-Q) was applied in order to assess the participants’ health status to perform highly demanding exercises via Google Forms''.....Please add information about the IPAQ-SF questionnaire, even if it is a secondary application tool it is very important to provide information about the questionnaire.
+R: Thanks to the reviewer for this comment in order to improve the text.
+Change: New information has been added to detail in Experimental procedures section.
+Rearrange the Table number 2 on the page, it looks very mess and the values ​​obtained are no longer understood.
+R: Thanks to the reviewer for this comment.
+Changes: The table 2 has been edited to clarify the data presented.
+Author Response File:  Author Response.pdf

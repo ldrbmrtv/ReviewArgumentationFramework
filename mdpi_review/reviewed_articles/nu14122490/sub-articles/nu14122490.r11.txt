@@ -1,0 +1,19 @@
+Reviewer 1 Report
+
+What was the definition of visual field loss that defined glaucoma?
+
+Was glaucoma also defined by an objective finding, such as the optic disc finding or imaging of the optic disc?
+
+Were the incident cases of glaucoma or controls being treated in any case prior to their diagnoses?
+
+"As we did not observe an association between dietary nitrate intake and IOP, nitrate may protect against glaucoma via other, IOP-independent, mechanisms." The authors should avoid making statements such as "nitrate is protective" since what they have found is a statistical association.
+
+There is very little association between ischemia--reperfusion and glaucoma pathogenesis hence the statements on page nine are irrelevant.
+
+If I am calculating correctly it has been over 20 years since the incident cases average followup occurred, that is 10-20 years after the start of a study in 1991.  How much might the diet of persons in this population have changed since then?  Thus, is this study still relevant to today? 30 years ago eating more vegetables was not the vogue it is today.
+
+This study would have been that much stronger if a follow-up food questionnaire had been administered.  The long space between the questionnaire and the incidence of glaucoma (only mentioned at the last part of the limitations) is quite a major limitation.
+
+Past studies of the Rotterdam population mention several other risk factors which were not taken into account in this study including myopia, cup-to-disc ratio, and family history of glaucoma, as well as other features such as exfoliation. How big is the nitrate association compared to these?
+
+Overall the finding seems to be an association without a rationale since in effect of nitric oxide presumably related to past nitrate intake would, by their own discussion, change eye pressure or blood pressure yet neither variable was associated with the incident glaucoma.

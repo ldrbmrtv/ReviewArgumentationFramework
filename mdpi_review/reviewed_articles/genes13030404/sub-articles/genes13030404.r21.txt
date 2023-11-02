@@ -1,0 +1,2 @@
+Reviewer 1 Report
+The authors addressed some of the suggestions made. However, Comments #1 (gene expression assay) and #3 (proper discussion on RNA-Seq data) aren't properly addressed.

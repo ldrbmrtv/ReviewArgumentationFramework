@@ -1,0 +1,6 @@
+Author Response
+Thanks a lot for your encouragement and suggestion.
+We have rewritten the conclusions and abstract, and added additional keywords.
+The following sentences have been added in the first paragraph of Introduction to mention the base paper and the related work (more references have been added): "Finding suitable compliant joints [7] can be a key step in designing LEMs. Jacobsen et al. [8] first proposed the design concept of utilizing torsional deflection to obtain out-of-plane motions from planar structures, leading to a new group of compliant joints for LEMs called Lamina Emergent Torsional (LET) joints". At the beginning of the last paragraph of Introduction: "In this work, based on the design concept of improving the tensile stiffness of LET joints in Ref. [19], this paper proposed a DL-LET joint by fixing a layer of flexible H18 aluminum foil a LET joint. A theoretical model is derived for the DL-LET joint and verified by FEA and experimental results."
+The references have been reformatted according to standard journal format.
+We have added more relevant references in this version.

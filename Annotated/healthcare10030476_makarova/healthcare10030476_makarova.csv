@@ -1,0 +1,42 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;Have authors followed on the bleeding complications like epistaxis, menorrhagia, gum bleedings, etc.?
+Reviewer 1;Author;1;2;0;Authors mention there were 2 cases of hematoma in enoxaparin group. Please describe it further. Were hematomas developing paraumbilically? Or were they seen somewhere else?
+Reviewer 1;Author;1;3;0;Extensive English editing is required.
+Reviewer 1;Author;1;4;0;Citations needed for sentences in line 36 and line 37.
+Reviewer 1;Author;1;5;0;"In line 89 authors state that ""thrombophilic states are rather venous than arterial"". Although this may be true from a prevalence standpoint, the way this sentence is structured would mislead the reader. Revise accordingly, since there a number of arterial thromboses that thrombophilias can cause."
+Reviewer 1;Author;1;6;0;"In line 87 - authors state ""mild thrombophilia"". Severity of thrombophilic states are now yet well categorized, therefore more clarification needs to be provided here."
+Reviewer 1;Author;1;7;0;Enoxaparin and rivaroxaban have to be lower case as they are not brand names.
+Reviewer 1;Author;1;8;0;"Line 150 - it should be ""anti-thrombotic"" rather than ""an-thrombotic""."
+Reviewer 1;Author;1;9;0;P values have to presented in Table 1.
+Reviewer 1;Author;1;10;0;Line 179 - authors first mention 39 factors, and then in line 179 state 40. Which is true?
+Reviewer 2;Author;1;1;0;In the Abstract you state that “two patients during their course of Rivaroxaban presented severe hematoma”, but in Table 1 it appears that the two hematomas occurred in the enoxaparin group? Please clarify.
+Reviewer 2;Author;1;2;0;The introduction is not well written. The structure is unclear, and the authors repeat themselves many times. For example, the section begins with introducing inherited thrombophilias and VTE risk in these conditions, then proceeds to surgery, then back again to thrombophilia where it repeats itself and even states other numbers for prevalences and VTE risks than previously stated. Furthermore, suitable references are lacking in some places. For the present study to be acceptable for publication, the introduction should be thoroughly revised.
+Reviewer 2;Author;1;3;0;"On page 1, lines 37-43, you state that: “The most important thrombophilic deficits, such as protein C, protein S and ATIII deficiency, have a 15-30 times higher thrombosis rate in the general population, with a prevalence of 0.14%-0,5 for C protein, 0.1-1% for S protein and 0.02-0.17% for TIII deficit. In the feared Factor V Leiden and PT 20210 gene homozygous, that present an about 80 times increased thrombotic risk, considering the frequency among general population, the rarity of these cases is more evident.” Could you please cite relevant references for these prevalences and relative risks? Also, I know that relative risk estimates for VTE with different thrombophilias may vary and are uncertain, especially for the rarer thrombophilias. Nonetheless, an 80 times increased thrombosis risk with FV Leiden or FII 20210 homozygosity seems very high to me; it has been reported considerably lower e.g. in Sode et al CMAJ 2013 doi: 10.1503/cmaj.121636."
+Reviewer 2;Author;1;4;0;Page 2, lines 47-48: “…and they present a highest thrombotic risk, 2-3% for 20210 gene, 3-8% for Factor V Leiden [1].” This sentence is not clear. 2-3% of what for the 20210 polymorphism and 3-8% of what for FV Leiden? Also, “20210 gene” should be “20210 polymorphisms, or “G20210A polymorphism” to be completely correct.
+Reviewer 2;Author;1;5;0;Page 2, lines 87-88: “In this regard it is widely demonstrated that almost half of surgical patients who developed VTE have a mild thrombophilic syndrome [18].” This is rather an astonishing statement, and as your source, you cite a paper from the “Australian Family Physician”. Furthermore, what does “a mild thrombophilic syndrome” even mean? Please explain, or consider omitting this statement altogether.
+Reviewer 2;Author;1;6;0;Page 3, lines 129-130: “We followed up a consecutive homogenous cohort of 48 thrombophilic female patients who underwent abdominoplasty from September 2014 to July 2019.” First, how did you define “thrombophilic”? Second, did you perform a retrospective or “historical” study, sitting down in 2019 to review all medical records 5 years back – or did you perform a prospective study, starting in 2014 and concluding in July 2019? This should be clearly stated.
+Reviewer 2;Author;1;7;0;Page 3, lines 131-133: “We compiled the Caprini Risk Assessment Score for VTE preoperatively and all the patients showed a score of 7 or more, for that reason antithrombotic chemoprophylaxis was administered.” Do you routinely perform a Caprini assessment for all patients in your clinic?
+Reviewer 2;Author;1;8;0;Page 3, lines 133-134: “Patients were then divided into two groups according to the drugs employed in antithrombotic chemoprophylaxis:” How was it decided which patients received which form of prophylaxis? This is a very important point and should be described clearly.
+Reviewer 2;Author;1;9;0;Page 3, lines 140-141: “We collected data for all groups of patients in terms of drain permanence, thromboembolic events, and hematoma formation.” How did you define and verify a thromboembolic event? How did you define and verify excessive hematoma formation? How long was the follow-up time? And how did you obtain this information?
+Reviewer 2;Author;1;10;0;Page 3, line 142: The Mann-Whitney test was used for what?
+Reviewer 2;Author;1;11;0;The Discussion section could benefit from a language revision, especially in the latter part, to make the flow better. Also, a brief discussion on the limitations of your study should be included.
+Author;Reviewer 1;2;1;1;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 1;2;2;2;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 1;2;3;3;The new manuscript has been evaluated by an expert of English language.
+Author;Reviewer 1;2;4;4;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 1;2;5;5;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 1;2;6;6;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 1;2;7;7;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 1;2;8;8;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 1;2;9;9;The observation of the reviewer has been accepted and the table 1 was modified accordingly.
+Author;Reviewer 1;2;10;10;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 2;2;1;1;we are very sorry for the mistake, and the manuscript was modified accordingly.
+Author;Reviewer 2;2;2;2;The criticism of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 2;2;3;3,4,5;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 2;2;4;6,7,8,9,10;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Author;Reviewer 2;2;5;11;The observation of the reviewer has been accepted and the manuscript was modified accordingly.
+Reviewer 2;Author;3;1;0;"It is still not clear how thrombophilia was defined. You write (page 3, lines 129-130): ""Only women with thrombophilia defined as a factor correlated with thrombotic phenomena linked to congenital or acquired factors. [21,40-43]""
+I suggest you alter the sentence, e.g. to something like: ""Thrombophilia was defined as either the diagnosis of an inherited thrombophilia, a personal history of VTE or a familial history of VTE."" If that is how you defined thrombophilia?"
+Reviewer 2;Author;3;2;0;Also, another round of language editing may be suitable.
+Author;Reviewer 2;4;1;1;The observation of the reviewer has been accepted and the table 1 was modified accordingly.
+Author;Reviewer 2;4;2;2;The new manuscript has been evaluated by an expert of English language.

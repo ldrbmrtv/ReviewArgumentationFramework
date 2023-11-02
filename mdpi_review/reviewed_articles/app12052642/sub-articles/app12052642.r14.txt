@@ -1,0 +1,12 @@
+Reviewer 4 Report
+The current paper proposes a novel lamina emergent torsional (LET) joint named double-laminated lamina emergent torsional joint (DL-LET) joint which utilizes a layer of flexible H18 aluminum foil to increase the tensile stiffness of LET joint. The theory was validated using simulations.
+
+Comments to authors:
+- Please add more details regarding paper’s novelty, it is not very clear what are the novelties of this paper.
+- Please add more details of how the theory from the first sections is applied in the results section and better detail the theoretical part, in this version the theoretical part is almost inexistent.
+- Please detail how the parameters were obtained.
+- The state of the art it is very poor regarding representative papers, maybe the author could add the following publications:
+o Hybrid Data-Driven Fuzzy Active Disturbance Rejection Control for Tower Crane Systems, European Journal of Control, vol. 58, pp. 373-387-11, 2021.
+o Event-Triggered Adaptive Fuzzy Control for Stochastic Nonlinear Systems with Unmeasured States and Unknown Backlash-Like Hysteresis, IEEE Transactions on Fuzzy Systems, doi 10.1109/TFUZZ.2020.2973950, pp. 1–19, 2020.
+- Please add more details regarding the obtained results.
+- Add the both the advantages and the disadvantages of the proposed method. In the proposed manuscript only the advantages are presented.

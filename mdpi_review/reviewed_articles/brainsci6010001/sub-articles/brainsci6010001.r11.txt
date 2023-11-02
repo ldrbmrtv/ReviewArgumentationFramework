@@ -1,0 +1,11 @@
+Reviewer 1 Report
+This study has addressed changes in mood and emotional reactivity (assessed with self-rated instruments and skin conductance) in response to sad or neutral auditory stories after 45 or 90 minute morning naps following relative sleep deprivation (by 2 hours) the night previously. The longer naps (90 mins) were more likely to be REM rich after the sleep deprivation the night before. The relative contributions of REM and NREM sleep to emotional regulation are not well understood making the present study especially relavant.
+The following are some major comments:
+Polysomnographic sleep data are presented only for  the daytime naps and not for the nighttime sleep the night prior to the study,  when the subjects restricted their sleep by 2 hours.  The confounding effect of REM and NREM sleep prior to the testing has not been taken into consideration, which makes it very difficult to interpret the results.  The sleep physiology during  the morning naps is directly related to the sleep the night before, as the morning nap most likely includes the later REM cycle or cycles  that were not completed during the previous night due to the sleep deprivation. The REM sleep physiology prior to the testing would be expected to confound the baseline and post-nap memory testing results.
+
+It is difficult to interpret the results of the naps as it is unclear whether the participants slept through a full REM cycle or if the longer duration of the REM nap ( 90 minutes vs 45 minutes of morning nap after 2 hours of sleep deprivation the night before), independent of REM sleep, was also a significant contributory factor.
+
+
+
+
+

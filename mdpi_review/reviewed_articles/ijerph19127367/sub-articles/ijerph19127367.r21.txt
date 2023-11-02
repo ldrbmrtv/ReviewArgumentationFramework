@@ -1,0 +1,4 @@
+Reviewer 1 Report
+Line 113-117: ''The participants also completed an electronic version, of the short-form International Physical Activity Questionnaire (IPAQ) to  describe the physical activity habits before and after HICT. Additionally, the Physical Activity Readiness Questionnaire (PAR-Q) was applied in order to assess the participants’ health status to perform highly demanding exercises via Google Forms''.....Please add information about the IPAQ-SF questionnaire, even if it is a secondary application tool it is very important to provide information about the questionnaire.
+
+Rearrange the Table number 2 on the page, it looks very mess and the values ​​obtained are no longer understood.

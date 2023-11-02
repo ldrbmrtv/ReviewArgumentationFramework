@@ -1,0 +1,9 @@
+Author Response
+Rebuttal for Reviewer 1:
+The quoted literature has been adapted to the ACS Style Guide. For that, the authors used to software package Zotero.
+STD are included in the all tables were indicated: sum+STD has been added in the legend.
+In Table 3 (=) has been changed into (0). It was a typo, sorry.
+Line 252: 7/24 has been changed into 24/7.
+Line 267 and 268, the description of figure 1 “focused on senses” means that the diagnostic workup should be more focused on the physical examination (the doctor’s senses) rather than based on technical diagnostics. In the revised manuscript has been added in line 270 “and use their senses in physical examinations rather than rely on impersonal technical tools for the diagnostic work-up”.
+In Line 266/267 the term “undermine” was wrong. It has been changed into “ease”. Thank you for the hint.
+Table 5: The students could rank their answer. 1 = don’t know, 2= false up to 7 = fully agree. The statistical calculation was done only for ranks 2 to 7, excluding the students, who could not or didn’t want to answer the question. The authors knew from the qualitative study part, that some students had no knowledge about AI. Therefor the “don’t know” option was included. In the first draft of the manuscript the legends contained a mistake, because the “fully agree” option had the highest number (7) but not 3. This has been changed in the revised manuscript.

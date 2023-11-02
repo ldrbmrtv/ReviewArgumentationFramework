@@ -1,0 +1,14 @@
+Reviewer 1 Report
+The ms is the result of an intensive and years-long work of breeding, that eventually pyramidized several resistance genes and QTLs for abiotic traits into an indian elite rice variety. The work is not unprecedented in the concept, but provides interesting breeding material for specific indian farmers, which is an important achievement and is correctly taken up by authorities and international research centers.
+The main issue with the ms is the quality of the figures: they are not clearly representing the data, arrows and text may help the reader, the controls are missing in most cases, and a general lack of precision is affecting them. Also, the legends are not clearly describing all the terms and should be revised. Legends should describe what is to be observed in the figure, possibly pointing to parts of special interest.
+Explaining briefly which and what are the indian sesasons during which experiments have been conducted would help clarity.
+The phenotypic data are important, but currently they are presented only as additional material. The authors should consider reshaping the tables, eliminating unnecessary columns (e.g. no. of genes / QTLs, which is already represented in column 1) and add the most striking phenotypic data, when possible and relevant for discussion. Also "entry nos." is probably not clear and ILs no should maybe considered instead.
+The data on bgs are not sufficiently presented in the text nor discussed.
+Minor issues:
+revise the use of "-" instead of "( )" when mentioning the numbers of the ILs, or any other system which would ensure a better homogeneity in comparison to the one present in the ms.
+check lines 21, 37, 93, 153, 183-184, 312, 351-353, 360, 377, 466
+stick to BB instead of BLB
+consider anticipating the explanation of the acronyms which are eventually presented only in the M&M, to facilitate the reading; consider this aspect also in the legends
+Lines 403 et seq. are redundant
+lines 414 et seq. seem to be contradicting lines 351 et seq.
+the 85 ILs presented at 414 seem to be a bit out of the blue: a short intro to where they are coming from would help the reader.

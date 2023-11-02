@@ -1,0 +1,18 @@
+Author Response
+Reviewer 1
+
+Lyubchenko group showed that free phospholipid cholesterol accelerates Aβ aggregation on membranes at physiological concentrations using AFM and molecular dynamics simulations. These aggregates, which are formed on the lipid bilayer, are able to dissociate from the surface and accumulate in bulk solution; the presence of free cholesterol accelerates this dissociation as well. Molecular dynamics simulations show that cholesterol binds Aβ monomers and significantly changes the conformational sampling of Aβ monomer. It is a great and timely paper.
+
+We thank the reviewer for their positive evaluation of our manuscript.
+
+The authors should consider the interaction between Aβ and other components of membrane.
+The purpose of the current paper is to unambiguously demonstrate that free cholesterol accelerates the aggregation of Ab. It is our future plan to test the effect of other free membrane lipids.
+
+Apart from Aβ aggregation, does its interaction with cholesterol induce anything else on membrane in AD pathology?
+As described briefly in the supplemental data (Fig. S2), free cholesterol does not cause any detectable change to the bilayers under over experimental system.
+
+In the section of introduction or discussion, the following related papers about the topic of Aβ oligomers and membrane damage should be included. 1) Ono K, Condon MM. Teplow DM, PNAS, 2009. 2) Ono K, Watanabe-Nakayama T. Neurochem Int, 2021. 3) Yasumoto T, Takamura Y, et al., FASEB J, 2019.
+We have incorporated these refs. in the paper (discussion section):
+“The discrepancy in fraction of b-structure secondary structure between monomer and oligomers can be explained by data obtained by Ono et al., in which different pure oligomers of defined sizes were compared [33]. They reported that oligomer size has a significant effect on the structure and that there is a significant alteration of the Ab structure going from monomer to dimer.”
+
+“Another aspect of the oligomers formed in the presence of free Chol is their greater size compared to those formed in the absence of free Chol. Yasumoto et al. reported that low- (LMW) and high-molecular weight (HMW) oligomers use different pathways to damage neurons, with HMW being more neurotoxic and causing more direct damage to the membranes [36]. In particular, HMW oligomers caused significantly more membrane depolarization and impaired long-term potentiation. In the context of the current study, large oligomers, produced due to interactions with free Chol, that dissociated from the membrane surface may show similar mechanism of action as the HMW oligomers tested in the aforementioned study.”

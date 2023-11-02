@@ -1,0 +1,36 @@
+Reviewer 3 Report
+Dear Authors and Editor,
+the work presents interesting results on estimation of the soil ingestion of selected children from e‒waste disassembly areas by collecting and analyzing selected tracer metals in matched samples of their consumed food, feces, and urine, as well as soil samples from their play areas.
+I’d suggest some modifications to improve the paper. Please, see my suggestion below:
+Page 2, lines 76-78:
+You can remove this sentence:
+a class of elements in the human body that are not easily absorbed by the human gastrointestinal tract and are also difficult to be transformed into other substances
+it’s not necessary
+Page 3, lines 99-100:
+please, add references for the following information
+South China's economic conditions are better than in North China, but the environmental pollution is worse. The site we studied is an e‒waste dismantling area with severe soil pollution that is typical of e‒waste dismantling areas in South China.
+Page 3, lines 116 and 120:
+Please, add technical details about:
+lyophilization of food samples.
+Freeze-drying conditions of feces.
+Page 3, lines 121-124:
+Please, add some information:
+How did you collect dust samples?
+How much soil (kg) did you collect for each sample?
+Was the soil quartered?
+Page 3, lines 131-151:
+Please, add some information:
+How many millilitres of HNO3, H2O2, HF, HClO4 did you use for the digestion procedures (food samples, faces samples, soil and dust samples)?
+Please, use element symbols not the entire name in all the manuscript.
+Temperature of the heating plate for faces sample digestion.
+Specify the mixed standards and certified reference materials used for calculating accuracy of the digestion procedure.
+Which reference solutions were used to evaluate accuracy and precision of ICP-OES and ICP-MS analysis?
+Please, add the instrument model.
+Lines 131-135: Please, modify as suggested
+Crushed food samples (1 g) were microwaved with concentrated nitric acid and hydrogen peroxide (HNO3‒H2O2). The supernatant was extracted and analyzed by High Resolution Inductively Coupled Plasma Mass Spectrometry (HR‒ICP‒MS) to determine Mn, Al, Ba, Ti, Ce, V, Sc, and Y.
+Lines 137-138: Please, modify as suggested
+The supernatant was then extracted and analyzed by HR‒ICP‒MS to determine Mn, Al, Ba, Ti, Ce, V, Sc, and Y,
+Please, add labels (a, b, c, etc.) in each figure and update the captions. Also in the supplementary. Please, check captions of figures S2 and 3 that are identical.
+
+best regards
+Comments for author File:  Comments.pdf

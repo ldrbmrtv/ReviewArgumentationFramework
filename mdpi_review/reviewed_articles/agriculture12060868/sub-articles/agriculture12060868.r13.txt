@@ -1,0 +1,12 @@
+Reviewer 3 Report
+Andersen and Marko have analyzed the design of farrowing pens and present the first production results of the “SowComfort farrowing pen”. This is an interesting topic. The experimental design is good. The writing and data presenting need to be improved. The following changes could improve the quality of the paper.
+1.      Please add the important information to the footnote or figure legend of the tables and figures. Such as: abbreviations, replicates n=?, mean±SD/SE, ect.
+2.      Please italic the P value throughout the paper.
+3.      Lines 129-133, where is the figure 1?
+4.      Line 263, please add “(3 batches with TRAD and 2 batches with SOWCOMF)” to the figure legends.
+5.      Line 275-276, Space needed before and after “±”.
+6.      The quality of the Figrue 6 need to be improved.
+7.      Figure 7, using “*” to substitute the different letters to express the difference.
+8.      Table 4, please using the writing way to present the table.
+9.      Figure8, do not understand the meaning of “***” here?
+10.  Figure 7, please improve the perspective of the figure.

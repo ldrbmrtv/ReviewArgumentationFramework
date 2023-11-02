@@ -1,0 +1,24 @@
+Author Response
+
+There comments are minor.
+1) Line 34. The authors need to make clear about “pre-, cancer (91.3%) groups”. It is not clear if there is one or two groups but just one percentage.
+[Response] thank you, reviewer, this is a typo, we corrected it.
+
+2) Line 40. The authors may add up to 6 key words.
+[Response] yes, we added up to six key words now
+
+3) Lines 196-197. It is not clear which statistical method is used for the significant results in Table 2. Please give more details.
+[Response] we made changes based on the reviewer’s suggestion, please see statistical method in page 5 and result in page 6
+
+4) Line 199. The authors need to define “pre-cancer” in materials.
+[Response] thanks, we provided definition for pre-cancer in materials, which include patients with CIN I, II, and III.
+
+5) Lines 202-206. The authors mentioned the results by using PCA but PCA was not found in methods. The authors need to give more details about how to use PCA in statistical methods.
+[Response]
+
+6) Lines 214-216. It is not clear which statistical method is used for the significant results. Please give more details.
+[Response] thanks, we added “…using statistical analyses described in the method section”
+
+7) Lines 238-242 are replicated in discussion lines 376-380. The authors may need to delete the part in lines 238-242.
+[Response] thanks, the reviewer. Now we removed redundancy statement.
+

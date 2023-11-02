@@ -1,0 +1,124 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "Since NAFLD/NASH show clear gender differences, with a higher incidence on the male population and since the Authors used only male mice for the in vivo experiments, it would be interesting to evaluate the data of figure 1 (CCL1 and FGF21 secretion and correlation with disease readouts), not only as a single group, but also splitted by gender.",
+      "Reviewer_1.1.2": "To confirm the data in supplementary figures 1 and 2B, since an IHC was done for macrophages (f4-80), I would ask to do IHC for other immune cell populations on liver sections of control and treated mice.",
+      "Reviewer_1.1.3": "A graphical abstract or an explanatory drawing would be very much appreciated, in order to better clarify the mechanism that has been demonstrated.",
+      "Reviewer_1.3.1": "The Authors satisfactorily answered the question raised by the reviewer. The paper is definitively improved and worthy of publication."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "For the abbreviated word appearing in the 1st time, the whole name should be shown. For example, the whole name of CDAHFD should be shown in Abstract or Introduction, not in the legend of Fig 2.",
+      "Reviewer_2.1.2": "Fig 1 A, human serum CCl2 concentration positively correlated with liver fibrosis level. Whether did liver inflammatory level correlate with serum CCl2?",
+      "Reviewer_2.1.3": "In Materials and Methods, 4.5. Flow cytometry of mouse samples. All used antibodies and their fluorescence color have been listed, but please list the positive and negative marker of each cell, such as KC would be F4/80HighLy6CLowCD45+\u2026"
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "My biggest concern with the data as presented has to do with the CDAHFD model and the conclusions drawn from it.  Did all of the CDAHFD groups have similar consumption of the diet?  All of the treatments had a weight drop after the treatment started in week 6.  In particular the combined group went from ~24g to ~19g from weeks 6-8.  This supports that they likely could have had reduced food intake following treatment.  Without reporting this data, the conclusion could be made that all effects in the CDAHFD model were due to changes in food consumption, which reduced their exposure to the CDAHFD diet, and therefore showed anti-inflammatory and reduced hepatic lipid deposition effects compared to the vehicle group.  Food consumption must be reported to alleviate this potential alternative hypothesis.",
+      "Reviewer_3.1.2": "For human data, it would have strengthened this report to have BMI/sex-matched control patients and report their CCL2, FGF21 and CK18 values.",
+      "Reviewer_3.1.3": "Validation of CCL2/5 inhibition should be shown by showing a reduction of downstream signaling such as MAPK.  The other possibility would be to show that CCL2 and CCL5 mRNA were unchanged in liver following treatment with inhibitors and then subsequently adding this data to supplemental figure 1E.",
+      "Reviewer_3.1.4": "Was there any mortality in the CCR2/5i + FGF21 groups?  Their weights at 12 weeks appear to be dropping?  Was this weight drop significant compared to eh CDAHFD Vhc group?  Was there any change in appearance or overall well being of the mice?  This needs to be reported in the text.",
+      "Reviewer_3.1.5": "With the protective effects of FGF21v for some measures in the CCl4 model, is it possible that FGF21v treatment changes metabolism of CCl4 by changing cytochrome p450 activity (such as CYP2E1)?  This needs to be checked for both CCR2/5i and FGF21v groups to ensure conclusions of these groups are appropriate."
+    },
+    "Author": {
+      "Author.2.1": "We would like to thank the reviewer for his/her detailed observation \nof our experimental NASH model. As mentioned in the discussion the \u201cideal\u201d \nNASH model reflecting all aspects of the human disease does not exist but \nCDAHFD fed mice develop severe fibrosis and steatohepatitis (1). \nNonetheless, systemic features of the metabolic dysregulation (such as \nobesity or insulin resistance) are less well reflected by the CDAHFD model. \nThe CDAHFD is a commonly used diet in the NAFLD research field to induce \nexperimental NASH in which an initial weight loss of the mice can usually be observed followed by stabilisation of the bodyweight (2). W e particularly opted for this model, because it allows to study inflammatory as well as fibrogenic pathways simultaneously, which we considered mandatory to assess the combined effects of FGF-21 analogues and CCR2/5 inhibitors in a translationally relevant study.\nAll e xperiments were performed under conditions approved by the appropriate institutional and governmental authorities according to German legal requirements with regular weight controls and no individual mouse lost  \u226520%bodyweight compared to the initial weight from the start of the experiment. \nRegarding the  differential effects of the various compounds on body weight, we  did not exactly measure the individual food intake of the mice. However, body weight loss is a well-known mechanism of action of  FGF-21 agonists, which is also reflected in our data. Previous studies in  other mouse models are in line with our work and show that these effects are not related to food intake. In particular, F isher et al. showed that FGF-21 KO aggravated NAFLD in the MCD diet model, which is associated with even more weight loss compared to our CDAHFD model. FGF-21 KO increased  body weight and hepatic lipid accumulation through suppression of mitochondrial beta-oxidation, while  FGF-21 administration reduced lipid accumulation and inflammation (3).\nIn contrast, the weight loss in the CCR2/5 inhibitor-only group was not significantly different from the vehicle-treated group, in keeping with the mechanism of action,  again suggesting that food intake did not play a major role in the observed outcome. To act on the reviewer\u00b4s suggestion, we extended the description in reference to the bodyweight development of the mice in the manuscript (line 170  \u2013 175 and in the discussion line 374 to 377 )",
+      "Author.2.2": "We thank the reviewer for his/her expert comment and would like to refer to the first comment of reviewer 1.  As both reviewers rightfully mentioned, we included gender-specific analyses as new Supplementary Figure 1 to the manuscript  (Section 2.1,  line 124 to 134 and in the discussion line 355 to 370).  Matched  healthy control patients were not included in our cohort,  in part because liver biopsies from obese patients without signs of NAFLD  were  not  easily  available given the lack of indication to perform the biopsy. Nonetheless, w e hope that these new analyses f ully answer the posed questions.",
+      "Author.2.3": "We thank the reviewer for his comment and would like to point to \nSupplementary Figure 1E  demonstrating  serum  concentrations of  CCL2 and\nCCL5 as well as  Ccl2 gene expression levels from total liver tissue, labelled \nas  Mcp1 (monocyte chemoattractant protein 1 = CCL2).  We confirmed \neffective dosing  of the CCR2/5 inhibitor  by measuring CCL2 serum \nconcentrations, which are significantly increased upon pharmacological \nblockade of CCR2 as also previously reported from our group as well as from \nclinical trials in NASH patients (4). \nIn reference to our answer of the second comment of reviewer 1,  CCR5\norchestrates migration, activation, and proliferation of  hepatic stellate cells \n(HSCs) as well as  recruitment of lymphocyte populations (natural killer cells, \nT cells) to the liver, t hat is mainly related to viral or (auto-)immune hepatitis. In \nthis study, we  focus on  monocytes and  macrophages, since the CCR2/5 \ninhibition only affected these populations, which is mainly mediated by the \nCCR2/CCL2 axis.",
+      "Author.2.4": "We thank the reviewer for his/her comment and would like to refer to our answer of the first comment. We did not observe any negative side effects due to the compound treatment, neither in the single compound nor in the combinational treatment group.  In particular, no mortality was observed, as this is now stated in the manuscript (line 169 \u2013  170). A s correctly described by the reviewer, we observed a conspicuous weight loss in the FGF21 similar treated mice as well as in the combinational treatment  - but less prominent in the CCR2/5 inhibitor treated mice -  leading us to the conclusion that this effect is mainly directed by the FGF21 agonism. The potential of FGF21 to protect \nmice from diet induced obesity is extensively reported in the literature (5, 6). \nWe would like to emphasize that all  experiments were performed under \nconditions approved by the appropriate institutional and governmental \nauthorities according to German legal requirements with regular weight \ncontrols and no individual mouse lost \u2265 20% bodyweight compared to baseline.",
+      "Author.2.5": "We thank the reviewer for his/her expert comment. The acute CCl4 iver injury model is accompanied by hepatic inflammatory processes in which necrotic hepatocytes release d anger-associated-molecular patterns (DAMPs)that activate macrophages, Kupffer cells and neutrophils. Activated immune cells release cytokines (e.g. TNF-\u03b1, IL-1\u03b2) and chemokines (e.g. CCL2 via CCR2) that result in the recruitment of bone-marrow derived monocytes and neutrophils. As we observed a comparable reduction of hepatic MoMF in experimental CDAHFD-induced NASH, we employed the acute CCl4 liver injury model to elucidate effects of both therapies on accumulation of hepatic monocytes and MoMF. As previously shown by our group we confirmed that CCR2/5antagonismblocksmonocyteinfiltrationintotheliver.Onthecontrary, we could exclude direct effects of the FGF21 similar treatment on immune cell recruitment. As FGF21 application did not influence monocyte infiltration or recruitment of other immune cells we speculate that reduced numbers of hepatic MoMFs in the experimental NASH model were rather indirect effects due to beneficial metabolic modification. Todate,themodeofaction of FGF21 and its downstream targets are not fully understood and future studies are definitely needed to answer open questions.  Given the lack of  FGF-21 effect on monocyte infiltration and hepatocyte necrosis following CCl4 administration, it is unlikely that  metabolization of CCl4 was a major factor in its lowering of ALT levels, as otherwise  these readouts would also have been affected.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ]
+  ]
+}

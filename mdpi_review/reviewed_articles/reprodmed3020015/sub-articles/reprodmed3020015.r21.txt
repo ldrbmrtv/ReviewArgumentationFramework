@@ -1,0 +1,20 @@
+Reviewer 1 Report
+The authors have addressed most of my concerns. However, I requested a major revision including the use of miRNA-resistant exogenous PGRMC1 expression (altered codon usage) to demonstrate that lack of PGRMC1 attenuation will prevent decidualization. That new experimental result is what elevated the required changes to a major revision. The revised manuscript as presently resubmitted is a minor revision. This is a critical point because the very title claims that PGRMC1 downregulation is required for decidualisation. This requires stronger evidence than that currently presented. Furthermore, the required experiment is technically not challenging. The authors could consider whether an inducible miRNA-resistant PGRMC1 promoter could be designed. The fact that PGRMC1 levels fall does not mean that low PGRMC1 levels are required. This may be only correlation. Before such a claim is published in the scientific literature, it must be supported by convincing evidence. Aspiration to clarify this in future papers does not merit publication of the present paper. Some minor comments follow.
+
+
+Lines 142-3.
+“Data of cell culture are expressed as the mean ± SD from three independent experiments with at least repeated two times.”
+
+Change to:
+Data of cell culture are expressed as the mean ± SD from three independent experiments. All reported results were observed in at least two independent experiments.
+
+Line 259. PGRMC1-independe (add t)
+
+Lines 263-267: “Because, the effect of AG-205 and PGRMC1 knock-down on decidualization was common in the present study, these findings further support for a role for PGRMC1 downregulation in promoting ESC decidualization during the secretory phase.”
+The reviewer does not understand the sentence. What is being said?
+
+Lines 281-282. There are two natural sentences here.
+However, as described above AG-205 is not a specific inhibitor of PGRMC1. [full stop, new sentence] Further study of PGRMC1 knockout on decidualization is needed.
+
+Lines 300-307.
+The salient point concerning the ubiquitination events is that they are correlated for other proteins with proteasome-mediated degradation. Sabbir’s results (ref 31) imply that this also holds for PGRMC1. The new text does not conceptually link PTMs with PGRMC1 protein stability, which is the only reason they should be mentioned. To be clear, protein levels can be mediated by altered rates of transcription, translation, or degradation. This new text should be discussing the possibility of the latter also contributing to the observed effects, as well as the effects of mRNA level that the paper pursues.

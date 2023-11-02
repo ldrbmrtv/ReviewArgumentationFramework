@@ -12,7 +12,9 @@ def csv2json(name):
     # Reading CSV
     df = pd.read_csv(f'{name}.csv', sep = ';')
     #print(df.info())
+    df['Side'] = df['Side'].apply(lambda x: str(x).strip())
     df['Side'] = df['Side'].apply(lambda x: str(x).replace(' ', '_'))
+    df['Opponent'] = df['Opponent'].apply(lambda x: str(x).strip())
     df['Opponent'] = df['Opponent'].apply(lambda x: str(x).replace(' ', '_'))
     df['Round'] = df['Round'].apply(lambda x: str(int(x)))
     df['Number'] = df['Number'].apply(lambda x: str(int(x)))

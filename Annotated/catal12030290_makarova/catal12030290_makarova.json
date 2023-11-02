@@ -1,0 +1,215 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "Some FT-IR peaks shift with adsorption of Cr, and some not. Please add the discussion which peak shift is related to Cr, the authors can combine these with the discussion of the mechanism.",
+      "Reviewer_1.1.2": "The porosity of the sample should be measured.",
+      "Reviewer_1.1.3": "It is better to show the SEM images using the same scale. The magnified images can be shown separately or as inset.",
+      "Reviewer_1.1.4": "In Figure 3, what is the origin of the increase concentration of Al and S?",
+      "Reviewer_1.1.5": "In the experiment, H2SO4 is added in the first step, what is the purpose? Will this bring pollution problem?",
+      "Reviewer_1.1.6": "How about the Cr concentration in the polluted ground water? Is the products suitable for this real condition?",
+      "Reviewer_1.3.1": "The paper now can be accpeted for publication."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "The issue of regeneration has not been sufficiently worked out, but the authors \nthemselves write about this, and it is not clear why NaOH was used for this. ",
+      "Reviewer_2.1.2": "It was also not clear to me how much hydrochloric acid was eventually added during the preparation of the adsorbent. ",
+      "Reviewer_2.1.3": "The authors did not indicate how the \u201cseparation factor \u2018RL\u2019 is calculated and did not give a link to the equation for its calculation, and if the readers are not quite in the subject, then what kind of factor they do not understand. ",
+      "Reviewer_2.1.4": "One could also estimate the specific surface area and porosity. So, the paper can be published after revision.\n"
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "The authors should write the complete terms of all abbreviations (including the instruments) before the first use in the abstract and main manuscript i.e. FT-IR and SEM in abstract section et al.",
+      "Reviewer_3.1.2": "The authors should clearly explain the innovation and importance of their work on the introduction of the manuscript. They should justify the value of the work and compare their work with previously similar published papers.",
+      "Reviewer_3.1.3": "Fig. 1 - for a more effective visual comparison, authors recommended to provide SEM images of the same scale. In such form is rather difficult to make adequate comparison.",
+      "Reviewer_3.1.4": "First of all, authors have to attach a EDX mapping images before/after sorption of chromium ions. And the authors are strongly recommended to add XPS spectra to this section of revised manuscript. The XPS method is much more sensitive and more accurately determines changes in the chemical composition of samples.",
+      "Reviewer_3.1.5": "Why authors did not use XRD technique for sample characterization?",
+      "Reviewer_3.1.6": "The adsorption capacities of Al-GNSC adsorbents at different contact times have been provided. Which kinetics are right? Please add missing information about appropriate kinetic model in revised manuscript.",
+      "Reviewer_3.1.7": "It is rather difficult to make an adequate comparison of certain properties (catalysts or sorbents) with the already available results, since the concentration of the pollutant and the mass of the loaded sorbent vary in each experiment. Therefore, the authors are recommended to add the missing information (i.e. conditions for testing sorbents of Cr(VI) ions) to Table 3.",
+      "Reviewer_3.1.8": "In order to confirm proposed mechanism of Cr(VI) adsorption (illustrated on the fig 6) Authors should provide data on adsorption capacity of pristine groundnut shell activated carbon (not modified with Al).",
+      "Reviewer_3.1.9": "The conclusion section should be elaborated and improved. The author should bring specific conclusions in accordance with obtained results.",
+      "Reviewer_3.1.10": " Moderate English changes required",
+      "Reviewer_3.3.1": "Authors respond for all my queries and in present for this manuscript could be recommended for publication."
+    },
+    "Author": {
+      "Author.2.1": "We acknowledge the reviewer\u2019s opinion. According to the reviewer suggestion, the complete terms of all abbreviations are mentioned before the first use in the revised \nmanuscript. Thank you for your valuable suggestion.",
+      "Author.2.2": "We acknowledge the reviewer\u2019s opinion. As suggested, the novelty of the research \nwork is explained in the introduction part of the revised manuscript, and the obtained results are compared with the recent literature. Thank you for your \nvaluable suggestion.",
+      "Author.2.3": "We acknowledge the reviewer\u2019s opinion. According to the reviewer suggestion, the \nSEM images with same scale are provided in the revised manuscript. Thank you \nfor your valuable suggestion",
+      "Author.2.4": "We acknowledge the reviewer\u2019s opinion. However, we regret that we were not able \nto investigate the XPS analysis due to pandemic situation, which could definitely \ngive us additional information about the elemental confirmation. We hope the \nreviewer understand the experimental deficiencies at the stage of the present \nexperiments. We deeply appreciate the comment raised by the reviewer. Thank you \nvery much.\n",
+      "Author.2.5": "We acknowledge the reviewer\u2019s opinion. According to the reviewer suggestion, \nXRD study has been performed and incorporated in the revised manuscript. Thank \nyou for your valuable suggestion.",
+      "Author.2.6": "We acknowledge the reviewer\u2019s opinion. According to the reviewer suggestion, \nkinetic study has been performed and incorporated in the revised manuscript. Thank \nyou for your valuable suggestion",
+      "Author.2.7": "We acknowledge the reviewer\u2019s opinion. According to the reviewer suggestion, the \nconditions for testing adsorbents of Cr(VI) is incorporated in the Table and is \nmentioned in the revised manuscript. Thank you for your valuable suggestion.\n",
+      "Author.2.8": "We acknowledge the reviewer\u2019s opinion. According to the reviewer suggestion the \nadsorption capacity of groundnut shell activated carbon (Qe= 7.4 mg/g) is \nmentioned in the revised manuscript. Thank you for your valuable suggestion.",
+      "Author.2.9": "We acknowledge the reviewer\u2019s opinion. According to the reviewer suggestion the \nconclusion section is elaborated with specific conclusions in the revised manuscript.\nThank you for your valuable suggestion",
+      "Author.2.10": "We acknowledge the reviewer\u2019s opinion. As suggested by the reviewer, we checked the manuscript carefully and enlisted a professional English language service to \neliminate the spelling mistakes and grammatical errors. Thank you for your valuable suggestion for strengthening the quality of the manuscript.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_3.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_3.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_3.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_3.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_3.1.10"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.3.1",
+      "Author.0.0"
+    ]
+  ]
+}

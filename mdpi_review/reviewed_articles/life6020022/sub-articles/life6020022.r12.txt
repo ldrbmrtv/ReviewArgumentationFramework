@@ -1,0 +1,15 @@
+Reviewer 2 Report
+
+
+The manuscript contains scientific material that can be published as a short communication. However, there are some remarks on the justification of objectives of the study and presentation of the results.
+First of all it is necessary to change the title and at least remove “The testing”. The introduction part requires more arguments to prove choice of the problem and the research object (D. radiodurans). In addition, I think, a control consisting of D. radiodurans cells before and after sterilization is missing to determine the role of the Martian Analog soils.
+Minor comments
+Lines 31-32: Bacillus subtilis and B.pumilus should be written in italic.
+Line 38: Deinococcus radiodurans should be written in italic. While writing D. radiodurans R1 has always necessary to note that this is type strain R1T.
+Line 41: Medium instead of media. If I understood correctly, you used only one medium.
+Line 50:  R1T (=ATCC 13939T=DSM 20539T) instead of R1 ATCC13939/DSM20539
+Line 57: Are you sure that the Martian Analog soils were sterile before using?
+Line 78: Please explain in the text  what is “a vacuum treatment control”.
+Discussion
+How do you explain the difference between the results when using JSC Mars-1A analog and the other soils?
+

@@ -1,0 +1,48 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;Transient analysis followed by reliability experiments/analysis/modeling of the proposed structure would be interesting and critical in aspect of joint application contrains. In my opoinion is should be added or explained in context of scheduled follow-up activities.
+Reviewer 2;Author;1;1;0;The article being evaluated is an extension of the above cited reference, and the authors would be well advised as to summarize this article, in part, and to delineate what has changed as of 2019, i.e. put this in a paragraph and to explain the subsequent evolution since 2019.
+Reviewer 2;Author;1;2;0;Secondly what is missing in the article is in terms of application a clear delineation as to what benefits robotics accrue by the developments summarized in this article .
+Reviewer 3;Author;1;1;0;Abstract (what you are going to do) & conclusions (what you have done) are not sharp, rewrite it.
+Reviewer 3;Author;1;2;0;A part of the abstract looks like it has been copied from standard papers.
+Reviewer 3;Author;1;3;0;Keywords are not sufficient after the abstract.
+Reviewer 3;Author;1;4;0;I think, the similar work has been done by many people, which has to be referenced, i.e., the base paper from where the work has started has to be written (The base paper is not mentioned or cited).
+Reviewer 3;Author;1;5;0;Work done by various authors has not been cited properly in the manuscript. 
+Reviewer 3;Author;1;6;0;Recent references are to be added as well as it has to be cited, majority of them are old references.
+Reviewer 3;Author;1;7;0;References are not written in the standard journal format.
+Reviewer 3;Author;1;8;0;The recent work done by the author of the paper in the relevant field also has to be mentioned in the references.
+Reviewer 3;Author;1;9;0;Similarity index is there with many of the papers already published, hence, use of plagiarism software is recommended to test for the originality before submitting the final manuscript.
+Reviewer 3;Author;1;10;0;Many of the paragraphs seems to be copied from standard papers (to be changed in your own words in simple English)
+Reviewer 3;Author;1;11;0;Work relevant to the research topic is not incorporated, i.e., the work done by other researchers / authors in this field are not incorporated.
+Reviewer 3;Author;1;12;0;The disadvantages, drawbacks of the works in the other author’s papers in the relevant field are not put.
+Reviewer 3;Author;1;13;0;The future work in this field is not mentioned.
+Reviewer 3;Author;1;14;0;"Literature survey is inadequate; incorporate the recent works of the authors."
+Reviewer 3;Author;1;15;0;There is lot of spelling mistakes & grammatical errors, which has to be corrected using spell check & by other means.
+Reviewer 3;Author;1;16;0;Paragraphs are lengthy & have to be cut into smaller sizes.
+Reviewer 3;Author;1;17;0;Flow chart or the algorithm of the proposed work should be incorporated.
+Reviewer 3;Author;1;18;0;Figures have to be in .jpeg (insert mode).
+Reviewer 3;Author;1;19;0;"Paper is not in the relevant conference / journal format; redo it according to the format specified by the committee."
+Reviewer 3;Author;1;20;0;The existing work is not compared with some standard technique
+Reviewer 3;Author;1;21;0;The paper has to be revised giving the proper flow of reading, It seems like abruptly written. English writing is very poor, some abbreviations are used without telling what it is, It will hamper the flow of reading.
+Reviewer 3;Author;1;22;0;Figures & tables should be cited in the text & the insertion of the same should be very near to where it is cited.
+Reviewer 3;Author;1;23;0;Nomenclature has to be put at the end along with the acknowledgement. Paper contains the content, but it has to be revised in a standard way.
+Reviewer 4;Author;1;1;0;Please add more details regarding paper’s novelty, it is not very clear what are the novelties of this paper.
+Reviewer 4;Author;1;2;0;Please add more details of how the theory from the first sections is applied in the results section and better detail the theoretical part, in this version the theoretical part is almost inexistent.
+Reviewer 4;Author;1;3;0;Please detail how the parameters were obtained.
+Reviewer 4;Author;1;4;0;The state of the art it is very poor regarding representative papers, maybe the author could add the following publications.
+Reviewer 4;Author;1;5;0;Please add more details regarding the obtained results.
+Reviewer 4;Author;1;6;0;Add the both the advantages and the disadvantages of the proposed method.
+Author;Reviewer 1;2;1;1;"We agree that transient analysis is important in designing a robot joint.  The following sentence has been added at the end of Conclusions:""For future work we will develop variable stiffness techniques of this joint, and explore its application in a robot arm considering both kinetostatic and transient behaviors"""
+Author;Reviewer 2;2;1;1;The mentioned reference is focused on an analytical method for modeling large deflections in compliant mechanisms, while this work presents a method of enhancing the tensile strength of lamina emergent joints by using double-layer materials. 
+Author;Reviewer 2;2;2;2;"As to the second comment, Ref. [34] has been new added in the reference list and the following sentence has been added at the end of the second paragraph of Introduction: ""Ref. [34] made a robot using double-layer LEMs, which is driven by magnetic force. This paper further discussed how to adjust the motion by changing different parameters of the mechanism"""
+Author;Reviewer 3;2;1;1,3;We have rewritten the conclusions and abstract, and added additional keywords.
+Author;Reviewer 3;2;2;4,6;"The following sentences have been added in the first paragraph of Introduction to mention the base paper and the related work (more references have been added): ""Finding suitable compliant joints [7] can be a key step in designing LEMs. Jacobsen et al. [8] first proposed the design concept of utilizing torsional deflection to obtain out-of-plane motions from planar structures, leading to a new group of compliant joints for LEMs called Lamina Emergent Torsional (LET) joints""."
+Author;Reviewer 3;2;3;5,7;The references have been reformatted according to standard journal format.
+Author;Reviewer 3;2;4;6,8,11;We have added more relevant references in this version.
+Author;Reviewer 4;2;1;1;The contribution of this work with respect to the relevant work is further described in Introduction (as marked in the manuscript).
+Author;Reviewer 4;2;2;2;The theoretical part has been extended in the modeling section (page 3).
+Author;Reviewer 4;2;3;3;The modeling section (page 3) has been extended to make it clear how the parameters were obtained.
+Author;Reviewer 4;2;4;4;The recommended and other relevant references have been added.
+Author;Reviewer 4;2;5;5;Subsection 3.2 has been rewritten to add more details regarding the obtained results.
+Author;Reviewer 4;2;6;6;The following sentence has been added at the end of first paragraph of Conclusions to clarify disadvantage of DL-LET: “The DL-LET joint is vulnerable to delamination of the two layers.”
+Reviewer 1;Author;3;1;0;Thank you for your explanation.
+Reviewer 4;Author;3;1;0;The authors answered to all my concern in the second version of the paper.

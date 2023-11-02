@@ -1,0 +1,13 @@
+Reviewer 2 Report
+
+The paper describes a set of experiments carried out in 2020 2021 on isogenic lines of wheat using different methods of Fusarium inoculation in order to assess the effect of Fusarium inoculation on FHB disease index and DON accumulation.
+The paper is of high interest for the community working on FHB and shows the importance of inoculation method on the results of disease and mycotoxin accumulation. It is clearly written so it is suitable for publication given some minor changes/modifications:
+1)       I would suggest to avoid citing supplementary figures at the beginning of the chapter.
+See for example chapter 2.4. Given that 2.4 chapter discusses data of supplementary figure 4 I would suggest to make figure S4 as Figure 4 of the manuscript.
+2)       To futher clarify the infection methods a supplementary figure detailing graphically the modes of inoculation with figures would make the paper extremely useful for the community
+
+3)       Identity of the strain used for infection should be confirmed: a multilocus species characterisation is needed to confirm the species of the strain or a reference to a publication where the strain was described and appropriately characterised.
+
+4)       Mycotoxin data analysis should be provided (I guess is policy of mdpi to make raw data available together with the publication)
+
+

@@ -1,0 +1,47 @@
+Reviewer 1 Report
+So, I like this article.  I think it synthesizes some important and useful literatures, and has some useful points to make.  That said, I think it requires some tweaks to make it as effective as it could be.  Broadly, those are as follows:
+1) The abstract is very confusingly written and needs a lot of editing.  This is the place where the story must be told as simply and clearly as possible, and I think a lot of the abstract is confusing and hard to interpret.
+2) I have some theoretical questions about the applicability of these approaches outside of Korea.  For technical reasons (most smart cities have less capability and are less developed than Korean ones), but especially for legal and normative reasons (concerns about surveillance, governance, cybersecurity, etc.) I think many cities and countries will not be comfortable with this approach.  I think this needs some exploration.
+3) I'd argue that one of the areas in which Smart City applications (in particular) and urban automation (in general) have been most important during the COVID pandemic - the monitoring of sewage and wastewater for population level assessment of infection - isn't even mentioned.  I think that is both a big oversight, and an opportunity for critics.  I think that piece needs to be included and worked into any assessment of smart cities and pandemics.  Additionally, I've included a few other pieces on COVID and smart cities.
+
+
+1) Confusing or awkward wording in the abstract:
+
+“Additionally, smart city services couldn`t respond in-time series” (is this time series in the statistical sense?  Just meaning sequential?)
+
+“a method responding in-time sequential by flexibly combining”
+
+“Second, flexible smart city services are combined and deleted as needed to cope with COVID-19 has 17 been summarized. Third, smart city services should only be used to cope with pandemic situations: 18 the healthcare-system data consists of personal information. Therefore, smart city services respond- 19 ing COVID-19 must exist as a flexible.”
+
+2) Theoretical/Substantive questions:
+(pg2) Does the use of police/telecom monitoring of patients translate out of the Korean context? (i.e. would it be constrained by laws and norms elsewhere?) And what are the implications of this.
+(pg3) Tables 1 is interesting, but it’s not clear the source of the data. Is this from the literature? (if so, needs sourcing), or a synthesis by the authors?  This may be because of the error message in sourcing in the document I received.
+(pg4) Table 3 isn’t clear to me. What is “EA”?  Not spelled out.
+(pg5) Table 4 is very useful.
+(pg14) “such services should be flexibly used only during a national crisis and removed when the service is no longer needed.” Is this likely to happen?  Are there concrete examples of such systems being built and operated, then just turned off?  Who would oppose turning them off? (I’d imagine many stakeholders)
+
+
+3) Key missing components/literatures:
+
+Smart City and COVID
+
+Webb, W., & Toh, C. K. (2020). The smart city and COVID‐19. IET Smart cities, 2(2), 56-57.
+
+Inn, T. L. (2020). Smart city technologies take on COVID-19. World Health, 841.
+
+Sharifi, A., Khavarian-Garmsir, A. R., & Kummitha, R. K. R. (2021). Contributions of smart city solutions and technologies to resilience against the COVID-19 pandemic: a literature review. Sustainability, 13(14), 8018.
+
+Gusikhin, O. (2020). The Impact of COVID-19 Experience on Smart City and Future Mobility. In Smart Cities, Green Technologies, and Intelligent Transport Systems (pp. 308-321). Springer, Cham.
+
+Kim, H. M. (2021). Smart cities beyond COVID-19. In Smart Cities for Technological and Social Innovation (pp. 299-308). Academic Press.
+
+
+Monitoring of sewage/wastewater for COVID case estimation
+
+Farkas, K., Hillary, L. S., Malham, S. K., McDonald, J. E., & Jones, D. L. (2020). Wastewater and public health: the potential of wastewater surveillance for monitoring COVID-19. Current Opinion in Environmental Science & Health, 17, 14-20.
+
+Daughton, C. G. (2020). Wastewater surveillance for population-wide Covid-19: the present and future. Science of the Total Environment, 736, 139631.
+
+Bogler, A., Packman, A., Furman, A., Gross, A., Kushmaro, A., Ronen, A., ... & Bar-Zeev, E. (2020). Rethinking wastewater risks and monitoring in light of the COVID-19 pandemic. Nature Sustainability, 3(12), 981-990.
+
+Jaiswal, R., Agarwal, A., & Negi, R. (2020). Smart solution for reducing the COVID‐19 risk using smart city technology. IET Smart Cities, 2(2), 82-88.

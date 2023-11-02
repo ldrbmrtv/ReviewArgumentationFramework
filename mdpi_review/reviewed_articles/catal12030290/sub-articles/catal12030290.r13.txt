@@ -1,0 +1,18 @@
+Reviewer 3 Report
+Comments to the Author Manuscript Catalysts-1584262
+The manuscript entitled ‘Bio-stimulated adsorption of Cr(VI) from aqueous solution by Groundnut Shell Activated [email protected] embedded material’ by Rao et al focuses on the synthesis of bioadsorbent aluminum metal blended with groundnut shell activated carbon material (Al-GNSC) and it practical application for Cr(VI) adsorption from waste aqueous solutions. Very interesting and well-carried study. The experimental approach is sound. The manuscript is well-organized, all the conclusions are supported by the presented data.
+The paper mainly presents two key contributions:
+Synthesis of bioadsorbent and evaluation of its structure using SEM and FT-IR spectroscopy.
+Examination of prepared adsorbents for Cr(VI) ions removal.
+There are some points which must be edited or clarified by providing additional information or comments:
+The authors should write the complete terms of all abbreviations (including the instruments) before the first use in the abstract and main manuscript i.e. FT-IR and SEM in abstract section et al.
+The authors should clearly explain the innovation and importance of their work on the introduction of the manuscript. They should justify the value of the work and compare their work with previously similar published papers.
+Fig. 1 - for a more effective visual comparison, authors recommended to provide SEM images of the same scale. In such form is rather difficult to make adequate comparison.
+EDX analysis (Fig 3) - a very conditional (not specific) type of analysis of the chemical composition of the surface. Often, spectra with different atomic abundances of elements can be obtained even from the same sample. First of all, authors have to attach a EDX mapping images before/after sorption of chromium ions. And the authors are strongly recommended to add XPS spectra to this section of revised manuscript. The XPS method is much more sensitive and more accurately determines changes in the chemical composition of samples.
+Why authors did not use XRD technique for sample characterization?
+The adsorption capacities of Al-GNSC adsorbents at different contact times have been provided. Which kinetics are right? Please add missing information about appropriate kinetic model in revised manuscript.
+It is rather difficult to make an adequate comparison of certain properties (catalysts or sorbents) with the already available results, since the concentration of the pollutant and the mass of the loaded sorbent vary in each experiment. Therefore, the authors are recommended to add the missing information (i.e. conditions for testing sorbents of Cr(VI) ions) to Table 3.
+In order to confirm proposed mechanism of Cr(VI) adsorption (illustrated on the fig 6) Authors should provide data on adsorption capacity of pristine groundnut shell activated carbon (not modified with Al).
+The conclusion section should be elaborated and improved. The author should bring specific conclusions in accordance with obtained results.
+
+Our decision on this manuscript – Major revision. After making all required minor changes in article it could be recommended for publication.

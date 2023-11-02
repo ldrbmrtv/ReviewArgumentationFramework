@@ -1,0 +1,4 @@
+Reviewer 2 Report
+The Comments were addressed sufficiently. However, it is worthy to cite some of the papers, which address about the feature characterization using OCT.
+Ex: Biophotonic approach for the characterization of initial bitter-rot progression on apple specimens using optical coherence tomography assessments....
+

@@ -1,0 +1,13 @@
+Reviewer 2 Report
+The authors present interesting findings that a tumor dormancy marker, NR2F1, is predominantly expressed in the inflammatory CAFs, and high expression of NR2F1 is associated with suppressed immune response and increased density of stromal cells. However, this reviewer has a few concerns that need to be addressed before accepting this article for publication.
+
+Major:
+
+This reviewer noticed that all the analysis was performed on the public data sets of bulk RNA-seq or single cell sequencing of primary breast tumors. Can the authors do some analyses using data generated from both primary and metastatic tumors to check if there is any difference of NR2F1 expression, and how NR2F1 expression is correlated with metastasis?
+
+As mentioned by the authors in Figure 3, there is no correlation between NR2F1 expression in the primary breast tumor and late recurrence. The authors need to analyze the single cell sequencing data and show whether the late recurrence in other organs, such as lung, bone, and brain, other than lymph node, is correlated with NR2F1 expression in the CAFs. Otherwise, the authors cannot make a conclusion that CAF-expressed NR2F1 regulates breast tumor dormancy.
+
+Moreover, the authors need to provide some, at least minimum, evidence or clues that CAF-expressed NR2F1 is responsible for tumor dormancy regulation.
+
+Minor:
+Line 170, “Figure 1E” should be “Figure 1D”.

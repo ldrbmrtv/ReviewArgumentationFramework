@@ -1,0 +1,216 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The citations are not formatted according to the journal guidelines. Please revise.",
+      "Reviewer_1.1.2": "Include the full form of STD described in the results.",
+      "Reviewer_1.1.3": "Table 3 \u201cHealth apps and computer algorithms are for patients disturbing (=)\u2026\u201d should \u201c(=)\u201d be \u201c(0)\u201d?",
+      "Reviewer_1.1.4": "Line 252, 24/7 is the commonly accepted form of 7/24.",
+      "Reviewer_1.1.5": "Line 267 and 268, the description of figure 1 is not clear. Does \u201cfocused on senses\u201d mean in-person patient-doctor interaction?",
+      "Reviewer_1.1.6": "Table 4 data suggest Digital networks increase doctor nurse communication but Line 266 says it undermines the same. Can you clarify?",
+      "Reviewer_1.1.7": "Table 5, what does numbers 1 through 7 represent?"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "The fundamental issue that needs clarity is whether or not the study design was \u2018exploratory mixed methods design\u2019 or \u2018convergent parallel design.\u2019 As far as exploratory mixed methods design is concerned, the researcher begins with qualitative data and then collects quantitative information. Typically, in this design, the researcher presents the study in two phases, with the first phase involving qualitative data collection and the second phase involving quantitative data. In this regard, your study fits with the exploratory nature.\n In an exploratory sequential mixed-methods design, the researcher emphasizes the qualitative data (QUAL) more than the quantitative data (quan). This emphasis may reveal by presenting the overarching question as an open-ended question or discussing the qualitative results in more detail than the quantitative results. However, in this manuscript, I have not seen elements of these characteristics in the paper. As I have seen a complementary role of the qualitative and quantitative pieces is apparent instead of the qualitative piece informing the quantitative pieces. For example, the description of the study design says the following. Page 2, lines 90-92,\n \u2018This was then integrated into the second study phase consisting of a nationally representative sample of the same sort of cohort.\u2019\n This description shows the integration of the two phases instead of the preceding phase informing the next phase. From the explanation in the study design and the presentation of your results, it sounds to me as if the mixed-methods nature of this study fits more with the convergent parallel design. Please, give your readers more information that conveniences the exploratory nature.",
+      "Reviewer_2.1.2": "Please, use male undergraduate students or undergraduate male students instead of \u2018male and undergraduate students\u2019 in the abstract or simply throughout the paper.",
+      "Reviewer_2.1.3": "In the abstract, lines 23-27, I suggest to use the following expression or something like that. Around 38% of the students felt ill-prepared and could not answer AI-related questions because digitization in medicine and AI are not a formal part of the medical curriculum.",
+      "Reviewer_2.1.4": "Page 2, line 42, \u2018the computation of compounding factors,\u2019 I did not understand what it means. I suggest the authors to replace this with appropriate phrase.",
+      "Reviewer_2.1.5": "Page 2, line 42, \u2018the computation of compounding factors,\u2019 I did not understand what it means. I suggest the authors to replace this with appropriate phrase.",
+      "Reviewer_2.1.6": "On page 2, line 111, the phrase \u2018to affirm or dismiss,\u2019 does not make sense. Replace this phrase with a more appropriate phrase.",
+      "Reviewer_2.1.7": "Page 3, lines 117-118, the statement has two issues.\n \u2018The items were then tested through a pilot study consisting of a 117 group of 4 pre- and clinical students, mediated by AG and JE\u2019\n First, why did you use only 4 students for pilot testing?\n Second, what do \u2018AG\u2019 and \u2018JE\u2019 represent?",
+      "Reviewer_2.1.8": "Page 3, line 132, it says, Convenience sampling was used.\n I would ask, why did you use cconvenience sampling?",
+      "Reviewer_2.1.9": "Page 4, table 1, the caption and the table content do not match. Revise either of them.",
+      "Reviewer_2.1.10": "In the methods section, clearly describe the sampling procedure for the quantitative and qualitative study parts separately. Also describe the final study sample for both. I am suggesting this because the logic of quantitative sampling and qualitative sampling are different.",
+      "Reviewer_2.1.11": "Page 12, line 389, the statement which says, \u2018The non-probabilistic sampling makes a generalization of the answers difficult,\u2019 is confusing. I suggest to re-write this sentence.",
+      "Reviewer_2.1.12": "I suggest to remove the phrase \u2018so called,\u2019 that has been used in the conclusion section or any other section.",
+      "Reviewer_2.1.13": "Page 13, lines 409-410, in the conclusion section, the statement which says,\n \u2018This study also found significant differences between those groups indicating differences in subgroups of students from the quantitative survey.\u2019\n This is a confusing statement. Re-write this sentence clearly.",
+      "Reviewer_2.1.14": "I suggest the authors to include a short section including the implications of the study after the conclusions."
+    },
+    "Author": {
+      "Author.2.1": "The reviewer discussed in much detail which design might better describe the method used in our study. In the sequential exploratory strategy a qualitative component is followed by a quantitative component (Creswell, JW.; Plano Clark, VL. Designing and Conducting Mixed Methods Research. 2. Thousand Oaks, CA: Sage; 2011). Aspects of the organizational environment (e.g., creative problem solving) were identified in the qualitative component and statistically confirmed or rejected in the preceding quantitative study phase, which is exactly what the authors did in this study. However, the reviewer suggested that the convergent parallel design might fit our methodology even better. In the convergent parallel strategy, quantitative and qualitative data collection occurred concurrently. The components are given equal weight, and the two datasets are analyzed and compared in parallel. Quantitative data identified factors statistically, which were integrated with qualitative data from in depth interviews with a subset of participants to understand how and why the identified factors influenced participants\u2019 attitudes. In the method\u2019s section of our study we lined out that the results of the first qualitative study part were the basis for the development of the online survey. Based on the qualitative study part, the questions for the qualitative study were formulated when students\u2019 attitudes were expressed frequently. In this sense, the first (quantitative) phase informs the next, but the reviewer is right, that both phases are interlinked. Although our study integrates components of both strategies, the authors still think, that the sequential exploratory strategy describes our methods better than the convergent parallel design (see also: Curry et al Circ. Cardiovasc, Qual. Outcomes 2013, 6:119-123). As suggested by the reviewer, the authors specified in the method section that we used an additive rather than a parallel integrative strategy.",
+      "Author.2.2": "The manuscript has been changed accordingly.",
+      "Author.2.3": "The manuscript has been changed accordingly.",
+      "Author.2.4": "The reviewer is right. The phase has been changed into the \u201canalysis\u201d of compounding factors.",
+      "Author.2.5": "The authors followed the reviewer\u2019s suggestions and re-wrote this para as follows: \u201cThe overall objective of this study was to investigate the today\u2019s medical students attitudes towards AI and other digital working tools. We wanted to understand if age, gender, semester level and curriculum type influences their views. This study also assembled information on students\u2019 understanding of AI algorithms and digital applications in health care and assessed their level of confidence in working alongside these tools after graduation in patient care. It is our belief that this information may possess the means to employ digital tools including AI into the curriculum of medical students efficiently, enhancing their confidence in using them and therefor to better equip our future physicians with sufficient knowledge.\u201d",
+      "Author.2.6": "The phrase in question has been replaced by \u201cto confirm\u201d.",
+      "Author.2.7": "The authors choose 4 pre-clinical and 4 clinical students. The intention was - as outlined in the initial manuscript version - \u201c\u2026 to understand how they perceive the subject of interest\u201d. The wording has been specified, to clarify that in total 8 students tested the items but not 4 as the reviewer assumed. This number was considered sufficient a) to detect inconsistencies and b) to verify the correct meaning of the questions. AG and JE are two of the authors (first letter of the first and last name). In order to avoid any misunderstanding, this has been changed to \u201cthe authors\u201d in the revised manuscript.",
+      "Author.2.8": "Convenience sampling is defined as a method to collect data from a conveniently available pool of respondents. We used it, because it is the most commonly used sampling technique as it's incredibly prompt, uncomplicated, and economical.",
+      "Author.2.9": "The captation has been changed to \u201cCharacteristics of the study cohort.",
+      "Author.2.10": "The sampling procedure was clearly described in the initial manuscript. For phase 1: \u201cAll participants of the first phase were students from from 1st to 6th year (undergraduate 1st to 2th year, graduate 3th to 6th year) from German Universities. The inclusion criteria were to actively study medicine and their agreement for their voluntarily participation. In the same way, the exclusion criteria were to have suspended their studies, as well as other exceptional situations. Prior to start, informed consent was obtained, which was followed by the collection of telephone numbers and email addresses. ... They were selected purposely and consecutively, in part by snowball until theoretical saturation was reached.\u201d For phase 2: \u201cFor the second, quantitative study phase identical inclusion/exclusion criteria applied.\u201d This referred to medical students of all semesters, excluding students from other faculties. \u201cThe online survey was sent to all medical faculties in Germany from which most forwarded the survey invitation by email to about 80 000 medical students to fulfill the principle of maximum diversity through convenience sampling method. Each contained an invitation letter and an information sheet.\u201d Surely, sampling procedures in mixed method studies are phase depended different.",
+      "Author.2.11": "The statement has been changed into: \u201cThe focus on German educational system and the fact that only a small fraction of the total number of medical students filled out the online survey makes a generalization of the answers difficult\u201d.",
+      "Author.2.12": "The authors agree and the phase \u201cso called\u201d has been removed.",
+      "Author.2.13": "The authors agree and this statement has been re-written in the revised manuscript version.",
+      "Author.2.14": "The authors fully agree. Therefore, the conclusion paragraph has been split into the \u201cConclusion\u201d paragraph, in which the study\u2019s conclusions has been outlined, and into a the new para \u201cImplications\u201d where the usefulness of the integration of eHealth aspects (including AI) into the curriculum is discussed.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.14",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.10"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_2.1.11"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_2.1.12"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_2.1.13"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_2.1.14"
+    ]
+  ]
+}

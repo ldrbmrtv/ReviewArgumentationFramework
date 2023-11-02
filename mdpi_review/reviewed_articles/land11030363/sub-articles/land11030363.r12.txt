@@ -1,0 +1,13 @@
+Reviewer 2 Report
+The manuscript entitled “Determination of Mehlich 3 extractable elements with visible 2 and near-infrared spectroscopy in a mountainous agricultural 3 land, the Caucasus Mountains” is scientifically interesting and original.
+However, there are some important issues that need to be addressed:
+The novelty of the study should be clearly stated in the Introduction section after the objectives are formulated.
+“Materials & Method" section:
+a)There is not adequate information regarding quality control of the chemical analyses. Authors should report the detection limits and the recovery of the analytic methods used, along with and the standard solutions for the calibration of the instruments.
+b) It is necessary to explain the method of sampling using the appropriate literature. Is the number of samples sufficient for the purpose of the research? Please explain.
+c) Lines 125-135: There should be bibliographic references for the specific methods and their official name should be mentioned. Reference to formal analytical methods must be made in a scientific manner. The writing language used must be different from the way an analyst mentions it in the lab.
+The “Conclusions section” is not very successful concerning the presentation of results. It should be revised and rewritten in a way showing that the results of this study could be generalized in order to be interesting for an international audience.
+The “Introduction section ” should be reworked, highlighting the relevance of this topic worldwide. It would be wise to give more international flavor in the sections of Introduction and Discussion.
+In addition, it needs support with more and more up-to-date recent articles. I suggest the following:
+Soil parameters affecting the levels of potentially harmful metals in Thessaly area, Greece: a robust quadratic regression approach of soil pollution prediction, Environmental Science and Pollution Research,https://doi.org/10.1007/s11356-021-14673-0
+

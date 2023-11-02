@@ -1,0 +1,9 @@
+Reviewer 1 Report
+Very interesting and well-written study.
+
+I have some comments:
+
+Please add a table with patients' baseline characteristics, including BMI and smoking status.
+Did authors estimate sample size? Please add in data analysis section
+Please add ethics protocol approval number
+I found some minor English errors throughout the paper. Please have a re-check.

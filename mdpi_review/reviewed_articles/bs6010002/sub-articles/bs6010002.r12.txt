@@ -1,0 +1,39 @@
+Reviewer 2 Report
+Overall this is an interesting paper which explores a novel area of research relevant to both evolutionary theory and welfare applications. Whilst it is mostly clearly written, I have a number of recommendations for the authors, primarily relating to clarifying a number of points for the reader. The most major issue is with the analysis - the authors need to be clear on why they used a ratio score instead of individual measures for experimental/control trials, and why they calculated mean scores instead of including all data points in the analysis. If the latter cannot be well justified, the data should be re-analysed without mean scores, using all data points available.
+
+Abstract:
+·      The first sentence doesn’t read clearly, I’d suggest breaking it up.
+
+Introduction:
+·      Overall the introduction is clearly written and gives the reader a good understanding of both the background literature and recent work/theories that have led to this study. The links to welfare are interesting and potentially important; it might be worth emphasizing this more clearly early in the introduction, i.e. how does this work help welfare assessment.
+·      Page 3 line 24: for readers less familiar with dominance/threat behaviour in macaques, it would be worth emphasizing the meaning/importance of direct eye gaze/stare in the introduction to help them to understand the rationale behind the experimental procedure (refer to line 22, page 11).
+
+Methods
+·      Authors should include an ethics statement, including the project identification code, date of approval and name of the ethics committee, in accordance with author guidelines for this journal
+·      Page 5, 2.1: are all subjects adults? Page 11, line 24 mentions adult male macaques, but whether all subjects are adults is not clearly stated in the methods. Can the authors please clarify this.
+·      Page 5, 2.1: the authors state that the monkeys were housed in quarantine during testing – does this mean that they were socially isolated? The authors should state whether animals were socially housed and whether they had been socialised previously, given the social nature of the experimental stimuli.
+·      Page 5, 2.1: If the monkeys were socially housed, do the authors have rank data on the animals? (see notes on discussion).
+·      Page 8, 2.3: in the discussion the authors explain their use of ratio scores, instead of using separate scores for experimental/control conditions, as a way to account for speeding of response in the stress condition (page 12, line 1). This should be made clear in the methods along with the equation.
+
+Results
+·      Spell out RMAnova as repeated measures Anova for first use.
+·      Why have the authors collapsed scores across trials? This really needs to be explained. If running a repeated measures analysis, you should be able to account for multiple measures per monkey per condition in the analysis, without calculating mean scores first. If there was a specific reason for calculating the mean score prior to running the analysis, this should be clearly justified.
+·      Page 9, line 5; line 15; page 10, line 3: can the authors please provide all null results in a table for the reader to refer to. Supplementary material would suffice.
+·      Provide the t value on page 9 line 15 to 2 dp consistent with other results.
+
+Discussion
+·      Overall the discussion is clearly written and explores the potential impacts of this research well.
+·      Page 11, lines 14 - 17: another angle to consider here in regards to welfare and assessing individual response (something that you touch on the intro, and would be worth bringing up here), is that individual response may be affected by differences in baseline levels of anxiety or stress – i.e. monkeys higher in anxious trait or stress-related behaviours may exhibit stronger responses in the stress condition.
+·      Furthermore, given that the authors mention eye gaze being an indication of dominance, it is worth considering whether rank of test subjects could also affect their response to direct vs. averted gaze.  One would expect that lower ranking individuals would find direct gaze more threatening than higher ranking individuals. This could account for the ‘large degree of individual variation’ in response to faces that the authors mention (page 11, line 35). I suggest that the authors either include this as a predictor variable if the data is available, or add it to the discussion for future consideration.
+
+References
+·      Reference 55 needs formatting correctly.
+
+Typos/formatting issues:
+·      Page 2, line 20: consider using spelling’ judgement’ instead of ‘judgment’
+·      Page 3, line 1: space required between ‘processthe’
+·      Page 3, line 16: space required between ‘2seconds’ and ‘50seconds’; page 10, line 9: ‘4.7seconds’, ‘9.6seconds’; page 11, line 28: ‘>8seconds’
+·      Page 3, line 22: be consistent in use of either ‘seconds’ or ‘s’
+·      Page 10 lines 9-10: space out + and -
+
+

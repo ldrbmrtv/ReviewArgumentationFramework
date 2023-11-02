@@ -1,0 +1,42 @@
+Author Response
+Reply to Reviewer#1
+Introduction
+Line 31 – "(4-10 Hz) induced…" this is not theta range; please correct.
+Thanks for pointing out the error in the range. Correction made in the text.
+Line 32 – add the reference.
+Reference added.
+Methods
+Participants
+Did the authors take note of the menstrual cycle of the female participants?
+No, we did not. We have added a statement in the study limitations to address the issue.
+Although the differences in handedness would not profoundly affect the overall results, can the author check if there were significant differences in stimulation intensity (AMT and RMT) in right and left-handed participants? Left-handed individuals often have a high threshold on the left motor cortex.
+The three left-handed participants exhibited rMT and aMt typical of young adults of their age (Right, n=16, mean rMT 42%, aMT, 32%, see below for Left). We did not perform bilateral testing, so we cannot comment on hemispheric differences in excitability. However, our own investigation on the matter showed that Left-handers had higher rMT on the right hemisphere and, in fact, those individuals exhibited comparable rMT on the left hemisphere to that of mixed and right-handed individuals ( See Figure 3 in Davidson & Tremblay 2013)
+Subject Left-handed    rMT    aMT
+KY13                           56%     46%
+KY8                             36%     34%
+KY19                           54%     38%
+Davidson, T., and F. Tremblay. "Hemispheric Differences in Corticospinal Excitability and in Transcallosal Inhibition in Relation to Degree of Handedness." PloS One 8, no. 7 (2013): e70286.
+Line 89-90: edit this part.
+The statement has been revised. We think it is important for readers to know that participants wore masks during testing because of the pandemic.
+
+Line 145  - Edit the subheading
+Correction made.
+Results
+Are there differences in stimulation intensities taken from the two devices (Magstim Rapid and BiStim2)?
+Yes, there are some differences given the difference in pulse configuration and coil output, However,  rMT and aMT with the two stimulators were highly correlated at the individual level (r2=0.55).
+
+Can you report the F value and effect size?
+We have revised the statistical analysis given the Reviewer’s comment below. Thanks to the Reviewer, we found out that there was a duplicate value in the dataset for MEP amplitude (hence the issue with 20 subjects in Figure 3). The error has been corrected and the analysis redone. Note that the correction did not change the results or the conclusions. We now report for the ANOVA’s the F value and the partial eta squared to indicate the size of the intervention.
+Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al. (2016)?
+Indeed, it would be interesting. The size of the intervention for variations in MEP amplitude, as reflected in eta squared, is 0.19, which appears smaller than that reported by Chung et al. However, such an effect size could hardly be compared with the “standardized mean difference’ computed by Chung et al. The SMD is based on the assumption that differences in standard deviations among studies reflect differences in measurement scales and not real differences in variability among study participants (which is the case here)..
+In line 209, the authors reported that “Of 21 participants, 19 (13 females) completed the protocol without any issues. Two female participants had to be excluded….”. However, looking at Figure 3, it is obvious that plotted data were from 20 participants. Can the author correct this discrepancy?
+Please see above our reply regarding F values.
+Is the cut-off plus or minus 10 standard for the responder and non-responders? Looking again at Figure 3,  we can observe very high variability. In my opinion, plus or minus 10% is arbitrary.
+We agree it does seem arbitrary but this approach has been used by many other investigators (see Hinder et al or Perellon et al) to assess neuroplastic responses to rTMS. In this respect, the ±10% cutoff provides a reasonable criterion to classify responders given the variability of responses to rTMS interventions.
+Hinder, M. R., E. L. Goss, H. Fujiyama, A. J. Canty, M. I. Garry, J. Rodger, and J. J. Summers. "Inter- and Intra-Individual Variability Following Intermittent Theta Burst Stimulation: Implications for Rehabilitation and Recovery." Brain Stimulation 7, no. 3 (2014): 365-71.
+Perellon-Alfonso, R., M. Kralik, I. Pileckyte, M. Princic, J. Bon, C. Matzhold, et al. "Similar Effect of Intermittent Theta Burst and Sham Stimulation on Corticospinal Excitability: A 5-Day Repeated Sessions Study." European Journal of Neuroscience 48, no. 4 (2018): 1990-2000.
+Although we would assume that the figure on the left is always the letter “A” and the one on the right is “B”, for the sake of clarification, kindly add a  letter legend on the figures.
+Done
+Discussion
+Line 402: in SIFC, one pulse is suprathreshold, and the other is subthreshold.
+We have corrected the sentence to state that SICF is observed when two stimuli are given at or above threshold.

@@ -1,0 +1,10 @@
+Reviewer 1 Report
+Comments for the Author:
+
+The authors presented the blood E2 levels increased with ovary maturation and eye morphometric changes. PIs performed the artificial induced maturation to induce Japanese eel ovary maturation. The authors showed the blood E2 levels increased with ovary development however, detailed molecular pathway is limited. ERα mRNA content was increased accordingly with gonadosomatic index and eye index. Increases in the eye size during the sexual maturation of female eels, and concluded that eel eyes play a significant role in sexual maturation.
+
+1. No supported data was shown to identify the eel eyes play a significant role in sexual maturation. Most results were found in association. Authors should performed the eye-specific knock out eel or ESR1 knock out or ESR2 knock out eel to clarify the role of ESR1 in Brain-Pituitary-Gonad pathway and eye maturation, ESR2 in the ovary development.
+2. Recently, several literatures discussed about the generation of gene knockout fishes or eel with TALENs should be presented and discussed.
+3. All the mRNA data should provide the statistic information and detail information about the numbers.
+4. ESR-α (Line 306) and ESR-β (Line 307) should be corrected as ESR1 and ESR2.
+

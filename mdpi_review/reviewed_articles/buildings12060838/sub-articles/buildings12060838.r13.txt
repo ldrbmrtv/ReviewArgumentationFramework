@@ -1,0 +1,56 @@
+Reviewer 3 Report
+Overall, the work has value and will be interesting to potential readers in the AEC industry. However, it needs significant revision especially with grammar, sentence structure, and the format of the paper. I initially was commenting on changes for the grammar and sentence restructuring but as there were significant issues I stopped. I recommend reviewing the whole paper including the figures and Tables and making changes as needed.
+The full comments are in the word document and also included below.
+
+Lines 9 – 10: Suggest updating first sentence in abstract for easier reading. See suggestion “The aim of traffic flow design in commercial building space planning is to create a comfortable, easily accessible and identifiable spatial structure in a complex and changeable business environment”
+Line 14: The abstract mentions that this study selects the commercial project "Guangzhou Nanpu Times Commercial Building Space" planned and operated by the team. Does the team include authors of this paper? If so, you should make it clear or describe the team that it was planned and operated by.
+Lines 18 – 20: The sentences are incomplete and as a result are not clear on the message. Consider rephrasing with complete sentences and consider replacing ”So as to” with “To” or “Consequently” or “In order to”.
+Line 26: Include a proper Segway between the first sentence in line 25 and this sentence on the development direction of commercial building space. It currently seems disjointed and does not provide ample background prior to this sentence.
+Line 28: The sentence is incomplete. You may either combine with the previous sentence using a semi-colon or state that the development direction of commercial building space also brings challenges to the design of commercial building space traffic flow.
+Line 29 – 31: The sentence is not clear, please consider rewriting.
+Lines 31 – 33: You have not defined which commercial buildings are being addressed in this paper, so focusing only on purchasing behavior is a bit premature. What if it is an office building performing general business operations that do not require commerce, does the issue of traffic flow design also apply to it?
+Lines 43 – 45: The sentence could be re-written
+Lines 45 – 47: Re-write the sentence, it is not too clear.
+Lines 49 – 52: Re-write the sentence
+Line 93: Post occupancy evaluation (POE) does not include the use of scientific instruments. It only includes questionnaires/surveys and expert interviews. However, post occupancy evaluation and measurements (POE+M) a method established by the team at the Center for Building Performance (CBPD) using the NEAT cart uses instruments. You should consider restating the claim from POE to POE+M and citing work by the CBPD.
+Line 110: Is the statement that only a few scholars have focused on commercial building space contrasting the earlier write-up in line 107 where research studies for POE in offices is mentioned?
+Lines 168 – 174: Re-write the sentence, it is not clear and difficult to understand
+Lines 165 – 167: You stated, “Through expert interviews and using AHP in conjunction with its own experience, it determines the individual evaluation indicators of the kinetic design, and through ma­trix scoring and quantitative analysis, determines the weight values of each index.” Does this mean the AHP weighting of the criteria was conducted by the authors?
+
+Lines 184 - 187: “The Lichter scale method is used to design and distribute the questionnaire for evaluating the satisfaction of the commercial space of Nanpu Times in terms of movement lines, and to obtain the satisfaction scores of each index to obtain the comprehensive evaluation results (Figure 4).”
+-          Explain which parts of the Lichter scale methods were used to design and distribute the questionnaire. If the full litcher scale method was utilized, explain how it was used as a research method in this study
+-          Additionally, describe the profile of the respondents of the POE questionnaire and the recruitment method utilized, and rationale for the recruitment
+Lines 195 – 196:  “Referring to the application principle of AHP, the satisfaction evaluation index system of Nanpu Times traffic flow is divided into four levels: target layer, criterion layer, factor layer, and index layer”
+-          Are you adapting the AHP method? If you are adapting it/modifying please say so, because the AHP by Saaty uses the levels of goal/objective, main criteria, sub-criteria, sub-sub criteria, n level criteria, and alternatives as the final level. Your levels of target layer, criterion layer, etc., are confusing. Also, you may define how your own four levels relate to the main AHP levels by Saaty
+Also, cite the application principle of AHP that is being referred to, or define it
+
+Line 220: “For the three-layer evaluation factor set constructed above, the 1-9 scale method (Table 1) was adopted for each element layer by layer to obtain the judgment matrix H.”
+-          State that it is the Saaty scale of pairwise comparison and cite.
+
+Note: There needs to be significant overhaul of the grammar even within figures. For example, figures 6, 7 and 8 should be weight not “weigh”.
+
+Lines 273 - 281 could be rewritten to be more succinct and clearer. For example, why did you call it POE methodology theory rather than just say POE methodology?
+
+Lines 318 - 326 are very confusing. You make reference to figure 10 which illustrates respondents’ profile and responses for transportation traffic modes. However, I am unsure where the other indexes including “evaluation of roundness”, and traffic flow index came from in figure 10? If it is somewhere else, please reference it.
+
+Line 363: Is it “each index inaccessibility is particularly important” or is it supposed to be each index in accessibility?
+
+Line 365: “Based on the principle of being people-oriented” what principle? From where? Please cite. Stating principles and theories without references or definition is a common mistake in this paper. Also,  explain how from the Principle of being people-oriented, the traditional mixed mode of people and vehicles is no longer applicable to modern commercial building space. Also elaborate on the relationship with the inaccessibility index.
+
+Lines 441 - 442 counters your claim that POE can be applied to the commercial building space traffic flow design. It casts doubts on the research study and results of the study. I would recommend explaining the types of commercial building designs that your research study may not apply and/or the types it can be. Right now, you just cast a wide net that it may not apply to all commercial building spaces and didn’t explain which types and rationale for why it won’t apply, beyond it being a case study. Case studies can be transferable, and a few may be generalizable. What aspects of your case study can be transferable and which aspects can be generalizable? That would be good in the methodology. A deeper analysis of your case study. I would recommend reading Groat and Wang (2002) titled “Architectural Research Methods” chapter on case study to help.
+
+Additionally, you state “Secondly, the total number of questionnaires is not very sufficient.” Why is it not sufficient and how does the limited number influence your results and the case you’re building? Just saying it is not sufficient is not building confidence in your research. What is your metric you’re using for sample size and how does the total of both your paper and online survey not meet the ideal sample size? Is there anything about the sample that still reflects the population from where you drew this sample from? Fo4 example, the population that utilizes commercial spaces is primarily 18–50-year-olds with xxx professions and sex as is reflected by this sample.
+
+Results
+I would also suggest rewriting your results section. Have a section for results/findings, and another section for discussion. Most if the write up currently in the results section is a discussion.
+Put your findings on the POE questionnaire from respondents in the results. Also put the findings if the AHP analysis in the results. You should also consider including in the discussion how the sociodemographic characteristics of the POE respondents influences the evaluation of factors such as accessibility. Lastly, did you mention the sociodemographic of the experts who helped weight the criteria? If you did, please make it clearer if you did not, please include it.
+
+Include future work/next steps of the research study in the discussion section.
+Your conclusion should be stronger that its current form. Reiterate the problem and case, briefly mention the methods used and how it addresses the gaps, briefly mention the findings, and the implications/outcomes of the study.
+
+Discussing bias: it may be beneficial to discuss the authors biases because the commercial building analyzed in this study is developed by the authors. How was the bias mitigated/minimized in this study?
+
+Ethics: was IRB approval gotten for the human subject’s aspect of the research? Or permission sought in some other way? If so, please explain because it is not stated in the paper.
+
+Methodology: Additionally, the mixed methods of POE and AHP is currently not clear and would need significant clarification on how they worked together - I have an understanding but it is not immediately clear. For example, what was in the POE questionnaire - show an example of the questions or include the full questionnaire as a supplemental. How did the questions inform the AHP criteria selection? It is written but not easy to understand.
+Comments for author File:  Comments.docx

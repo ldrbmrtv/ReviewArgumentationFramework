@@ -1,0 +1,8 @@
+Author Response
+Reviewer #1:
+Comment:
+The manuscript by Sharmin Akther Rupa et al is a comprehensive study on the Synthesis of Novel Tritopic Hydrazone Ligands: Spectroscopy, Biological activity, DFT, and Molecular docking Studies. Pyrrole and thiophene as organic molecules and their metal cluster derivatives have been recognized to present a wide range of biological activities in recent years. In this present study, we have synthesized two tritopic dihydrazide based ligands bearing Pyrrole and Thiophene as end groupings and characterized successfully by FT-IR, 1H and 13C NMR and mass spectrometry. Based on the DFT the calculations, a complete structural detail, vibrational, electrostatic potential, Mulliken population, HOMO-LUMO and thermodynamic analysis were also done.
+This manuscript is suitable for publication in Molecules.
+
+Response:
+We are delighted and thankful for the recommendation of the reviewer.

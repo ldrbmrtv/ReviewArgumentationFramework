@@ -1,0 +1,29 @@
+Reviewer 2 Report
+Dear authors
+I have both general and more specific comments to your manuscript.
+general comments:
+When I read your manuscript I cant find a good answer to your title. is it possible to delineate N fertilization using NDVI? I believe based on your results that the answer is no, do you agree?
+It is not enough to be able to devide the fields into management zones, you also have to define how much N should be applied to each zone before it is useful for the farmer.
+do a search and replace on upper cases like ha-1 which should be ha-1
+x is replaced by -
+
+More specific comments:
+line 20 - define DDA
+line 36 and 37 - is this the reason for increased use of N? I am not sure, I believe it is due to just want to have a higher yield, I would like you to comment this.
+line 53 - PA doesnt necessarily increase yield and sustainability, you should be more critical to literature
+lin 58 - avoid using etc.
+line 83 to 85 - be critical to theses suggestions, is it always true?
+line 101 and 102 - you need a reference to this
+line 125 - define what you mean by 'classified'
+line 131 - 11/24/2018 is not a week
+line 131 - seed density, do you mean seed rate
+line 133 - replace made with applied
+line 174 - 6Co is the correct way to write it
+figure 2 - title on y axis is wrong
+line 202 - safety buffer, is this the same as headland?
+line 378 - I don't understand this line
+line 434 - what do you mean by ... and spike-1 weight..
+line 439 misspelled waterlloged and the is to much space at ..from  GS 30..
+line 441 - what do you mean by (number of spikes-1..
+line 445 - what do you mean by meter2
+

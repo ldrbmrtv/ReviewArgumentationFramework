@@ -1,0 +1,200 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The place of RNA in LUCA (page 2): In search of features that are more conserved\n (carrying deep phylogenetic memory) than the sequence of genes, W\u00e4chtersh\u00e4user focuses on a paper\n of his in Systematic and Applied Microbiology (1998) that uses gene content and order of microbial\n genomes to make inferences about the last universal common ancestor (LUCA) of cellular life. He then mines the significance of some of the conserved chromosomal segments in light of some other evidence.\n The exercise is at places compelling, but forgets some recent, very global and exhaustive analyses that\n also use highly conserved biological features to reconstruct the makeup of LUCA (e.g., gene order,\n 3D molecular structure, molecular functions). See for example PubMed references PMID: 17370266,\n PMID: 21612591, and PMID: 17908824, which are in line with some conclusions derived from the\n alignment of Figure 1. The fact that these other analyses make use of hundreds of genomes to infer the\n ancient biochemistry of LUCA complements and strengthens the preliminary and fragmentary analysis\n of only 19 of them by the author, which also excludes eukaryotic genomes from the set (understandably,\n few sequenced genomes were available in 1998, and eukaryotes are in general \u201cmaster rearrangers\u201d).",
+      "Reviewer_1.1.2": "Given my interest in the bioinformatics of gene content and order, I took the liberty of studying the\n brief Systematic & Applied Microbiology paper to check the validity of the \u201creconstruction\u201d methods\n of Figure 1. The algorithmic implementation that is described is quite raw and does not extract important\n information that is embedded in the clusters of conserved gene segments. Important algorithms have\n been devised since the initial work of Sankoff in the sixties and seventies to do exactly that. I refer to\n the work of Pevzner, Tesler and Bourque as good examples, but also of Warnow. I also recommend\n visiting GRIMM (http://grimm.ucsd.edu/GRIMM/) and perhaps using the server to confirm or extract\n additional information from the alignments that are summarized in Figure 1. The W\u00e4chtersh\u00e4user\n algorithm makes use of conserved elements of gene content and order but discards information provided\n by the actual rearrangement operations that erase gene order history. The algorithm does not describe\n how gene homology was detected, how the limited set of genes was selected, and how the alignments\n were constructed (I imagine by hand). It is not clear if a guiding tree was used in the alignment (though\n this is mentioned in Line 65), since this is not made explicit in the 1998 publication. An alignment\n implies a tree but usually alignment algorithms are greedy and problematic and represent the most\n important limiting step of a phylogeny (the field is thus moving to the joint alignment and tree\n reconstruction). Therefore, I do not think the ancestors were properly reconstructed (the tracing of\n features in ancestor nodes of trees are not described, nor the actual trees). Regardless of all of these\n limitations, the tight conservation of certain segments is enough to show the existence of a core of\n ribosomal proteins that is universally present in cellular organisms. This in itself is valuable. Of course,\n a sample of 19 microbes may not be enough to encompass molecular diversity and the absence of\n Eukarya may also be problematic for any global evolutionary statement. In other words, the risks of\n sampling bias are clearly present and should be mentioned in the manuscript.",
+      "Reviewer_1.1.3": "The list of common genes in the alignment of Table 1 is enriched in small and large subunit ribosomal\n proteins that are the most ancient of the ribosomal set, according to the Caetano-Anolles theorem that is\n mentioned later in the manuscript. Interestingly, the most ancient of them are clustered toward the 5\u2019\n end of the genomic sequences that were aligned (S12, S17, S5, S4 and L2, L3 and L24). Could this imply\n a possible ancient segmental duplication? Also interesting is the placement of the most ancient ribosomal\n protein S12 between exactly two polymerase (beta and beta prime) and elongation factor (entry and\n translocation) genes (separated by single and much more derived ribosomal proteins). Could this be an\n ancient memory of the ribosome mediating translation and replication? A commentary would enhance\n the value of the section.",
+      "Reviewer_1.1.4": "In terms of the genome organization of LUCA (Line 105), there are numerous arguments in favor of\n an RNA ancestral genome and the late unfolding of DNA as genetic repository (perhaps through\n viruses). I cannot understand how 2'-hydroxy groups could destabilize the molecule and lead to\n \u201cintramolecular self-destruction\u201d (Line 107). RNA has the wonderful property of folding in search of\n energetic and kinetic minima. These processes make use of a frustrated landscape, which is powerful in\n terms of its biological potential (stability, function, information). It is much more versatile than the rigid\n DNA alternative, which is enriched in the \u2018information\u2019 capacity. None of them have \u201cself destruction\u201d\n properties, which would have been weeded out by selection and self-organization very early in\n \u201cchemical\u201d evolution. In turn, everything about LUCA should be considered quite modern and far away\n from an initial FeS world. I refer to the work of Daniel Lundin and colleagues in Sweden about the rather\n late rise of some structures of the ribonuceotide reductase enzymes needed to built the DNA polymers.\n The Maurel theorem stands if one thinks of single genome molecules. But what if there were many short\n RNA genomes, as anticipated by Woese, each perhaps linked to different and ancient tRNA-like\n cofactors? As the author mentions, LUCA is contemporary to a rather complex biochemistry, with\n numerous structures harboring a multitude of active and allosteric sites in proteins, most of which drive\n central enzymatic functions.",
+      "Reviewer_1.1.5": "In Line 114, the role of chromosomal rearrangement in evolution is not well described. What are the\n effects of genome rearrangements? Several scenarios are possible, including: (1) Genes remain linked probably because it is more efficient to transcribe genes that produce interacting proteins (part of\n complexes) than those that are not; (2) Genes remain linked if they are of relatively recent origin\n (rearrangement has not had the change to split them apart); (3) Genes remain linked if they are part of\n functional groups historically united by genomic regions (encoding metabolic functions or rRNA?); this\n includes genes sharing an operon structure for economy purposes in highly reduced organisms such as\n bacteria; (4) Genes remain linked because they originated when genomic rearrangements were not\n biochemically motivated and their sequence makeup was later refractory to rearrangement hotspots.\n There is a rich literature about rearrangement, hotspots and many processes related to these (including\n domain organization in proteins). Some discussion in this front could be clarifying.",
+      "Reviewer_1.1.6": "In relation to comments of Line 188 onwards, Di Giulio, Caetano-Anolles and others have suggested\n that the genetic code started to unfold prior to LUCA but continue to do so once life diversified. The\n corollary, is that the complete canonical set of amino acids may have not been encoded in LUCA.\n In terms of metabolic and biochemical competency, there are numerous and interesting studies, which\n have not been cited (especially in origins and evolution of modern metabolism). This includes the\n coevolution theory of the genetic code, the coexistence of prebiotic chemistries with modern metabolic\n reactions (recently studied for nucleotide metabolism), and theories about the origin of translation.",
+      "Reviewer_1.1.7": "Thermal course of evolution (Page 6): Why a focus on thermal energy? The framework\n should be on thermodynamics, energy dissipation and information, all of which are linked. What is\n thermally upward or downward adaptation? Is it conquering niches on Earth or a process involving\n molecular makeup? Vocabulary and definitions are murky, especially related to the links of\n environmental thermal fluctuations, energy of folding and stability of polymers. Subsection (1) must be\n rewritten to help the reader understand the ideas. Should all adaptations comply with maximizing energy dissipation? How can this be reconciled with upward and downward trends? No references are provided\n despite the rich literature underscoring the controversial link between physics, information theory and\n biology. If the focus is conquering planetary niches, then perhaps reference the contrasting views and\n some of their proponents (deep sea versus surface; thermophilic versus mesophilic, etc.). Further\n elaboration of the Wolfenden theorem appears relevant and its connections to what is known about the\n origin and evolution of metabolism also of importance.",
+      "Reviewer_1.1.8": "Place of RNA in the origin and early evolution of translation/Pre-translational coding of\n peptides. The view that is presented in this crucial segment posits a pre-translational mechanism\n (side-by-side tRNA mediated coding) that very much resembles the ribosomal entropic system, which\n could be very advanced. What if the pre-translational coding was assembly line-like and mediated by\n the aminoacyl-tRNA synthetases themselves? See PMID: 23991065 for one such alternative and a\n related previous model (PMID: 22210458). This would also match commentary of a possible early origin\n of non-ribosomal peptide synthesis machinery compared to that of the ribosome.",
+      "Reviewer_1.1.9": "General overview. While the grand finale \u201cNothing in evolution makes sense except in the\n light of chemical predetermination\u201d is impressive and summarizes the championing work of the author,\n chemical predetermination may apply to the very early stages of evolution and not to many of the stages\n described in the manuscript. How much chemical predetermination can there be with polymers as these\n explore a minute fraction of the space they make possible? In the enthalpic-entropic gradient that is\n proposed, there is also a gradient from \u201cpredetermination\u201d to historical contingency. The boundaries of\n such a gradient is murky and the final statement may not apply to much of modern biochemistry, once\n proteins start to achieve stable complex structure and much earlier that the time of LUCA. In fact, the\n genome rearrangements that underlie Figure 1 are testament to the historical contingencies that were\n already at play in LUCA and not to chemical predetermination.",
+      "Reviewer_1.1.10": "Title. The title does not encompass appropriately the wide subject matter covered by the\n manuscript. I suggest \u201cThe place of RNA in the origin and early evolution of life\u201d.",
+      "Reviewer_1.1.11": "Line 39. And what is the place of proteins in all that?",
+      "Reviewer_1.1.12": "Line 39 and Section 1 \u201cThe place of RNA in LUCA\u201d. The word retrodiction implies\n reconstruction of ancestors from extant information.",
+      "Reviewer_1.1.13": "Line 40. Interpolation of LUCA and competing theories of the origin of life. In my view, LUCA\n is not a theory of origin of life. It is a theory of origin of diversified cellular life.",
+      "Reviewer_1.1.14": "Line 52. Not only genes are gained and lost with time (Woese theorem), but also mutations\n accumulate to saturation in genes making homology statements difficult. This has been made\n explicit abundantly in the molecular evolutionary literature. A focus on gene content and order\n makes only sense if such homologies at gene level are preserved (if not there will be artifactual\n losses in the alignments).This should be highlighted in the text because it is relevant to the\n validity of the alignment of Figure 1, making its significance more important.",
+      "Reviewer_1.1.15": "Line 62: Change \u201cmultiply\u201d to \u201cmultiple\u201d.",
+      "Reviewer_1.1.16": "Line 406. \u201cLUCA protein cycle\u201d. Why bring LUCA to a link with the proposed \u201cprotein cycle\u201d.\n LUCA is just the last of a chain of ancestor of diversified life. If the protein cycle requires a\n coupling of the enthalpic activation of amino acids and the entropic biosynthetic action of a\n primordial ribosome, then perhaps it is better to call it \u201cribocellular protein cycle\u201d, since this\n coupling marks the start of modern cells, not necessarily \u201cmodern diversified cells\u201d (i.e., LUCA"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Please explain what do you mean with Kandler, Wolfenden etc. Theorem. Is a theorem Kandler\u2019s\n theory or proposal?",
+      "Reviewer_2.1.2": "Line 716: The biosyntheses of His and Trp are not so closely related. They only have in common that\n they use phosphoribosediphosphate as substrate and therefore share two related enzymes.",
+      "Reviewer_2.1.3": "In the iron sulfur world the surface metabolism prevents the diffusion of the fixed products into the\n ocean. But without compartmentation soluble intermediates would escape. Furthermore, the establishment\n of early bioenergetics based on electrochemical Na+ gradients would have been impossible."
+    },
+    "Author": {
+      "Author.2.1": "There are many relevant literature references. Among these there are specific proposals\n concerning a circumscribed problem that are included to fill a logical gap, as a theoretical module so\n to speak. These have been designated by the term \u201ctheorem\u201d with the added name(s) of the main author(s). This makes it clear that the account given is comprehensive in the sense that major\n independent contributions by other scientists integrate readily with the overall account given.",
+      "Author.2.2": "The relationship of His and Trp biosyntheses has been toned down.",
+      "Author.2.3": "Section 8 has been revised in order to address the issues involved in the last query.",
+      "Author.2.4": "The self-cleavage of RNA by 2'-OH is a chemical textbook fact. The 2'-OH group has the\n proper position and orientation for a nucleophilic attack on the phosphate bridge. The kinetics of the\n reaction is greatly favored by the 5-membered ring structure of the resulting cyclic phospho-bisester.\n The length of the RNA molecule is not relevant since each nucleophilic attack causes destruction of the\n chain. The effect should not be confused with the length-dependent \u201cerror catastrophe\u201d of accumulating\n mutations of RNA. Incidentally, some anaerobic ribonucleotide reductases are ancient, while others\n (aerobic ones) are later inventions.",
+      "Author.2.5": "Genome rearrangements are certainly important during later evolution of the phyla. At the\n level of LUCA, i.e., prior to the splitting of the domains, it is not clear, if and to what extent\n rearrangements of the modern style occurred. In this regard we should bear in mind that the LUCA\n genome may have exhibited sense-antisense coding on both strands as suggested by Rodin and Carter.\n This position has been adopted and discussed in the present paper. Therefore, speculations concerning\n possible genome rearrangements may be a bridge too far.",
+      "Author.2.6": "The present analysis comes to the conclusion that the sets of canonical amino acids and bases\n as well as the genetic triplet code were largely complete at the level of LUCA. The Wong coevolution\n theory of the genetic code has been discussed in detail. The literature comprises numerous proposals\n concerning the origin of translation and other aspects of the genetic machinery. A review of all these\n proposals and many others is beyond the scope of the present paper. The present paper is a research\n paper and not a review paper. It aims at a comprehensive account of early evolution from the origin of\n life all the way to LUCA. This puts a systematic constraint on literature selection. An effort\n (unfortunately fallible) has been made to include all those references that integrate with the main lines\n of the present account into a coherent account. Contributions by others that have the character of\n theoretical modules that fit well into this account have been termed \u201ctheorems\u201d with names of the main\n authors attached. A reference to a paper on nucleotide biosynthesis phylogeny is now cited in Section 7.",
+      "Author.2.7": "Based on the valuable criticism Section 2 has been extensively revised. Terminology has been\n clarified. This Section has a rather restricted purpose. It provides chemical arguments for the\n proposition that the pioneer organisms could only exist at high temperature and that the subsequent\n forms of life remained hyperthermophilic for a long time until much later an irreversible evolution\n generated organisms that required lower and lower temperatures. This conclusion places severe\n constraints on all aspects of the evolution of the genetic machinery. The fascinating topics of\n thermodynamics, energy dissipation and information are outside the scope of the paper.",
+      "Author.2.8": "The author expresses his gratitude for the two additional references, which have been\n included in the text.",
+      "Author.2.9": "The statement has been clarified.",
+      "Author.2.10": "In the introduction the term \u201cor proteins\u201d has been added after \u201cRNA\u201d",
+      "Author.2.11": "and the term \u201cretrodict\u201d has been defined.",
+      "Author.2.12": "The term \u201cinterpolate\u201d has been clarified.",
+      "Author.2.13": "The problem of mutational saturation is now included in the discussion of Figure 1.",
+      "Author.2.14": "The term \u201cmultiply impaired\u201d has been replaced by a clearer wording",
+      "Author.2.15": "LUCA is discussed only in Section 1.",
+      "Author.2.16": "The protein cycle is discussed in a separate Section 4, which is concerned with the course of\n evolution before LUCA.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.14",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.15",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.16",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_1.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_1.1.10"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_1.1.11"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_1.1.12"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_1.1.13"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_1.1.14"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_1.1.15"
+    ],
+    [
+      "Author.2.16",
+      "Reviewer_1.1.16"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ]
+  ]
+}

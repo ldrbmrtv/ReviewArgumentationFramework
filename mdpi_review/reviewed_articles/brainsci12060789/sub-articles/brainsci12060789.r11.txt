@@ -1,0 +1,7 @@
+Reviewer 1 Report
+In the present study, the authors revealed how some mutations from patients with GRIN2B-related disorders result in defective synaptic transmission. Using molecular replacement experiments in cultured hippocampal slices and functional properties for diheteromeric and triheteromeric NMDA receptors expressed in HEK293T cells, the authors demonstrated effects of GoF and LoF mutations.
+The results presented are convincing and I only have a few minor comments.
+1) Since mutations can affect NMDA receptor localization, data on whether AMPA/NMDA ratios changed would be informative. It follows from the methodology that AMPA currents were recorded on a regular basis.
+2) Please add a chart about tau changes in Figure 3. Please verify if the time scale is correct in Fig. 3А.
+3) A scheme summarizing how different molecular defects can converge on similar NMDAR-mediated EPSCs would be helpful in the discussion
+4) A small commentary on the possible functional significance of the identified mutation properties for the pathogenesis of certain diseases would be interesting.

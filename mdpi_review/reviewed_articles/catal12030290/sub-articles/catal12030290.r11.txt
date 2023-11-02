@@ -1,0 +1,8 @@
+Reviewer 1 Report
+My comments on this paper are:
+Some FT-IR peaks shift with adsorption of Cr, and some not. Please add the discussion which peak shift is related to Cr, the authors can combine these with the discussion of the mechanism.
+The porosity of the sample should be measured.
+It is better to show the SEM images using the same scale. The magnified images can be shown separately or as inset.
+In Figure 3, what is the origin of the increase concentration of Al and S?
+In the experiment, H2SO4 is added in the first step, what is the purpose? Will this bring pollution problem?
+How about the Cr concentration in the polluted ground water? Is the products suitable for this real condition?

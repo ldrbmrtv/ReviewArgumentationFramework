@@ -1,0 +1,69 @@
+Author Response
+Line 24: write d in full
+Rewritten to:  The relative risk of diarrhoea increased up to 60% at day 7 and 14 if serum Zn status dropped below the weaning level (767 µg/L) and it required approximately 1,100 mg Zn/kg (166 mg Zn/day) during week 1 to maintain the weaning serum Zn status.
+Line 47: a few linking phrases should be added to the study in pig farming
+The authors believe it is unnecessary, as it explained in the previous sentences.
+Line 48: write NRC in full
+Rephrased to: According to National Research Council (NRC), a Zn intake of 26.6-46.8 mg/day for piglets in the weight interval between 5 to 11 kg is recommended [18].
+Line 54: authors wrote June 2022, is the date correct?
+The legislation state that no later than June 26th 2022 will dietary zinc level above 150 mg/kg diet be illegal. The authors do not believe it is important to include the precise date.
+Line 85: write a sentence in which explain the scope of the work
+The scope is, to the authors' belief, explained in the introduction in the sentence about the aim. We have rephrased to: In the current dose-response study, the aim was to determine the optimal dietary level of Zn (supplemented as zinc oxide; ZnO) for pigs the first three weeks PW and the endpoints were feed intake, growth performance, serum Zn status, faecal scores, blood biomarkers of intestinal integrity (D-lactate and diamine oxidase activity [DAO]) and faecal microbial composition.
+Line 88: explain why you choose this breed Danish Landrace × Yorkshire × Duroc)
+This breed is the most common breed in Denmark, which is why it was choosen.
+Line 97: add the statistical account for which sampling was chosen
+Sentence rephrased to: The experiment was conducted in eight blocks repeated over time with 24 pigs/block (4 pigs/treatment/block) in block 1-7 and 12 pigs/block (2 pigs/treatment/block) in block 8.
+But the authors do not quite understand what the reviewer means.
+Line 99: what does it mean? Error! Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text. Errors are corrected.
+Line 103: add in the text the reference to Table 1
+Reference to table 1 in the text is made.
+Line 103: what does it mean? Error! Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text. Errors are corrected.
+Line 104: add the different groups of percentage of ZN
+It is common practice in this field of research to use mg/kg or ppm as a unit.
+Line 113: write ADFI in full and ADFI into brackets
+Sentence rephrased to: To calculate average daily gain (ADG) and average daily feed intake (ADFI), pigs and feed residues were weighed daily from day 0 to day 14 and again on day 21.
+Line 116: describe all four categories
+Sentence rephrased to: The faecal score was assessed daily throughout the experiment based on a four-category scale where faecal score 1 and 2 represented normal faeces (firm and shaped to soft and shaped) and score 3 and 4 represented diarrhoea (loose to watery faeces) [32].
+Line 168: add the catalogue number
+To the authors' knowledge, it is not common practice to include the catalogue number for this.
+Line 171-173-175-182-187: what does it mean? Error! Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text. Errors are corrected.
+Line 173: add in the main text the reference to the table 2
+Reference to table 2 in the text is made.
+Line 223: write what happened to the pigs who did not complete the study
+Sentence rephrased to: One hundred seventy-nine pigs completed the experiment, as one pig was euthanized as it lost more than 15% of its initial weight.
+Line 228-233- 234-242- 243-244: what does it mean? Error! Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text. Errors are corrected.
+Line 252: add in the main text the reference to Figure 1
+Reference to figure 1 in the text is made.
+Line 261: what does it mean? Error! Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text. Errors are corrected.
+Line 268: add in the main text the reference to table3
+Reference to table 3 in the text is made.
+Line 279-284-287-290: what does it mean? Error! Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text. Errors are corrected.
+Line 279: add in the main text the reference to table 4
+Reference to table 4 in the text is made.
+Line 291:  add in the main text the reference to figure 3
+The figure caption for this figure is wrong, it is figure 2. Reference to figure 2 in the text is made.
+Line 297-303-306-308-311 what does it mean? Error! Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text. Errors are corrected.
+Line 312:  add in the main text the reference to figure 4
+The figure caption for this figure is wrong, it is figure 3. Reference to figure 3 in the text is made.
+Line 321:  add in the main text the reference to table 5
+Reference to table 5 in the text is made.
+Line 321-327-330-332: what does it mean? Error! Reference source not found.
+The authors apologise for this mistake, we forgot to change the caption's text to plain text. Errors are corrected.
+Line 335: add in the main text the reference to table 6 and figure 5
+Reference to table 6 in the text is made.
+The figure caption for this figure is wrong, it is figure 4. Reference to figure 4 in the text is made.
+Line 404: authors wrote June 2022, is the date correct?
+The legislation state that no later than June 26th 2022 will dietary zinc level above 150 mg/kg diet be illegal. The authors do not believe it is important to include the precise date.
+Line 446: Has this correlation been seen in animals or only in humans?
+To the authors' knowledge, this has only been seen in humans.
+In the main text there is no figure 2, we pass from figure 1 to figure 3
+The authors apologise for this error, it is corrected.
+In the supplementary materials there is no figure S2, that is present in the main text
+The authors apologise for this error, it is corrected.

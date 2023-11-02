@@ -1,0 +1,32 @@
+Reviewer 2 Report
+The findings of the study are hardly novel, but there is an opportunity for the author(s) to re-analyze the data for more insights. The paper needs further documentation on both the theoretical and literature review levels, to enhance its contributions. Furthermore, although the article is mostly professionally written, it appears to have significant issues with focusing and balancing between theoretical background, literature review, and original research findings. Below is a digest summary of review comments.
+Title of the paper and abstract
+1.     The title could have been more precise. Based on the focus of the journal, the paper must change its title for an international audience.
+2.     The abstract is well written, and its rationale is clearly articulated. However, it can be further improved. Firstly, the author(s) should address several grammatical/syntax errors in the abstract which are distractive and make it difficult to read.
+3.     The main findings of the research is hardly novel nor revealing, which perhaps indicates the need to refine the research question OR re-analyze the data from a different theoretical perspective. As a result, the contribution of the paper is bound to be limited.
+4.     The methodology component of the abstract should clarify the types of data analytics used. Finally, the final section of the abstract needs to mention which aspects of the study would cross-apply to professional environments.
+Introduction
+1.     The introduction presents a good background for the study but does not clearly articulate the problem statement and research questions. As such, the introduction needs more work. The research problem and objectives need to be articulated more specific to issues and problems associated with it.
+Literature review
+1.     Add some literature related to the manuscript research questions.
+2.     The context of the research is not explicitly engaged. The paper takes it for granted that the readers share their view with the authors’ view.
+3.     Before developing the conceptual framework of the current research, the paper should first engage with existing theoretical frameworks in literature to demonstrate the need for the proposed framework. What literature is there to support this claim? This aspect of the paper, is one of the weakest and needs in-depth relook to strengthen the theoretical aspect.
+4.     It would be helpful in clarifying the importance of the proposed study if the paper can include references to some latest articles published in recent years within the scope of the current research. The literature review should be more carefully synthesized and structured. The use of sub-headings and signposting would help the reader to follow the argument being developed through the paper. For clarity and to strengthen the literature review the authors should begin by presenting past work and identify the gaps in the previous work that the findings from the proposed study may shed some light on.
+Methodology
+The methodology is appropriate for the study although several areas need to be expanded on to improve on the quality of the methods employed.
+1.     The methodology needs to be explained well. It should be clearly explained how the methods used in the study are appropriate for analyzing the collected data. For example, for rigor, expand on how the content analysis was conducted. How many themes emerged etc.
+Findings
+This findings section needs a lot of improvements: with regards to the findings, the novelty of the paper findings is low. The analysis should be pushed further to distill higher value insights.
+Discussion
+In the discussion section, the paper should relate the main findings back to previous studies. Doing this will strengthen the paper. In general, the discussion of results could adopt a more critical, analytical perspective to supplement and strengthen the descriptive reporting of the data. Regarding the limitations and reflections, the authors could profitably dig more deeply into some of the variables that might or might not have come into play in generating the results.
+Conclusion
+The structure of the conclusion is good. To improve this section, ensure the conclusions made highlight the unique contributions of the paper and the limitations of the research. Discussions on what should be done in the future are useful. The discussion and conclusion should make it clear how the research findings contribute to new knowledge.
+References and grammar
+The paper needs thorough proof reading and editing to fix grammatical issues.
+Plagiarism check results:
+/* Similarity check with iThenticate revealed a similarity index of 4%, which is considered appropriate.
+In preparing a revised manuscript, please also include a table of how you have responded to each of the issues listed above point by point.
+
+Best wishes
+
+

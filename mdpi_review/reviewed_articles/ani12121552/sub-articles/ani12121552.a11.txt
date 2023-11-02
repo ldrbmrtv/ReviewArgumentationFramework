@@ -1,0 +1,8 @@
+Author Response
+1.There are some errors in this manuscript (L99, L103 et .).
+The authors apologise for this mistake, we forgot to change the caption's text to plain text. Errors are corrected.
+2. why did you test the level of DAO and D-lactate?
+DAO and D-lactate were tested as a biomarker for intestinal integrity. The authors have included the two parameters at the end of the introduction.
+Sentence rephased: Furthermore, these studies were not designed to study effects on growth and feed intake. In the current dose-response study, the aim was to determine the optimal dietary level of Zn (supplemented as zinc oxide; ZnO) for pigs the first three weeks PW and the endpoints were feed intake, growth performance, serum Zn status, faecal scores, blood biomarkers of intestinal integrity (D-lactate and diamine oxidase activity [DAO]) and faecal microbial composition.
+3. 16S sequence may be  better method for the Faecal microbial analysis
+The authors agree with the reviewer, we have also used this method, but we determined it would be too much to include it in this paper and would be better to write an article only about the results of the 16S sequence.

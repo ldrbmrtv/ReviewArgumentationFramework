@@ -1,0 +1,40 @@
+Reviewer 2 Report
+Dear authors,
+
+This is a well-written manuscript summarizing experiments carried out in the last author's group. The authors describe the challenges of echo atom interferometry. In particular, the experiments to determine gravitational acceleration g and the atomic fine structure constante due to measurement of the atomic recoil frequency.
+Some parts of the manuscript are more or less word by word copies of previous paper.  It is up to the editor how to handle that.
+However this is a review paper of previous works and with some reworking of the manuscript and fixing some small problems I support publication of this manuscript.
+
+
+Please find below further comments:
+
+14: "exquisite sensitivity"  normal accelerometers provide better performances and are less complex.
+
+page 8  8th line form bottom: brackets are missing the formula
+
+79: shot-noise limits of < 1 mrad....  please cite
+102: 1600 photon momenta...  please double check that number and citation. Is that a coherent beam splitter?
+128: ...appreciable atom loss characteristic of Raman AIs....   comment: Raman AIs are normally not atom shot noise limited.
+
+128-130: ...Spatial overlap is the only condition required to create an interference pattern,..
+Who would the interference pattern look like if there where just classical beamsplitters? Focusing atoms by micro lenses (standing light wave). Have there been Leggett Garg test?
+
+Formular 18  looks like that there is something wrong!
+
+Figure 4: I don´t get the error bars. They look way to big.
+
+341: ...that a 100-fold increase.... please cite
+
+426: ...to apply a a near-resonant....  typo
+
+536, 573: .... all decoherence mechanisms...  could that also be dephasing? please be specific.
+
+Figure10: error bars? It is not obvious that the error bars are so big and the measured/averaged data points line up perfectly next to each other. I think the paper would benefit a lot if you could comment on the error bars.
+
+706: tip: use a non magnet accelerometer, otherwise you will not be able to distinguish between vibrations and magnetic fields
+
+723: ....is not expected not to affected...   typo?
+
+731: tip:to get the position, one has to integrate 2 times. A seismometer which is sensitive to velocity is maybe a better choice?
+
+778: What means MGE?

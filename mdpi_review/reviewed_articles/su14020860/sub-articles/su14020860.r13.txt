@@ -1,0 +1,7 @@
+Reviewer 3 Report
+The paper studies the relationship between remuneration committees and CSR as well as the moderating role of independent directors. While the paper seems interesting I have several concerns that I would like to share with the authors:
+The introduction lacks of motivation. The reader needs to understand why your research question is important.
+The theoretical background is weak. I am not convinced on your explanation on why committees would affect CSR.
+Your empirical model needs to be reconsidered. Indeed, I believe you have some omitted control variables which may cause an endogeneity issue and drive your findings
+The paper lacks of robustness checks
+The conclusion needs to be rewritten to highlight the practical contributions of the paper

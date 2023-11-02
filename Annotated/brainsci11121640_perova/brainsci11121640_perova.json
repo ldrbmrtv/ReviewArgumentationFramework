@@ -1,0 +1,287 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "Line 31 \u2013 \"(4-10 Hz) induced\u2026\" this is not theta range; please correct.",
+      "Reviewer_1.1.2": "Line 32 \u2013 add the reference.",
+      "Reviewer_1.1.3": "Did the authors take note of the menstrual cycle of the female participants?",
+      "Reviewer_1.1.4": "Although the differences in handedness would not profoundly affect the overall results, can the author check if there were significant differences in stimulation intensity (AMT and RMT) in right and left-handed participants? Left-handed individuals often have a high threshold on the left motor cortex.",
+      "Reviewer_1.1.5": "Line 89-90: edit this part.",
+      "Reviewer_1.1.6": "Line 145 - Edit the subheading",
+      "Reviewer_1.1.7": "Are there differences in stimulation intensities taken from the two devices (Magstim Rapid and BiStim2)?",
+      "Reviewer_1.1.8": "Can you report the F value and effect size? Would it be interesting if the present data can give the same effect size (0.71) as those reported by Chung et al. (2016)?",
+      "Reviewer_1.1.9": "In line 209, the authors reported that \u201cOf 21 participants, 19 (13 females) completed the protocol without any issues. Two female participants had to be excluded\u2026.\u201d. However, looking at Figure 3, it is obvious that plotted data were from 20 participants. Can the author correct this discrepancy?",
+      "Reviewer_1.1.10": "Is the cut-off plus or minus 10 standard for the responder and non-responders? Looking again at Figure 3, we can observe very high variability. In my opinion, plus or minus 10% is arbitrary.",
+      "Reviewer_1.1.11": "Although we would assume that the figure on the left is always the letter \u201cA\u201d and the one on the right is \u201cB\u201d, for the sake of clarification, kindly add a letter legend on the figures.",
+      "Reviewer_1.1.12": "Line 402: in SIFC, one pulse is suprathreshold, and the other is subthreshold."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Why did not compare to the sham stimulation group and 50 Hz/ 5 Hz standard iTBS protocol? I think COVID-19 is not reason. Do you think 30 Hz/6 Hz TBS protocol (intermittent mode) increased MEP amplitude as compared to 50 Hz/ 5 Hz standard iTBS? What are the benefits of 30 Hz/6 Hz TBS protocol (intermittent mode) in comparison with 50 Hz/ 5 Hz standard iTBS?",
+      "Reviewer_2.1.2": "Does the participants have a neurological disease or other diseases? Please write in the manuscript.",
+      "Reviewer_2.1.3": "The single-pulse TMS elicited 20 MEPs at baseline but at three specific time points after post-iTBS (i.e., 5-, 20- and 45-min) just elicited 15 MEPs respectively. Why did not also test 20, 25 or 30 MEPs?",
+      "Reviewer_2.1.4": "In figure 1, the rMT needs to be defined.",
+      "Reviewer_2.1.5": "In line 125, MT needs to be defined.",
+      "Reviewer_2.1.6": "Please do not define aMT the second time in line 134.",
+      "Reviewer_2.1.7": "In line 145, full stop marked an error.",
+      "Reviewer_2.1.8": "In line 28, please define rTMS.",
+      "Reviewer_2.1.9": "How do you test the aMT and rMT? Please give the detailed process.",
+      "Reviewer_2.1.10": "How do you get the hotspot? Please give the detailed process.",
+      "Reviewer_2.1.11": "In lines 459 and 461, pay attention to the space between words.",
+      "Reviewer_2.3.1": "In line 119, the capital \"a\" changes lower case.",
+      "Reviewer_2.3.2": "In line 226, notice the format of the comma.",
+      "Reviewer_2.3.3": "In line 253, where is the F value?",
+      "Reviewer_2.3.4": "In line 282, the result showed r2 = 0.24, p = 0.03 but it is a difference in Fig. 5.",
+      "Reviewer_2.3.5": "Although you state you defined the rMT in Fig. 1 you did not."
+    },
+    "Author": {
+      "Author.2.1": "We agree with the Reviewer that having a direct comparison with the 50 Hz protocol would have been \u2018ideal\u2019 but we have clearly stated the reasons as to why we did not perform such a comparison. First, our primary goal was to describe the effects of a modified 30 Hz iTBS protocol and not to test the relative efficacy of 30 vs 50 Hz bursts. Besides, as we have stated, there is already ample evidence of the effects of 50 Hz/5 Hz in the literature. Second, as we have explained in the limitations, our study was performed in the context of a worldwide pandemic. In this respect, we disagree with the reviewer. The pandemic has and continues to have a major impact on our research activities. Our lab is located in a geriatric hospital setting. For this reason, we had to follow very strict rules regarding who was coming on the premises and how long they would stay. We were allowed to recruit research participants only if they came for a short period and stayed in one room. A comparison between 30 and 50 Hz protocols would have meant having participants come twice (on different days), exposing them each time to risks for COVID. As for the benefits of the 30 Hz protocol, those are clearly stated in the discussion regarding the number of responders and the size of the facilitation.",
+      "Author.2.2": "We have added a sentence to clarify that participants were screened for health conditions.",
+      "Author.2.3": "We collected more MEPS at baseline to account that variations in excitability are often larger when participants received their first series of TMS pulses (even if they have received some stimuli before collecting data to experience the sensation). Thus, 20 MEPs were deemed adequate to get a reliable estimate of resting corticomotor excitability. Along with the same reasoning, we collected 15 MEPs post iTBS since participants were now more familiar with the sensation elicited by TMS pulse and saved time. As we have explained, we had constraints imposed on us by the local REB to limit the time participants were on-site. The fact that we use 130% rMT for the test intensity also reduced inter-trial variability to provide reliable estimates of corticospinal excitability.",
+      "Author.2.4": "Done",
+      "Author.2.5": "We have revised the sentence so that abbreviations are defined.",
+      "Author.2.6": "Correction done.",
+      "Author.2.7": "Correction made.",
+      "Author.2.8": "Done",
+      "Author.2.9": "We have provided more explanations in the text as to how we used the MTAS software to estimate MT.",
+      "Author.2.10": "We have added more details as to how the hotspot was determined?",
+      "Author.2.11": "Corrections were made to check for extra spaces.",
+      "Author.2.12": "Done",
+      "Author.2.13": "We have corrected the sentence to state that SICF is observed when two stimuli are given at or above threshold.",
+      "Author.4.1": "Correction done",
+      "Author.4.2": "Correction done",
+      "Author.4.3": "Correction done. The F value has been added.",
+      "Author.4.4": "The coefficient of determination is for the regression analysis and indicates that Lat differences were significant predictors of MEP facilitation. However, as we explained in the text, when participants were sorted into two groups (early and late I-waves), the difference between the two was not significant according to the Mann-Whitney U test.",
+      "Author.4.5": "Actually, we did, but it seems that the new figure legend with the correction was not properly inserted when the system reformated the document.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_1.1.9"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_1.1.10"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_1.1.11"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_1.1.12"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.10"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_2.1.11"
+    ],
+    [
+      "Reviewer_2.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.3.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.3.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.3.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.3.5",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.1",
+      "Reviewer_2.3.1"
+    ],
+    [
+      "Author.4.2",
+      "Reviewer_2.3.2"
+    ],
+    [
+      "Author.4.3",
+      "Reviewer_2.3.3"
+    ],
+    [
+      "Author.4.4",
+      "Reviewer_2.3.4"
+    ],
+    [
+      "Author.4.5",
+      "Reviewer_2.3.5"
+    ]
+  ]
+}

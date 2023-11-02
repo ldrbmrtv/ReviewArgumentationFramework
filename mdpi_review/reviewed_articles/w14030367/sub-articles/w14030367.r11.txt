@@ -1,0 +1,12 @@
+Reviewer 1 Report
+The paper is interesting.I recommend publication only if the following issues can be addressed.
+- The innovation of this research needs to be better explored.
+- Lines 33-38: You should mention that discharge of PPCPs degrades water quality and thus it cannot be directly used for potable water (via desalination) and industrial applications. Cite the following references:
+Panagopoulos, A. (2021). Energetic, economic and environmental assessment of zero liquid discharge (ZLD) brackish water and seawater desalination systems. Energy Conversion and Management, 235.
+Panagopoulos, A. (2021). Techno-economic assessment of Minimal Liquid Discharge (MLD) treatment systems for saline wastewater (brine) management and treatment. Process Safety and Environmental Protection, 146, pp. 656-669.
+Panagopoulos, A. (2021). Study and evaluation of the characteristics of saline wastewater (brine) produced by desalination and industrial plants. Environmental Science and Pollution Research, 1-14.
+- How many replications you performed for your experiments?
+- Conclusion: Discuss the applicability of your findings/results and future study in this field.
+- Conclusion: Make it as one or two paragraphs.
+- Language editing is recommended.
+- Table 1: What is the salinity (in mg/L) of the samples ?

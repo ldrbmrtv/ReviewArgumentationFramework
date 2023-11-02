@@ -1,0 +1,5 @@
+Reviewer 2 Report
+Comments on the revised manuscript :
+As for Figure 4A and 6C, the authors probably misunderstood my remark.  In fact the first version of these figures was OK with the y-scale  representing powers of ten. I simply suggested to add minor ticks  representing the subdivisions 2 to 9 between powers of ten, so as to  emphasize the logarithmic scale (in GraphPad, just click on  menu “format axes” and chose “minor ticks”).
+Lines 293-307 and discussion. The authors could devote at least a  line or a sentence of the discussion section to the interactions of PB2  with NEP and NP.
+Minor remarksLine 22. We previously showed  substitution PB2-K526R is present in 80%... Line 295. ..functions of …

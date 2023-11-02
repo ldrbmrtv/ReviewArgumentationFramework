@@ -1,0 +1,144 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The plasma conditions are not described sufficiently. It is only stated that the argon-nitrogen mixture \u2018mainly emits high amounts of radiation in the wavelength region from 100 nm to 400 nm\u2019 without specifying what high fluences at the sample site are. The term amount is not applicable here. With the knowledge of the spectral irradiance in the UV range from 100 to 400 nm the authors could have made a calculation to estimate the inactivation of D. radiodurans by the UV component of the plasma.",
+      "Reviewer_1.1.2": "The other potentially inactivating components of the plasma are not specified in the manuscript. For the argon-oxygen gas mixture it is stated that \u2018high amounts of reactive oxygen species are formed in the plasma\u2019 again without any qualitative and quantitative description. Estimations of the average free length of path for the inactivating plasma components might have been helpful for experiment planning.",
+      "Reviewer_1.1.3": "Three different Mars regolith simulants were used. The mineralogical composition is given in table, but not the grain size distribution. Knowing the grain sizes and assuming a homogeneous distributrion of cells and grains or a measurement of the real distribution an assessment can be made about the shading effect of the grains with respect to UV radiation.",
+      "Reviewer_1.1.4": "The authors should have estimated the maximal theoretically achievable effect and to plan the experiments accordingly."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "First of all it is necessary to change the title and at least remove \u201cThe testing\u201d.",
+      "Reviewer_2.1.2": "The introduction part requires more arguments to prove choice of the problem and the research object (D. radiodurans).",
+      "Reviewer_2.1.3": "In addition, I think, a control consisting of D. radiodurans cells before and after sterilization is missing to determine the role of the Martian Analog soils.",
+      "Reviewer_2.1.4": "Lines 31-32: Bacillus subtilis and B.pumilus should be written in italic.",
+      "Reviewer_2.1.5": "Line 38: Deinococcus radiodurans should be written in italic. While writing D. radiodurans R1 has always necessary to note that this is type strain R1T.",
+      "Reviewer_2.1.6": "Line 41: Medium instead of media. If I understood correctly, you used only one medium.",
+      "Reviewer_2.1.7": "Line 50: R1T (=ATCC 13939T=DSM 20539T) instead of R1 ATCC13939/DSM20539",
+      "Reviewer_2.1.8": "Line 57: Are you sure that the Martian Analog soils were sterile before using?",
+      "Reviewer_2.1.9": "Line 78: Please explain in the text what is \u201ca vacuum treatment control\u201d.",
+      "Reviewer_2.1.10": "How do you explain the difference between the results when using JSC Mars-1A analog and the other soils?"
+    },
+    "Author": {
+      "Author.2.1": "The title has been changed.",
+      "Author.2.2": "In the introduction we already described the problem of the destructiveness of heat sterilization like autoclaving on the organic contents of a soil, which was our motivation to test an alternative method such as low temperature plasma sterilization. D. radiodurans was used as test organism because of its resistance towards UV radiation, which is a part of the sterilizing effect of plasma sterilization. The appropriate passages in the introduction section have been edited.",
+      "Author.2.3": "Since we did not intend to test the influences of the Martian Analog soils on D. radiodurans, but the sterilizing effect of the low temperature plasma treatment on cells intermixed with soil, we did not make a control to determine the effects of the Mars analog soils. The starting values of cell numbers were estimated on samples prepared the same way as the samples for the plasma sterilization (intermixed with soils and desiccated as described in the method section). They were incubated on TYG agar plates like the plasma samples after the treatment. This explanation was missing in the text and has now been added to the appropriate passages in the method section (Chapter 2.2.) for a better understanding.",
+      "Author.2.4": "Done, thank you",
+      "Author.2.5": "Yes, we just used one medium (TYG), so we changed it to \u2018medium\u2019.",
+      "Author.2.6": "The writing has been changed accordingly.",
+      "Author.2.7": "Since the bottles containing the Martian Analog soils were autoclaved before use, they should be sterile. We also made a separate test to check for sterility after autoclaving the Martian Analog soils, which has been negative (meaning no contamination could be detected via plating of the autoclaved JSC Mars-1A regolith on TYG medium).",
+      "Author.2.8": "An explanation has been added to the text passage.",
+      "Author.2.9": "The differences might be caused due to the finer grain size of the other regolith used - particularly P-MRS, which possibly increased the shielding effect. This has been added to the discussion section.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.10"
+    ]
+  ]
+}

@@ -1,0 +1,17 @@
+Reviewer 3 Report
+Thank you for addressing my initial comments. The work improved significantly, however, it still requires revisions focused on proof reading, proper numbering, and grammar. I did not comment on minor grammatical errors but please take some time to proof-read the entire paper and make corrections as needed.
+Please find some comments for revisions.
+Lines 11 - 12: The sentence should be removed as it repeats the prior sentence in lines 9 - 10.
+Line 16: ".as the subject." is a sentence fragment, please rewrite the whole sentence correctly. You also do not explain if the team are the authors or who the team is (as you stated you did in the cover letter response).
+Lines 20 - 23: The two sentences are fragmented and unclear. Please re-write! I would once again recommend getting an editor to help proof-read and fix the errors in grammar, sentence structure and fragmentation. The errors make it difficult to read and understand what ought to be a very interesting and valuable paper.
+Line 43: "Which bring challenges to the design of commercial building space traffic flow" is a fragmented sentence. What brings challenges to the design of commercial building space traffic flow? Is it the factors mentioned in the prior sentence such as fuzzy functions and topicalizations? If so, then state that these factors of commercial space use bring challenges and describe some of the challenges.
+Line 66: Are the reasons listed based on the consultation with research scholars and planners? If so, do not say the reasons "may be" but that these are the reasons based on the conversations with the research scholars and planners.
+Line 70: Explain why a user-centered evaluation system will "probably be" an important step in design. I would also suggest using a different term to "probably be".
+Lines 72 - 75: Re-write the sentence
+Section '2.1. Commercial building space traffic flow' is well written and explains the gap and goal of the paper clearly. This is what I mean by taking time to proof read the paper so it flows properly, and clearly explains the important story you are trying to tell.
+Line 120: As mentioned in the initial review, POE does not include instruments, rather POE+M does include the use of instruments. Please make the distinction and cite POE+M references as needed.
+Please proof-read section '2.2. Theoretical Framework', it really needs edits.
+Line 406: Remove the additional "4. Results" mentioned. It is subsection 4.2
+Line 420: Shouldn't it be sub-subsection 4.2.2?
+Line 433: Shouldn't it be subsection 4.3?
+

@@ -1,0 +1,7 @@
+Reviewer 1 Report
+The resubmitted version of this paper exhibits major improvements.  Few notes for consideration here;
+
+·         The suggested title on the response form fits better the scope of the paper, “Commercial Building Space Traffic Flow Design Based on the Post-Occupancy Evaluation”  maybe consider adding a case study given that it is clearly stated in the conclusion that the results are specific and may not be generalized.
+Note that however the uploaded manuscript still shows the previous submission title. Recommend updating it.
+
+·         Clarification of the concept, variables, and methodology have been well-enhanced. Minor text editing.

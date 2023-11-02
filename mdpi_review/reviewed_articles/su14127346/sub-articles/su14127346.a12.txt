@@ -1,0 +1,20 @@
+Author Response
+Dear Reviewer,
+Many thanks for your comments and suggestions. Your review truly helped improve further the paper. Below we provide the details on how your comments and suggestions have been addressed. We take this review as a valuable opportunity to foster the quality of the paper.
+The only remark on the content refers to “Are the arguments and discussion of finding coherent, balanced and compelling? Can be improved”.  The reviewer kindly gives details of the elements that can be improved in the field ‘’Comments and Suggestion for Authors’’. We address each of them as follows:
+
+"To the best of our knowledge, this is the only study that addresses the role of economic and political uncertainty as a moderator in a model that accounts for the dynamic patterns of firm environmental performance" (line 128). --> I believe the authors intended "moderating role."
+
+Absolutely. Changed accordingly (line 160).
+
+“The authors could go into greater detail to explain the logic behind this relationship. As it stands, the paper offers little insight into the reasoning behind their hypothesis.”
+
+We answered this comment along different dimensions. We revise and elaborate on the explanation and interpretation of the results. We provide further explanations on the ways political and economic uncertainty shapes the relationship between corporate board gender diversity and firms’ environmental performance. We also emphasize the policy implications of these findings (lines 453-461, 487-496).
+In addition, we add more theoretical arguments to the discussion based on the most recently published academic papers on the topic. (Lines 421-452)
+
+“It would be useful if the authors provided some speculative thoughts on the finding that the slope of the GenDiv variable is negative in highly uncertain countries on the firm's environmental performance (Figure 3 (c) red line).”
+
+To address this comment, we added supporting arguments disseminated across the text (particularly in lines 348-361, lines 421-428, etc). These explain the finding you are referring to by attitude towards risk and uncertainties. The related theory posits that females’ attitude when facing uncertainty is different from males. Women on corporate boards tend to be more risk-averse and lean more toward conservatism in an uncertain environment. They tend to exhibit a strong inclination to wait until the uncertainty is resolved before making major business decisions. Therefore, the more females there are on corporate boards, the higher would be their weight in the board decisions, and by the same token, the higher would be the effect of uncertainty on firms’ decisions.
+
+
+

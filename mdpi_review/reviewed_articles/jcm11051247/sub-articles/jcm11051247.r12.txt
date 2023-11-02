@@ -1,0 +1,15 @@
+Reviewer 2 Report
+①2. Materials and Methods　2.1. Study design and population
+If there are mutations or differences in viral strains during the course of the study, should differences in response to TOC and timing of administration depending on the strain be considered?
+
+②3. Results
+86 cases are excluded from 187 cases, which is too many. What is the reason?
+When comparing different oxygen delivery methods, isn't it more appropriate to compare FiO2 rather than oxygen flow rate?
+The median oxygen flow rate is shown to be 14 L/min, but FiO2 may vary depending on the method of oxygen delivery (nasal canulae, HNF, MV).
+The oxygen flow rate of 13 L/min measured by ROC as a cutoff value for TOC administration should be presented by FiO2.
+
+3.2. Comparative radiologic changes before and after TOC administration
+In Table 2, about the change in CT findings in fatal and non-fatal patients before and after TOC administration, isn't it the same as the difference in imaging findings between patients who survive after severe illness and those who do not, regardless of TOC?
+
+3.3. Timing of TOC administration according to the oxygen flow rates
+As mentioned above, the cutoff value is O2 13L/min, but the oxygen volume is difficult to interpret because FiO2 varies depending on the method of oxygen delivery.

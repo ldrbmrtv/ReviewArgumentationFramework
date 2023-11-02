@@ -1,0 +1,5 @@
+Reviewer 1 Report
+This study aims to explore whether the existence of remuneration committees tend to disclose more corporate social responsibility (CSR) information. Comments are as below.
+Theoretical issues: although the agency theory and practical function of remuneration committees were described in the manuscript, few efforts were made to give the main theoretical mechanism/logic. Especially since “there does not appear to be any literature focused on examining the association between the constitution of remuneration committees and the reporting of CSR information”, the authors should provide the theoretical link to propose the hypotheses.
+Methodological issues: the dummy of CSR_index is too simple and cannot address the complexity of CSR strategy and CSR disclosure. And so is the independent variable. Many other important control variables should be introduced to the regression, such as, financial performance, the firm size, the firm age, the industry-fixed effects, the country-fixed effects. The results may not be robust without these controls.
+Other issues: the figure 1 can be re-designed to conform the academic norms.

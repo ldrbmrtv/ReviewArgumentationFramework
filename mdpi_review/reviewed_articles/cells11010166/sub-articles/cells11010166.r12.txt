@@ -1,0 +1,9 @@
+Reviewer 2 Report
+As clearly described by the authors in the introduction, liposomal nanotraps can neutralize exotoxins produced by various pathogens by becoming targets of these exotoxins initially directed at host immune cells.
+The paper by Besançon et al. analyzes whether a mixture of cholesterol-containing liposomes (Ch:Sm-liposomes) with phosphatidylcholine liposomes (PC-liposomes) is protective against the combined action of SLO and SLS streptococcal exotoxins. To this end, they design a series of experiments in which they confront different monocytc and lymphoid cell lines to cytolysins in the absence and presence of the decoy liposomes.
+The title and abstract are appropriate for the content of the text. The article is well constructed and the experiments were well conducted although cell survival experiments should be more detailed especially in terms of the results shown. I miss a concluding paragraph to replace some of the last paragraphs of the discussion, most of which are redundant with the information provided in the introduction.
+Specific comments/questions
+Although the sensitivity of immune cells to GAS or GGS supernatants is shown in the first section of the results, were any controls used in the neutralization assays with liposomes?
+In the material and methods section it is stated that the cells survival assays start with the addition of a fixed volume of supernatant but it is not clear to me the criteria for reflecting different amounts of supernatant in Figures 2 and 3. It should be explained more clearly. What is the reason for using different amounts of supernatant with cytolysins depending on its source or the type of cell line it is tested against in figures 2 and 3? This should be explained. Furthermore, it should be justified why this difference does not influence the comparison of the results with the different cell lines (THP1, Jurkat, Raji).
+
+

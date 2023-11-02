@@ -1,0 +1,29 @@
+Author Response
+Dear Editor,
+
+We thank you for the supportive comments on our article. We now provide an outline of the changes we have made to the manuscript.
+
+Apart from addressing the referee comments, we have made minor changes to the text of the manuscript and fixed a few additional typos. We have also added three references, and corrected some of the existing references.
+
+In what follows, we mirror each of the comments from the referee in point form and provide our response immediately afterward.
+
+Sincerely,
+A. Kumarakrishnan and co-authors.
+
+
+-          1) Authors should tell us more about the detection technique. How the read-out signal is analyzed to extract the fringe pattern? What is the detection noise, how this noise impacts the statistical uncertainty? ....
+
+Response: We have added the following description of how the signal is processed for recoil measurements near line 255:
+
+“A gated photo-multiplier tube (PMT, 8 x 10^{-5} W/V at 780 nm, noise equivalent power 100 nW) is used to detect the power in the back-scattered field. Figure 3(c) shows an example of the echo signal recorded by the PMT averaged over 16 repetitions of the two-pulse AI. This signal is converted to units of optical power and numerically integrated to obtain a quantity which we term the echo energy. This quantity is proportional to the contrast of the atomic density modulation and the intensity of read-out light incident on the atoms. As a result, the signal is sensitive to both atom number fluctuations and photon number shot noise. This is a drawback compared to fluorescence detection techniques, where the optical transition can be saturated and is therefore less sensitive to photon shot noise [102]. In these experiments, we typically observed a noise floor of 0.1 pJ per shot, or ~ 0.025 pJ after averaging over 16 repetitions, which was dominated primarily by the NEP of the PMT.”
+
+For the gravity measurements, signal processing for the two-pulse AI is described in lines 594-602, and in lines 626-634 for the three-pulse AI.
+
+-          2) To underline the benefit of EAI method for gravity measurement, the authors draw on a comparison with the method described in ref (118). Since 2011, others methods has been investigated (see M. Andia et al., Phys. Rev. A 88, 031605(R) (2013 and R. Charriere et al. Rev. A 85, 013639 (2012)). I think that these references should be at least cited.
+
+Response: The article by Andia et al was already cited in the article. We have added a citation to Charriere et al in sections 1 and 3.1. We have also rewritten section 3.1 to be more consistent with recent work carried out by the cold-atom gravimeter community.
+
+-          3) The authors present succinctly the (low coast) laser source that leads to the required features (in terms of power, spectral tuning range and frequency noise). To my knowledge similar schemes are currently used in many laboratories. Probably I did not get (understand? ) the subtleties. The authors should more highlight the originality of their scheme. The ref 58 should be completed, When I look on the web, using the title of the reference 58, I find a patent?
+
+Response: In lines 870-887, we have pointed out that the novelty of these laser systems is the ability to vacuum-seal the cavity and reduce frequency shifts due to pressure variations. The auto-locking controller uses a variety of feedback algorithms to ensure long-term stability. Such a laser configuration does not seem to be available commercially. We have modified the citation to this work to reflect the fact that the manuscript is in preparation.
+

@@ -1,0 +1,2 @@
+Reviewer 2 Report
+The authors extensively study the effects of human serum, human serum albumin, or human pleural fluid  on Cefiderocol sensitivity of a panel of A. baumanii strains. Cefiderocol is a cidal antibiotic. It would be of great interest if for the key results the authors would also provide MBC and / or time-resolved kill-curves. I believe this kind of data would be of great relevance for assessing the clinical relevance of the observed effects.

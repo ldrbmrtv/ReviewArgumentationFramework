@@ -1,0 +1,19 @@
+Reviewer 2 Report
+This study has compared acute effects of exercise and inactivity in fibromyalgia (FM) and pain-free controls on changes in pain and cerebral activity in response to heat.
+
+Following exercise in FM patients, activity was transiently increased in anterior insula and dorsolateral prefrontal cortex (DLPFC) while activity was transienly decreased following rest. In paralell pain sensitivity to heat was decreased by exercise.
+
+Changes in pain sensitivity after exercise versus rest were significantly correlated with changes in activity in DLPFC (exercise vs. rest). However, in the latter case the authors need to address the issue of multiple correlations.
+
+Nine individuals in each group were included in neuroimaging analyses, this should be indicated in the abstract.
+
+In table 3 the subheading "Peak X, Y, X" needs correction.
+
+Consider discussing the results in relation to previous studies on exercise and neuroimaging
+
+The results are clearly reported and adequately discussed.  The findings are novel and may be compared to previous studies of exercise and neuroimaging in fibromyalgia.
+
+I will be happy to read the revised version of the manuscript.
+
+
+

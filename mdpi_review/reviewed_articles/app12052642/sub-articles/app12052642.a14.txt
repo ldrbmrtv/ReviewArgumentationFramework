@@ -1,0 +1,8 @@
+Author Response
+We thanks the reviewer for the encouragement and valuable comments.
+1. The contribution of this work with respect to the relevant work is further described in Introduction (as marked in the manuscript).
+2. The theoretical part has been extended in the modeling section (page 3).
+3. The modeling section (page 3) has been extended to make it clear how the parameters were obtained.
+4. The recommended and other relevant references have been added.
+5. Subsection 3.2 has been rewritten to add more details regarding the obtained results.
+6. The following sentence has been added at the end of first paragraph of Conclusions to clarify disadvantage of DL-LET: “The DL-LET joint is vulnerable to delamination of the two layers.”

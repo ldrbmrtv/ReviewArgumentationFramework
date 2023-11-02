@@ -1,0 +1,46 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;In the introduction, (Line 76 79), you present the objectives, but those are not clear, I respectfully suggest focusing on your hypothesis
+Reviewer 1;Author;1;2;0;Line 78: You wrote, “designed to meet the basic behavioral needs of the sow at farrowing”, but this is not tested on the paper.
+Reviewer 1;Author;1;3;0;Lines 80 – 83 moves to discussion section
+Reviewer 1;Author;1;4;0;Figure 1 is missing
+Reviewer 1;Author;1;5;0;Figure 2 needs more description, maybe include which wall… Please describe units of the dimensions
+Reviewer 1;Author;1;6;0;Figure 4. Please indicate which is “sowconf” and which is “trad”. In the left graph the units are in m2, but in right side it does not have unit, seems ar?
+Reviewer 1;Author;1;7;0;Line 206: I don’t understand why you use just 10 o 12 sows, 50% primi and multiparous, but in line 225 mentioned that “there were no secure information about sow parity” please be consistent.
+Reviewer 1;Author;1;8;0;Please include P values when report significant differences.
+Reviewer 2;Author;1;1;0;Figure 1 does not appear in the pdf that this reviewer could download. Only the Figure Caption appears.
+Reviewer 2;Author;1;2;0;It is not totally clear to the reviewer how stillborn piglets were evaluated as compared to “piglets with no milk in stomach”.
+Reviewer 2;Author;1;3;0;Line 224-225, it states that that no information/security on the productivity data on whether it was primiparous or multiparous sow. Again this creates a bit of confusion. Sows were recorded, 50% primiparous and 50% multiparous to evaluate behaviour, and results are discussed accorging to that (lines 320-321). Why productivity data was not available?
+Reviewer 2;Author;1;4;0;Figure 5 and 7 display the overall causes of mortality for the three batches. However, differences in batches were found. Could this overall causes be biased by this batch effect?
+Reviewer 3;Author;1;1;0;Please add the important information to the footnote or figure legend of the tables and figures. Such as: abbreviations, replicates n=?, mean±SD/SE, ect.
+Reviewer 3;Author;1;2;0;Please italic the P value throughout the paper.
+Reviewer 3;Author;1;3;0;Lines 129-133, where is the figure 1?
+Reviewer 3;Author;1;4;0;Line 263, please add “(3 batches with TRAD and 2 batches with SOWCOMF)” to the figure legends.
+Reviewer 3;Author;1;5;0;Line 275-276, Space needed before and after “±”.
+Reviewer 3;Author;1;6;0;The quality of the Figrue 6 need to be improved.
+Reviewer 3;Author;1;7;0;Figure 7, using “*” to substitute the different letters to express the difference.
+Reviewer 3;Author;1;8;0;Table 4, please using the writing way to present the table.
+Reviewer 3;Author;1;9;0;Figure8, do not understand the meaning of “***” here?
+Reviewer 3;Author;1;10;0;Figure 7, please improve the perspective of the figure.
+Author;Reviewer 1;2;1;1;line 76 and 79: Sentence about two farms with financial support is deleted from the aim.
+Author;Reviewer 1;2;2;2;"Line 78: ""designed to meet behavioural needs...."" is deleted
+ Overall, the objective now is focused on the hypotheses. The reviewer is completely right in adressing this point."
+Author;Reviewer 1;2;3;3;l 80-83 is now deleted from the objectives
+Author;Reviewer 1;2;4;4;Figure 1 must was lost from the last document, and we are so sorry for this. The figure is now included in the new document
+Author;Reviewer 1;2;5;5;More explanation is included in the figure text of figure 2
+Author;Reviewer 1;2;6;6;Corrections are made in the text of figure 4.
+Author;Reviewer 1;2;7;7;l 206, l225 Info is changed according to the reviewers request.
+Author;Reviewer 1;2;8;8;The system we have used is to refer to the table with statistical values when reporting significant differences for the results presented in figures and tables, but for those that are presented in the text only, we also have P- and F-values in brackets. Insted of inserting P-values in the text when reporting significant differences for the ones that are in tables, we have included more references to the stat-tables. I hope the reviewer find that satisfactory.
+Author;Reviewer 2;2;1;1;Figure 1 was missed from the last MS. Sorry for this error. This is now included
+Author;Reviewer 2;2;2;2;Stillborn piglets vs piglets with no milk: more details are included about this in the description of the M/M
+Author;Reviewer 2;2;3;3;224-225: confusion about parity is corrected, same comment as reviewer one
+Author;Reviewer 2;2;4;4;Figure 5 and 7. There is always effects of batches in these types of studies. This is also why we prefer to have several batches, but the main effect should not be biased by the batch effect in the present study, as the main finding are quite clear even in our small data set. However, it would be more elegant to have more batches. This was unfortunately not possible in the present iinnovation project. As mentioned earlier, we did not have resources t continue the data collection within the time period we had.
+Author;Reviewer 3;2;1;1;mean + se is given in all tables and figures, Replicates are now included and abbreviations explained.
+Author;Reviewer 3;2;2;2;Italic for P-values in the text. Done!
+Author;Reviewer 3;2;3;3;Figure 1 was no included by an error in the last MS. It is now inserted again.
+Author;Reviewer 3;2;4;4;Batches and number of litters are added to the figure legends.
+Author;Reviewer 3;2;5;5;Space before and after sign is added.
+Author;Reviewer 3;2;6;6;A new and improved version of figure 6 is now included.
+Author;Reviewer 3;2;7;7;We have inserted * to denote differences instead of letters.
+Author;Reviewer 3;2;8;8;Table 4 is inserted again in the writing form.
+Author;Reviewer 3;2;9;9;The meaning of ***: this is explained.
+Author;Reviewer 3;2;10;10;Quality of figure 7 is improved.

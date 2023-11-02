@@ -1,0 +1,7 @@
+Reviewer 1 Report
+The paper is worth publishing. It is an experimental work that can contribute to the state of the art. However, I would like to suggest some additions to help the reader understand the physics behind the device operation, without the need for an extensive search. The authors may consider the following issues if the editor agrees:
+Since this is a normally-on device, it is assumed that there is a conducting channel under the gate. Explain how this hole-channel is formed? A simple explanation would be enough.
+Since this is an interface device, it would help the reader to see an energy band diagram for the device. Is there a quantum well at the interface due to surface band bending? How does the band look?
+The dielectric is grown using ALD, which is assumed to grow materials with low defect densities. Why are there 1.66 a1013/cm2 and trapped charges of 4.03 x 1012 /cm3 these are very high values for the device to be stable? Can you explain?
+Any evidence for the validity of the explanation for the decrease of the negative charges with annealing?
+Any evidence for the validity of the explanation for the increase of mobility and the subsequent decrease with annealing?

@@ -1,0 +1,7 @@
+Reviewer 2 Report
+This manuscript relates to the effect of dysprosium substitution in Ce:YIG thin films and in particular to the temperature dependance of their Faraday rotation. It is in general well written and the work deserves  publication. There are just a few issues that the authors should take into account for further improving their paper prior to acceptance:
+1) For several references, the text "Error! Reference source not found" appears. Please check with the editor if this can be fixed.
+2) In equation (2) and the following line, there are inconcistencies in the use of capital letters for the Faraday rotation angles.
+3) Line 111. "X-ray diffraction patterns", not "spectra".
+4) Figures 2 (c) and (d). While the Faraday rotation angle appears to decrease more or less linearly with temperature in the Ce:YIG film (as far as can be inferred from the non-linear horizontal scale), the decrease is not taking place at the same rate in the Dy:Ce:YIG film. What causes this different behavior?
+5) Figures 3 (a) and (b): It could be good to use the same horizontal scale for a clearer comparison.

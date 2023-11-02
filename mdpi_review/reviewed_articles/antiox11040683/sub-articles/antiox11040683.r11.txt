@@ -1,0 +1,3 @@
+Reviewer 1 Report
+The Authors showed the role of the BCAT1 CXXC motif in AML and to understand how this may influence cellular redox processes.
+The manuscript is well written, the results support the hypotheses. The figures should be improved in quality so the work would take on another aspect. Figure 7b is not very credible, when U937 become macrogphages adhere to the plate and assume the morphology of a macrophage. the figure is not clear and not well visible. The authors should also show the flow cytometers panels related to cd68 and cd14. This figure does not convince me very much.

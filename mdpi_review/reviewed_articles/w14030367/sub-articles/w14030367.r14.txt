@@ -1,0 +1,17 @@
+Reviewer 4 Report
+Title: Pilot-scale biological activated carbon filtration-ultrafiltration (BAC-UF) system for removing pharmaceutical and personal care products (PPCPs) from surface water.
+##Overall comments
+The authors described a pilot-scale BAC and BAC-MF technology to remove PPCPs from the river water (Foshan, Guangdong, China). The authors have used pump water from the river to the storage tank and used supernatant water from the storage tank (Fig. 1) for this experiment. Results have not been well discussed. The authors reported the results with an average value and standard deviation. However, it must need statistical analysis. The reviewer suggests at least a t-test analysis. Therefore, it needs a Major revision.
+##Comments on the title, Abstract, and References
+Authors should avoid abbreviations in the title and the abstract.
+Authors may revise the title to include river water instead of surface water.
+References should be according to the journal format.
+##Comments on Introduction section
+Line 44-45: Ultrafiltration (UF) as emerging technology, has been widely used to remove pollutants such as particles, colloids, bacteria and viruses, reducing the risk of water-borne diseases and …UF membranes cannot effectively rejected these soluble substances”. Please clarify, why ultrafiltration cannot remove the PPCPs since it can remove bacteria and viruses.
+##Comments on Results and discussion
+Please add t-test results in Table 1 for each parameter to understand the significant differences. Authors may provide data in the supporting information file.
+Why the same trend of increase or decrease in graphs (Fig. 1) was observed in Fig. 1(c). Why is the DO concentration of BAC-effluent sometimes higher than the Raw water. Please explain it in the manuscript. The reviewer suggests statistical analysis using a t-test (Raw water- BAC-Effluent and Raw water – BAC/UF-effluent).
+The reviewer suggests evaluating the statistical t-test for Figures 4.
+t-test results should be included in Table 2. Why is the standard deviation of Erythromycin showing a high value?
+Please look at the curve of BAC/UF; there was a symbol missing in near 85 days. Please show each symbol.
+The conclusion may be revised.
