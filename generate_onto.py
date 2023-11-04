@@ -13,32 +13,46 @@ def json2owl(name):
     onto = get_ontology(f'{onto_name}.owl')
     with onto:
 
-        # Creating argument sets
-        argument_sets = data['argument_sets']
-        for argument_set, arguments in argument_sets.items():
-            Cl = types.new_class(argument_set, (Thing,))
-            for argument, text in arguments.items():
-                inst = Cl(argument)
-                inst.label = text
-
         # Asserting attacks relation
         class attacks(ObjectProperty):
             pass
 
         class isAttackedBy(ObjectProperty):
             inverse_property = attacks
+
+        class round(AnnotationProperty, FunctionalProperty):
+            pass
+
+        class number(AnnotationProperty, FunctionalProperty):
+            pass
         
+        # Creating argument sets
+        argument_sets = data['argument_sets']
+        for argument_set, arguments in argument_sets.items():
+            Cl = types.new_class(argument_set, (Thing,))
+            for argument, text in arguments.items():
+                argument = argument.split('.')
+                inst = Cl()
+                inst.label = text
+                inst.round = argument[1]
+                inst.number = argument[2]
+
         attack_pairs = data['attack_pairs']
         for pair in attack_pairs:
-            argument1 = onto[pair[0]]
-            print([pair[0], argument1])
-            argument2 = onto[pair[1]]
-            print([pair[1], argument2])
+            argument1 = pair[0].split('.')
+            argument1 = onto.search_one(is_a = onto[argument1[0]],
+                                        round = argument1[1],
+                                        number = argument1[2])
+            argument2 = pair[1].split('.')
+            argument2 = onto.search_one(is_a = onto[argument2[0]],
+                                        round = argument2[1],
+                                        number = argument2[2])
             argument1.attacks.append(argument2)
+            argument2.isAttackedBy.append(argument1)
 
         # Starting reasoning to derive inverse attacks
-        sync_reasoner_pellet(infer_property_values = True,
-                             debug = 2)
+        #sync_reasoner_pellet(infer_property_values = True,
+        #                     debug = 2)
 
         # Closing world
         for inst in onto.individuals():
@@ -69,4 +83,7 @@ def json2owl(name):
             
 
     onto.save(f'{name}.owl', format = 'ntriples')
-
+    with onto:
+        sync_reasoner_pellet(infer_property_values = True)
+    onto.save(f'{name}_inferred.owl', format = 'ntriples')
+    onto.destroy()
