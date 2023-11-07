@@ -17,18 +17,18 @@ reviews = []
 for i, review in enumerate(os.listdir(path)):
     for annotation in os.listdir(os.path.join(path, review)):
         annotator = annotation.split('_')[1]
-        onto = os.path.join(path, review, annotation, f'{annotation}.owl')
+        onto = os.path.join(path, review, annotation, f'{annotation}_inferred.owl')
         if os.path.exists(onto):
             onto = get_ontology(onto).load()
             n_classes = len(list(Thing.subclasses()))
             
-            rev_arg_dist = []
+            n_arg_revs = []
             for cl in Thing.subclasses():
-                n_arguments = len(list(cl.instances()))
+                n_args = len(list(cl.instances()))
                 if cl.iri.endswith('Author'):
-                    n_arg_author = n_arguments
+                    n_arg_author = n_args
                 else:
-                    rev_arg_dist.append(len(list(cl.instances())))
+                    n_arg_revs.append(n_args)
             
             paper = onto.search_one(is_a = onto['Author'],
                                     round = '0',
@@ -36,15 +36,28 @@ for i, review in enumerate(os.listdir(path)):
             chains = []
             get_paths(paper, [])
             lengths = [len(x) for x in chains]
+
+            adm_revs = []
+            for cl in onto.classes():
+                n_args = len(list(cl.instances()))
+                if cl.iri.endswith('AuthorAdmissible'):
+                    adm_author = n_args
+                elif cl.iri.endswith('Admissible'):
+                    adm_revs.append(n_args)
+
+            author_pref = adm_author > sum(adm_revs)
             
             reviews.append({
-                'review': review,
-                'annotator': annotator,
-                'n_arg_sets': n_classes,
-                'n_arg_author': n_arg_author,
-                'arg_revs': rev_arg_dist,
-                'arg_chain_lens': lengths,
-                'arg_chain_len_max': max(lengths)})
+                'Review': review,
+                'Annotator': annotator,
+                'Number of argument sets': n_classes,
+                'Number of author\'s arguments': n_arg_author,
+                'Numbers of reviewers\' argumnets': n_arg_revs,
+                'Lengths of argument chains': lengths,
+                'Maximal length of argument chains': max(lengths),
+                'Number of author\'s admissible arguments': adm_author,
+                'Numbers of reviewers\' admissible arguments': adm_revs,
+                'Is author\'s extension preferable': author_pref})
             
             onto.destroy()
 

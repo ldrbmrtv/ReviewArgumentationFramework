@@ -1,0 +1,8 @@
+SELECT ?argument_set (count(?argument) as ?n_admissible)
+WHERE {
+    ?argument a ?argument_set .
+    filter regex(str(?argument_set), ".*Admissible") .
+}
+GROUP BY ?argument_set
+ORDER BY DESC(?n_admissible)
+LIMIT 1
