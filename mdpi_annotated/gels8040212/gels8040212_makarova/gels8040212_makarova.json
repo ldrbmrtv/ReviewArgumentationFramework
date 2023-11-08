@@ -25,23 +25,26 @@
       "Reviewer_2.1.17": "Line 530: English check"
     },
     "Author": {
-      "Author.2.1": "Thanks for carefully checking. Whey protein isolate (WPI) has been added in Line 60-61 in the manuscript.",
-      "Author.2.2": "Thanks for your constructive comment. Line 84-88 has been removed and it made the manuscript more logically. Thank you again for the good comment.",
-      "Author.2.3": "Thanks for your comment. The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102. This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript.",
-      "Author.2.4": "Thanks for your comment. The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102. This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript.",
-      "Author.2.5": "Thanks for your carefully check. The manuscript has been revised accordingly in Line 159-161.",
-      "Author.2.6": "Thanks for your carefully check. Figure 3 has been revised accordingly.",
-      "Author.2.7": "Thanks for your comment. Figure 4 has been adjusted to make the legend clear. In fact, B1, B2 and B3 were in a relatively homogeneous state, and no phase separation had occurred. The shadow in the middle part of the apparent image of the heat-induced gels was because the texture test was carried out before shooting. Unlike TGase-induced emulsion gel had very good elastic texture, the structure of heat-induced gels did not fully recover to its original state due to its soft and less elastic texture after compression.",
-      "Author.2.8": "Thanks for your constructive suggestion. Figure 7B has been revised accordingly, that is, a graph was added which displayed the apparent viscosity of all emulsion gels at a fixed shear rate of 0.25/s, showing the differences between groups very visually. Thanks again for your suggestion.",
-      "Author.2.9": "Thanks for your question. In order to choose appropriate emulsifier, we prepare different WPI concentration of 1.0-2.0 wt% and found the emulsion formulated with 1.5 wt% WPI had smaller size and medimum zeta potential, so it was described to the optimize condition. For clarity, we have also revised the corresponding positions in the manuscript.",
-      "Author.2.10": "Thanks for your good suggestion. The gel continuous phase was the WPI-gelatin mixture. To more clearly describe the composition of the emulsion gel, Table 3 has been added to the manuscript. The pre-gel mixture, refered to the mixture before gelation occurred, was composed of WPI-gelatin mixture and emulsions, but due to the large number of samples prepared by the single factor experiment, only the general formulation of the emulsion gel was listed in Table 3. And the relevant statements in 4.2.2 and 4.2.3 have been revised in the manuscript.",
-      "Author.2.11": "Thanks for your check. It was revised in the manuscript.",
-      "Author.2.12": "Thanks for your carefully review. The characterization of emulsions was investigated by the droplet size, polydispersity index (PDI) and zeta potential. This expression has been revised in the manuscript.\r\nPoint 14: Line 500: Define PDI at first use",
-      "Author.2.13": "Thanks for your comment. PDI was the polydispersity index and the manuscript has been revised in Line 501.",
-      "Author.2.14": "Thanks for your comment. The gap was set to 1 mm. Thank you again for your careful review.",
-      "Author.2.15": "Thanks for your question. 1% strain was within the linear viscoelastic region in our pre-experiment so it was chosen for other tests.",
-      "Author.2.16": "Thanks for your comment. The statement in 4.2.5 has been revised in the manuscript.",
-      "Author.2.17": "Thanks for your carefully check. Line 533 has been modified which corresponding to the line of revised manuscript.",
+      "Author.2.1": "Thanks for your suggestion. In this study, texture profile analysis was investigated by a Texture Analyzer (TA.XT PLUS/50, STABLEMICVO, UK) using a P/0.5R cylindrical probe, and corresponding description has been added to the manuscript in Line 526 marked in red font.",
+      "Author.2.2": "Thanks for your comment. The gel without the emulsion was taken as the emulsion blank gel, which was the gel formed only by gel continuous phase.",
+      "Author.2.3": "Thanks for your question. Wet gel were the emulsion gels we obtained, which had a three-dimensional network structure that can hold a large amount of water. The corresponding Line  570 in the manuscript has been revised to a more accurate expression, emulsion gels. Thanks again for your careful review.",
+      "Author.2.4": "Thanks for carefully checking. Whey protein isolate (WPI) has been added in Line 60-61 in the manuscript.",
+      "Author.2.5": "Thanks for your constructive comment. Line 84-88 has been removed and it made the manuscript more logically. Thank you again for the good comment.",
+      "Author.2.6": "Thanks for your comment. The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102. This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript.",
+      "Author.2.7": "Thanks for your comment. The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102. This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript.",
+      "Author.2.8": "Thanks for your carefully check. The manuscript has been revised accordingly in Line 159-161.",
+      "Author.2.9": "Thanks for your carefully check. Figure 3 has been revised accordingly.",
+      "Author.2.10": "Thanks for your comment. Figure 4 has been adjusted to make the legend clear. In fact, B1, B2 and B3 were in a relatively homogeneous state, and no phase separation had occurred. The shadow in the middle part of the apparent image of the heat-induced gels was because the texture test was carried out before shooting. Unlike TGase-induced emulsion gel had very good elastic texture, the structure of heat-induced gels did not fully recover to its original state due to its soft and less elastic texture after compression.",
+      "Author.2.11": "Thanks for your constructive suggestion. Figure 7B has been revised accordingly, that is, a graph was added which displayed the apparent viscosity of all emulsion gels at a fixed shear rate of 0.25/s, showing the differences between groups very visually. Thanks again for your suggestion.",
+      "Author.2.12": "Thanks for your question. In order to choose appropriate emulsifier, we prepare different WPI concentration of 1.0-2.0 wt% and found the emulsion formulated with 1.5 wt% WPI had smaller size and medimum zeta potential, so it was described to the optimize condition. For clarity, we have also revised the corresponding positions in the manuscript.",
+      "Author.2.13": "Thanks for your good suggestion. The gel continuous phase was the WPI-gelatin mixture. To more clearly describe the composition of the emulsion gel, Table 3 has been added to the manuscript. The pre-gel mixture, refered to the mixture before gelation occurred, was composed of WPI-gelatin mixture and emulsions, but due to the large number of samples prepared by the single factor experiment, only the general formulation of the emulsion gel was listed in Table 3. And the relevant statements in 4.2.2 and 4.2.3 have been revised in the manuscript.",
+      "Author.2.14": "Thanks for your check. It was revised in the manuscript.",
+      "Author.2.15": "Thanks for your carefully review. The characterization of emulsions was investigated by the droplet size, polydispersity index (PDI) and zeta potential. This expression has been revised in the manuscript.\nPoint 14: Line 500: Define PDI at first use",
+      "Author.2.16": "Thanks for your comment. PDI was the polydispersity index and the manuscript has been revised in Line 501.",
+      "Author.2.17": "Thanks for your comment. The gap was set to 1 mm. Thank you again for your careful review.",
+      "Author.2.18": "Thanks for your question. 1% strain was within the linear viscoelastic region in our pre-experiment so it was chosen for other tests.",
+      "Author.2.19": "Thanks for your comment. The statement in 4.2.5 has been revised in the manuscript.",
+      "Author.2.20": "Thanks for your carefully check. Line 533 has been modified which corresponding to the line of revised manuscript.",
       "Author.0.0": "Paper"
     }
   },
@@ -139,71 +142,71 @@
       "Reviewer_1.1.3"
     ],
     [
-      "Author.2.1",
+      "Author.2.4",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.5",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.6",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.7",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.8",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.9",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.7",
+      "Author.2.10",
       "Reviewer_2.1.7"
     ],
     [
-      "Author.2.8",
+      "Author.2.11",
       "Reviewer_2.1.8"
     ],
     [
-      "Author.2.9",
+      "Author.2.12",
       "Reviewer_2.1.9"
     ],
     [
-      "Author.2.10",
+      "Author.2.13",
       "Reviewer_2.1.10"
     ],
     [
-      "Author.2.11",
+      "Author.2.14",
       "Reviewer_2.1.11"
     ],
     [
-      "Author.2.12",
+      "Author.2.15",
       "Reviewer_2.1.12"
     ],
     [
-      "Author.2.13",
+      "Author.2.16",
       "Reviewer_2.1.13"
     ],
     [
-      "Author.2.14",
+      "Author.2.17",
       "Reviewer_2.1.14"
     ],
     [
-      "Author.2.15",
+      "Author.2.18",
       "Reviewer_2.1.15"
     ],
     [
-      "Author.2.16",
+      "Author.2.19",
       "Reviewer_2.1.16"
     ],
     [
-      "Author.2.17",
+      "Author.2.20",
       "Reviewer_2.1.17"
     ]
   ]

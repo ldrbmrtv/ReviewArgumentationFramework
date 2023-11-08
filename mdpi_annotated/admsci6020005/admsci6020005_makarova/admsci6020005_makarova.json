@@ -17,8 +17,8 @@
       "Reviewer_1.1.14": "Interpretation: The interpretation of Archetypes seems to assume that the types are mutually-exclusive. However, this is not really the case"
     },
     "Author": {
-      "Author.2.1": "We cleaned up our description of the experimental design by adding the questions that we asked, the scale we used etc.",
-      "Author.2.2": "We tried our best to address this problem, see the revised version of our paper.",
+      "Author.2.1": "We added Freud\u2019s heritage and contemporary research e.g. Jung\u2019s contribution to the Big 5. ",
+      "Author.2.2": "We took great effort introducing above mentioned perspectives into our paper",
       "Author.2.3": "We decided to call them both gurus because David obviously is the one but our paper refers to Jennifer.",
       "Author.2.4": "We added Allen & Olson and other limitations such as criticism on the conceptual, methodological and substantive level as well as confusing user profiles (e.g., upper class) with brand characteristics and weak discriminatory power.",
       "Author.2.5": "We revised the statement in the sense that it is part and not different from it.",
@@ -31,6 +31,8 @@
       "Author.2.12": "The students.",
       "Author.2.13": "Principal Component with Varimax rotation.",
       "Author.2.14": "We changed the wording. In fact, the cited Cinderalla is a prime example of blended archetype.",
+      "Author.2.15": "We cleaned up our description of the experimental design by adding the questions that we asked, the scale we used etc.",
+      "Author.2.16": "We tried our best to address this problem, see the revised version of our paper.",
       "Author.0.0": "Paper"
     },
     "Reviewer_2": {
@@ -160,11 +162,11 @@
       "Author.0.0"
     ],
     [
-      "Author.2.1",
+      "Author.2.15",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.16",
       "Reviewer_2.1.2"
     ]
   ]

@@ -26,18 +26,26 @@
       "Reviewer_2.1.12": "Figure 8, Force correlation functions and numerical solutions of the variance: when printed in grey scale some lines are very faint (especially those in green and cyan). Try to use other colors and/or thicker lines."
     },
     "Author": {
-      "Author.2.1": "We have corrected the sign in the commutation relation.",
-      "Author.2.2": "We have added a proper reference as Ref. [23].",
-      "Author.2.3": "We have added the definition for \\gamma in the text. Here we focus on a dispersive regime of weak atomic excitation, where the so called dipole force dominates the mechanical atom field interaction and spontaneous emission plays a negligible role. In this limit the mechanical forces can be derived from a deterministic (time dependent) optical potential (see refs. 7-9 for details).\r\n However, as the referee points out, in the nonlinear dynamical regime, the effects stemming from the inclusion of a random spontaneous emission could be amplified. A similar randomness is connected to cavity cooling in a regime of weak coherent intra-cavity fields. This certainly will have to be considered in a quantum treatment.\r\n In our simulation we got the \u201cquasi random\u201d dynamics from deterministic motion connected to details of the initial conditions without including random forces.",
-      "Author.2.4": "Indeed all the above mentioned expressions were missing a factor of \\kappa as the referee correctly observed.",
+      "Author.2.1": "We agree with the referee that in any open system as we have here , information will leak out and a corresponding backaction on the wavefunction cannot be avoided. However, by operating with ultra-cold quantum particles far of any internal resonance, the coherence time can be pretty long. This was shown with BEC\u2019S trapped in cavities (see e.g. Ref 9). The effect of localization via cavity transmission can be reduced by working at higher cavity photon numbers. Ultimately the interplay between measurement induced localization and coherence spreading by unitary evolution could be one of the most interesting points in setting up such an experiment. One should study a transition from classical to quantum behavior depending on the degree of observation of the system.",
+      "Author.2.2": "Axes added.",
+      "Author.2.3": "We have reformulated to avoid confusion and unsubstantiated claims: \u201cThe mechanism is reminiscent of the one exploited in the creation of artificial potentials in optical lattices~\\cite{Struck2012Tunable} applied here to the classical regime\u201d",
+      "Author.2.4": "We have rephrased: \u201cIn this sense, this work is a stepping stones towards a proposal for implementing a quantum random walk mirroring progress already achieved with photons\u2026\u201d.",
       "Author.2.5": "We have added a clarifying statement in the beginning of section 2: \u201cWe consider an effective one-dimensional model\u201d.",
-      "Author.2.6": "The analytical considerations fit very well with numerical results. Indeed, in this regime, we have performed the simulations by choosing parameters derived from analytical considerations. The emergence of the jump regime is directly connected with the increase of the LT force to the value of the longitudinally-induced force but the fine tuning of the parameters is a bit tricky in order to insure that only jumps to neighbouring sites occur. Therefore we have restricted our presentation to the other regime where the jumps are strictly occurring owing to the transverse-longitudinal time modulation of the potential.",
-      "Author.2.7": "We have fixed this mistake.",
-      "Author.2.8": "We changed the order of the figures and corrected the reference to the wrong figure.",
-      "Author.2.9": "Comma has been introduced.",
-      "Author.2.10": "The b) has been eliminated.",
-      "Author.2.11": "Subscript has been introduced.",
-      "Author.2.12": "We have restricted the analysis to 2 curves (full and dashed) and a thinner red dashed curve corresponding to the analytical solution in the lower plots. The visibility is clearly increased and the message stays the same.",
+      "Author.2.6": "The referee is correct; in the convention that we specify the negative detuning corresponds to the regime where motional instabilities are avoided and cavity cooling is possible. We included this in the figure caption.",
+      "Author.2.7": "As we specify now in the beginning of section 3: \u201cWe treat $\\eta_T$ as a free varying parameter. In the following we set $\\kappa=1$ for numerical simulations and normalize the time in units of $\\kappa^{-1}$\u201d.",
+      "Author.2.8": "As the referee correctly infers the random walk is merely an effect of the time modulation of the potential. The classical limit without time delayed action (characteristic of the cavity) will reproduce the kind of walk obtained in the LT limit where Fig. 3 and the analysis has been performed. The other regime where the transverse field kicks the particle out of the longitudinal trap is a cavity effect as the effective force (transverse) has a different modulation than the simple cosine of the free space transverse wave. However, for fine tuning of parameters and to insure stability of trajectories we have used the cavity cooling effect.",
+      "Author.2.9": "Yes, some momentum diffusion can be expected. In principle using a sufficiently narrow cavity and suitable operation parameters cavity cooling could be tuned to cancel such unwanted heating. However, this is connected to dissipative dynamics and will change the effective operating parameters of the system. In the bad cavity limited on the other hand, one can expect some \u201ccavity heating\u201d instead of cooling, but the rate of this heating should be slow enough to allow for many kicks before it gets relevant.",
+      "Author.2.10": "We have corrected the sign in the commutation relation.",
+      "Author.2.11": "We have added a proper reference as Ref. [23].",
+      "Author.2.12": "We have added the definition for \\gamma in the text. Here we focus on a dispersive regime of weak atomic excitation, where the so called dipole force dominates the mechanical atom field interaction and spontaneous emission plays a negligible role. In this limit the mechanical forces can be derived from a deterministic (time dependent) optical potential (see refs. 7-9 for details).\r\n However, as the referee points out, in the nonlinear dynamical regime, the effects stemming from the inclusion of a random spontaneous emission could be amplified. A similar randomness is connected to cavity cooling in a regime of weak coherent intra-cavity fields. This certainly will have to be considered in a quantum treatment.\r\n In our simulation we got the \u201cquasi random\u201d dynamics from deterministic motion connected to details of the initial conditions without including random forces.",
+      "Author.2.13": "Indeed all the above mentioned expressions were missing a factor of \\kappa as the referee correctly observed.",
+      "Author.2.14": "The analytical considerations fit very well with numerical results. Indeed, in this regime, we have performed the simulations by choosing parameters derived from analytical considerations. The emergence of the jump regime is directly connected with the increase of the LT force to the value of the longitudinally-induced force but the fine tuning of the parameters is a bit tricky in order to insure that only jumps to neighbouring sites occur. Therefore we have restricted our presentation to the other regime where the jumps are strictly occurring owing to the transverse-longitudinal time modulation of the potential.",
+      "Author.2.15": "We have fixed this mistake.",
+      "Author.2.16": "We changed the order of the figures and corrected the reference to the wrong figure.",
+      "Author.2.17": "Comma has been introduced.",
+      "Author.2.18": "The b) has been eliminated.",
+      "Author.2.19": "Subscript has been introduced.",
+      "Author.2.20": "We have restricted the analysis to 2 curves (full and dashed) and a thinner red dashed curve corresponding to the analytical solution in the lower plots. The visibility is clearly increased and the message stays the same.",
       "Author.0.0": "Paper"
     }
   },
@@ -163,47 +171,47 @@
       "Reviewer_1.1.9"
     ],
     [
-      "Author.2.1",
+      "Author.2.10",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.11",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.12",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.13",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.6",
+      "Author.2.14",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.7",
+      "Author.2.15",
       "Reviewer_2.1.7"
     ],
     [
-      "Author.2.8",
+      "Author.2.16",
       "Reviewer_2.1.8"
     ],
     [
-      "Author.2.9",
+      "Author.2.17",
       "Reviewer_2.1.9"
     ],
     [
-      "Author.2.10",
+      "Author.2.18",
       "Reviewer_2.1.10"
     ],
     [
-      "Author.2.11",
+      "Author.2.19",
       "Reviewer_2.1.11"
     ],
     [
-      "Author.2.12",
+      "Author.2.20",
       "Reviewer_2.1.12"
     ]
   ]

@@ -8,7 +8,7 @@
       "Reviewer_1.1.5": "Rephrase lines 317-318. Comments as above.",
       "Reviewer_1.1.6": "In lines 271-272 and 395-396, how do you explain that salt induced promoter trans-activation? Is there any published precedent?",
       "Reviewer_1.1.7": "Write appropriate brand of kits and reagents, followed by country. Check journal format.",
-      "Reviewer_1.1.8": "Minor corrections\r\nIn line 38 replace \u201cFortunately\u201d with However.",
+      "Reviewer_1.1.8": "Minor corrections\nIn line 38 replace \u201cFortunately\u201d with However.",
       "Reviewer_1.1.9": "In line 63 replace \u201ctrancroptoma\u201d with transcriptome.",
       "Reviewer_1.1.10": "In line 65 replace \u201cAnd\u201d with In addition.",
       "Reviewer_1.1.11": "In line 69 add period after assay.",
@@ -36,7 +36,7 @@
     "Reviewer_2": {
       "Reviewer_2.1.1": "Why the authors do not consider to use aminoacidic sequence to compute a protein model (e.g., by using gromacs)?",
       "Reviewer_2.1.2": "Auhtors report that Actin was used as housekeeping gene. Do the authors have performed an efficiency test before using it? Do they tried to use otherHK genes?",
-      "Reviewer_2.1.3": "Furthermore, I reccomend a text revision since some errors are present in the main text.\r\nLine 124: generate instead of generate.",
+      "Reviewer_2.1.3": "Furthermore, I reccomend a text revision since some errors are present in the main text.\nLine 124: generate instead of generate.",
       "Reviewer_2.1.4": "Line 267-268: Please, check this sentence. It ends with \"then\". ",
       "Reviewer_2.1.5": "Figure 5 caption: activates instead of activate.",
       "Reviewer_2.1.6": "Line 302: plant leaves instead of plants leaves.",
@@ -49,34 +49,47 @@
       "Reviewer_2.1.13": "Line 448: check the word \"redycing\"."
     },
     "Author": {
-      "Author.2.1": "Thank you for your comment. We feel sorry for the unclear statement. In our study, we used \r\nthe amino acid sequence of OfSPL11 to compute the protein model. Secondary structure predictions were \r\nconducted on the PRABI (http://www.prabi.fr/spip.php?page=sommaire) protein structure prediction \r\nserver. The ExPASy (http://web.expasy.org) was used to analyze the molecular weight, theoretical \r\nisoelectric point, and other physiochemical properties of the translated protein. Similar methods of \r\noperation and efforts can be found in other articles (Islam, 2021). Once again,we sincerely thank you for \r\nthe recommended method, which we will use in future studies.\r\nIslam, M.D.; Rahman, M.M.; Rahman, M.M.; Jin, X.J.; Sun, L.L.; Zhao, K.; Wang, S.; Sikdar, A.; Noor, H.; Jeon, \r\nJ.S.; Zhang, W.J.; Sun, D.Z. In Silico and Transcription Analysis of Trehalose-6-phosphate Phosphatase \r\nGene Family of Wheat: Trehalose Synthesis Genes Contribute to Salinity, Drought Stress and Leaf \r\nSenescence. Genes. 2021, 12, 1652. https://doi.org/10.3390/genes12111652",
-      "Author.2.2": "Thank you for your comment. We tested the amplification efficiency before using \r\nhousekeeping genes. Referring to the previous study of Arabidopsis housekeeping genes (Dheda, 2004; \r\nCzechowski, 2005; Hou, 2018), we selected Atactin1 (F: AGGCACCTCTTAACCCTAAAGC, R: \r\nGGACAACGGAATCTCTCAGC), Atactin2 (F: TTGTGCTGGATTCTGGTGATGG, R: \r\nCCGCTCTCTGCTGTTGTGGTG) and Atactin8 (F: GAATTACCCGACGGACA, R: ACGGTCTGCAATACCT) were \r\ntested for efficiency, and we found that the best result was Atactin2. The best housekeeping gene for O. \r\nfragrans is OfACT, which has been reported in a previous study (Zhang, 2015).\r\nDheda, K.; Huggett, J.F.; Bustin, S.A. Validation of housekeeping genes for normalizing RNA expression in \r\nreal-time PCR. Biotechniques. 2004, 37: 112-119. https://doi.org/10.2144/04371RR03\r\nCzechowski, T.; Stitt, M.; Altmann, T. Genome-wide identification and testing of superior reference genes \r\nfor transcript normalization in Arabidopsis. Plant Physiol. 2005, 139: 5-17. \r\nhttps://doi.org/10.1104/pp.105.063743\r\nHou, H.; Jia, H.; Yan, Q.; Wang, X. Overexpression of a SBP-Box Gene (VpSBP16) from Chinese Wild Vitis \r\nSpecies in Arabidopsis Improves Salinity and Drought Stress Tolerance. Int. J. Mol. Sci. 2018, 19, 940. \r\nhttps://doi.org/10.3390/ijms19040940\r\nZhang, C.; Fu, J.X.; Wang, Y.G.; Bao, Z.Y.; Zhao, H.B. Identification of Suitable Reference Genes for Gene \r\nExpression Normalization in the Quantitative Real-Time PCR Analysis of Sweet Osmanthus (Osmanthus \r\nfragrans Lour.). Plos one. 2015, 10,1-17. https://doi.org/10.1371/journal.pone.0136355\r\n",
-      "Author.2.3": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 130).",
-      "Author.2.4": "Thank you for your comment. We have revised the manuscript according to your comments \r\n(Line 274-277). This sentence has been changed to \u201cA. tumefaciens suspensions containing the fusion \r\nvector OfSPL11pro: LUC was transiently transformed into O. fragrans callus using vacuum infiltration, \r\nand then the O. fragrans callus were cultured in a symbiotic medium containing 0 mM and 200 mM NaCl.\u201d",
-      "Author.2.5": "Thank for your kindly suggestion. We had made correction carefully (Line 283).",
-      "Author.2.6": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 310).",
-      "Author.2.7": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 319).",
-      "Author.2.8": "Thank for your kindly suggestion, we had made correction carefully (Line 324).",
-      "Author.2.9": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 366).",
-      "Author.2.10": "Special thanks to you for your good suggestion. We had made correction carefully (Line 381).",
-      "Author.2.11": "Thank you for your comment. Special thanks to you for your good suggestion, we had made correction in the manuscript (Line 398).",
-      "Author.2.12": "Thank for your kindly suggestion. We have revised the manuscript according to your comments (Line 456). The statements of \u201cparticipate in salt stress responses\u201d were corrected as \u201cparticipate in salt stress.\u201d",
-      "Author.2.13": "Thank you for your comment. We are very sorry for our negligence. We had made correction carefully (Line 457). The word of \u201credycing\u201d were corrected as \u201creducing.\u201d",
-      "Author.2.14": "Thank you for your comment. We have modified this part in revised manuscript (Line 121-\r\n125). This sentence has been changed to \u201cSymbiotic medium was prepared by weighing 4.414 g MS, 20 g \r\nsucrose, 10 g glucose, 7 g agar into a conical flask, sterile water was fixed to 1 L. The medium was \r\nsterilized in an autoclave for 30 min and the temperature was lowered to 55\u2103, add 100 \u03bcl naphthalene \r\nacetic acid (0.1 mg L-1), 500 \u03bcl zeatin (1mg L-1), 1 mL folic acid (1mg L-1), 1 mL 6-BA (2mg L-1), 500 \u03bcl \r\nacetosyringone (0.1 mol L-1).\u201d",
+      "Author.2.1": "Thank for your kindly suggestion. We feel sorry for the unclear statement. We have \nmodified this part in revised manuscript (Line 233-236). This sentence has been changed to \u201cA \nsuspension of A. rhizogenes strain GV3101 containing the pORER4-OfSPL11-GFP recombinant plasmid \nwas aspirated using a 1 mL range syringe (needle not included), and the suspension was gently injected \ninto the abaxial surface of four-week-old tobacco leaves avoiding the leaf veins.\u201d\n",
+      "Author.2.2": "Special thanks to you for your good suggestion. We have revised the manuscript according \nto your comments (Line 274-277). This sentence has been changed to \u201cA. tumefaciens suspensions \ncontaining the fusion vector OfSPL11pro: LUC was transiently transformed into O. fragrans callus using \nvacuum infiltration, and then the O. fragrans callus were cultured in a symbiotic medium containing 0 \nmM and 200 mM NaCl.\u201d",
+      "Author.2.3": "Thank you for your comment. We have modified this part in revised manuscript (Line 326-\n328). This sentence has been changed to \u201cTo better understand why OfSPL11 transgenic lines exhibit \nenhanced abiotic stress tolerance, we analyzed the expression of known abiotic stress response genes in \n3-week-old wild-type and transgenic Arabidopsis.\u201d\n",
+      "Author.2.4": "Thank you for your comment. We have modified this part in revised manuscript (Line 326-\n328). This sentence has been changed to \u201cTo better understand why OfSPL11 transgenic lines exhibit \nenhanced abiotic stress tolerance, we analyzed the expression of known abiotic stress response genes in \n3-week-old wild-type and transgenic Arabidopsis.\u201d\n",
+      "Author.2.5": "Thank you for your comment. Special thanks to you for your good suggestion, we had made \ncorrection carefully (Line 38).",
+      "Author.2.6": "Thank for your kindly suggestion, we have replaced this word in the revised version (Line \n63).",
+      "Author.2.7": "Special thanks to you for your good suggestion, we had made correction carefully (Line 65)",
+      "Author.2.8": "Thank you for your comment. We are very sorry for our negligence, we had made correction \nin the manuscript (Line 69).",
+      "Author.2.9": "Thank for your kindly suggestion. We had made correction in the manuscript (Line 83-84). \nThe statements of \u201cRNA extractions\u201d were corrected as \u201ctotal RNA was extracted using the RNA prep \nPure Plant Plus Kit (Tiangen, Beijing, China).\u201d",
+      "Author.2.10": "Thank you for your comment. We had made correction in the manuscript (Line 92). Taq \npolymerase was purchased from TaKaRa Biotechnology, Inc, Dalian, China.",
+      "Author.2.11": "Thank you for your comment. Special thanks to you for your good suggestion, we had \nmade correction carefully (Line 102-103). The pORER4-GFP vector and the plant expression vector \nOfSPL11-GFP were purchased from Tsingke, Biotechnology, Inc, Hangzhou, China.",
+      "Author.2.12": "Thank you for your comment. We are very sorry for our negligence, we had made correction carefully (Line 115 and 270)",
+      "Author.2.13": "Thank for your kindly suggestion, we had made correction carefully (Line 119 and 276).",
+      "Author.2.14": "Thank you for your comment. We have modified this part in revised manuscript (Line 121-\n125). This sentence has been changed to \u201cSymbiotic medium was prepared by weighing 4.414 g MS, 20 g \nsucrose, 10 g glucose, 7 g agar into a conical flask, sterile water was fixed to 1 L. The medium was \nsterilized in an autoclave for 30 min and the temperature was lowered to 55\u2103, add 100 \u03bcl naphthalene \nacetic acid (0.1 mg L-1), 500 \u03bcl zeatin (1mg L-1), 1 mL folic acid (1mg L-1), 1 mL 6-BA (2mg L-1), 500 \u03bcl \nacetosyringone (0.1 mol L-1).\u201d",
       "Author.2.15": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 129).",
-      "Author.2.16": "Special thanks to you for your good suggestion, we had made correction carefully (Line 136).\r\n",
+      "Author.2.16": "Special thanks to you for your good suggestion, we had made correction carefully (Line 136).\n",
       "Author.2.17": "Thank you for your comment. We are very sorry for our negligence, we had made correction carefully (Line 138).",
-      "Author.2.18": "We are very sorry for our negligence, we had made correction in the manuscript (Line 145).\r\n",
+      "Author.2.18": "We are very sorry for our negligence, we had made correction in the manuscript (Line 145).\n",
       "Author.2.19": "Thank you for your comment. We had made correction in the manuscript (Line 156-157). The statements of \u201cthe MDA assay kit\u201d were corrected as \u201cthe MDA assay kit (Jiancheng Bioengineering Institute, Nanjing, China).\u201d",
-      "Author.2.20": "Thank you for your comment. We had made correction in the manuscript (Line 162 and 163). The statements of \u201cthe yeast Y187 receptor strain preparation and transformation kit\u201d were \r\ncorrected as \u201cthe yeast Y187 receptor strain preparation and transformation kit (Coolaber, Beijing, \r\nChina).\u201d\r\n",
-      "Author.2.21": "Thank for your kindly suggestion, we had made correction carefully (Line 177).\r\n",
+      "Author.2.20": "Thank you for your comment. We had made correction in the manuscript (Line 162 and 163). The statements of \u201cthe yeast Y187 receptor strain preparation and transformation kit\u201d were \ncorrected as \u201cthe yeast Y187 receptor strain preparation and transformation kit (Coolaber, Beijing, \nChina).\u201d\n",
+      "Author.2.21": "Thank for your kindly suggestion, we had made correction carefully (Line 177).\n",
       "Author.2.22": "Thank you for your comment, we had made correction in the manuscript (Line 270).",
-      "Author.2.23": "Thank for your kindly suggestion, we had made correction carefully (Line 271).\r\n",
+      "Author.2.23": "Thank for your kindly suggestion, we had made correction carefully (Line 271).\n",
       "Author.2.24": " We are very sorry for our negligence, we had made correction carefully (Line 273).",
-      "Author.2.25": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 301).\r\n",
+      "Author.2.25": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 301).\n",
       "Author.2.26": "We are very sorry for our negligence, we had made correction carefully (Line 327).",
       "Author.2.27": "Thank for your kindly suggestion, we had made correction carefully (Line 403).",
       "Author.2.28": "Thank you for your comment, we had made correction in the manuscript (Line 415).",
+      "Author.2.29": "Thank you for your comment. We feel sorry for the unclear statement. In our study, we used \nthe amino acid sequence of OfSPL11 to compute the protein model. Secondary structure predictions were \nconducted on the PRABI (http://www.prabi.fr/spip.php?page=sommaire) protein structure prediction \nserver. The ExPASy (http://web.expasy.org) was used to analyze the molecular weight, theoretical \nisoelectric point, and other physiochemical properties of the translated protein. Similar methods of \noperation and efforts can be found in other articles (Islam, 2021). Once again,we sincerely thank you for \nthe recommended method, which we will use in future studies.\nIslam, M.D.; Rahman, M.M.; Rahman, M.M.; Jin, X.J.; Sun, L.L.; Zhao, K.; Wang, S.; Sikdar, A.; Noor, H.; Jeon, \nJ.S.; Zhang, W.J.; Sun, D.Z. In Silico and Transcription Analysis of Trehalose-6-phosphate Phosphatase \nGene Family of Wheat: Trehalose Synthesis Genes Contribute to Salinity, Drought Stress and Leaf \nSenescence. Genes. 2021, 12, 1652. https://doi.org/10.3390/genes12111652",
+      "Author.2.30": "Thank you for your comment. We tested the amplification efficiency before using \nhousekeeping genes. Referring to the previous study of Arabidopsis housekeeping genes (Dheda, 2004; \nCzechowski, 2005; Hou, 2018), we selected Atactin1 (F: AGGCACCTCTTAACCCTAAAGC, R: \nGGACAACGGAATCTCTCAGC), Atactin2 (F: TTGTGCTGGATTCTGGTGATGG, R: \nCCGCTCTCTGCTGTTGTGGTG) and Atactin8 (F: GAATTACCCGACGGACA, R: ACGGTCTGCAATACCT) were \ntested for efficiency, and we found that the best result was Atactin2. The best housekeeping gene for O. \nfragrans is OfACT, which has been reported in a previous study (Zhang, 2015).\nDheda, K.; Huggett, J.F.; Bustin, S.A. Validation of housekeeping genes for normalizing RNA expression in \nreal-time PCR. Biotechniques. 2004, 37: 112-119. https://doi.org/10.2144/04371RR03\nCzechowski, T.; Stitt, M.; Altmann, T. Genome-wide identification and testing of superior reference genes \nfor transcript normalization in Arabidopsis. Plant Physiol. 2005, 139: 5-17. \nhttps://doi.org/10.1104/pp.105.063743\nHou, H.; Jia, H.; Yan, Q.; Wang, X. Overexpression of a SBP-Box Gene (VpSBP16) from Chinese Wild Vitis \nSpecies in Arabidopsis Improves Salinity and Drought Stress Tolerance. Int. J. Mol. Sci. 2018, 19, 940. \nhttps://doi.org/10.3390/ijms19040940\nZhang, C.; Fu, J.X.; Wang, Y.G.; Bao, Z.Y.; Zhao, H.B. Identification of Suitable Reference Genes for Gene \nExpression Normalization in the Quantitative Real-Time PCR Analysis of Sweet Osmanthus (Osmanthus \nfragrans Lour.). Plos one. 2015, 10,1-17. https://doi.org/10.1371/journal.pone.0136355\n",
+      "Author.2.31": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 130).",
+      "Author.2.32": "Thank you for your comment. We have revised the manuscript according to your comments \n(Line 274-277). This sentence has been changed to \u201cA. tumefaciens suspensions containing the fusion \nvector OfSPL11pro: LUC was transiently transformed into O. fragrans callus using vacuum infiltration, \nand then the O. fragrans callus were cultured in a symbiotic medium containing 0 mM and 200 mM NaCl.\u201d",
+      "Author.2.33": "Thank for your kindly suggestion. We had made correction carefully (Line 283).",
+      "Author.2.34": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 310).",
+      "Author.2.35": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 319).",
+      "Author.2.36": "Thank for your kindly suggestion, we had made correction carefully (Line 324).",
+      "Author.2.37": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 366).",
+      "Author.2.38": "Special thanks to you for your good suggestion. We had made correction carefully (Line 381).",
+      "Author.2.39": "Thank you for your comment. Special thanks to you for your good suggestion, we had made correction in the manuscript (Line 398).",
+      "Author.2.40": "Thank for your kindly suggestion. We have revised the manuscript according to your comments (Line 456). The statements of \u201cparticipate in salt stress responses\u201d were corrected as \u201cparticipate in salt stress.\u201d",
+      "Author.2.41": "Thank you for your comment. We are very sorry for our negligence. We had made correction carefully (Line 457). The word of \u201credycing\u201d were corrected as \u201creducing.\u201d",
       "Author.0.0": "Paper"
     }
   },
@@ -370,55 +383,55 @@
       "Reviewer_1.1.31"
     ],
     [
-      "Author.2.1",
+      "Author.2.29",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.30",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.31",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.32",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.33",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.34",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.7",
+      "Author.2.35",
       "Reviewer_2.1.7"
     ],
     [
-      "Author.2.8",
+      "Author.2.36",
       "Reviewer_2.1.8"
     ],
     [
-      "Author.2.9",
+      "Author.2.37",
       "Reviewer_2.1.9"
     ],
     [
-      "Author.2.10",
+      "Author.2.38",
       "Reviewer_2.1.10"
     ],
     [
-      "Author.2.11",
+      "Author.2.39",
       "Reviewer_2.1.11"
     ],
     [
-      "Author.2.12",
+      "Author.2.40",
       "Reviewer_2.1.12"
     ],
     [
-      "Author.2.13",
+      "Author.2.41",
       "Reviewer_2.1.13"
     ]
   ]

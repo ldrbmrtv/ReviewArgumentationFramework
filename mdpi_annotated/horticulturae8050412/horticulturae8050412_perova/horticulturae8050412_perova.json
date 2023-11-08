@@ -49,19 +49,19 @@
       "Reviewer_2.1.13": "Line 448: check the word \"redycing\""
     },
     "Author": {
-      "Author.2.1": "Thank you for your comment. We feel sorry for the unclear statement. In our study, we used the amino acid sequence of OfSPL11 to compute the protein model. Secondary structure predictions were conducted on the PRABI (http://www.prabi.fr/spip.php?page=sommaire) protein structure prediction server. The ExPASy (http://web.expasy.org) was used to analyze the molecular weight, theoretical isoelectric point, and other physiochemical properties of the translated protein. Similar methods of operation and efforts can be found in other articles (Islam, 2021). Once again,we sincerely thank you for the recommended method, which we will use in future studies.",
-      "Author.2.2": "Thank you for your comment. We tested the amplification efficiency before using housekeeping genes. Referring to the previous study of Arabidopsis housekeeping genes (Dheda, 2004; Czechowski, 2005; Hou, 2018), we selected Atactin1 (F: AGGCACCTCTTAACCCTAAAGC, R: GGACAACGGAATCTCTCAGC), Atactin2 (F: TTGTGCTGGATTCTGGTGATGG, R: CCGCTCTCTGCTGTTGTGGTG) and Atactin8 (F: GAATTACCCGACGGACA, R: ACGGTCTGCAATACCT) were tested for efficiency, and we found that the best result was Atactin2. The best housekeeping gene for O. fragrans is OfACT, which has been reported in a previous study (Zhang, 2015).",
-      "Author.2.3": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 130).",
-      "Author.2.4": "Thank you for your comment. We have revised the manuscript according to your comments (Line 274-277). This sentence has been changed to \u201cA. tumefaciens suspensions containing the fusion vector OfSPL11pro: LUC was transiently transformed into O. fragrans callus using vacuum infiltration, and then the O. fragrans callus were cultured in a symbiotic medium containing 0 mM and 200 mM NaCl.\u201d",
-      "Author.2.5": "Thank for your kindly suggestion. We had made correction carefully (Line 283).",
-      "Author.2.6": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 310).",
-      "Author.2.7": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 319).",
-      "Author.2.8": "Thank for your kindly suggestion, we had made correction carefully (Line 324).",
-      "Author.2.9": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 366).",
-      "Author.2.10": "Special thanks to you for your good suggestion. We had made correction carefully (Line 381).",
-      "Author.2.11": "Thank you for your comment. Special thanks to you for your good suggestion, we had made correction in the manuscript (Line 398).",
-      "Author.2.12": "Thank for your kindly suggestion. We have revised the manuscript according to your comments (Line 456). The statements of \u201cparticipate in salt stress responses\u201d were corrected as \u201cparticipate in salt stress.\u201d",
-      "Author.2.13": "Thank you for your comment. We are very sorry for our negligence. We had made correction carefully (Line 457). The word of \u201credycing\u201d were corrected as \u201creducing.\u201d",
+      "Author.2.1": "Thank for your kindly suggestion. We feel sorry for the unclear statement. We have modified this part in revised manuscript (Line 233-236). This sentence has been changed to \u201cA suspension of A. rhizogenes strain GV3101 containing the pORER4-OfSPL11-GFP recombinant plasmid was aspirated using a 1 mL range syringe (needle not included), and the suspension was gently injected into the abaxial surface of four-week-old tobacco leaves avoiding the leaf veins.\u201d",
+      "Author.2.2": "Special thanks to you for your good suggestion. We have revised the manuscript according to your comments (Line 274-277). This sentence has been changed to \u201cA. tumefaciens suspensions containing the fusion vector OfSPL11pro: LUC was transiently transformed into O. fragrans callus using vacuum infiltration, and then the O. fragrans callus were cultured in a symbiotic medium containing 0 mM and 200 mM NaCl.\u201d",
+      "Author.2.3": "Thank you for your comment. We have modified this part in revised manuscript (Line 326-328). This sentence has been changed to \u201cTo better understand why OfSPL11 transgenic lines exhibit enhanced abiotic stress tolerance, we analyzed the expression of known abiotic stress response genes in 3-week-old wild-type and transgenic Arabidopsis.\u201d",
+      "Author.2.4": "We feel sorry for the unclear statement. In a previous study (Ding, 2021), the LlWRKY39 promoter was fused to a pGreenII-0800-LUC vector using a recombinant ligase (Vazyme, Nanjing, China). The constructed vector and an empty vector (control) were transformed into A. tumefaciens strain GV3101 (pSoup), which was used to transform N. benthamiana leaves. The LUC signal increased profoundly after subjection to HS (37\u2103), although under normal conditions (room temperature), the LUC signal was very low, which implied that HS activated the promoter activity of LlWRKY39. In this study, the experimental operations, reagents and plant materials were were the same as the previous study, except for the different treatment conditions. Therefore, we suggest that salt stress can induce the activity of the OfSPL11 promoter.",
+      "Author.2.5": "Thank you for your comment. Special thanks to you for your good suggestion, we had made correction carefully (Line 38).",
+      "Author.2.6": "Thank for your kindly suggestion, we have replaced this word in the revised version (Line 63).",
+      "Author.2.7": "Special thanks to you for your good suggestion, we had made correction carefully (Line 65).",
+      "Author.2.8": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 69).",
+      "Author.2.9": "Thank for your kindly suggestion. We had made correction in the manuscript (Line 83-84). The statements of \u201cRNA extractions\u201d were corrected as \u201ctotal RNA was extracted using the RNA prep Pure Plant Plus Kit (Tiangen, Beijing, China).\u201d",
+      "Author.2.10": "Thank you for your comment. We had made correction in the manuscript (Line 92). Taq polymerase was purchased from TaKaRa Biotechnology, Inc, Dalian, China.",
+      "Author.2.11": "Thank you for your comment. Special thanks to you for your good suggestion, we had made correction carefully (Line 102-103). The pORER4-GFP vector and the plant expression vector OfSPL11-GFP were purchased from Tsingke, Biotechnology, Inc, Hangzhou, China.",
+      "Author.2.12": "Thank you for your comment. We are very sorry for our negligence, we had made correction carefully (Line 115 and 270).",
+      "Author.2.13": "Thank for your kindly suggestion, we had made correction carefully (Line 119 and 276).",
       "Author.2.14": "Thank you for your comment. We have modified this part in revised manuscript (Line 121-125). This sentence has been changed to \u201cSymbiotic medium was prepared by weighing 4.414 g MS, 20 g sucrose, 10 g glucose, 7 g agar into a conical flask, sterile water was fixed to 1 L. The medium was sterilized in an autoclave for 30 min and the temperature was lowered to 55\u2103, add 100 \u03bcl naphthalene acetic acid (0.1 mg L-1), 500 \u03bcl zeatin (1mg L-1), 1 mL folic acid (1mg L-1), 1 mL 6-BA (2mg L-1), 500 \u03bcl acetosyringone (0.1 mol L-1).\u201d",
       "Author.2.15": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 129).",
       "Author.2.16": "Special thanks to you for your good suggestion, we had made correction carefully (Line 136).",
@@ -77,6 +77,19 @@
       "Author.2.26": "We are very sorry for our negligence, we had made correction carefully (Line 327).",
       "Author.2.27": "Thank for your kindly suggestion, we had made correction carefully (Line 403).",
       "Author.2.28": "Thank you for your comment, we had made correction in the manuscript (Line 415).",
+      "Author.2.29": "Thank you for your comment. We feel sorry for the unclear statement. In our study, we used the amino acid sequence of OfSPL11 to compute the protein model. Secondary structure predictions were conducted on the PRABI (http://www.prabi.fr/spip.php?page=sommaire) protein structure prediction server. The ExPASy (http://web.expasy.org) was used to analyze the molecular weight, theoretical isoelectric point, and other physiochemical properties of the translated protein. Similar methods of operation and efforts can be found in other articles (Islam, 2021). Once again,we sincerely thank you for the recommended method, which we will use in future studies.",
+      "Author.2.30": "Thank you for your comment. We tested the amplification efficiency before using housekeeping genes. Referring to the previous study of Arabidopsis housekeeping genes (Dheda, 2004; Czechowski, 2005; Hou, 2018), we selected Atactin1 (F: AGGCACCTCTTAACCCTAAAGC, R: GGACAACGGAATCTCTCAGC), Atactin2 (F: TTGTGCTGGATTCTGGTGATGG, R: CCGCTCTCTGCTGTTGTGGTG) and Atactin8 (F: GAATTACCCGACGGACA, R: ACGGTCTGCAATACCT) were tested for efficiency, and we found that the best result was Atactin2. The best housekeeping gene for O. fragrans is OfACT, which has been reported in a previous study (Zhang, 2015).",
+      "Author.2.31": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 130).",
+      "Author.2.32": "Thank you for your comment. We have revised the manuscript according to your comments (Line 274-277). This sentence has been changed to \u201cA. tumefaciens suspensions containing the fusion vector OfSPL11pro: LUC was transiently transformed into O. fragrans callus using vacuum infiltration, and then the O. fragrans callus were cultured in a symbiotic medium containing 0 mM and 200 mM NaCl.\u201d",
+      "Author.2.33": "Thank for your kindly suggestion. We had made correction carefully (Line 283).",
+      "Author.2.34": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 310).",
+      "Author.2.35": "Special thanks to you for your good suggestion. We are very sorry for our negligence, we had made correction in the manuscript (Line 319).",
+      "Author.2.36": "Thank for your kindly suggestion, we had made correction carefully (Line 324).",
+      "Author.2.37": "Thank you for your comment. We are very sorry for our negligence, we had made correction in the manuscript (Line 366).",
+      "Author.2.38": "Special thanks to you for your good suggestion. We had made correction carefully (Line 381).",
+      "Author.2.39": "Thank you for your comment. Special thanks to you for your good suggestion, we had made correction in the manuscript (Line 398).",
+      "Author.2.40": "Thank for your kindly suggestion. We have revised the manuscript according to your comments (Line 456). The statements of \u201cparticipate in salt stress responses\u201d were corrected as \u201cparticipate in salt stress.\u201d",
+      "Author.2.41": "Thank you for your comment. We are very sorry for our negligence. We had made correction carefully (Line 457). The word of \u201credycing\u201d were corrected as \u201creducing.\u201d",
       "Author.0.0": "Paper"
     }
   },
@@ -370,55 +383,55 @@
       "Reviewer_1.1.30"
     ],
     [
-      "Author.2.1",
+      "Author.2.29",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.30",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.31",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.32",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.33",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.34",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.7",
+      "Author.2.35",
       "Reviewer_2.1.7"
     ],
     [
-      "Author.2.8",
+      "Author.2.36",
       "Reviewer_2.1.8"
     ],
     [
-      "Author.2.9",
+      "Author.2.37",
       "Reviewer_2.1.9"
     ],
     [
-      "Author.2.10",
+      "Author.2.38",
       "Reviewer_2.1.10"
     ],
     [
-      "Author.2.11",
+      "Author.2.39",
       "Reviewer_2.1.11"
     ],
     [
-      "Author.2.12",
+      "Author.2.40",
       "Reviewer_2.1.12"
     ],
     [
-      "Author.2.13",
+      "Author.2.41",
       "Reviewer_2.1.13"
     ]
   ]

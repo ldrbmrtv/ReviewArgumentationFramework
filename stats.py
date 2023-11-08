@@ -70,7 +70,7 @@ for i, review in enumerate(os.listdir(path)):
     #    break
         
 reviews = pd.DataFrame.from_dict(reviews)
-reviews.to_csv('stats.csv')
+reviews.to_csv('stats.csv', sep = ';')
 
 total = {
     'Annotator0: average number of argument sets': round(reviews['Annotator0: Number of argument sets'].mean(), 2),
@@ -93,7 +93,7 @@ total = {
     'Correlation in average length of argument chains': round(reviews['Annotator0: Average length of argument chains'].corr(reviews['Annotator1: Average length of argument chains']), 2),
     'Correlation in number of author\'s admissible arguments': round(reviews['Annotator0: Number of author\'s admissible arguments'].corr(reviews['Annotator1: Number of author\'s admissible arguments']), 2),
     'Correlation in average number of reviewers\' admissible arguments': round(reviews['Annotator0: Average number of reviewers\' admissible arguments'].corr(reviews['Annotator1: Average number of reviewers\' admissible arguments']), 2),
-    'Correlation in if author\'s extension preferable': round(reviews['Annotator0: Is author\'s extension preferable'].corr(reviews['Annotator1: Is author\'s extension preferable']), 2),
+    #'Correlation in if author\'s extension preferable': round(reviews['Annotator0: Is author\'s extension preferable'].corr(reviews['Annotator1: Is author\'s extension preferable']), 2),
 }
 with open('total.json', 'w') as f:
     json.dump(total, f, indent = 2)

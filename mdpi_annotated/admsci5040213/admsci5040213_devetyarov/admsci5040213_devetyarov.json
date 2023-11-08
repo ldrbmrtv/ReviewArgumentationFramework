@@ -9,46 +9,54 @@
       "Reviewer_1.3.2": "Content-wise to me the key observation is the - potentially systematic - connection between the way cluster policies arestructure and the organization of cluster initiatives. This is not a big suprise, and it doesn't really answer the question asto which model is better (only that there are internally consistent models that are different). But it isstill a usual observation to make."
     },
     "Author": {
-      "Author.2.1": "We revised the concept and its explanation, and added some references in Section 2.2 and in Introduction. For more details, please see below.",
-      "Author.2.2": "In this manuscript, we do not intend to demonstrate direct performance effect of cluster conditions, cluster policy, and cluster management. This is beyond the scope of our paper. It would be an important research topic to challenge the \u201ctechnocratic faith\u201d, but we cut the discussion about the factors of cluster performance from the text and Figure 1 in order to avoid any misunderstanding. Instead, we added a detailed discussion about \u201cinitial conditions\u201d (now \u201cbasic conditions\u201d) of clusters in Section 2.2 and 3.1 (a new section).",
-      "Author.2.3": "In page 4 below in Section 2.2, we added a brief explanation of the \u201cinitial\u201d (now \u201cbasic\u201d) conditions of clusters. There we suggested that they comprise various regional characteristics and that also scientific or industrial focus may differ across clusters within life science or biotechnology. In the new Section 3.1, we explained the differences of basic conditions in more detail.",
-      "Author.2.4": "It is true that in some cases local cluster organization had been established and had started its activity before the focal cluster policy started. Because of limited information, we could not sufficiently consider cluster and policy dynamics over time, but referred to the lack of dynamic approach in our study in the conclusion.",
-      "Author.2.5": "We recognized that we did not concretely explain the initial (we changed the term to \u201cbasic\u201d in the revision) conditions of clusters in the previous version. Moreover, we recognize that it is important to discuss in detail how these countries differ regarding basic conditions and why the national cluster policies differ across them. Therefore, we fundamentally changed the structure of our manuscript and set up a new Section 3.1 to discuss these issues in detail. Here, we cited the suggested book chapter and paper, but mainly used statistical evidence from OECD Science, Technology and Industry Scoreboard on (different) innovation systems to characterize basic conditions of clusters and to distinguish between private- and public-driven clusters. We summarized the discussion in Table 1 (new).",
-      "Author.2.6": "Maybe \u201cintellectual cluster\u201d is a specific jargon in the Japanese policy. Following your suggestion, and according to the EU reports we cited in our manuscript, we deleted the adjective \u201cintellectual\u201d for clusters and just use \u201cclusters\u201d, because it does neither affect our concept nor findings.",
-      "Author.2.7": "We did not include USA in the international comparison because, as you correctly suggested, there is no comparable national cluster policy there. However, we use USA in Table 1 on basic conditions as the baseline reference for the three countries.",
-      "Author.2.8": "We recognize that the term \u201crepresentative\u201d is misleading. We replaced it with \u201coutstanding\u201d in the revised manuscript.",
-      "Author.2.9": "We added detailed information about the number and types of interview partners and interview time on page 9 at the end of Section 2.3 (Research Methodology).",
-      "Author.2.10": "We did not interview the officers in charge of cluster policy in the government because information on national cluster policy was sufficiently available from cluster managers and second sources including ministry\u2019s websites and because we are more interested in the relationship of cluster policy with basic conditions and local management than in the cluster policy itself.",
-      "Author.2.11": "With 3 references, we discussed in the (newly inserted) third paragraph of Section 2.3 the advantages of comparative case studies across countries focusing on biotechnology.",
-      "Author.2.12": "The classification between top-down and bottom-up clusters is misleading. In the conceptual framework we distinguish between public-driven and private-driven clusters, so that in the revised version we focused on this type of distinction and cut all descriptions on top-down and bottom-up clusters.",
-      "Author.2.13": "Referring to Kiese (2013) and Sternberg et al. (2010), but also other papers such as Crespy et al. (2007) for France, we added that, especially for Germany, we should not underestimate the roles of states and local authorities in the cluster policy. Finally, in the conclusion, we stressed the lack of multilevel governance approach as a limitation, which should be more explicitly considered in future research.",
-      "Author.2.14": "We recognized that this section has several problems, but only this section describes and compares local cluster management based on our own interviews, so that this is the core part of our manuscript. Therefore, we fundamentally changed this section in the following way. First, we have some reference in the revised version, whereas this section is mainly based on our interviews. Second, at the beginning of this section, we explained the relevance of this section in our concept, especially with regard to our (new) hypotheses. Third, more importantly, we reorganized this section to a comparison of cluster management across three countries, focusing on the selection procedure of joint R&D projects (and cutting other information such as monitoring process and support programs). In this way, we made it clear what we do in this section: to check the consistency of local cluster management (regarding project selection) with the cluster\u2019s basic conditions and the national policy. We believe that we could clarify the relevance of the content of this section with the preceding part and the conclusion of this manuscript.",
-      "Author.2.15": "Cluster Organization\u2019s governance and financing, which was already described in another section in the previous version, is now explained even earlier, in Section 3.2.",
-      "Author.2.16": "We cut the most part of the discussion in the conclusion (which was mostly redundant with the contents of preceding sections), and added policy implication and some limitations (lack of multilevel governance and dynamic perspectives, possible selection bias of target clusters, and the descriptive and qualitative nature of the study) combined with future research perspectives.",
-      "Author.2.17": "We cited this paper in footnote 4 in page 3.",
-      "Author.2.18": "We agree with the suggestion and changed \u201cfew\u201d to \u201cno\u201d. We also checked all the other terms \u201cfew\u201d in the manuscript and treated them in the suggested way.",
-      "Author.2.19": "We changed the sentence (now page 6, line 22) in the following way: \u201cmay enhance the incentives of member firms to succeed and partially prevent moral hazard and crowding out\u201d.",
-      "Author.2.20": "Based on the argument in Section 2.2, we presented three hypotheses in page 7, which are repeatedly addressed in later sections and the conclusion.",
-      "Author.2.21": "We found no evidence on policy learning between Germany and France.",
-      "Author.2.22": "We changed the phrase to \u201ca series of national cluster policy\u201d (now page 18, line 5) at the beginning of Section 4.2.",
-      "Author.2.23": "We noticed in footnote 18 in page 18 that some cluster regions may have applied for this program twice or three times after failing in the previous competition.",
-      "Author.2.24": "We cited these studies in Introduction and in Section 4.3 (page 18, footnotes 20 and 21).",
-      "Author.2.25": "We cut the previous Table 2 (on each target cluster and cluster management) in the revision and also the related sentence.",
-      "Author.2.26": "We agree with you. However, according to the MEXT\u2019s definition, clusters need not involve local high-tech ventures. R&D collaboration between local public research institute and private firms outside of the cluster area is also an important part of a cluster for MEXT. Regarding the aim of local authorities, which includes the development of a cluster around a research organization or hospital, indeed cluster policy has not produced any outcomes yet.",
-      "Author.2.27": "We cut this sentence.",
-      "Author.2.28": "We used \u201cprominent\u201d and \u201cexcellent\u201d instead of \u201cfamous\u201d.",
-      "Author.2.29": "We cut this sentence.",
-      "Author.2.30": "We cited this paper in footnote 14 in Section 3.2. (3) to mention that Trinational BioValley has hardly had any impact in terms of intensifying cross-border interaction.",
-      "Author.2.31": "We changed the layout of the tables enlarging the font.",
-      "Author.2.32": "In the revision, we write the funding amount for Japan in Yen, but give the converged amount in Euro in parentheses. We use the most recent exchange rate for convenience, and explain it where it is first mentioned (note to Table 1 in page 16 and footnote 17 in page 17).",
-      "Author.4.1": "Thank you for your recommendation. We provided minor corrections to our manuscript based on the following comments. The revised version went through a professional, native English editing.",
-      "Author.4.2": "We added a discussion on the national systems of innovation in the first two paragraphs of Section 3.1 (p. 9) referring to the suggested seminal works. Moreover, in the remaining part of this section (pp. 10-11), we added some sentences with supporting references on the underlying institutional differences.",
-      "Author.4.3": "At the beginning of Section 3.2, as well as at the end of the description of each cluster, we mitigated the dichotomist nature in the typology of cluster development by some qualification. For example, we changed the formulation from \u201ccharacterized as public-driven clusters\u201d to \u201ccharacterized as more public-driven than private-driven clusters\u201d.",
-      "Author.4.4": "We added a new reference on the development in Japan (Okubo and Tomiura 2010) but deleted the sentence about France because we could not show a reference in English.",
-      "Author.4.5": "According to this suggestion, we dropped footnote 14 with the related reference.",
-      "Author.4.6": "We added the information sources under the table.",
-      "Author.4.7": "We replaced \u201cpolicy\u201d by \u201cprograms\u201d in this sentence.",
-      "Author.4.8": "In Conclusion, we presented again three hypotheses in a new paragraph in Conclusion after the first paragraph (p. 22). Then, in the following paragraph (p. 23) we added a discussion on how differences in cluster policies and cluster management are linked to those in national systems of innovation, with three sentences.",
+      "Author.2.1": "We fundamentally reorganized our manuscript so that its story and structure might be much clearer in the revision. In Section 2.2 we explicitly presented three hypotheses that are tested and discussed in later sections using information on six cluster cases. Section 5 also was reorganized so that the relationship of local cluster management to basic conditions and to national cluster polity, respectively, could be tested for each country using some cases of clusters and cluster management.",
+      "Author.2.2": "We revised and simplified Figure 1 by deleting cluster performance and its relationships with other factors because in fact we do not address them in our manuscript.",
+      "Author.2.3": "We read and cited in our manuscript the suggested and other references that correspond to [25], [31], [32], [33], [34], [35] and [36] (especially in Section 2.2) in revising our conceptual framework.",
+      "Author.2.4": "This manuscript addresses the relationship of national cluster policy and its local implementation, and not the policy organization within the government. Therefore, we slightly changed the titles of the manuscript and Section 5, and revised related terms throughout the manuscript, using the terms such as \u201clocal implementation\u201d or \u201clocal management\u201d.",
+      "Author.2.5": "We revised the concept and its explanation, and added some references in Section 2.2 and in Introduction. For more details, please see below.",
+      "Author.2.6": "In this manuscript, we do not intend to demonstrate direct performance effect of cluster conditions, cluster policy, and cluster management. This is beyond the scope of our paper. It would be an important research topic to challenge the \u201ctechnocratic faith\u201d, but we cut the discussion about the factors of cluster performance from the text and Figure 1 in order to avoid any misunderstanding. Instead, we added a detailed discussion about \u201cinitial conditions\u201d (now \u201cbasic conditions\u201d) of clusters in Section 2.2 and 3.1 (a new section).",
+      "Author.2.7": "In this manuscript, we do not intend to demonstrate direct performance effect of cluster conditions, cluster policy, and cluster management. This is beyond the scope of our paper. It would be an important research topic to challenge the \u201ctechnocratic faith\u201d, but we cut the discussion about the factors of cluster performance from the text and Figure 1 in order to avoid any misunderstanding. Instead, we added a detailed discussion about \u201cinitial conditions\u201d (now \u201cbasic conditions\u201d) of clusters in Section 2.2 and 3.1 (a new section).",
+      "Author.2.8": "In page 4 below in Section 2.2, we added a brief explanation of the \u201cinitial\u201d (now \u201cbasic\u201d) conditions of clusters. There we suggested that they comprise various regional characteristics and that also scientific or industrial focus may differ across clusters within life science or biotechnology. In the new Section 3.1, we explained the differences of basic conditions in more detail.",
+      "Author.2.9": "It is true that in some cases local cluster organization had been established and had started its activity before the focal cluster policy started. Because of limited information, we could not sufficiently consider cluster and policy dynamics over time, but referred to the lack of dynamic approach in our study in the conclusion.",
+      "Author.2.10": "It is true that in some cases local cluster organization had been established and had started its activity before the focal cluster policy started. Because of limited information, we could not sufficiently consider cluster and policy dynamics over time, but referred to the lack of dynamic approach in our study in the conclusion.",
+      "Author.2.11": "We recognized that we did not concretely explain the initial (we changed the term to \u201cbasic\u201d in the revision) conditions of clusters in the previous version. Moreover, we recognize that it is important to discuss in detail how these countries differ regarding basic conditions and why the national cluster policies differ across them. Therefore, we fundamentally changed the structure of our manuscript and set up a new Section 3.1 to discuss these issues in detail. Here, we cited the suggested book chapter and paper, but mainly used statistical evidence from OECD Science, Technology and Industry Scoreboard on (different) innovation systems to characterize basic conditions of clusters and to distinguish between private- and public-driven clusters. We summarized the discussion in Table 1 (new).",
+      "Author.2.12": "Maybe \u201cintellectual cluster\u201d is a specific jargon in the Japanese policy. Following your suggestion, and according to the EU reports we cited in our manuscript, we deleted the adjective \u201cintellectual\u201d for clusters and just use \u201cclusters\u201d, because it does neither affect our concept nor findings.",
+      "Author.2.13": "We did not include USA in the international comparison because, as you correctly suggested, there is no comparable national cluster policy there. However, we use USA in Table 1 on basic conditions as the baseline reference for the three countries.",
+      "Author.2.14": "We recognize that the term \u201crepresentative\u201d is misleading. We replaced it with \u201coutstanding\u201d in the revised manuscript.",
+      "Author.2.15": "We added detailed information about the number and types of interview partners and interview time on page 9 at the end of Section 2.3 (Research Methodology).",
+      "Author.2.16": "We did not interview the officers in charge of cluster policy in the government because information on national cluster policy was sufficiently available from cluster managers and second sources including ministry\u2019s websites and because we are more interested in the relationship of cluster policy with basic conditions and local management than in the cluster policy itself.",
+      "Author.2.17": "With 3 references, we discussed in the (newly inserted) third paragraph of Section 2.3 the advantages of comparative case studies across countries focusing on biotechnology.",
+      "Author.2.18": "The classification between top-down and bottom-up clusters is misleading. In the conceptual framework we distinguish between public-driven and private-driven clusters, so that in the revised version we focused on this type of distinction and cut all descriptions on top-down and bottom-up clusters.",
+      "Author.2.19": "Referring to Kiese (2013) and Sternberg et al. (2010), but also other papers such as Crespy et al. (2007) for France, we added that, especially for Germany, we should not underestimate the roles of states and local authorities in the cluster policy. Finally, in the conclusion, we stressed the lack of multilevel governance approach as a limitation, which should be more explicitly considered in future research.",
+      "Author.2.20": "We recognized that this section has several problems, but only this section describes and compares local cluster management based on our own interviews, so that this is the core part of our manuscript. Therefore, we fundamentally changed this section in the following way. First, we have some reference in the revised version, whereas this section is mainly based on our interviews. Second, at the beginning of this section, we explained the relevance of this section in our concept, especially with regard to our (new) hypotheses. Third, more importantly, we reorganized this section to a comparison of cluster management across three countries, focusing on the selection procedure of joint R&D projects (and cutting other information such as monitoring process and support programs). In this way, we made it clear what we do in this section: to check the consistency of local cluster management (regarding project selection) with the cluster\u2019s basic conditions and the national policy. We believe that we could clarify the relevance of the content of this section with the preceding part and the conclusion of this manuscript.",
+      "Author.2.21": "Cluster Organization\u2019s governance and financing, which was already described in another section in the previous version, is now explained even earlier, in Section 3.2.",
+      "Author.2.22": "We cut the most part of the discussion in the conclusion (which was mostly redundant with the contents of preceding sections), and added policy implication and some limitations (lack of multilevel governance and dynamic perspectives, possible selection bias of target clusters, and the descriptive and qualitative nature of the study) combined with future research perspectives.",
+      "Author.2.23": "We cited this paper in footnote 4 in page 3.",
+      "Author.2.24": "We agree with the suggestion and changed \u201cfew\u201d to \u201cno\u201d. We also checked all the other terms \u201cfew\u201d in the manuscript and treated them in the suggested way.",
+      "Author.2.25": "We changed the sentence (now page 6, line 22) in the following way: \u201cmay enhance the incentives of member firms to succeed and partially prevent moral hazard and crowding out\u201d.",
+      "Author.2.26": "Based on the argument in Section 2.2, we presented three hypotheses in page 7, which are repeatedly addressed in later sections and the conclusion.",
+      "Author.2.27": "We found no evidence on policy learning between Germany and France.",
+      "Author.2.28": "We changed the phrase to \u201ca series of national cluster policy\u201d (now page 18, line 5) at the beginning of Section 4.2.",
+      "Author.2.29": "We noticed in footnote 18 in page 18 that some cluster regions may have applied for this program twice or three times after failing in the previous competition.",
+      "Author.2.30": "We cited these studies in Introduction and in Section 4.3 (page 18, footnotes 20 and 21).",
+      "Author.2.31": "We cut the previous Table 2 (on each target cluster and cluster management) in the revision and also the related sentence.",
+      "Author.2.32": "We agree with you. However, according to the MEXT\u2019s definition, clusters need not involve local high-tech ventures. R&D collaboration between local public research institute and private firms outside of the cluster area is also an important part of a cluster for MEXT. Regarding the aim of local authorities, which includes the development of a cluster around a research organization or hospital, indeed cluster policy has not produced any outcomes yet.",
+      "Author.2.33": "We cut this sentence.",
+      "Author.2.34": "We used \u201cprominent\u201d and \u201cexcellent\u201d instead of \u201cfamous\u201d.",
+      "Author.2.35": "We cut this sentence.",
+      "Author.2.36": "We cited this paper in footnote 14 in Section 3.2. (3) to mention that Trinational BioValley has hardly had any impact in terms of intensifying cross-border interaction.",
+      "Author.2.37": "We changed the layout of the tables enlarging the font.",
+      "Author.2.38": "In the revision, we write the funding amount for Japan in Yen, but give the converged amount in Euro in parentheses. We use the most recent exchange rate for convenience, and explain it where it is first mentioned (note to Table 1 in page 16 and footnote 17 in page 17).",
+      "Author.4.1": "The revised version went through a professional, native English editing.",
+      "Author.4.2": "Indeed, it is not a big surprise that the characteristics of national cluster policies and their local implementation are consistent, but still it is our (small but significant) contribution to concretely show the consistency in international comparison with original interviews of cluster managers. It is beyond the scope of our manuscript to answer the question as to which model is better for the cluster performance, so we leave it as a future research agenda.",
+      "Author.4.3": "Thank you for your recommendation. We provided minor corrections to our manuscript based on the following comments. The revised version went through a professional, native English editing.",
+      "Author.4.4": "We added a discussion on the national systems of innovation in the first two paragraphs of Section 3.1 (p. 9) referring to the suggested seminal works. Moreover, in the remaining part of this section (pp. 10-11), we added some sentences with supporting references on the underlying institutional differences.",
+      "Author.4.5": "At the beginning of Section 3.2, as well as at the end of the description of each cluster, we mitigated the dichotomist nature in the typology of cluster development by some qualification. For example, we changed the formulation from \u201ccharacterized as public-driven clusters\u201d to \u201ccharacterized as more public-driven than private-driven clusters\u201d.",
+      "Author.4.6": "We added a new reference on the development in Japan (Okubo and Tomiura 2010) but deleted the sentence about France because we could not show a reference in English.",
+      "Author.4.7": "According to this suggestion, we dropped footnote 14 with the related reference.",
+      "Author.4.8": "We added the information sources under the table.",
+      "Author.4.9": "We replaced \u201cpolicy\u201d by \u201cprograms\u201d in this sentence.",
+      "Author.4.10": "In Conclusion, we presented again three hypotheses in a new paragraph in Conclusion after the first paragraph (p. 22). Then, in the following paragraph (p. 23) we added a discussion on how differences in cluster policies and cluster management are linked to those in national systems of innovation, with three sentences.",
       "Author.0.0": "Paper"
     },
     "Reviewer_2": {
@@ -271,139 +279,139 @@
       "Author.0.0"
     ],
     [
-      "Author.2.1",
+      "Author.2.5",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.2",
+      "Author.2.6",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.2",
+      "Author.2.7",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.3",
+      "Author.2.8",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.4",
+      "Author.2.9",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.4",
+      "Author.2.10",
       "Reviewer_2.1.7"
     ],
     [
-      "Author.2.5",
+      "Author.2.11",
       "Reviewer_2.1.8"
     ],
     [
-      "Author.2.6",
+      "Author.2.12",
       "Reviewer_2.1.11"
     ],
     [
-      "Author.2.7",
-      "Reviewer_2.1.12"
-    ],
-    [
-      "Author.2.8",
-      "Reviewer_2.1.12"
-    ],
-    [
-      "Author.2.9",
-      "Reviewer_2.1.13"
-    ],
-    [
-      "Author.2.10",
-      "Reviewer_2.1.15"
-    ],
-    [
-      "Author.2.11",
-      "Reviewer_2.1.15"
-    ],
-    [
-      "Author.2.12",
-      "Reviewer_2.1.16"
-    ],
-    [
       "Author.2.13",
-      "Reviewer_2.1.16"
+      "Reviewer_2.1.12"
     ],
     [
       "Author.2.14",
-      "Reviewer_2.1.17"
+      "Reviewer_2.1.12"
     ],
     [
       "Author.2.15",
-      "Reviewer_2.1.17"
+      "Reviewer_2.1.13"
     ],
     [
       "Author.2.16",
-      "Reviewer_2.1.18"
+      "Reviewer_2.1.15"
     ],
     [
       "Author.2.17",
-      "Reviewer_2.1.19"
+      "Reviewer_2.1.15"
     ],
     [
       "Author.2.18",
-      "Reviewer_2.1.20"
+      "Reviewer_2.1.16"
     ],
     [
       "Author.2.19",
-      "Reviewer_2.1.21"
+      "Reviewer_2.1.16"
     ],
     [
       "Author.2.20",
-      "Reviewer_2.1.22"
+      "Reviewer_2.1.17"
     ],
     [
       "Author.2.21",
-      "Reviewer_2.1.23"
+      "Reviewer_2.1.17"
     ],
     [
       "Author.2.22",
-      "Reviewer_2.1.24"
+      "Reviewer_2.1.18"
     ],
     [
       "Author.2.23",
-      "Reviewer_2.1.25"
+      "Reviewer_2.1.19"
     ],
     [
       "Author.2.24",
-      "Reviewer_2.1.26"
+      "Reviewer_2.1.20"
     ],
     [
       "Author.2.25",
-      "Reviewer_2.1.27"
+      "Reviewer_2.1.21"
     ],
     [
       "Author.2.26",
-      "Reviewer_2.1.28"
+      "Reviewer_2.1.22"
     ],
     [
       "Author.2.27",
-      "Reviewer_2.1.29"
+      "Reviewer_2.1.23"
     ],
     [
       "Author.2.28",
-      "Reviewer_2.1.30"
+      "Reviewer_2.1.24"
     ],
     [
       "Author.2.29",
-      "Reviewer_2.1.31"
+      "Reviewer_2.1.25"
     ],
     [
       "Author.2.30",
-      "Reviewer_2.1.32"
+      "Reviewer_2.1.26"
     ],
     [
       "Author.2.31",
-      "Reviewer_2.1.33"
+      "Reviewer_2.1.27"
     ],
     [
       "Author.2.32",
+      "Reviewer_2.1.28"
+    ],
+    [
+      "Author.2.33",
+      "Reviewer_2.1.29"
+    ],
+    [
+      "Author.2.34",
+      "Reviewer_2.1.30"
+    ],
+    [
+      "Author.2.35",
+      "Reviewer_2.1.31"
+    ],
+    [
+      "Author.2.36",
+      "Reviewer_2.1.32"
+    ],
+    [
+      "Author.2.37",
+      "Reviewer_2.1.33"
+    ],
+    [
+      "Author.2.38",
       "Reviewer_2.1.34"
     ],
     [
@@ -455,35 +463,35 @@
       "Author.0.0"
     ],
     [
-      "Author.4.1",
+      "Author.4.3",
       "Reviewer_2.3.1"
     ],
     [
-      "Author.4.2",
+      "Author.4.4",
       "Reviewer_2.3.2"
     ],
     [
-      "Author.4.3",
+      "Author.4.5",
       "Reviewer_2.3.3"
     ],
     [
-      "Author.4.4",
+      "Author.4.6",
       "Reviewer_2.3.4"
     ],
     [
-      "Author.4.5",
+      "Author.4.7",
       "Reviewer_2.3.5"
     ],
     [
-      "Author.4.6",
+      "Author.4.8",
       "Reviewer_2.3.6"
     ],
     [
-      "Author.4.7",
+      "Author.4.9",
       "Reviewer_2.3.7"
     ],
     [
-      "Author.4.8",
+      "Author.4.10",
       "Reviewer_2.3.8"
     ]
   ]

@@ -23,9 +23,9 @@
       "Reviewer_2.1.3": "In the Introduction, quite a lot of papers are cited concerning the applications of atom interferometer in varies fields. Just for the note of the authors, there are some new applications of atom interferometer, e.g., in the accurate measurement of the quadratic Zeeman coefficient [J. Phys. B: At. Mol. Opt. Phys., 47(1): 015001, 2014]."
     },
     "Author": {
-      "Author.2.1": "A figure has been added to clarify the geometry of the problem. Moreover, additional discussion of the trajectories involved are now given in paragraphs that were added to help explain the plots given in Figures 2 and 3.",
-      "Author.2.2": "The wave function cannot be used when we know only some statistical properties of the initial phase space distribution.",
-      "Author.2.3": "We thank the referee for pointing out this additional reference and have added it to the references.",
+      "Author.2.1": "We added references to the Wolf and Tourrencin and A. Peters, K.Y. Chung and S. Chu articles. The latter of these articles does not address the quantum corrections",
+      "Author.2.2": "The referee implies that the leading term is not a quantum correction owing to the cancellation of a numerator proportional to hbar and a denominator in the spatial phase factor that is also proportional to hbar. This is, is some respect, a question of semantics, and has a long history in discussions of quantum effects in atom interferometry. Basically this term is a Doppler shift, which is clearly of classical origin, with no need to impose arguments related to cancellations of hbars in numerators and denominators. In the approach we follow using the Wigner representation, there are no numerators and denominators; the leading term has no hbar.",
+      "Author.2.3": "The density matrix in the Wigner representation has been widely used in problems related to the recoil effect and laser cooling. For some mysterious reason it hasn\u2019t used in much in problems involving atom interferometry. Of course there are hundreds of articles (maybe more) and books on the Wigner representation; however here we are concerned mainly with its application to calculations involving atom interferometry. The only examples we know of are the ones referred to in the paper.",
       "Author.2.4": "The article by Fam is devoted to the use of Wigner representation for the two-particle density matrix, which is outside the scope of our article. Moreover, in contrast to that article, we do not use an expansion of the equation for the Wigner distribution in powers of hbar. For both these reasons, we do not include a reference on this article",
       "Author.2.5": "As far as we can tell, the phi_Q term is not related directly to the spreading of the wave-packet. It arises as a quantum correction to phase factors during periods of free evolution. At this point, we do not have any other physical interpretation. We do not know yet how this term would manifest itself in the other approaches (path-integrals, ABCD theorem and etc.). This remains an interesting topic for future work, but is outside the scope of our article.",
       "Author.2.6": "We added a paragraph re-emphasizing the choice of x_C, x_qC and x_QC just after Equation (99); these terms do not have to the same leading terms in T^2.",
@@ -33,9 +33,13 @@
       "Author.2.8": "In the article we obtained results that are specific for the parameters of the atom interferometer and test mass\u2019 shape and trajectory. We think for the each case one should generate one figure to answer all questions regarding the validity and role of different parts of the phase and approximate expressions for them. Instead of using a lot of dashed curves, we decided to use a panel of figures. Although each plot is difficult to read at \u201cnormal\u201d magnification, the online reader can easily magnify any plot when accessing the article in PDF format. We have added a note to this effect.",
       "Author.2.9": "We added a schematic figure of the geometry of our problem.",
       "Author.2.10": "In the paragraph after Equation (30) we added a list of requirements that will insure that the signal does not depend critically on the initial atomic state phase space distribution. These requirements minimize the corrections arising from diffraction to which the referee refers",
-      "Author.2.11": "Difficulties related to stray interferometers exist and are important, but are not addressed in our paper, as the referee points out. We are assuming that the effects can be minimized in a fountain geometry using a variety of experimental techniques. In any event, a discussion of these effects is beyond what we are able to discuss in this article.",
-      "Author.2.12": "The word \u201cpotential\u201d has been changed to \u201cacceleration\u201d in the sentence after Equation (1).",
-      "Author.2.13": "We know that this paper is \u201cequation-rich\u201d, but we have tried to provide some physical guidance for the reader.",
+      "Author.2.11": "In the paragraph after Equation (30) we added a list of requirements that will insure that the signal does not depend critically on the initial atomic state phase space distribution. These requirements minimize the corrections arising from diffraction to which the referee refers",
+      "Author.2.12": "Difficulties related to stray interferometers exist and are important, but are not addressed in our paper, as the referee points out. We are assuming that the effects can be minimized in a fountain geometry using a variety of experimental techniques. In any event, a discussion of these effects is beyond what we are able to discuss in this article.",
+      "Author.2.13": "The word \u201cpotential\u201d has been changed to \u201cacceleration\u201d in the sentence after Equation (1).",
+      "Author.2.14": "We know that this paper is \u201cequation-rich\u201d, but we have tried to provide some physical guidance for the reader.",
+      "Author.2.15": "A figure has been added to clarify the geometry of the problem. Moreover, additional discussion of the trajectories involved are now given in paragraphs that were added to help explain the plots given in Figures 2 and 3.",
+      "Author.2.16": "The wave function cannot be used when we know only some statistical properties of the initial phase space distribution.",
+      "Author.2.17": "We thank the referee for pointing out this additional reference and have added it to the references.",
       "Author.0.0": "Paper"
     }
   },
@@ -153,31 +157,31 @@
       "Reviewer_1.1.11"
     ],
     [
-      "Author.2.10",
+      "Author.2.11",
       "Reviewer_1.1.12"
     ],
     [
-      "Author.2.11",
+      "Author.2.12",
       "Reviewer_1.1.14"
     ],
     [
-      "Author.2.12",
+      "Author.2.13",
       "Reviewer_1.1.15"
     ],
     [
-      "Author.2.13",
+      "Author.2.14",
       "Reviewer_1.1.6"
     ],
     [
-      "Author.2.1",
+      "Author.2.15",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.16",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.17",
       "Reviewer_2.1.3"
     ]
   ]

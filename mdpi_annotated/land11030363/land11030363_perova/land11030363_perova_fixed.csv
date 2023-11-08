@@ -1,0 +1,135 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;This manuscript attempts to integrate different preprocessing methods (8 kinds), sample grouping designs (88/26, 75%/25%), and soil spectral data to predict 15 soil properties by building PLSR models. Although this manuscript is about the application of proximal remote sensing technology to the prediction of soil properties in mountainous areas, the research focus of this manuscript is not prominent, and the conclusions drawn are not very clear. In other words, the manuscript feels like a lot of work has been done, but it doesn't specify what the important conclusions and innovations are. The abstract and conclusion parts lack conciseness and prominence. Especially in the results and discussion section, most of the content is to state the experimental results (correlation of data), while the discussion (eg. prediction mechanism, prediction accuracy, etc.) is not in-depth, and the analysis of model accuracy is rarely involved in the discussion.
+Reviewer_1;Author;1;2;0;When the samples are grouped, it is generally carried out according to 7:3 or 3:1 or a certain ratio. There are 114 soil samples in this study, what is the basis for grouping by 88/26 (77.2%/22.8%)?
+Reviewer_1;Author;1;3;0;Should the writing of the results and discussion sections be separated? Please think carefully.
+Reviewer_1;Author;1;4;0;During the discussion, the reasons behind the experimental results should be analyzed, not only from the correlation between the sample data but also cannot be explained by relying too much on the VIP score curve. In addition, partial correlation analysis (e.g., Cheng et al., 2019) could be helpful and bring more insights given the fact that soil spectra are simultaneously influenced by several soil properties (e.g., SOM and Iron oxide). This may help to analyze the underlying mechanism.
+Reviewer_1;Author;1;5;0;Line 104, 195, 223, 544: Is it “modelling” or “modeling”? The whole text should be unified.
+Reviewer_1;Author;1;6;0;Lines 145-146: “, soil reaction (pH) in 1:1 soil to KCl solution” is not clearly expressed.
+Reviewer_1;Author;1;7;0;Lines 163-164: “…were conducted under a controlled laboratory environment.” Can you explain this sentence? Generally, soil spectral measurement is carried out in a dark room to avoid interference from external light sources. What does the controlled laboratory environment you describe look like?
+Reviewer_1;Author;1;8;0;Line 174: “…resulting in 12 spectra”. It is not clear how the 12 spectra were obtained here.
+Reviewer_1;Author;1;9;0;Line 176: “…resulted 50 spectra…”. It is also not clear how 50 spectra were obtained.
+Reviewer_1;Author;1;10;0;Line 190: “…moving window sizes (mainly 7, 9 and 11)”. Need to use 3 different moving window sizes? It undoubtedly increases your experimental workload, and you do not explain it later. As far as I know, most articles use only one moving window size.
+Reviewer_1;Author;1;11;0;Line 191, 365: “…with different gaps and segment sizes.” “…with gap segment size of…”. Do these two places mean the same thing?
+Reviewer_1;Author;1;12;0;Line 194: “was” should be “were”. Please pay attention to the singular and plural in the sentence.
+Reviewer_1;Author;1;13;0;Line 233: It’s usually written as “Results and discussion”.
+Reviewer_1;Author;1;14;0;Line 243: “(pH, temperature, precipitation)” should not be placed after the word elevation.
+Reviewer_1;Author;1;15;0;Line 264: “…CaCO3 and Fe),” Where is the left parenthesis?
+Reviewer_1;Author;1;16;0;Line 264: “…, and hence parent material.” It’s not clear here.
+Reviewer_1;Author;1;17;0;Lines 281, 249: Why did you use Spearman's Rho correlation coefficients earlier and Pearson correlation coefficients here?
+Reviewer_1;Author;1;18;0;Lines 325-328: “Regardless of… spectra.” Is there a necessary connection between these two sentences? The spectral absorption characteristics near 1400, 1900, and 2200 nm have their corresponding influencing factors.
+Reviewer_1;Author;1;19;0;Line 347: “different pattern” should be “different patterns”. Note the singular and plural in the sentence.
+Reviewer_1;Author;1;20;0;Lines 353-354, 374: “Savitzky-Golay 1st derivative…” “Savitzky-Golay 2nd derivatives” This is a very confusing way to write it.
+Reviewer_1;Author;1;21;0;Line 354-355: “…, in our case 11 bands…” “…in our case 10 wavebands…” It's confusing here. And all in Table 3 are “10-bands”.
+Reviewer_1;Author;1;22;0;Lines 356-357: Can the first derivative preprocessing method be used to remove illumination differences?
+Reviewer_1;Author;1;23;0;Lines 360-362: “… due to overtones and combination of fundamental vibrations of soil organic matter occurring in the VIS and NIR region.” The meaning of this sentence is not expressed clearly.
+Reviewer_1;Author;1;24;0;Line 409: Note the singular and plural in the sentence.
+Reviewer_1;Author;1;25;0;Line 449, 479: “CO3”?
+Reviewer_1;Author;1;26;0;Line 455: “soil mineralogy”?
+Reviewer_1;Author;1;27;0;Lines 456-457: What does this sentence do here?
+Reviewer_1;Author;1;28;0;Line 471, 480, 520: “(r = 0.4*)” “(r =-0.52*)” “(r = 0.40*)”, etc. It is recommended that the number of digits after the decimal point for the value of the correlation coefficient throughout the text be consistent.
+Reviewer_1;Author;1;29;0;Lines 490-491: “Unlikely, a weakly represented VIP peak centered at ~850 nm was a significant predictor for the Cd content.” The meaning of this sentence is not clear, and it is a little strange.
+Reviewer_1;Author;1;30;0;Lines 516-518: You call attention to the spectral signature at 2326 nm, and then what? Readers may be more interested in your analysis and interpretation.
+Reviewer_1;Author;1;31;0;Line 520: The correlation between K content and P content is not very high (r = 0.40*), but their corresponding VIP patterns are “identical”, how do you explain it?
+Reviewer_1;Author;1;32;0;Line 523: “correspond absorption” should be “correspond to absorption”.
+Reviewer_1;Author;1;33;0;Lines 522-525: Is there a necessary connection between the first half of the sentence and the second half of the sentence? Is VIP peak related to Fe or SOC content?
+Reviewer_1;Author;1;34;0;Lines 541-543: Is this sentence appropriate here?
+Reviewer_2;Author;1;1;0;The novelty of the study should be clearly stated in the Introduction section after the objectives are formulated.
+Reviewer_2;Author;1;2;0;There is not adequate information regarding quality control of the chemical analyses. Authors should report the detection limits and the recovery of the analytic methods used, along with and the standard solutions for the calibration of the instruments.
+Reviewer_2;Author;1;3;0;It is necessary to explain the method of sampling using the appropriate literature. Is the number of samples sufficient for the purpose of the research? Please explain.
+Reviewer_2;Author;1;4;0;Lines 125-135: There should be bibliographic references for the specific methods and their official name should be mentioned. Reference to formal analytical methods must be made in a scientific manner. The writing language used must be different from the way an analyst mentions it in the lab.
+Reviewer_2;Author;1;5;0;The “Conclusions section” is not very successful concerning the presentation of results. It should be revised and rewritten in a way showing that the results of this study could be generalized in order to be interesting for an international audience.
+Reviewer_2;Author;1;6;0;The “Introduction section ” should be reworked, highlighting the relevance of this topic worldwide. It would be wise to give more international flavor in the sections of Introduction and Discussion.
+Reviewer_2;Author;1;7;0;"In addition, it needs support with more and more up-to-date recent articles. I suggest the following:
+ • Soil parameters affecting the levels of potentially harmful metals in Thessaly area, Greece: a robust quadratic regression approach of soil pollution prediction, Environmental Science and Pollution Research, https://doi.org/10.1007/s11356-021-14673-0"
+Author;Reviewer_1;2;1;1;"Response: We would like to thank you for your valuable comments and directions. We have carefully considered all issues and have revised the manuscript completely (e.g. separation of sections and subheadings, revising all the text, adding paragraphs & references, adding/changing Tables & Figures):
+ 1) Abstract was revised.
+ 2) Introduction was revised, and 2 new paragraphs were added. Such modification leaded to the clear description of the objectives.
+ 3) Material and Method section was revised. Revised version contains 5 subheading.
+ 4) The results and discussion sections were separated, and their subheadings were reorganized. In the revised manuscript the Results contain 5 subheading and Discussion contain 3subheading.
+ 5) Presentation of the results are improved with consideration of reviewers’ comments.
+ a) Original Manuscript contained 3 Tables and 3 Figures. Revised manuscript contains 4 Tables and 5 Figures and 1 supplementary table and 1 supplementary figure.
+ b) New subheading (3.2. Land use effect on soil properties) was added. It contains new Table 2, Supplementary Table 1 and Supplementary Figure 1.
+ c) New Table 4 and Figure 4 were added. Table 4 is related to partial correlation analysis with consideration of spkoil properties, and Figure 4 is related to the principal component analysis.
+ d) Clarification: Table 1 and Table 3 were not changed. Old Table 2 is new Figure 2. Old Figure 2 is new Figure 3. Old Figure 3 is new Figure 5.
+ 6) Discussion with new 3 subheading was significantly expanded and linked to the references, and the novelty was highlighted. 
+ 7) Conclusions was modified to show its practical outcomes for the local and international readers.
+ 8) New 12 references were added to update the manuscript to address reviewers’ comments.
+ Due to the separating the Results and Discussion section, overlapping of some comments made by reviewers and associated changes, all the text of the manuscript was modified. Thus, to avoid possible confusion we provided the location (subheading or line) for any change introduced. Our point-to-point response to the comments of the reviewers is detailed below. Subheading or line numbers refer to the line numbers in the revised manuscript. 
+ Two version of the manuscript was uploaded: edited main manuscript (with track change), and edited main manuscript (clear)."
+Author;Reviewer_1;2;2;2;Thanks. Sorry for the technical error. The sample set was divided into two subsets (75% and 25%) for calibration (86 samples) and validation (28 samples).
+Author;Reviewer_1;2;3;3;Thanks. The sections were separated as recommended.
+Author;Reviewer_1;2;4;4;Thanks. The comment was fully considered: the PCA and partial correlation analysis was adopted form the recommended study (e.g., Cheng et al., 2019). Correspondingly, separate subheadings (with new Table 4 and Figure 4) were added. Generally it was considered in Introduction and Materials & Methods, Results and Discussion sections. Such approach helped to analyze the underlying mechanisms.
+Author;Reviewer_1;2;5;5;Thanks. It was corrected to “modeling
+Author;Reviewer_1;2;6;6;Thanks. It was corrected. pH was measured in water solution
+Author;Reviewer_1;2;7;7;Thanks. It was revised as recommended
+Author;Reviewer_1;2;8;8;Thanks. The text was revised. Each single measurement was based on internally averaged of 50 spectra (3 times). Each sample was measured from four positions (90°rotating the Petri dish each time). Consequently, 4 rotation x 3 time = 12 spectra were obtained. It is one of the commonly used method and several references are available
+Author;Reviewer_1;2;9;9;Thanks. It was revised. See previous comment
+Author;Reviewer_1;2;10;10;"Thanks. The whole paragraph was revised. Line: 262-269. 
+ We would like to note that in practice a large variety of pre-processing techniques are used with different gap and moving window size to improve prediction quality (Luce et al. 2017, Mammadov at al. 2020). Yet, the quality of prediction still depends on several factors (measurement method, used device etc.)."
+Author;Reviewer_1;2;11;11;Thanks. The text was revised, see previous comment
+Author;Reviewer_1;2;12;12;Thanks. Corrected
+Author;Reviewer_1;2;13;13;Thanks. Corrected
+Author;Reviewer_1;2;14;14;Thanks. It was revised as “change in pH, temperature, precipitation by elevation”. Line:334-337.
+Author;Reviewer_1;2;15;15;Thanks. It was edited
+Author;Reviewer_1;2;16;16;Thanks. Corrected to “soil type”
+Author;Reviewer_1;2;17;17;Thanks. Both methods are used to characterize relations between soil properties and spectra. Based on our experience, for current study (or similar studies) relations among soil properties, and between PC1 and soil properties are well characterized by Spearman, and Pearson is more relevant to the relations between spectra and soil properties
+Author;Reviewer_1;2;18;18;Thanks. It was revised. Line:515-518
+Author;Reviewer_1;2;19;19;Thanks. It was edited.
+Author;Reviewer_1;2;20;20;Thanks. It was revised. Line:43, 440
+Author;Reviewer_1;2;21;21;Thanks. It was modified. Line: 438-441
+Author;Reviewer_1;2;22;22;Thanks. It was revised. Line: 696-699
+Author;Reviewer_1;2;23;23;Thanks. It was edited. Line:702-705
+Author;Reviewer_1;2;24;24;Thanks. It was edited
+Author;Reviewer_1;2;25;25;Thanks. Corrected to “CaCO3”. Line: 750-752
+Author;Reviewer_1;2;26;26;Thanks. It was replaced with “clay mineralogy
+Author;Reviewer_1;2;27;27;Thanks. It was revised. Line 736-740
+Author;Reviewer_1;2;28;28;Thanks. It was corrected
+Author;Reviewer_1;2;29;29;Thanks. It was revised. Line:759-762
+Author;Reviewer_1;2;30;30;Thanks. It was revised. It was related to the contribution of the basic soil properties (e.g. controlling factor CaCO3, Fe, clay) to the prediction of M3 extractable elements Line:780-786
+Author;Reviewer_1;2;31;31;Thanks. Corrected or revised. Line:786-789
+Author;Reviewer_1;2;32;32;Thanks. It was edited. Line:790-791
+Author;Reviewer_1;2;33;33;Thanks. Revised. Partial correlation analysis showed that the contribution of Fe was more important than that of SOC though the moderate correlation existed between them. Line: 786-791
+Author;Reviewer_1;2;34;34;Thanks. Edited
+Author;Reviewer_2;2;35;1;"We would like to thank you for your valuable comments and directions. We have carefully considered all issues and have revised the manuscript completely (e.g. separation of section and subheadings, revising all the text, adding paragraphs and references, adding or changing Tables and Figures):
+ 
+ 1) Abstract was revised.
+ 2) Introduction was revised, and 2 new paragraphs were added. Such modification leaded to the clear description of the objectives.
+ 3) Material and Method section was revised. Revised version contains 5 subheading.
+ 4) The results and discussion sections were separated, and their subheadings were reorganized. In the revised manuscript the Results contain 5 subheading and Discussion contain 3subheading.
+ 5) Presentation of the results are improved with consideration of reviewers’ comments.
+ a). Original Manuscript contained 3 Tables and 3 Figures. Revised manuscript contains 4 Tables and 5 Figures and 1 supplementary table and 1 supplementary figure.
+ b). New subheading (3.2. Land use effect on soil properties) was added. It contains new Table 2, Supplementary Table 1 and Supplementary Figure 1.
+ c). New Table 4 and Figure 4 were added. Table 4 is related to partial correlation analysis with consideration of soil properties, and Figure 4 is related to the principal component analysis (biplot). 
+ d). Clarification: Table 1 and Table 3 were not changed. Old Table 2 is new Figure 2. Old Figure 2 is new Figure 3. Old Figure 3 is new Figure 5.
+ 6) Discussion with new 3 subheading was significantly expanded and linked to the references and the novelty was highlighted. 
+ 7) Conclusions of the study was modified to show its practical outcomes for the local and international readers.
+ 8) New 12 references were added to update the manuscript to address reviewers’ comments.
+ 
+ Due to the separating the Results and Discussion section, overlapping of some comments made by the reviewers and associated changes modified all the text of the manuscript was modified. Thus, to avoid possible confusion we provided the location (subheading or line) for any change introduced. Our point-to-point response to the comments of the reviewers is detailed below. Subheading or line numbers refer to the line numbers in the revised manuscript. 
+ 
+ Two version of the manuscript was uploaded: edited main manuscript (with track change), and edited main manuscript (clear)."
+Author;Reviewer_2;2;36;2;Thanks. The section was revised and information regarding solution standards and detection limit was added. (M&M. subheading 2.2). Chemical analyses and descriptive statistics of the results
+Author;Reviewer_2;2;37;3;"Thanks. The sampling scheme was explained as recommended (M&M, subheading 2.1). In general, sampling scale changes between 1:12 000 and 1:250 000 (Soil Survey Staff, USDA NRCS 2016).
+ In this pioneering study area, soil properties are highly variable attributed to topography, land use history and land tenure ownerships (mainly 0.2-0.3 hectares and fragmented shrubbery areas) and geological setting that makes difficult to apply regular sampling scheme. Therefore, the sampling locations were randomly (irregularly) designated, yet cover variations in land use, topography, geological substrate and the erosive state of soil continuum thereby resulted in 114 samples from 525 ha used under four land use types (1 sample per ~ 5 hectares"
+Author;Reviewer_2;2;38;4;Thanks. Two references were added. (Subheading 2.1)
+Author;Reviewer_2;2;39;5;Thanks. Conclusions of the study was modified to show its practical outcomes for the local and international readers
+Author;Reviewer_2;2;40;6;Thanks. As mentioned above, we restructured the introduction section and included new paragraphs to illuminate the importance of the study. Special focus was given to clarifying prediction mechanisms for the studied soil properties and land use effect on soil properties
+Author;Reviewer_2;2;41;7;Thanks. The suggested study was reviewed and included to the reference list. It helped us to explain the results of our study (e.g. prediction of Fe and Cd using basic soil properties, clay mineralogy and (soil type) and micro-nutrients)
+Reviewer_1;Author;3;1;0;The abstract could be more concise.
+Reviewer_1;Author;3;2;0;The introduction part can highlight the key points and innovations of this paper.
+Reviewer_1;Author;3;3;0;The definite article “the” is missing in many places in the whole article. please check it.
+Reviewer_1;Author;3;4;0;Too many parentheses are used in the essay, which is not recommended in writing.
+Reviewer_1;Author;3;5;0;Line 135: “impairment water resources” Is this expression appropriate?
+Reviewer_1;Author;3;6;0;Table 1: The pH values are different from those in the previous version.
+Reviewer_1;Author;3;7;0;Attention should be paid to the number of decimal places in all numbers throughout the text.
+Reviewer_1;Author;3;8;0;Line 909: “c, f, f, a” should be superscripts, indicating the author's work unit. Please check the format of all references.
+Reviewer_1;Author;3;9;0;The conclusion is too long and does not highlight the key results.
+Author;Reviewer_1;4;1;1;Thanks. The abstract was revised to show all key results
+Author;Reviewer_1;4;2;2;Thanks. Introduction was modified
+Author;Reviewer_1;4;3;3;Thanks. The manuscript was checked for missing articles and edited
+Author;Reviewer_1;4;4;4;Thanks. We reduced the number of parentheses significantly
+Author;Reviewer_1;4;5;5;Thanks. It was removed
+Author;Reviewer_1;4;6;6;Thanks. Soory for the technical error. In the previous version, pH values were related to the determination in KCL solution. It was replaced with pH values in H2O water.
+Author;Reviewer_1;4;7;7;Thanks. It was edited both in the text and tables
+Author;Reviewer_1;4;8;8;Thanks. It was corrected
+Author;Reviewer_1;4;9;9;Thanks. The conclusions were rewritten to reflect the key results

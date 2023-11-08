@@ -25,7 +25,7 @@
       "Reviewer_2.1.2": "Revise the language of the manuscript in addition to the punctuation."
     },
     "Author": {
-      "Author.2.1": "Thank you for your suggestions and feedback on the manuscript. We have incorporated all your suggested changes in the manuscript.",
+      "Author.2.1": "Thank you for your valuable suggestions. We have incorporated changes throughout the manuscript.",
       "Author.2.2": "Title has been revised.",
       "Author.2.3": "Thank you for suggestion. Abstract has been revised as per your suggestion.",
       "Author.2.4": "Corrected and others keywords have been incorporated.",
@@ -41,6 +41,8 @@
       "Author.2.14": "Molecular mass marker has been included and quality has been improved.",
       "Author.2.15": "Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript.",
       "Author.2.16": "Conclusion has been improved in the revised version of the manuscript.",
+      "Author.2.17": "Thank you for your suggestions and feedback on the manuscript. We have incorporated all your suggested changes in the manuscript.",
+      "Author.2.18": "Thank you for your suggestions and feedback on the manuscript. We have incorporated all your suggested changes in the manuscript.",
       "Author.0.0": "Paper"
     }
   },
@@ -186,11 +188,11 @@
       "Reviewer_1.1.17"
     ],
     [
-      "Author.2.1",
+      "Author.2.17",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.1",
+      "Author.2.18",
       "Reviewer_2.1.2"
     ],
     [

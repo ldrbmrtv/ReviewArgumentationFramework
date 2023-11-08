@@ -1,0 +1,123 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;Figure 1: Are colors in Figure 1 A related to the hydrostratigraphy or depicting topography? If the latter applies, make sure to provide a scale.
+Reviewer_1;Author;1;2;0;Figure 2: The left spine (or border) does not appear on the pdf reviewed. This figure could be improved by adding shaded satellite image to help the reader compare the mapped drainage systems (which were automatically mapped) and fault traces/lineaments with the real features observed.
+Reviewer_1;Author;1;3;0;Figure 3: The text (lines 258-259) mentions magnetic lineaments as prominent features, which can be caused by faulting. Such features are hard to visualize. It would certainly help if they were highlighted directly on the figure.
+Reviewer_1;Author;1;4;0;Figure 4: This figure could go in the appendix. It is good to let the reader know that not all seismic surveys provided the same quality, but this is more a technical point.
+Reviewer_1;Author;1;5;0;Figure 6: Put the title of each subfigure above the plot. It doesn’t read well otherwise.
+Reviewer_1;Author;1;6;0;Figure 7: What is special about the locations highlighted by the markers (crosses on Figure 7B and square markers on Figure 7C). At this scale, the reader can’t see much detail.
+Reviewer_1;Author;1;7;0;Figure 9: Remove ‘s’ from <10 yearss. Also, increase the thickness of the fault lines to make them more obvious.
+Reviewer_1;Author;1;8;0;Lines 271-272: Why is the signal quality so variable, and how were the categories (excellent, average and poor) defined?
+Reviewer_1;Author;1;9;0;Lines 323-324: The authors should explain why low magnitude local seismic signals can be believed to represent permeable pathways promoting water or gas migration.
+Reviewer_1;Author;1;10;0;Lines 339-357/Section 4.3: The map shown on Figure 9 that provides the location where groundwater and springs were sampled could be referred to.
+Reviewer_1;Author;1;11;0;Line 360: Here and throughout the text, the word ‘recent’ is used to describe some tectonic activity. It would be good define what recent means in the context of this study. An indication is provided in the Discussion (Line 414), but it would go to state this value upfront in the text.
+Reviewer_1;Author;1;12;0;Discussion: One general comment, could the use of other tracers (radon, of stable isotopes of water) yield also insight on the origin of the fluids sampled in this study?
+Reviewer_2;Author;1;1;0;Aeromagnetic survey data acquired over the last 50+ years were employed for mapping structural and lithological features. Although the aeromagnetic data is said to be employed for structural interpretation, details somewhat sketchy. Reference is made to “…prominent […] magnetic lineaments which can be caused by faulting”, and “…several circular low magnetization anomalies, approximately two kilometers in diameter, aligned with northwest trending lineaments”. It would be nice to include a map with these features and lineaments interpreted from the aeromagnetic datasets. This would also tie the observations based on this dataset closer to the seismic interpretation (see below).
+Reviewer_2;Author;1;2;0;Seismic reflection 2D lines (1989-2015). 8500 km. Interpretation of shallow horizons and faults using all publicly available geological and geophysical data of the Beetaloo region. Fault polygons defined for five horizons. Depth conversion using check-shot velocities from 26 wells. See comments to Figure 4. The depth maps provided in Figure 5 should be supplemented by isochore maps for the rock volumes between pairs of mapped reflectors. See also comments to Figure 7.
+Reviewer_2;Author;1;3;0;Helium measurements from groundwater samples. With respect to the helium measurements, no detailed documentation of where these samples were collected is provided beyond referring to Geological and Bioregional Assessment Program (2021a) Fact sheet 12, and Geological and Bioregional Assessment Program (2021b) Regional tracer results from the Cambrian Limestone Aquifer. These are both summary documents. Please provide a reference to the primary documentation.
+Reviewer_2;Author;1;4;0;Fault and surface drainage network mapping (tectonic geomorphology). The drainage network was extracted automatically. It is not clear if the “simplified” drainage network shown in Figure 2 was also extracted automatically. The data is summarized in Figure 8 (see also comments to Figure 8 below). It is not clear if the surface drainage network line dataset is based on the “unfiltered” or “simplified” data shown in Figure 2. Since n=130, one can assume the latter. It is however not made clear how this “simplified” network was generated, but there appear to be a substantial number of instances where the “simplification” provides apparent mismatches with the original data (see examples included in comments to Figure 2 below). The accuracy of the resulting plot can therefore be questioned. If the “simplified” network was generated automatically, I encourage the authors to do a manual QC of the results.
+Reviewer_2;Author;1;5;0;Line 303: “We reviewed the seismic data in detail at the intersections with north-northwest trending lineaments observed on the magnetic dataset (Figure 4).” No such lineaments are shown in Figure 4
+Reviewer_2;Author;1;6;0;-Line352: “However, the elevated helium concentrations show no systematic pattern of increase with flow distance (as expected for in-situ production along the flow path) but a rather patchy regional pattern (Figure 8).” This should refer to Figure 9.
+Reviewer_2;Author;1;7;0;Line 582. Link for supplementary materials does not work.
+Reviewer_2;Author;1;8;0;Add scale
+Reviewer_2;Author;1;9;0;Add colour scale for map (depth).
+Reviewer_2;Author;1;10;0;Well- and fault-labels largely illegible. Consider removing labels not referred to in the text.
+Reviewer_2;Author;1;11;0;Poor visual discretization of main surface fault traces and Post Wilton geophysical faults (maybe use different colour for the two?)
+Reviewer_2;Author;1;12;0;Replace white labels with black lettering with no labels and white lettering.
+Reviewer_2;Author;1;13;0;Consider adding a small inset table or schematic to showing the Cambrian Limestone Aquifer stratigraphy in the Georgina, Daly and Wiso basin. Although this is described in the caption, it is not easy to grasp for someone not familiar with the stratigraphy in the area without spending time some time with paper and pencil.
+Reviewer_2;Author;1;14;0;Poor quality figure (low resolution) in the version available to the reviewer
+Reviewer_2;Author;1;15;0;Very, very overloaded figure, screen-dump from a mapping programme?
+Reviewer_2;Author;1;16;0;Consider splitting into several maps, e.g. one showing unfiltered + simplified drainage network, and one showing faults
+Reviewer_2;Author;1;17;0;How the authors arrive at the simplified drainage network is not very clear
+Reviewer_2;Author;1;18;0;Very small/illegible typeface on map coordinates – consider simplifying scales and use larger typeface.
+Reviewer_2;Author;1;19;0;Replace the white label with black typeface with plain white typeface
+Reviewer_2;Author;1;20;0;Poor quality figure (low resolution) in the version available to the reviewer
+Reviewer_2;Author;1;21;0;Replace white labels with black typeface with white typeface
+Reviewer_2;Author;1;22;0;Many well-name labels are hard difficult to read/illegible. Consider replacing well names on the map with numbers at the well position (white circles, black typeface) and add a table in the legend listing number and corresponding name of the well.
+Reviewer_2;Author;1;23;0;Thin grey seismic lines are not explained in the legend or caption. Why are these not classified in terms of signal quality
+Reviewer_2;Author;1;24;0;The outline of the Eastern and Western Beetaloo Basin in Figure 3 and 4 should be kept identical in order to position Figure 6 A, B and C in relation to the seismic lines shown in Figure 4. Alternatively the position of Figure 6 A, B and C should be indicated in Figure 4 as well as Figure 3
+Reviewer_2;Author;1;25;0;Figure 5. Consider adding isochore maps for intervals between interpreted reflectors. These often highlight tectonic accommodation space creation better than maps
+Reviewer_2;Author;1;26;0;Figure 6 Add scale(s).
+Reviewer_2;Author;1;27;0;a) Remove underscores
+Reviewer_2;Author;1;28;0;Correct use of small caps, large caps in labels
+Reviewer_2;Author;1;29;0;"Correct spelling (e.g. frameworkboundaries to framework boundaries; populated places to Populated places/(Settlements?); PossibleFluidEscapeFeatures to Possible fluid-escape features etc. )."
+Reviewer_2;Author;1;30;0;Explain/improve labels (what do you mean by “ntspr_2M_gw”? “Coast_10million”? “frameworkboundaries”? “State_Borders_10million”. Amend labels or explain in caption
+Reviewer_2;Author;1;31;0;Several items in the legend appear to have the same or very similar signatures
+Reviewer_2;Author;1;32;0;Not possible to differentiate post-Wilton fault types properly in the figure
+Reviewer_2;Author;1;33;0;Could not find “Coast_10million”, “frameworkboundaries” or “State_Borders_10million” on the map. If these items are present, please use a more contrasting signatures to make it more visible. If they are not present on the map, remove these items from the legend
+Reviewer_2;Author;1;34;0;Consider replacing the purple outline of the eastern and western sub-basin with light grey shading.
+Reviewer_2;Author;1;35;0;Consider using the most prominent colour (red) for the possible fluid escape features as this is the key element of the map. Bright green might also bee an option.
+Reviewer_2;Author;1;36;0;Not possible to differentiate “ntspr_2M_gw” (whatever that is) and “PossibleFluidEscapeStructures” (same colour
+Reviewer_2;Author;1;37;0;The link between interpreted faults and fluid or gas escape features is a key feature of this figure. The map differentiates between “BaseCambrian seismic faults”, Post-Wilton “Strike-slip” and “Reverse” faults, and “FAULTS”. The categorization is not adequately explained (e.g. what differentiates “FAULT” from a “BaseCambrianSeismic fault”?).
+Reviewer_2;Author;1;38;0;"Consider adding a simple conceptual sketch highlighting the stratigraphic position of the different faults (and possible fluid escape structures– this would also help visualizing which stratigraphic intervals the potential fluid escapes originate from and which stratigraphic intervals are potentially
+ connected along potential fault-related fluid flow pathways"
+Reviewer_2;Author;1;39;0;Figure 8. Please provide a more informative caption to what these plots show. What is included in the “Drainage and structural lineament analysis” plot?
+Reviewer_2;Author;1;40;0;Figure 9. Poor resolution in the copy provided for the review. Consider using higher contrast colours or thicker lines to highlight different faults on the map.
+Reviewer_2;Author;1;41;0;I hope you will find these comments useful when revising the manuscript and look forward to seeing the paper published in Geoscience
+Author;Reviewer_1;2;1;1;The colour refer to the SEEBASE depth to basement, the legend has been added
+Author;Reviewer_1;2;2;2;Thanks, the figure have been entirely revisited and divided into four subfigures.
+Author;Reviewer_1;2;3;3;The figure has been redrawn and the magnetic lineaments indicated
+Author;Reviewer_1;2;4;4;Thank you. We hesitated on this point but decided to keep the figure in as the quality of the seismic in the shallow level is really crucial to the discussion. We need to know if the interpretation is reliable, especially in this shallow zone that is not well imaged by this type of data. A misinterpretation can led to the targeting of circulation pathways that are in fact only artefacts.
+Author;Reviewer_1;2;5;5;done
+Author;Reviewer_1;2;6;6;We removed the seismic interpretation of figure 7G (cross) that were misleading the reader and add the interpretation of the fluid leakage features on the images
+Author;Reviewer_1;2;7;7;done, we also totally revisited this figure as to have a cleared output
+Author;Reviewer_1;2;8;8;‘this is due to the different seismic acquisition technics and processing applied in each survey as well as the fact that our interval of interest is shallow and not fitting with the interval of interest the companies tried to best image with those datasets”
+Author;Reviewer_1;2;9;9;as the presence of fluid or gas can locally alter the seismic signal”
+Author;Reviewer_1;2;10;10;done
+Author;Reviewer_1;2;11;11;We added: “We define as recent tectonic activity the events that are recorded at the surface and can alter the surface with active tectonic features, such as modifications of the drainage system”
+Author;Reviewer_1;2;12;12;Radon cannot give this information since with the short half-live of 3.8days it's signal comes only from the direct vicinity of the sampled location. Stable isotopes of water could in principle do this if there is a geothermal signature on them (such as plotting far left to the meteoric water line - see inset in Figure 1 of McIntosh and Ferguson, 2020 – Geophysical research Letter) - but we have not seen such a signature. We may mention that in the text - but for such a signature to be discernible the bulk of the water needs to be geothermal, and what we see is only a small admixture.
+Author;Reviewer_2;2;13;1;The revisited figure 43 is now providing this information
+Author;Reviewer_2;2;14;2;Thank you, the details comments on those figures have been followed and new figures are provided
+Author;Reviewer_2;2;15;3;"There is no other reference to date to the ""primary documentation"" but the link to the data (they should now be online) which are in the fact sheets."
+Author;Reviewer_2;2;16;4;"We have redone the figure 2 and added explanations on the process (see reply to comments on figure 2). Figure 8 should now be easier to read
+ The surface drainage network line dataset was indeed based on the simplified (n=130) network following the following approach: Small segments with less than 10 nodes were automatically removed in SKUA (Paradigm/Emerson Trademark) and one iteration of smoothing was applied that further removed small irregularities without changing the overall orientation of major drainage lines. This output was then overlayed upon satellite and magnetic images where lineaments are evident for checking and quality control. In this process, minor mismatches of the automated simplified lines were removed and small drainage segments were connected along major lineaments for further simplification and reduction of the dataset."
+Author;Reviewer_2;2;17;5;There is indeed an error on the figure referencing, we modified to Figure 3B where the lineaments are now clearly indicated.
+Author;Reviewer_2;2;18;6;done
+Author;Reviewer_2;2;19;7;We indeed need to add this link- we will put a link in place upon acceptance of the paper
+Author;Reviewer_2;2;20;8;done
+Author;Reviewer_2;2;21;9;done
+Author;Reviewer_2;2;22;10;done
+Author;Reviewer_2;2;23;11;done, we also modified the fault legend to add clarity
+Author;Reviewer_2;2;24;12;done
+Author;Reviewer_2;2;25;13;"We separated the legends from figures 1A and 1B as to add clarity. This article is focused on the Beetaloo subbasin and we use the direct input for Geoscience Australia in this stratigraphic column. We are not willing to add complexity by presenting in detail the Basins that are covering the Beetaloo Sub-Basin. We removed from the legend the details on the different basins as we understand that it is
+ leading the reviewer in directions we are not exploring on the CLA stratigraphy- we do not refer this complexity in the results and discussion."
+Author;Reviewer_2;2;26;14;Quality improved
+Author;Reviewer_2;2;27;15;Thanks, the figure have been entirely revisited and divided into four subfigures as advised below
+Author;Reviewer_2;2;28;16;done
+Author;Reviewer_2;2;29;17;"The adopted approach was:
+ Small segments with less than 10 nodes were automatically removed in SKUA (Paradigm/Emerson Trademark) and one iteration of smoothing was applied that further removed small irregularities without changing the overall orientation of major drainage lines. This output was then overlayed upon satellite and magnetic images where lineaments are evident for checking and quality control. In this process, minor mismatches of the automated simplified lines were removed and small drainage segments were connected along major lineaments for further simplification and reduction of the dataset. We added this description of the adopted approach in the legend"
+Author;Reviewer_2;2;30;18;done
+Author;Reviewer_2;2;31;19;done
+Author;Reviewer_2;2;32;20;figure redrawn
+Author;Reviewer_2;2;33;21;done
+Author;Reviewer_2;2;34;22;Well label typos modified
+Author;Reviewer_2;2;35;23;Legend added for those lines
+Author;Reviewer_2;2;36;24;done
+Author;Reviewer_2;2;37;25;isochores added as supplementary material
+Author;Reviewer_2;2;38;26;done
+Author;Reviewer_2;2;39;27;done
+Author;Reviewer_2;2;40;28;done
+Author;Reviewer_2;2;41;29;done, legend cleared from information not represented
+Author;Reviewer_2;2;42;30;done, legend cleared from information not represented
+Author;Reviewer_2;2;43;31;checked and clarified
+Author;Reviewer_2;2;44;32;identified in the legend and representation
+Author;Reviewer_2;2;45;33;removed
+Author;Reviewer_2;2;46;34;Outline size modified and homogenised with other figures
+Author;Reviewer_2;2;47;35;Red selected
+Author;Reviewer_2;2;48;36;modified
+Author;Reviewer_2;2;49;37;modified accordingly
+Author;Reviewer_2;2;50;38;With the new classification the reader should be able to better read the paper and can now directly refer to the stratigraphic table
+Author;Reviewer_2;2;51;39;Done, figure clarified as well
+Author;Reviewer_2;2;52;40;we also totally revisited this figure as to have a cleared output
+Author;Reviewer_2;2;53;41;Thank you, we truly appreciated the time took by the reviewer to provide detail guidance to improve the manuscript and the figures
+Reviewer_2;Author;3;1;0;With respect to the helium measurements, the references to the primary documentation requested by the reviewer in comments to v.1 of the manuscript are not provided, nor do the authors provide any comment as to why they deem this unnecessary. Section 4.3 Helium concentrations and isotopic composition measured in groundwater, is framed around results from previous studies. Providing references to these original studies (including access to the actual data that allow objective verification) rather than referencing to summary papers would be more in line with scientific publishing practice. If the primary documentation is not accessible, the authors should state this clearly.
+Reviewer_2;Author;3;2;0;Figure 4. Seismic reflection data quality is ranked and colour-coded as “Excellent”, “Average” and “Poor”. Where does the fourth category, “Fair”, which also is a qualitative category, fit in, and why not include this category in the legend?
+Reviewer_2;Author;3;3;0;Figure 5. Isochron maps have been included in the supplementary material, the initial review suggested isoCHORE maps. Including these is maybe not critical, but as mentioned in the initial review, thickness maps sometimes highlight structural lineaments quite well. I don't know if this is the case here, but if they do, including isochore maps would enhance the readers' understanding of basin geometry and -infill.
+Reviewer_2;Author;3;4;0;Figure 7. Although the design of the figure is very much improved compared to the one submitted initially, it is still difficult differentiate between the Post Wilton “Strike-slip” and “Reverse” faults. Please use contrasting colours to differentiate them.
+Reviewer_2;Author;3;5;0;If I understand the map correctly, fluid escape features on the map are shown as red dots. Why does the legend show these as thick red lines?
+Reviewer_2;Author;3;6;0;Figure 8. Please keep the number of measurements included in each plot. The plot “Surface drainage network from this study” is identical to the original figure and should have n=130 measurements. According to the new caption shows the unfiltered surface drainage network. To my understanding this should correspond to Figure 2 a, which shows substantially more than 130 lineaments. How did you pick the ones you measured? Please clarify.
+Author;Reviewer_2;4;1;1;The helium measurements have been added as supplementary data and the author made a clear difference between this study Helium measurements and other tracer studies we are citing.
+Author;Reviewer_2;4;2;2;Done, thank you
+Author;Reviewer_2;4;3;3;The isochores have been added in the seismic supplementary dataset
+Author;Reviewer_2;4;4;4;Post Wilton “Strike-slip” and “Reverse” faults have been redrawn in all figures (Figure 1, 7, 9) with a new colour code, the fluid escape features are now shown as red dots in the legend as well.
+Author;Reviewer_2;4;5;5;Post Wilton “Strike-slip” and “Reverse” faults have been redrawn in all figures (Figure 1, 7, 9) with a new colour code, the fluid escape features are now shown as red dots in the legend as well.
+Author;Reviewer_2;4;6;6;Number of measurements added in each plot. Figure 2a correspond to the SEEBASE structural lineaments (n=681).

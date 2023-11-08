@@ -1,0 +1,66 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;"Overall a beautifully written, wonderfully presented, paper with clear concepts, methods and
+ proposals that significantly contribute to original knowledge in the field."
+Reviewer_2;Author;1;1;0;"The authors write: “In these initial stages, the emergence of bistability will serve as a proxy for the
+ emergence of other chemical novelties in the vesicle reactor model.” The authors probably means
+ that the existence of more than one stable regime could consent regime changes, but this situation
+ do not indicates how these changes appear: in the article, the change is stimulated by means of a
+ deliberated injection of chemical substances from outside. So, I think that the appearance of
+ novelties requires a different order of considerations, whereas the bistability plays possibly the role
+ of novelties amplification and consolidation (in particular conditions). The same observation can be
+ done for the word “innovation”, used on the abstract and at Line 45. In order to avoid
+ misunderstandings, I think that the authors should avoid these expressions, ad use the words “regime
+ change”, or similar concepts."
+Reviewer_2;Author;1;2;0;"Note 4 presents a very important issue: why the inner chemical environment is different from the
+ external one, if the running chemical reactions are the same? The presence of particular features of
+ the vesicle interior or of entrapped catalysts seem a too easy and ad hoc hypothesis. A useful
+ reference proposing an explanation of this symmetry breaking (without requiring different
+ conditions in internal and external environments) could be “R. Serra, M. Villani Mechanism for the
+ formation of density gradients through semipermeable membranes Physical Review E 87, 2013”."
+Reviewer_2;Author;1;3;0;"How the authors derive the range [0.9, 101/3] for the so called “reduced surface” index? In Figure
+ 1d, Lines 21/3 and 41/3 have some particular meanings, or are plotted mainly to ease the figure
+ comprehension? Could the authors add some indications about the derivation of these upper limits?"
+Reviewer_2;Author;1;4;0;"The authors write (case 1): “of the 5000 parameter set tested under constant surface area, 82% (4098)
+ gave a single fixed point, 321 15.7% (785) gave two fixed points, and 2.3% (117) no fixed points.”
+ How this statistics compare with a similar one, performed on a similar chemical situation without
+ container? Could the authors add the results of the same within a not confined environment?"
+Reviewer_2;Author;1;5;0;"Line 89: “where the vesicle has again fixed surface area, but now variable volume” should be:
+ “where the vesicle has again fixed surface area, but not variable volume”."
+Reviewer_2;Author;1;6;0;"Adamala, K.; Szostak, J. ompetition betweenmodel protocells driven by an encapsulated catalyst.
+ Nat. Chem. 2013, 5, 495–501. → “ompetition” should be: “Competition”."
+Author;Reviewer_1;2;1;1;This review does not require any action on our part.
+Author;Reviewer_2;2;2;1;"Here, the reviewer did not like our use of the particular words “novelty” and “innovation”.
+ o Use of the word novelty
+ − Instances of “chemical novelty” in the manuscript replaced by “emergent chemical behaviour”.
+ − On Page 8, after Equation 8, we removed sentence:
+ The emergence of bistability will serve as a proxy for the emergence of other chemical novelties in
+ the vesicle reactor model.
+ Replaced whole paragraph, to read:
+ In particular, in these initial stages, we will focus on the emergence of bistability in the vesicle
+ reactor model—a dynamical feature deducible directly from the number and stability of the fixed
+ points present (i.e., two asymptotically stable points separated by an unstable saddle point). We also
+ expect that more complicated dynamical regimes could also be present in the model, like
+ multi-stability or global phase space features such as limit cycles giving rise to sustained
+ oscillations. However, investigation of these regimes will be deferred to later work: for the time
+ being, the “emergent chemical behavior” referred to in the title will be restricted to bistability.
+ We think this is a clearer explanation, and also uses the word “regime” suggested by the reviewer.
+ o Use of the word innovation
+ We kept the 2 occurrences of the word “innovation” in the abstract and the introduction.
+ An innovation is defined as a “new method, idea or product” in the dictionary. We use the word to refer
+ to new emergent chemical behaviour that the whole vesicle system exhibits (e.g., expanded steady
+ states), which did not exist before. We think the use of this word is acceptable."
+Author;Reviewer_2;2;3;2;"we added a new footnote, to explain our standing on this issue:
+ Reference 36: In this work, concentrations outside the vesicle are set as system parameters.
+ However, we make no commitment to the type of environment the vesicle is embedded in or how these
+ concentrations are maintained. Our purpose is simply to show that bistability can exist in the model for
+ certain sets of outside concentrations. Exploration of the model in explicit environments is deferred to
+ future work."
+Author;Reviewer_2;2;4;3;"Reference 11 has been added after Equation 10, to point the reader to where to find
+ information about phi limits was first discussed. Repeating this information here would complicate the
+ paper. The lines Phi = 2^(1/3) and 4^(1/3) in Figure 1d have now been explained."
+Author;Reviewer_2;2;5;4;"It is difficult to make a direct and meaningful comparison like this. Without a container, the
+ reaction system has less parameters, and thus the sampled parameter space is smaller. The aim in the
+ paper, was to simply show that encapsulating a Schlogl model which was bistable in bulk condition,
+ seemed to destroy this bistability."
+Author;Reviewer_2;2;6;5;The minor issues were fixed.
+Author;Reviewer_2;2;7;6;The minor issues were fixed.

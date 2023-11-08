@@ -23,8 +23,8 @@
       "Reviewer_2.1.2": "I think that the relevance of the research to practitioners as well as academics needs to include some current findings about ads, their placement and effectiveness. For example the fact that some \"heroes\" can move across categories - e.g., Tiger Woods for Buick. Time of message delivery and personal relevance to the targeted audience may be ( I believe) of more importance than the creative. The general and growing aversion to ads - ad blocker or the increased use of native advertising - sponsored branded content - that appears in desired media channels is a major issue for ad agencies. I hope the authors find these comments helpful."
     },
     "Author": {
-      "Author.2.1": "We cleaned up our description of the experimental design by adding the questions that we asked, the scale we used etc. We included the example of David Beckham. In this context we cited Matzler et al (Personality, person-brand fit, and brand community: An investigation of individuals, brands, and brand communities. Journal Of Marketing Management) who looked into the archetype-brand-consumer match. We are delighted that our reviewer sees the link (as the authors do) between Aaker and Jung\u2019s images of Freedom, Social, Order and Ego.",
-      "Author.2.2": "We tried our best to address this problem, see the revised version of our paper. However, this is an uphill task. It goes in the direction of advertising effectiveness. We would have loved to cite some reliable sources on advertising effectiveness e.g. by means of neurophysiological evidence based research but tried in vain.",
+      "Author.2.1": "We added Freud\u2019s heritage and contemporary research e.g. Jung\u2019s contribution to the Big 5. We took the liberty to refer to Kant and Goethe re the origin of the term \u2018archetype\u2019 which may give it a more philosophical touch. We would have loved to substantiate the archetype concept by neurophysiological research but were not convinced about the reliability of claimed research findings so we added it under scope for further research (chapter: Implications).",
+      "Author.2.2": "We took great effort introducing above mentioned perspectives into our paper. It stretches across the whole paper. We also mentioned the difference between semiotic and formalist approach.",
       "Author.2.3": "We decided to call them both gurus because David obviously is the one but our paper refers to Jennifer.",
       "Author.2.4": "We added Allen & Olson and other limitations such as criticism on the conceptual, methodological and substantive level as well as confusing user profiles (e.g., upper class) with brand characteristics and weak discriminatory power.",
       "Author.2.5": "We revised the statement in the sense that it is part and not different from it.",
@@ -38,6 +38,8 @@
       "Author.2.13": "Principal Component with Varimax rotation. We added in the text.",
       "Author.2.14": "We changed the wording. In fact, the cited Cinderalla is a prime example of blended archetype.",
       "Author.2.15": "We hope that we have given full consideration to all comments. We found them very useful and they increased the value of our paper considerably.",
+      "Author.2.16": "We cleaned up our description of the experimental design by adding the questions that we asked, the scale we used etc. We included the example of David Beckham. In this context we cited Matzler et al (Personality, person-brand fit, and brand community: An investigation of individuals, brands, and brand communities. Journal Of Marketing Management) who looked into the archetype-brand-consumer match. We are delighted that our reviewer sees the link (as the authors do) between Aaker and Jung\u2019s images of Freedom, Social, Order and Ego.",
+      "Author.2.17": "We tried our best to address this problem, see the revised version of our paper. However, this is an uphill task. It goes in the direction of advertising effectiveness. We would have loved to cite some reliable sources on advertising effectiveness e.g. by means of neurophysiological evidence based research but tried in vain.",
       "Author.0.0": "Paper"
     }
   },
@@ -171,11 +173,11 @@
       "Reviewer_1.1.15"
     ],
     [
-      "Author.2.1",
+      "Author.2.16",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.17",
       "Reviewer_2.1.1"
     ],
     [

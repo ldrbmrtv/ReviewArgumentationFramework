@@ -4,20 +4,21 @@
       "Reviewer_1.1.1": "In Figure 3, formate formula should be better symbolized as HCOO- instead of COOH- as indicated."
     },
     "Reviewer_2": {
-      "Reviewer_2.1.1": "Lines 59\u201360: Instead of links, a figure (may be included in supplementary document) will be more\r\n helpful. The links lead to a non-English website, and also they may become outdated in year or two.",
+      "Reviewer_2.1.1": "Lines 59\u201360: Instead of links, a figure (may be included in supplementary document) will be more\n helpful. The links lead to a non-English website, and also they may become outdated in year or two.",
       "Reviewer_2.1.2": "Line 60: Link to NO2\u2212 concentrations shows temperature profiles.",
       "Reviewer_2.1.3": "Line 118: Was the analysis done on all FNT-proteins available at NCBI database? Please clarify",
-      "Reviewer_2.1.4": "Line 40: Line 120: From the tree as it is, one can see that NitM from \u03b2-cyanobacteria form a distinct\r\n clade. However, NitM from \u03b1\u2010cyanobacteria are not grouped in one clade. It is possible that\r\n another outgroup sequence or different methods for alignment and tree construction will help. Line\r\n 122: What methods were used for creating alignment and phylogenetic tree (for example,\r\n neighbor-joining)?",
+      "Reviewer_2.1.4": "Line 40: Line 120: From the tree as it is, one can see that NitM from \u03b2-cyanobacteria form a distinct\n clade. However, NitM from \u03b1\u2010cyanobacteria are not grouped in one clade. It is possible that\n another outgroup sequence or different methods for alignment and tree construction will help. Line\n 122: What methods were used for creating alignment and phylogenetic tree (for example,\n neighbor-joining)?",
       "Reviewer_2.1.5": "Was formate inhibition test also done on strains with nitM from CC9311, CC9605 and MIT9313?",
-      "Reviewer_2.1.6": "It would be especially exciting to see the uptake of nitrite at environmentally relevant concentrations\r\n (less than 50 nM)? Considering the genetic constructs available, I was wondering if the authors\r\n have attempted such experiments and what were the results."
+      "Reviewer_2.1.6": "It would be especially exciting to see the uptake of nitrite at environmentally relevant concentrations\n (less than 50 nM)? Considering the genetic constructs available, I was wondering if the authors\n have attempted such experiments and what were the results."
     },
     "Author": {
-      "Author.2.1": "p. 2, Lines 22\u201324; the data at the website cannot be posted as a supplementary figure because\r\n of copyright issues. I will ask them to revise the figure using English.",
-      "Author.2.2": "p. 2, Line 24; I confirmed that the following website link to the data of nitrite concentration\r\n is correct.\r\n \u201chttp://www.data.jma.go.jp/gmd/kaiyou/db/vessel_obs/hq/2006spr/137e/index_line.php?id=no2\u201d",
-      "Author.2.3": "p. 4, line 16; Six NitM proteins registered recently were added to Figure 1 and Figure 5.",
-      "Author.2.4": "p5, Figure 1; Figure 1 was reproduced by using the UPGMA clustering method instead of\r\n the NJ clustering method according to the suggestion of the reviewer, then, NitM from \u03b1-cyanobacteria\r\n and \u03b2-cyanobacteria form clearly distinct groups.\r\n \u201cusing the UPGMA (Unweighted Pair Group Method with Arithmetic mean) clustering method of\r\n ClustalX.\u201d was added in the legend of Figure 1.",
-      "Author.2.5": "Formate inhibition experiments of the NitM from CC9311, CC9605 and MIT9313 have not\r\n been carried out yet",
-      "Author.2.6": "We will consider the nitrite uptake experiments at environmentally relevant concentrations\r\n of nitrite (~50 nM) in the future.",
+      "Author.2.1": "p. 7, Figure 3, formate formula has been changed to \u201cHCOO-\u201d from \u201cCOOH-\u201d.",
+      "Author.2.2": "p. 2, Lines 22\u201324; the data at the website cannot be posted as a supplementary figure because\n of copyright issues. I will ask them to revise the figure using English.",
+      "Author.2.3": "p. 2, Line 24; I confirmed that the following website link to the data of nitrite concentration\n is correct.\n \u201chttp://www.data.jma.go.jp/gmd/kaiyou/db/vessel_obs/hq/2006spr/137e/index_line.php?id=no2\u201d",
+      "Author.2.4": "p. 4, line 16; Six NitM proteins registered recently were added to Figure 1 and Figure 5.",
+      "Author.2.5": "p5, Figure 1; Figure 1 was reproduced by using the UPGMA clustering method instead of\n the NJ clustering method according to the suggestion of the reviewer, then, NitM from \u03b1-cyanobacteria\n and \u03b2-cyanobacteria form clearly distinct groups.\n \u201cusing the UPGMA (Unweighted Pair Group Method with Arithmetic mean) clustering method of\n ClustalX.\u201d was added in the legend of Figure 1.",
+      "Author.2.6": "Formate inhibition experiments of the NitM from CC9311, CC9605 and MIT9313 have not\n been carried out yet",
+      "Author.2.7": "We will consider the nitrite uptake experiments at environmentally relevant concentrations\n of nitrite (~50 nM) in the future.",
       "Author.0.0": "Paper"
     }
   },
@@ -55,27 +56,27 @@
       "Reviewer_1.1.1"
     ],
     [
-      "Author.2.1",
+      "Author.2.2",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.3",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.4",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.5",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.6",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.7",
       "Reviewer_2.1.6"
     ]
   ]

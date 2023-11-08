@@ -42,12 +42,12 @@ for i, review in enumerate(os.listdir(path)):
                         'dist_per_mean_n_args': dist/mean_n_args})
                
 reviews = pd.DataFrame.from_dict(reviews)
-reviews.to_csv('dists.csv')
+reviews.to_csv('dists.csv', sep = ';')
 
 total = {
     'dist': reviews['dist'].mean(),
     'mean_n_args': reviews['mean_n_args'].mean(),
     'dist_per_mean_n_args': reviews['dist_per_mean_n_args'].mean()
 }
-with open('total.json', 'w') as f:
+with open('dist.json', 'w') as f:
     json.dump(total, f, indent = 2)

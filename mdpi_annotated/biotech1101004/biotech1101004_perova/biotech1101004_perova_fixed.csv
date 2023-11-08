@@ -1,0 +1,39 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;The article, however, must be improved in terms of writing since some grammar and syntax errors are present in the manuscript. They should address the subject and critically review the information from the literature.
+Reviewer_1;Author;1;2;0;The authors need to revise the title of the paper in a more meaningful way. “Identification of ethidium bromide degrading bacteria from laboratory gel electrophoresis waste”
+Reviewer_1;Author;1;3;0;The abstract is written in a way lacks logic. It should highlight the salient findings more critically.
+Reviewer_1;Author;1;4;0;Keywords are present in the title, choose others.
+Reviewer_1;Author;1;5;0;Introduction need more convincing rational for this article.
+Reviewer_1;Author;1;6;0;The introduction has long paragraphs, I suggest reducing the size of the paragraphs.
+Reviewer_1;Author;1;7;0;Provide experimental work plan at the start of M&M. No detail description is available about the experiment.
+Reviewer_1;Author;1;8;0;What statistical method is used?
+Reviewer_1;Author;1;9;0;In the materials and methods, where are described how the Pathogenic Status of BR3 and BR4 analyzes were carried out? Just a bibliographic survey? in my opinion does not fit as results found.
+Reviewer_1;Author;1;10;0;Authors should discuss the results integrally. The discussion is based on individual results. I suggest that integrating the results will give more value to the work. I suggest that you discuss by integrating all your results. You can use correlation tests (PCA or Pearson Correlation).
+Reviewer_1;Author;1;11;0;The results of this study are not fully explained therefore the interpretation of the results is very difficult. The author needs to provide the % increase or decrease rather than just writing ''significantly increased….''.
+Reviewer_1;Author;1;12;0;Figure 4 and 5, where is the outgroup?
+Reviewer_1;Author;1;13;0;Table 1: Please provide standard error or standard deviation of the results.
+Reviewer_1;Author;1;14;0;Figure 1 and 2: insert figure scales.
+Reviewer_1;Author;1;15;0;Figure 3: insert molecular mass marker and improve the quality of the gel.
+Reviewer_1;Author;1;16;0;The discussion is poorly written hence, needs rewriting. The discussion should be further strengthened by adding some more relevant papers. The literature search is insufficient, only few related research papers in the past three years are cited, add the latest research results appropriately. See the below links if you think it will benefit your discussion.
+Reviewer_1;Author;1;17;0;Rewrite the conclusion! It needs to be much improved.
+Reviewer_2;Author;1;1;0;Add bromide to the manuscript title to be ethidium bromide.
+Reviewer_2;Author;1;2;0;Revise the language of the manuscript in addition to the punctuation.
+Author;Reviewer_1;2;1;1;Thank you for your valuable suggestions. We have incorporated changes throughout the manuscript.
+Author;Reviewer_1;2;2;2;Title has been revised.
+Author;Reviewer_1;2;3;3;Thank you for suggestion. Abstract has been revised as per your suggestion.
+Author;Reviewer_1;2;4;4;Corrected and others keywords have been incorporated.
+Author;Reviewer_1;2;5;5;We have incorporated all your suggestion in the introduction section.
+Author;Reviewer_1;2;6;7;Work plan has been added as flowchart. Method has either been detailed or reference has been already given. If required all the methods may be detailed further.
+Author;Reviewer_1;2;7;8;"This is qualitative study; therefore, statistics has not been used in this study."
+Author;Reviewer_1;2;8;9;It has been analyzed just based on bibliographic survey after 16srRNA homology based identification of isolates. This has been performed to support the data.
+Author;Reviewer_1;2;9;10;Thank you for your valuable suggestions. We have added/deleted several lines in the discussion section integrating the results. We will improve
+Author;Reviewer_1;2;10;11;The authors did not find use of ''significantly increased” in this manuscript. This study is based on qualitative measurements.
+Author;Reviewer_1;2;11;12;We did online 16S-rRNA sequence similarity-based identification of isolates. Organisms of another genus may be considered as outgroup.
+Author;Reviewer_1;2;12;13;It was screened once. Not applicable.
+Author;Reviewer_1;2;13;14;Inner diameter of the medium holding plate measures 86 mm.
+Author;Reviewer_1;2;14;15;Molecular mass marker has been included and quality has been improved.
+Author;Reviewer_1;2;15;16;Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript.
+Author;Reviewer_1;2;16;17;Conclusion has been improved in the revised version of the manuscript.
+Author;Reviewer_2;2;17;1;Thank you for your suggestions and feedback on the manuscript. We have incorporated all your suggested changes in the manuscript.
+Author;Reviewer_2;2;18;2;Thank you for your suggestions and feedback on the manuscript. We have incorporated all your suggested changes in the manuscript.
+Reviewer_1;Author;3;1;0;Thanks for attending the suggestions. The manuscript has been significantly improved. In view of the above, I believe that the article presents robust and consolidated content.

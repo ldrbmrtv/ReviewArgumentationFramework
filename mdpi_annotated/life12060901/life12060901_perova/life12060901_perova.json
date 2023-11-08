@@ -23,17 +23,20 @@
       "Reviewer_3.3.2": "Wrong use of abbreviations: The authors introduced the abbreviation \u201cGHQ-12\u201d for the 12-item General Health Questionnaire (see page 4, line 161), but wrote in the text only \"GHQ\" (e.g., page 5, line 207; page 6, line 256; page 7, line 274). Please replace every single \u201cGHQ\u201d in the text with the correct abbreviation \u201cGHQ-12\u201d. Please repeat this procedure for \u201cPSS-10\u201d (see page 4, line 185), i.e. replace \u201cPSS\u201d with \u201cPSS-10\u201d in the whole text."
     },
     "Author": {
-      "Author.2.1": "Thank you for pointing this out. The first mentioned statement has been removed altogether in the revised manuscript. The second statement has been modified in accordance with the reviewer\u2019s view (see revised section 4.3).",
-      "Author.2.2": "Thank you for pointing this out. We have removed the relevant section in accordance with this guidance.",
-      "Author.2.3": "Thank you for pointing this out, we have revised the sentence (see section 4.1).",
-      "Author.2.4": "We have revised the sentence; see section 4.4.",
-      "Author.2.5": "We have revised the sentence; see section 5.",
-      "Author.2.6": "We have revised the sentence; see section 5.",
-      "Author.2.7": "Alignment has been fixed.",
-      "Author.2.8": "Table 1 has been revised accordingly",
-      "Author.2.9": "Italics have been removed, see revised section 2.3",
-      "Author.2.10": "We are unsure how this problem occurred. We have fixed the problems in the revised tables.",
-      "Author.2.11": "Thank you for pointing out, we have addressed this issue throughout the revised manuscript.",
+      "Author.2.1": "We agree, and we have noted this point in the revised study limitations section.",
+      "Author.2.2": "Interesting point, which we have added to the revised Conclusion and Implications section.",
+      "Author.2.3": "Thank you for the kind response.",
+      "Author.2.4": "Thank you for pointing this out. The first mentioned statement has been removed altogether in the revised manuscript. The second statement has been modified in accordance with the reviewer\u2019s view (see revised section 4.3).",
+      "Author.2.5": "Thank you for pointing this out. We have removed the relevant section in accordance with this guidance.",
+      "Author.2.6": "Thank you for pointing this out, we have revised the sentence (see section 4.1).",
+      "Author.2.7": "We have revised the sentence; see section 4.4.",
+      "Author.2.8": "We have revised the sentence; see section 5.",
+      "Author.2.9": "We have revised the sentence; see section 5.",
+      "Author.2.10": "Alignment has been fixed.",
+      "Author.2.11": "Table 1 has been revised accordingly",
+      "Author.2.12": "Italics have been removed, see revised section 2.3",
+      "Author.2.13": "We are unsure how this problem occurred. We have fixed the problems in the revised tables.",
+      "Author.2.14": "Thank you for pointing out, we have addressed this issue throughout the revised manuscript.",
       "Author.4.1": "Thank you for noticing. We have corrected the two tables according to this guidance.",
       "Author.4.2": "Thank you for noticing. We have corrected the manuscript according to this guidance.",
       "Author.0.0": "Paper"
@@ -105,51 +108,51 @@
       "Reviewer_1.1.2"
     ],
     [
-      "Author.2.1",
+      "Author.2.3",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.1",
+      "Author.2.4",
       "Reviewer_3.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.5",
       "Reviewer_3.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.6",
       "Reviewer_3.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.7",
       "Reviewer_3.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.8",
       "Reviewer_3.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.9",
       "Reviewer_3.1.6"
     ],
     [
-      "Author.2.7",
+      "Author.2.10",
       "Reviewer_3.1.7"
     ],
     [
-      "Author.2.8",
+      "Author.2.11",
       "Reviewer_3.1.8"
     ],
     [
-      "Author.2.9",
+      "Author.2.12",
       "Reviewer_3.1.9"
     ],
     [
-      "Author.2.10",
+      "Author.2.13",
       "Reviewer_3.1.10"
     ],
     [
-      "Author.2.11",
+      "Author.2.14",
       "Reviewer_3.1.11"
     ],
     [

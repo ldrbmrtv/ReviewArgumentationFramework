@@ -1,38 +1,49 @@
 {
   "argument_sets": {
     "Reviewer_1": {
-      "Reviewer_1.1.1": "This is a well-written paper with a large sample of girls that replicates and extends important research \r\non relational aggression. The focus on the functions (reactive and proactive) of relational aggression has \r\nsignificant implications for intervention with adolescent girls. I commend the authors for this timely and \r\ncrucial study on factors that influence the development of aggression and antisocial behavior in girls, \r\nwhich is typically an understudied topic."
+      "Reviewer_1.1.1": "This is a well-written paper with a large sample of girls that replicates and extends important research \non relational aggression. The focus on the functions (reactive and proactive) of relational aggression has \nsignificant implications for intervention with adolescent girls. I commend the authors for this timely and \ncrucial study on factors that influence the development of aggression and antisocial behavior in girls, \nwhich is typically an understudied topic."
     },
     "Reviewer_2": {
       "Reviewer_2.1.1": "There are two areas to address to strengthen the paper a bit more.",
-      "Reviewer_2.1.2": "First, it is recommended that the \r\nauthors provide more information about the selection of the cluster solution. That is, no information is \r\navailable in the present manuscript about alternative cluster solutions from the analysis, for example, the \r\nextent to which BIC and the silhouette coefficient differed for other solutions and so forth. It would help \r\nthe reader to have some information available as a way of arguing more strongly that the accepted \r\nsolution (which does make theoretical and empirical sense) is the strongest grouping.",
-      "Reviewer_2.1.3": "Second, the manuscript should be carefully edited as there are a fair number of grammatical and \r\ntypographical errors, including lack of subject-verb agreement in places (e.g., using \u201cwere\u201d and \u201cwas\u201d \r\nin the same sentence, both referring to the same measure - CU traits), omitted words, and so forth."
+      "Reviewer_2.1.2": "First, it is recommended that the \nauthors provide more information about the selection of the cluster solution. That is, no information is \navailable in the present manuscript about alternative cluster solutions from the analysis, for example, the \nextent to which BIC and the silhouette coefficient differed for other solutions and so forth. It would help \nthe reader to have some information available as a way of arguing more strongly that the accepted \nsolution (which does make theoretical and empirical sense) is the strongest grouping.",
+      "Reviewer_2.1.3": "Second, the manuscript should be carefully edited as there are a fair number of grammatical and \ntypographical errors, including lack of subject-verb agreement in places (e.g., using \u201cwere\u201d and \u201cwas\u201d \nin the same sentence, both referring to the same measure - CU traits), omitted words, and so forth."
     },
     "Reviewer_3": {
-      "Reviewer_3.1.1": "Although the rationale for selecting each of the 9 factors that might be differentially related to \r\nreactive or proactive relational aggression is convincing, the overall picture is incomplete on at \r\nleast two accounts.",
-      "Reviewer_3.1.2": "First, some factors (i.e., CU traits) may be predictors whereas others (i.e., \r\ndelinquency) may be correlates or consequences of relational aggression. If the authors are really \r\ninterested in the processes that could feed into reactive or proactive relational aggression in \r\nfemales, they should have been more attentive to this issue.",
-      "Reviewer_3.1.3": "Second, the authors do not mention \r\nwhy they implicitly selected an additive model (i.e., each factor makes a unique and independent \r\ncontribution) instead of, for example, an interactional model (i.e., peer and parent factors \r\npotentiate the link between individual factors and subtypes of relational aggression).",
-      "Reviewer_3.1.4": "Given the severe limitations of their cross-sectional design, the authors \r\nneed to revise their comments with respect to directionality and their use of causality terms \r\nthroughout the manuscript.",
+      "Reviewer_3.1.1": "Although the rationale for selecting each of the 9 factors that might be differentially related to \nreactive or proactive relational aggression is convincing, the overall picture is incomplete on at \nleast two accounts.",
+      "Reviewer_3.1.2": "First, some factors (i.e., CU traits) may be predictors whereas others (i.e., \ndelinquency) may be correlates or consequences of relational aggression. If the authors are really \ninterested in the processes that could feed into reactive or proactive relational aggression in \nfemales, they should have been more attentive to this issue.",
+      "Reviewer_3.1.3": "Second, the authors do not mention \nwhy they implicitly selected an additive model (i.e., each factor makes a unique and independent \ncontribution) instead of, for example, an interactional model (i.e., peer and parent factors \npotentiate the link between individual factors and subtypes of relational aggression).",
+      "Reviewer_3.1.4": "Given the severe limitations of their cross-sectional design, the authors \nneed to revise their comments with respect to directionality and their use of causality terms \nthroughout the manuscript.",
       "Reviewer_3.1.5": "Some measures such as self\u0002reports of peers\u2019 delinquency are also flawed because of a possible projection bias.",
-      "Reviewer_3.1.6": "A better strategy would have been to predict \r\neach type of aggression while controlling its overlap with the other type (i.e., include reactive \r\naggression when predicting proactive aggression and vice-versa).",
-      "Reviewer_3.1.7": "Some findings are difficult to reconcile with the current literature; in addition, they are internally \r\ninconsistent. For example, how to explain that the combined group is not more delinquent than \r\nthe reactively aggressive group although they report more CU traits and more delinquent peers, \r\ntwo known factors in regard to delinquent behaviors?",
-      "Reviewer_3.1.8": "There are a number of grammatical and lexical problems throughout the manuscript that need to \r\nbe taken care of."
+      "Reviewer_3.1.6": "A better strategy would have been to predict \neach type of aggression while controlling its overlap with the other type (i.e., include reactive \naggression when predicting proactive aggression and vice-versa).",
+      "Reviewer_3.1.7": "Some findings are difficult to reconcile with the current literature; in addition, they are internally \ninconsistent. For example, how to explain that the combined group is not more delinquent than \nthe reactively aggressive group although they report more CU traits and more delinquent peers, \ntwo known factors in regard to delinquent behaviors?",
+      "Reviewer_3.1.8": "There are a number of grammatical and lexical problems throughout the manuscript that need to \nbe taken care of."
     },
     "Reviewer_4": {
-      "Reviewer_4.1.1": "The first two sentences of the abstract throw quite a bit of information at the reader, particularly as in \r\nthe third sentence, it does not appear that all types of aggression will be assessed in the manuscript, but \r\nother constructs are introduced (contextual factors). Then, when the authors state the objectives of the \r\nstudy (in next sentence) CU, delinquency and peer influence is introduced.",
-      "Reviewer_4.1.2": "Could the authors simplify the abstract? Is there a cohesive narrative that could bind the different \r\nconstructs together?",
-      "Reviewer_4.1.3": "As it is, this reviewer had difficulty following the variables as predictors/outcomes and the hypotheses \r\nthat are driving the paper",
-      "Reviewer_4.1.4": "There are enough variables that I hard a hard time following the analyses. A tighter focus in the intro \r\nand matching of analyses to hypotheses may help here.",
+      "Reviewer_4.1.1": "The first two sentences of the abstract throw quite a bit of information at the reader, particularly as in \nthe third sentence, it does not appear that all types of aggression will be assessed in the manuscript, but \nother constructs are introduced (contextual factors). Then, when the authors state the objectives of the \nstudy (in next sentence) CU, delinquency and peer influence is introduced.",
+      "Reviewer_4.1.2": "Could the authors simplify the abstract? Is there a cohesive narrative that could bind the different \nconstructs together?",
+      "Reviewer_4.1.3": "As it is, this reviewer had difficulty following the variables as predictors/outcomes and the hypotheses \nthat are driving the paper",
+      "Reviewer_4.1.4": "There are enough variables that I hard a hard time following the analyses. A tighter focus in the intro \nand matching of analyses to hypotheses may help here.",
       "Reviewer_4.3.1": "I think the paper is improved. But I do not feel that the authors responded in great detail to my comments."
     },
     "Author": {
-      "Author.2.1": "The manuscript has been edited for grammar problems and for clarity. We have also added Table 1 to \r\nassist with understanding our predictors and the broader factors they represent in this study.",
-      "Author.2.2": "We agree this would be useful but it was not our aim to look at interactions. We also believe interactions \r\nsuch as suggested are better done in longitudinal studies where one can examine moderators.",
-      "Author.2.3": "We have attempted to be mindful of causal language and only use it where prior research indicates a \r\ndirection.",
-      "Author.2.4": "We agree this is a major flaw and we thank the reviewer for pointing out projection bias. We now include \r\nthis in the limitations in the discussion.",
-      "Author.2.5": "We agree with the reviewer that there is no easy answer to this problem. We now include a discussion \r\nof this in the introduction and cite Lynam and colleagues on this exact dilemma. In their paper, they \r\ndiscuss the Perils of Partialing (p.4, line 15), which is what you do when you control for the overlap. \r\nThat is, one may be removing the reliable aspect of the self-report measures of aggression (when they \r\nare highly correlated) and remaining with residual error.",
-      "Author.2.6": "The reactive aggressive group did not differ from the combined group on peer delinquency. Thus, both \r\nwere high on delinquency and peer delinquency. Also, we comment on the overlap between peer \r\ndelinquency and self-report of delinquency in the results section (p.9, line 14).",
-      "Author.2.7": "We have carefully edited the paper.",
+      "Author.2.1": "Thank you for the enthusiastic comments.",
+      "Author.2.2": "This is now provided in the results section.",
+      "Author.2.3": "This is now provided in the results section.",
+      "Author.2.4": "Thank you! I have now carefully read and edited the paper.",
+      "Author.2.5": "Thank you! I have now carefully read and edited the paper.",
+      "Author.2.6": "True that we do not know the direction of effects. Here, we use predictor in the statistical sense not \ncausal sense.",
+      "Author.2.7": "True that we do not know the direction of effects. Here, we use predictor in the statistical sense not \ncausal sense.",
+      "Author.2.8": "We agree this would be useful but it was not our aim to look at interactions. We also believe interactions \nsuch as suggested are better done in longitudinal studies where one can examine moderators.",
+      "Author.2.9": "We agree this would be useful but it was not our aim to look at interactions. We also believe interactions \nsuch as suggested are better done in longitudinal studies where one can examine moderators.",
+      "Author.2.10": "We have attempted to be mindful of causal language and only use it where prior research indicates a \ndirection.",
+      "Author.2.11": "We agree this is a major flaw and we thank the reviewer for pointing out projection bias. We now include \nthis in the limitations in the discussion.",
+      "Author.2.12": "We agree with the reviewer that there is no easy answer to this problem. We now include a discussion \nof this in the introduction and cite Lynam and colleagues on this exact dilemma. In their paper, they \ndiscuss the Perils of Partialing (p.4, line 15), which is what you do when you control for the overlap. \nThat is, one may be removing the reliable aspect of the self-report measures of aggression (when they \nare highly correlated) and remaining with residual error.",
+      "Author.2.13": "The reactive aggressive group did not differ from the combined group on peer delinquency. Thus, both \nwere high on delinquency and peer delinquency. Also, we comment on the overlap between peer \ndelinquency and self-report of delinquency in the results section (p.9, line 14).",
+      "Author.2.14": "We have carefully edited the paper.",
+      "Author.2.15": "The manuscript has been edited for grammar problems and for clarity. We have also added Table 1 to \nassist with understanding our predictors and the broader factors they represent in this study.",
+      "Author.2.16": "The manuscript has been edited for grammar problems and for clarity. We have also added Table 1 to \nassist with understanding our predictors and the broader factors they represent in this study.",
+      "Author.2.17": "The manuscript has been edited for grammar problems and for clarity. We have also added Table 1 to \nassist with understanding our predictors and the broader factors they represent in this study.",
+      "Author.2.18": "The manuscript has been edited for grammar problems and for clarity. We have also added Table 1 to \nassist with understanding our predictors and the broader factors they represent in this study.",
       "Author.0.0": "Paper"
     }
   },
@@ -106,71 +117,71 @@
       "Reviewer_1.1.1"
     ],
     [
-      "Author.2.1",
-      "Reviewer_2.1.1"
-    ],
-    [
-      "Author.2.1",
-      "Reviewer_2.1.2"
-    ],
-    [
       "Author.2.2",
       "Reviewer_2.1.1"
-    ],
-    [
-      "Author.2.2",
-      "Reviewer_2.1.3"
-    ],
-    [
-      "Author.2.1",
-      "Reviewer_3.1.1"
-    ],
-    [
-      "Author.2.1",
-      "Reviewer_3.1.2"
-    ],
-    [
-      "Author.2.2",
-      "Reviewer_3.1.1"
-    ],
-    [
-      "Author.2.2",
-      "Reviewer_3.1.3"
     ],
     [
       "Author.2.3",
-      "Reviewer_3.1.4"
+      "Reviewer_2.1.2"
     ],
     [
       "Author.2.4",
-      "Reviewer_3.1.5"
+      "Reviewer_2.1.1"
     ],
     [
       "Author.2.5",
-      "Reviewer_3.1.6"
+      "Reviewer_2.1.3"
     ],
     [
       "Author.2.6",
-      "Reviewer_3.1.7"
+      "Reviewer_3.1.1"
     ],
     [
       "Author.2.7",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_3.1.6"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_3.1.7"
+    ],
+    [
+      "Author.2.14",
       "Reviewer_3.1.8"
     ],
     [
-      "Author.2.1",
+      "Author.2.15",
       "Reviewer_4.1.1"
     ],
     [
-      "Author.2.1",
+      "Author.2.16",
       "Reviewer_4.1.2"
     ],
     [
-      "Author.2.1",
+      "Author.2.17",
       "Reviewer_4.1.3"
     ],
     [
-      "Author.2.1",
+      "Author.2.18",
       "Reviewer_4.1.4"
     ],
     [

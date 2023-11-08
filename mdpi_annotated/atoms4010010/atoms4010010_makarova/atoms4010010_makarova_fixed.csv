@@ -1,0 +1,30 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;However, the authors did not show further supports to their calculations, namely, by comparing the present calculations with experiments or other theoretical method (from other groups). 
+Reviewer_1;Author;1;2;0;In earlier publications [Physics Reports 315 (1999) 409 and related references], a fully relativistic distorted-wave Born approximation (rDWBA) has been developed to describe the relativistic ionization processes. The authors did not mention this method for discussions in the manuscript.
+Reviewer_1;Author;1;3;0;The RPWBA method in the manuscript should be compared with the previous rDWBA  theory.
+Reviewer_1;Author;1;4;0;Again in earlier publications [Physics Reports 315 (1999) 409 and related references], there are existing experiments of triple differential cross sections for relativistic K-shell ionization of Ag, Au, and so on. The authors did not mention these experimental works in the manuscript.
+Reviewer_1;Author;1;5;0;(i) some errors in English typing, e.g. line 27 and line 119: it should be ‘plane wave …’ instead of ‘plan wave …’. Line between 33 and 34: it should be ‘The scattered positron and ejected electron …’ instead of ‘The scattered electron and ejected positron …’.
+Reviewer_1;Author;1;6;0;(ii) There are repeated Bibliography like ref. 11 and ref. 31.
+Reviewer_2;Author;1;1;0;As for minor problems, there are numerous English grammatical errors which I have attempted to list in order to facilitate publication.
+Reviewer_2;Author;1;2;0;In addition, I do believe that several figures could be combined in order to minimize journal space. 
+Reviewer_3;Author;1;1;0;"Page 1:* Line 7: it is referenced to the recent theories given in [2] and [3] which are from years 1994 and 2002 respectively. Maybe the word ""recent"" is not adequate here.* Line 19: ""Coulomb system"" -> ""Coulomb systems"""
+Reviewer_3;Author;1;2;0;"Page 2:* Line 36: ""describes the probability"": actually it is the flux ratio, and it could be divergent in some cases. I think one should be careful. Maybe the authors could use ""is related to the probability"" or something like that.* Line 40: ""positrons"" -> ""positron""* Line 43: ""positrons"" -> ""positron"" and ""ground state"" -> ""the ground state""."
+Reviewer_3;Author;1;3;0;"Page 3:* unnumbered equation between eqs. (1) and (2) for Vd: in the second term of the right hand side (rhs) the quantities between the vertical bars are vectors and the notation should be different from that of the first term of the rhs, which represent a modulus.* unnumbered equations between eqs. (6) and (7): there should be a connector between the two equations such as a comma or ""and"", the same for  eqs. (7) to (8) and (9) to (11)."
+Reviewer_3;Author;1;4;0;"Page 4:* Line 80: ""of model"" -> ""of the model""* Line 81: ""in first"" -> ""in the first""* line 86: the gamma letter (the Lorentz factor) must be defined in the text."
+Reviewer_3;Author;1;5;0;Page 5:* Lines 103 and 104: Maybe the identification of the used approximation for the three TDCS could be as subscript.* The fact that as the incident energy increases, the TDCS decreases and shifts towards smaller ejection angles for positron impact is said twice between lines 108 and 115.
+Reviewer_3;Author;1;6;0;"Page 9:* ""experimental one"" -> ""experimental ones"""
+Author;Reviewer_1;2;1;1;The review article by W Nakel and C. T. Whelan  you refer to do indeed tackle the relativistic regime but at the expense of a huge amount of numerical work.
+Author;Reviewer_1;2;2;2;The review article by W Nakel and C. T. Whelan  you refer to do indeed tackle the relativistic regime but at the expense of a huge amount of numerical work.
+Author;Reviewer_1;2;3;3;The work of W Nakel and C. T. Whelan is devoted to study heavy atoms but Our work is aimed to study analytically the hydrogen atom, we believe that such a comparison is impossible.
+Author;Reviewer_1;2;4;4;We are not in a position to compare with these works since they are devoted to heavy atoms.
+Author;Reviewer_1;2;5;5;Points (i) and (ii) have  been  corrected and changed  following  to  the  referee’s amendments.
+Author;Reviewer_1;2;6;6;Points (i) and (ii) have  been  corrected and changed  following  to  the  referee’s amendments.
+Author;Reviewer_2;2;7;1;A major revision of   the paper has been carried out to take all the comments, suggestions and english corrections     into account. 
+Author;Reviewer_2;2;8;2;A major revision of   the paper has been carried out to take all the comments, suggestions and english corrections     into account. 
+Author;Reviewer_3;2;9;1;The changes is  made in the text.
+Author;Reviewer_3;2;10;2;The changes is  made in the text.
+Author;Reviewer_3;2;11;3;The changes is  made in the text.
+Author;Reviewer_3;2;12;4;The changes is  made in the text.
+Author;Reviewer_3;2;13;5;The changes is  made in the text.
+Author;Reviewer_3;2;14;6;The changes is  made in the text.
+Reviewer_1;Author;3;1;0;The manuscript in the present form is suggested to be accepted for publication

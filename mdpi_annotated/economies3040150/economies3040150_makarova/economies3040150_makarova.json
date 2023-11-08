@@ -1,53 +1,72 @@
 {
   "argument_sets": {
     "Reviewer_1": {
-      "Reviewer_1.1.1": "However, the overall thrust in the paper is somewhat strange. After mechanically, without checking \r\nassumptions, doing specification test, checking the results carefully, etc. they conclude that relationships, \r\nwhich are not visible in graphs, cannot be found even with the most sophisticated approach. But who \r\nthinks they could, or should, be found? Tests are used to support informal results, such as those obtained \r\nin graphs.",
-      "Reviewer_1.1.2": "I don\u2019t really doubt the empirical findings of the paper (which I see as support for the hypothesis in \r\nJapan and possibly in Korea), but I dislike the approach of spending a lot of space on various, often \r\npointless, tests. There should be one detailed analysis based on adequate tests, and a discussion about \r\nthe results. After all, government expenditure is a political decision.",
-      "Reviewer_1.1.3": "An import question is why are the series for real GDP per capita are taken from PWT 7.0? These \r\nseries are constructed to be used in cross-country studies, and they are not suitable for the analyses in \r\nthe paper. See the paper by Johnson et al. (2009).",
-      "Reviewer_1.1.4": "The dependency ratio has not been included mechanically in most papers, as it is this one. It is \r\nsupposed to pick up changes in demand for government expenditure, such as schooling and pensions. \r\nThe general idea is that these have increased government expenditure, both because per-capita schooling \r\nand pensions have expanded and because the dependency ratio has increased. In most of the countries \r\nstudied, as is well-known, the dependency ratio declined during the period studied, while expenditure \r\nper person probably increased. Japan is most likely an exception; it should have entered the demographic \r\ntransition much earlier than the other countries. There is thus no a priory no reason to expect the \r\ndependency ratio to play an important role in the Wagner hypothesis in general. It can thus be removed \r\nfrom the analysis, or moved to a footnote. If the author(s) wish to pursue the approach of testing other \r\npotentially relevant variables, see Shelton 2007.",
-      "Reviewer_1.1.5": "Figure 1 tends to hide co-movements between the variables by mixing of scales. I suggest the graphs \r\nare re-done using two y-axes and preferably logs.",
+      "Reviewer_1.1.1": "However, the overall thrust in the paper is somewhat strange. After mechanically, without checking \nassumptions, doing specification test, checking the results carefully, etc. they conclude that relationships, \nwhich are not visible in graphs, cannot be found even with the most sophisticated approach. But who \nthinks they could, or should, be found? Tests are used to support informal results, such as those obtained \nin graphs.",
+      "Reviewer_1.1.2": "I don\u2019t really doubt the empirical findings of the paper (which I see as support for the hypothesis in \nJapan and possibly in Korea), but I dislike the approach of spending a lot of space on various, often \npointless, tests. There should be one detailed analysis based on adequate tests, and a discussion about \nthe results. After all, government expenditure is a political decision.",
+      "Reviewer_1.1.3": "An import question is why are the series for real GDP per capita are taken from PWT 7.0? These \nseries are constructed to be used in cross-country studies, and they are not suitable for the analyses in \nthe paper. See the paper by Johnson et al. (2009).",
+      "Reviewer_1.1.4": "The dependency ratio has not been included mechanically in most papers, as it is this one. It is \nsupposed to pick up changes in demand for government expenditure, such as schooling and pensions. \nThe general idea is that these have increased government expenditure, both because per-capita schooling \nand pensions have expanded and because the dependency ratio has increased. In most of the countries \nstudied, as is well-known, the dependency ratio declined during the period studied, while expenditure \nper person probably increased. Japan is most likely an exception; it should have entered the demographic \ntransition much earlier than the other countries. There is thus no a priory no reason to expect the \ndependency ratio to play an important role in the Wagner hypothesis in general. It can thus be removed \nfrom the analysis, or moved to a footnote. If the author(s) wish to pursue the approach of testing other \npotentially relevant variables, see Shelton 2007.",
+      "Reviewer_1.1.5": "Figure 1 tends to hide co-movements between the variables by mixing of scales. I suggest the graphs \nare re-done using two y-axes and preferably logs.",
       "Reviewer_1.1.6": "The correlations in Table 4 are by definition not valid in the cases where the variables are non\u0002stationary. Even high correlations are uninformative in this case. ",
-      "Reviewer_1.1.7": "The static regressions in Table 5 are used when testing for cointegration (Engle-Granger approach), \r\nwhen the variables have a unit root. In these cases, correction for serial correlation (AR1) just messes \r\nup the results. And when the variables are stationary, the validity of AR1 should be tested.",
-      "Reviewer_1.1.8": "In Table 5 we can get information about cointegration from the R2 and the t-values. Only Japan shows \r\nany promise, in all other cases R2 are very low. I would say they are suspiciously low for time series \r\ndata. Are thy correct?",
-      "Reviewer_1.1.9": "The discussion about endogeneity can be skipped. In any case, cointegration analysis allows for \r\nendogeneity, and it can easily be test when there is cointegration. The instruments used (lags) are not \r\nuseful since the variables are very persistent. And they should give the same results as OLS.",
-      "Reviewer_1.1.10": "Unless short run dynamics are an important reason for the lack of cointegration, the Johansen test \r\nshould give the same results as the static OLS regressions, when there is one cointegrating vector. The \r\nauthors do not seem to understand they are using different approaches to test for cointegration.",
-      "Reviewer_1.1.11": "The Johansen approach is suitable for times series with many observations, about 300. When one has \r\nfewer than 50, it is not possible to rely on the tests in the way it is done in the paper. Additional \r\ninformation has to be provided. See Juselius (2001) for an instructive example.",
-      "Reviewer_1.1.12": "Gregory\u2013Hansen is used when one fails to find cointegration with standard tests. There is no point in \r\ntesting countries such as Japan and Korea, when a superior test shows that they are cointegrated.",
-      "Reviewer_1.1.13": "The use of the MTAR model is dubious because of the small sample, and it should not be used when \r\ncointegration has been established. It is unlikely that there is enough information in the data to capture asymmetric effects and the standard procedure is to use MTAR when Engle-Granger fails to show \r\ncointegration.",
-      "Reviewer_1.1.14": "What is the alternative hypothesis of the Pedroni test, that there is cointegration in any country or or \r\nin all countries? This should be made clear.",
-      "Reviewer_1.1.15": "The authors provide a very provocative conclusion (see below), but it is not supported by the analyses \r\nin the paper.",
-      "Reviewer_1.1.16": "The single-country analysis would provide the same results if done carefully, and the panel \r\ndata analyses are dubious both because of the small cross-section (six) and the heterogeneity of the \r\nsample. I don\u2019t mind the use panel analyses they can be presented for illustrative purposes, noting the \r\nheterogeneity. However, the time series analyses should be done correctly.",
-      "Reviewer_1.1.17": "Moreover, it is quite obvious \r\nthat in simple bivariate cases, graphs can be very informative.",
-      "Reviewer_1.1.18": "However, the author(s) do not manage to \r\nprovide any useful information about the dependency ratio in the \u2018old fashioned\u2019 analyses; they do only \r\nin Table 5 when (unknowingly) testing for cointegrating using OLS.",
-      "Reviewer_1.1.19": "\u201cMethodologically, while the pattern is reflected fairly well in plots and simple correlations, and even\r\nin regressions, the widely-used cointegration methodology yields a diverse scenario in four different \r\nprocedures, and, through a choice of the procedure and the model, it seems as easy to conclude that there \r\nis no cointegration, and thus no support for the hypothesis as to conclude that the evidence supports the \r\nhypothesis in a majority of the cases. At any rate, it is not obvious that such sophisticated and complex \r\ntests of cointegration provide any useful additional insight regarding the empirical status of the \r\nhypothesis. More generally, we venture the highly subjective view that despite the immense \r\nmathematical sophistication of cointegration tests and their application in perhaps thousands of studies, \r\nit is not obvious how much additional substantive insight has been gained in the wide variety of contexts \r\nin which these tests have been used.\u201d\r\nThese statements should be explained. Is the second one a rejection of the last 40 years of advances \r\nin times series analysis?",
-      "Reviewer_1.1.20": "Despite Biehl\u2019s (1998) insightful essay, almost all empirical research on the topic has interpreted the \r\nWagnerian proposition",
-      "Reviewer_1.1.21": "As Ram (1998, Pp. 149-150) has explained, considerations of \u201cnonstationarity\u201d of the variables or \r\n\u201cspuriousness\u201d of the correlations or regression do not have much bearing on such tests.",
-      "Reviewer_1.3.1": "First, the authors should provide some tentative explanation for their findings in the conclusion \r\nsection based politics, the characteristics of the economies, etc.",
-      "Reviewer_1.3.2": "The graphs in Figure 1 are still misleading, probably because of the scaling of the axes. It is obvious \r\nfor Japan, where there is no discernible evidence for cointegration. With proper scaling, the lines should \r\ncross each other four times, providing some (but weak) evidence for cointegration.",
+      "Reviewer_1.1.7": "The static regressions in Table 5 are used when testing for cointegration (Engle-Granger approach), \nwhen the variables have a unit root. In these cases, correction for serial correlation (AR1) just messes \nup the results. And when the variables are stationary, the validity of AR1 should be tested.",
+      "Reviewer_1.1.8": "In Table 5 we can get information about cointegration from the R2 and the t-values. Only Japan shows \nany promise, in all other cases R2 are very low. I would say they are suspiciously low for time series \ndata. Are thy correct?",
+      "Reviewer_1.1.9": "The discussion about endogeneity can be skipped. In any case, cointegration analysis allows for \nendogeneity, and it can easily be test when there is cointegration. The instruments used (lags) are not \nuseful since the variables are very persistent. And they should give the same results as OLS.",
+      "Reviewer_1.1.10": "Unless short run dynamics are an important reason for the lack of cointegration, the Johansen test \nshould give the same results as the static OLS regressions, when there is one cointegrating vector. The \nauthors do not seem to understand they are using different approaches to test for cointegration.",
+      "Reviewer_1.1.11": "The Johansen approach is suitable for times series with many observations, about 300. When one has \nfewer than 50, it is not possible to rely on the tests in the way it is done in the paper. Additional \ninformation has to be provided. See Juselius (2001) for an instructive example.",
+      "Reviewer_1.1.12": "Gregory\u2013Hansen is used when one fails to find cointegration with standard tests. There is no point in \ntesting countries such as Japan and Korea, when a superior test shows that they are cointegrated.",
+      "Reviewer_1.1.13": "The use of the MTAR model is dubious because of the small sample, and it should not be used when \ncointegration has been established. It is unlikely that there is enough information in the data to capture asymmetric effects and the standard procedure is to use MTAR when Engle-Granger fails to show \ncointegration.",
+      "Reviewer_1.1.14": "What is the alternative hypothesis of the Pedroni test, that there is cointegration in any country or or \nin all countries? This should be made clear.",
+      "Reviewer_1.1.15": "The authors provide a very provocative conclusion (see below), but it is not supported by the analyses \nin the paper.",
+      "Reviewer_1.1.16": "The single-country analysis would provide the same results if done carefully, and the panel \ndata analyses are dubious both because of the small cross-section (six) and the heterogeneity of the \nsample. I don\u2019t mind the use panel analyses they can be presented for illustrative purposes, noting the \nheterogeneity. However, the time series analyses should be done correctly.",
+      "Reviewer_1.1.17": "Moreover, it is quite obvious \nthat in simple bivariate cases, graphs can be very informative.",
+      "Reviewer_1.1.18": "However, the author(s) do not manage to \nprovide any useful information about the dependency ratio in the \u2018old fashioned\u2019 analyses; they do only \nin Table 5 when (unknowingly) testing for cointegrating using OLS.",
+      "Reviewer_1.1.19": "\u201cMethodologically, while the pattern is reflected fairly well in plots and simple correlations, and even\nin regressions, the widely-used cointegration methodology yields a diverse scenario in four different \nprocedures, and, through a choice of the procedure and the model, it seems as easy to conclude that there \nis no cointegration, and thus no support for the hypothesis as to conclude that the evidence supports the \nhypothesis in a majority of the cases. At any rate, it is not obvious that such sophisticated and complex \ntests of cointegration provide any useful additional insight regarding the empirical status of the \nhypothesis. More generally, we venture the highly subjective view that despite the immense \nmathematical sophistication of cointegration tests and their application in perhaps thousands of studies, \nit is not obvious how much additional substantive insight has been gained in the wide variety of contexts \nin which these tests have been used.\u201d\nThese statements should be explained. Is the second one a rejection of the last 40 years of advances \nin times series analysis?",
+      "Reviewer_1.1.20": "Despite Biehl\u2019s (1998) insightful essay, almost all empirical research on the topic has interpreted the \nWagnerian proposition",
+      "Reviewer_1.1.21": "As Ram (1998, Pp. 149-150) has explained, considerations of \u201cnonstationarity\u201d of the variables or \n\u201cspuriousness\u201d of the correlations or regression do not have much bearing on such tests.",
+      "Reviewer_1.3.1": "First, the authors should provide some tentative explanation for their findings in the conclusion \nsection based politics, the characteristics of the economies, etc.",
+      "Reviewer_1.3.2": "The graphs in Figure 1 are still misleading, probably because of the scaling of the axes. It is obvious \nfor Japan, where there is no discernible evidence for cointegration. With proper scaling, the lines should \ncross each other four times, providing some (but weak) evidence for cointegration.",
       "Reviewer_1.3.3": "The x-axes in Figure 1 should have years."
     },
     "Reviewer_2": {
-      "Reviewer_2.1.1": "List of references is scant and limited. It is necessary to add more recent works on the subject with \r\nalternative ways of testing for Wagner\u2019s Law. Suggestions include \u201cTesting the Validity of \r\nWagner\u2019s Law in Bolivia: A Cointegration and Causality Analysis with Disaggregated Data\u201d by \r\nA. Bojanic (2013); \u201cWagner\u2019s Law and Italian Disaggregated Public Spending: Some Empirical \r\nEvidences\u201d by C. Magazzino (2010); and \u201cPanel Data, Cointegration, Causality and Wagner\u2019s \r\nLaw: Empirical Evidence from Chinese Provinces\u201d by Narayan, P.K., et al. (2008).",
-      "Reviewer_2.1.2": "The paper only lists one way of testing for Wagner\u2019s hypothesis (i.e., analyzing the relation between the share on GDP of government spending and real GDP per capita) when in fact there \r\nare many ways of looking at the hypothesis. The authors should include at least a couple of recent \r\nways of testing this law, in addition to the traditional way of testing for it.",
-      "Reviewer_2.1.3": "The variables used do not have the same units, which may clog the analysis of the paper. \r\nSpecifically, real GDP per capita is measured in 2005 dollars while the share of government \r\nconsumption on GDP is measured in current prices. Either both should be in real terms or both in \r\ncurrent prices, but not as is currently the case.",
-      "Reviewer_2.1.4": "The descriptive stats in Table 2 reflect stats for the whole period? If so, the table should explicitly \r\nstate this fact.",
-      "Reviewer_2.1.5": "Why are there 3 graphs for the Philippines in Figure 1? By the way, if the variables were measured \r\nin either current prices or utilizing the same base year, these graphs would likely be quite different \r\n(same goes for all statistical analysis, it is likely to vary when the two variables are measured the \r\nsame way)",
-      "Reviewer_2.1.6": "What is the point of the dependency rate? The authors should expand on the need to add this \r\nvariable and what exactly is it trying to capture. In the same vein, what do the authors mean by \r\n\u201chowever, it seems that the fall in young-dependency ratio was greater than the rise in the old\u0002dependency rate\u201d on p. 4?",
+      "Reviewer_2.1.1": "List of references is scant and limited. It is necessary to add more recent works on the subject with \nalternative ways of testing for Wagner\u2019s Law. Suggestions include \u201cTesting the Validity of \nWagner\u2019s Law in Bolivia: A Cointegration and Causality Analysis with Disaggregated Data\u201d by \nA. Bojanic (2013); \u201cWagner\u2019s Law and Italian Disaggregated Public Spending: Some Empirical \nEvidences\u201d by C. Magazzino (2010); and \u201cPanel Data, Cointegration, Causality and Wagner\u2019s \nLaw: Empirical Evidence from Chinese Provinces\u201d by Narayan, P.K., et al. (2008).",
+      "Reviewer_2.1.2": "The paper only lists one way of testing for Wagner\u2019s hypothesis (i.e., analyzing the relation between the share on GDP of government spending and real GDP per capita) when in fact there \nare many ways of looking at the hypothesis. The authors should include at least a couple of recent \nways of testing this law, in addition to the traditional way of testing for it.",
+      "Reviewer_2.1.3": "The variables used do not have the same units, which may clog the analysis of the paper. \nSpecifically, real GDP per capita is measured in 2005 dollars while the share of government \nconsumption on GDP is measured in current prices. Either both should be in real terms or both in \ncurrent prices, but not as is currently the case.",
+      "Reviewer_2.1.4": "The descriptive stats in Table 2 reflect stats for the whole period? If so, the table should explicitly \nstate this fact.",
+      "Reviewer_2.1.5": "Why are there 3 graphs for the Philippines in Figure 1? By the way, if the variables were measured \nin either current prices or utilizing the same base year, these graphs would likely be quite different \n(same goes for all statistical analysis, it is likely to vary when the two variables are measured the \nsame way)",
+      "Reviewer_2.1.6": "What is the point of the dependency rate? The authors should expand on the need to add this \nvariable and what exactly is it trying to capture. In the same vein, what do the authors mean by \n\u201chowever, it seems that the fall in young-dependency ratio was greater than the rise in the old\u0002dependency rate\u201d on p. 4?",
       "Reviewer_2.1.7": "In Table 4, delete the \u201cgenerated by SAS\u201d note.",
       "Reviewer_2.3.1": "My recommendation is to accept the paper for publication."
     },
     "Author": {
-      "Author.2.1": "Several new references, including those kindly mentioned by the reviewer, have been added, and \r\nthere is a concise description of these in note 1.",
-      "Author.2.2": "Several formats in which Wagner\u2019s hypothesis has been formulated and tested have been listed on \r\npage 5 of the revision. That paragraph includes six different approaches.",
-      "Author.2.3": "Real GDP per capita is a fairly standard proxy for the \u201clevel of development\u201d in the context of \r\nWagner\u2019s hypothesis. It might not be appropriate to use nominal GDP per capita. For the government \r\nshare, it seems better to take the current-price ratio which indicates what fraction of the current output \r\nis used for government activities. The deflators for GDP and government spending are different and \r\n\u201creal\u201d government-share may not be a good indicator of the resource-use by the government during the \r\ncurrent year.",
-      "Author.2.4": "The old Table 2 has been deleted. Those descriptive statistics were for the entire period. The growth \r\nrates in the new Table 3 are also for the entire period, and that has been indicated.",
-      "Author.2.5": "The redundant graphs for Philippines have been deleted.",
-      "Author.2.6": "The dependency-rate variable has been dropped.",
-      "Author.2.7": "The old Table 4 has been deleted along with the remark about p-values being taken from SAS.",
-      "Author.2.8": "We have highlighted the alternative hypothesis in Pedroni\u2019s tests on Page 8. As Pedroni (1999) \r\nclearly points out, the alternative hypothesis rejects the null of no-cointegration across all cross-sections \r\nin both within- and between-dimension tests.",
-      "Author.2.9": "The \u201cprovocative conclusion\u201d reflected one author\u2019s subjective perception and was stated as such. \r\nHe shares the perspective noted by Bennett McCallum\u2019s in his \u201cIs the spurious regression problem \r\nspurious?\u201d (Economics Letters, 2010). However, the segment cited by the reviewer has been deleted \r\nsince it is a more general proposition and is not necessary for the limited analysis reported in our paper.",
-      "Author.2.10": "We completely share the reviewer\u2019s view that despite Biehl\u2019s PF/FP essay, almost everyone \r\nfollows the standard approach, and we do the same. Our observation is just a restatement of the \r\nproposition that our approach is traditional.",
-      "Author.4.1": "Thank you.",
+      "Author.2.1": "Following the reviewer\u2019s comments, we have now focused on one detailed analysis based on \nadequate tests and a discussion of the results. The revised version drops Descriptive statistics in old \nTable 2, rates of increase given in the old Table 3, correlations reported in old Table 4, the regressions \nin old Table 5, and pooled regressions of old Table 6. The discussion based on these Tables has \nconsequently been omitted from the revision. The unit-root-test Tables have been moved from the \nAppendix to the text as Table 2, and in view of the evidence in favor of unit roots, rates of growth of GDP and government variables have been shown in Table 3 somewhat like the old Table 3. These are \nthe most major changes.",
+      "Author.2.2": "Following the reviewer\u2019s comments, we have now focused on one detailed analysis based on \nadequate tests and a discussion of the results. The revised version drops Descriptive statistics in old \nTable 2, rates of increase given in the old Table 3, correlations reported in old Table 4, the regressions \nin old Table 5, and pooled regressions of old Table 6. The discussion based on these Tables has \nconsequently been omitted from the revision. The unit-root-test Tables have been moved from the \nAppendix to the text as Table 2, and in view of the evidence in favor of unit roots, rates of growth of GDP and government variables have been shown in Table 3 somewhat like the old Table 3. These are \nthe most major changes.",
+      "Author.2.3": "The authors are aware of the Johnson et al. paper (JME 2013) and other critiques of the PWT data. \nHowever, while the LCU numbers are appropriate for single-country analysis, these are not suitable for \npanel-data format which is a significant part of this study. Therefore, we use the PWT numbers \nthroughout and hope that single-country analysis with these numbers is a reasonable approximation to \nthe scenario indicated by LCU data.",
+      "Author.2.4": "The dependency variable has been removed from the analysis.",
+      "Author.2.5": "Figure 1 has been redone with separate scales for logarithms of real GDP per capita and government \nshare.",
+      "Author.2.6": "The correlations of old Table 4, the static regressions of Table 5, and the discussion of endogeneity \nhave been omitted.",
+      "Author.2.7": "The correlations of old Table 4, the static regressions of Table 5, and the discussion of endogeneity \nhave been omitted.",
+      "Author.2.8": "The correlations of old Table 4, the static regressions of Table 5, and the discussion of endogeneity \nhave been omitted.",
+      "Author.2.9": "Since our data cover a long period of nearly 50 years, we are inclined to rely on Johansen tests \nalthough the number of data points is smaller than 100. The Gregory-Hansen test is done for Japan and \nKorea also just for completeness, and might be of some methodological interest since it does not show \ncointegration even for Japan and Korea. The reviewer\u2019s observation has been acknowledged in note 2.",
+      "Author.2.10": "Since our data cover a long period of nearly 50 years, we are inclined to rely on Johansen tests \nalthough the number of data points is smaller than 100. The Gregory-Hansen test is done for Japan and \nKorea also just for completeness, and might be of some methodological interest since it does not show \ncointegration even for Japan and Korea. The reviewer\u2019s observation has been acknowledged in note 2.",
+      "Author.2.11": "Since our data cover a long period of nearly 50 years, we are inclined to rely on Johansen tests \nalthough the number of data points is smaller than 100. The Gregory-Hansen test is done for Japan and \nKorea also just for completeness, and might be of some methodological interest since it does not show \ncointegration even for Japan and Korea. The reviewer\u2019s observation has been acknowledged in note 2.",
+      "Author.2.12": "Since our data cover a long period of nearly 50 years, we are inclined to rely on Johansen tests \nalthough the number of data points is smaller than 100. The Gregory-Hansen test is done for Japan and \nKorea also just for completeness, and might be of some methodological interest since it does not show \ncointegration even for Japan and Korea. The reviewer\u2019s observation has been acknowledged in note 2.",
+      "Author.2.13": "We agree with the reviewer about the limited usefulness of MTAR in small samples and for Japan \nand Korea. However, it is included in the hope it would indicate whether lack of cointegration for \nMalaysia, Philippines, Singapore and Thailand might be due to asymmetric adjustment. The reviewer\u2019s \nobservation has been acknowledged in note 3.",
+      "Author.2.14": "We have highlighted the alternative hypothesis in Pedroni\u2019s tests on Page 8. As Pedroni (1999) \nclearly points out, the alternative hypothesis rejects the null of no-cointegration across all cross-sections \nin both within- and between-dimension tests.",
+      "Author.2.15": "The \u201cprovocative conclusion\u201d reflected one author\u2019s subjective perception and was stated as such. \nHe shares the perspective noted by Bennett McCallum\u2019s in his \u201cIs the spurious regression problem \nspurious?\u201d (Economics Letters, 2010). However, the segment cited by the reviewer has been deleted \nsince it is a more general proposition and is not necessary for the limited analysis reported in our paper.",
+      "Author.2.16": "The \u201cprovocative conclusion\u201d reflected one author\u2019s subjective perception and was stated as such. \nHe shares the perspective noted by Bennett McCallum\u2019s in his \u201cIs the spurious regression problem \nspurious?\u201d (Economics Letters, 2010). However, the segment cited by the reviewer has been deleted \nsince it is a more general proposition and is not necessary for the limited analysis reported in our paper.",
+      "Author.2.17": "The \u201cprovocative conclusion\u201d reflected one author\u2019s subjective perception and was stated as such. \nHe shares the perspective noted by Bennett McCallum\u2019s in his \u201cIs the spurious regression problem \nspurious?\u201d (Economics Letters, 2010). However, the segment cited by the reviewer has been deleted \nsince it is a more general proposition and is not necessary for the limited analysis reported in our paper.",
+      "Author.2.18": "The \u201cprovocative conclusion\u201d reflected one author\u2019s subjective perception and was stated as such. \nHe shares the perspective noted by Bennett McCallum\u2019s in his \u201cIs the spurious regression problem \nspurious?\u201d (Economics Letters, 2010). However, the segment cited by the reviewer has been deleted \nsince it is a more general proposition and is not necessary for the limited analysis reported in our paper.",
+      "Author.2.19": "The \u201cprovocative conclusion\u201d reflected one author\u2019s subjective perception and was stated as such. \nHe shares the perspective noted by Bennett McCallum\u2019s in his \u201cIs the spurious regression problem \nspurious?\u201d (Economics Letters, 2010). However, the segment cited by the reviewer has been deleted \nsince it is a more general proposition and is not necessary for the limited analysis reported in our paper.",
+      "Author.2.20": "We completely share the reviewer\u2019s view that despite Biehl\u2019s PF/FP essay, almost everyone \nfollows the standard approach, and we do the same. Our observation is just a restatement of the \nproposition that our approach is traditional.",
+      "Author.2.21": "Several new references, including those kindly mentioned by the reviewer, have been added, and \nthere is a concise description of these in note 1.",
+      "Author.2.22": "Several formats in which Wagner\u2019s hypothesis has been formulated and tested have been listed on \npage 5 of the revision. That paragraph includes six different approaches.",
+      "Author.2.23": "Real GDP per capita is a fairly standard proxy for the \u201clevel of development\u201d in the context of \nWagner\u2019s hypothesis. It might not be appropriate to use nominal GDP per capita. For the government \nshare, it seems better to take the current-price ratio which indicates what fraction of the current output \nis used for government activities. The deflators for GDP and government spending are different and \n\u201creal\u201d government-share may not be a good indicator of the resource-use by the government during the \ncurrent year.",
+      "Author.2.24": "The old Table 2 has been deleted. Those descriptive statistics were for the entire period. The growth \nrates in the new Table 3 are also for the entire period, and that has been indicated.",
+      "Author.2.25": "The redundant graphs for Philippines have been deleted.",
+      "Author.2.26": "The dependency-rate variable has been dropped.",
+      "Author.2.27": "The old Table 4 has been deleted along with the remark about p-values being taken from SAS.",
+      "Author.4.1": "Please note the following changes in revised version: (a) the plots in Figure 1 have been rescaled and \nnow there are cross-overs in the plot for Japan, (b) years have been shown on the horizontal axis in \nFigure 1, (c) a sizable addition has been made toward the end of Section 3 to address the reviewer\u2019s \nobservations about possible reasons for lack of cointegration in most countries, and (d) a few minor \neditorial alterations have been made.",
+      "Author.4.2": "Please note the following changes in revised version: (a) the plots in Figure 1 have been rescaled and \nnow there are cross-overs in the plot for Japan, (b) years have been shown on the horizontal axis in \nFigure 1, (c) a sizable addition has been made toward the end of Section 3 to address the reviewer\u2019s \nobservations about possible reasons for lack of cointegration in most countries, and (d) a few minor \neditorial alterations have been made.",
+      "Author.4.3": "Thank you.",
       "Author.0.0": "Paper"
     }
   },
@@ -169,107 +188,107 @@
       "Reviewer_1.1.1"
     ],
     [
-      "Author.2.1",
+      "Author.2.2",
       "Reviewer_1.1.2"
     ],
     [
-      "Author.2.2",
+      "Author.2.3",
       "Reviewer_1.1.3"
     ],
     [
-      "Author.2.3",
+      "Author.2.4",
       "Reviewer_1.1.4"
     ],
     [
-      "Author.2.4",
+      "Author.2.5",
       "Reviewer_1.1.5"
     ],
     [
-      "Author.2.5",
+      "Author.2.6",
       "Reviewer_1.1.6"
     ],
     [
-      "Author.2.5",
+      "Author.2.7",
       "Reviewer_1.1.7"
     ],
     [
-      "Author.2.5",
+      "Author.2.8",
       "Reviewer_1.1.8"
     ],
     [
-      "Author.2.6",
+      "Author.2.9",
       "Reviewer_1.1.9"
     ],
     [
-      "Author.2.6",
+      "Author.2.10",
       "Reviewer_1.1.10"
     ],
     [
-      "Author.2.6",
+      "Author.2.11",
       "Reviewer_1.1.11"
     ],
     [
-      "Author.2.6",
+      "Author.2.12",
       "Reviewer_1.1.12"
     ],
     [
-      "Author.2.7",
+      "Author.2.13",
       "Reviewer_1.1.13"
     ],
     [
-      "Author.2.8",
+      "Author.2.14",
       "Reviewer_1.1.14"
     ],
     [
-      "Author.2.9",
+      "Author.2.15",
       "Reviewer_1.1.15"
     ],
     [
-      "Author.2.9",
+      "Author.2.16",
       "Reviewer_1.1.16"
     ],
     [
-      "Author.2.9",
+      "Author.2.17",
       "Reviewer_1.1.17"
     ],
     [
-      "Author.2.9",
+      "Author.2.18",
       "Reviewer_1.1.18"
     ],
     [
-      "Author.2.9",
+      "Author.2.19",
       "Reviewer_1.1.19"
     ],
     [
-      "Author.2.10",
+      "Author.2.20",
       "Reviewer_1.1.20"
     ],
     [
-      "Author.2.1",
+      "Author.2.21",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.22",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.23",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.24",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.25",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.26",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.7",
+      "Author.2.27",
       "Reviewer_2.1.7"
     ],
     [
@@ -293,11 +312,11 @@
       "Reviewer_1.3.2"
     ],
     [
-      "Author.4.1",
+      "Author.4.2",
       "Reviewer_1.3.3"
     ],
     [
-      "Author.4.1",
+      "Author.4.3",
       "Reviewer_2.3.1"
     ]
   ]

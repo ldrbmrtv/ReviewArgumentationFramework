@@ -23,13 +23,20 @@
       "Reviewer_4.3.1": "I think the paper is improved. But I do not feel that the authors responded in great detail to my comments."
     },
     "Author": {
-      "Author.2.1": "The manuscript has been edited for grammar problems and for clarity.",
-      "Author.2.2": "We have also added Table 1 to assist with understanding our predictors and the broader factors they represent in this study.",
-      "Author.2.3": "We have attempted to be mindful of causal language and only use it where prior research indicates a direction.",
-      "Author.2.4": "We agree this is a major flaw and we thank the reviewer for pointing out projection bias. We now include this in the limitations in the discussion.",
-      "Author.2.5": "We agree with the reviewer that there is no easy answer to this problem. We now include a discussion of this in the introduction and cite Lynam and colleagues on this exact dilemma. In their paper, they discuss the Perils of Partialing (p.4, line 15), which is what you do when you control for the overlap. That is, one may be removing the reliable aspect of the self-report measures of aggression (when they are highly correlated) and remaining with residual error.",
-      "Author.2.6": "The reactive aggressive group did not differ from the combined group on peer delinquency. Thus, both were high on delinquency and peer delinquency. Also, we comment on the overlap between peer delinquency and self-report of delinquency in the results section (p.9, line 14).",
-      "Author.2.7": "We have carefully edited the paper.",
+      "Author.2.1": "Thank you for the enthusiastic comments.",
+      "Author.2.2": "This is now provided in the results section.",
+      "Author.2.3": "Thank you! I have now carefully read and edited the paper.",
+      "Author.2.4": "True that we do not know the direction of effects. Here, we use predictor in the statistical sense not causal sense.",
+      "Author.2.5": "We agree this would be useful but it was not our aim to look at interactions. We also believe interactions such as suggested are better done in longitudinal studies where one can examine moderators.",
+      "Author.2.6": "We have attempted to be mindful of causal language and only use it where prior research indicates a direction.",
+      "Author.2.7": "We agree this is a major flaw and we thank the reviewer for pointing out projection bias. We now include this in the limitations in the discussion.",
+      "Author.2.8": "We agree with the reviewer that there is no easy answer to this problem. We now include a discussion of this in the introduction and cite Lynam and colleagues on this exact dilemma. In their paper, they discuss the Perils of Partialing (p.4, line 15), which is what you do when you control for the overlap. That is, one may be removing the reliable aspect of the self-report measures of aggression (when they are highly correlated) and remaining with residual error.",
+      "Author.2.9": "The reactive aggressive group did not differ from the combined group on peer delinquency. Thus, both were high on delinquency and peer delinquency. Also, we comment on the overlap between peer delinquency and self-report of delinquency in the results section (p.9, line 14).",
+      "Author.2.10": "We have carefully edited the paper.",
+      "Author.2.11": "The manuscript has been edited for grammar problems and for clarity.",
+      "Author.2.12": "The manuscript has been edited for grammar problems and for clarity.",
+      "Author.2.13": "The manuscript has been edited for grammar problems and for clarity.",
+      "Author.2.14": "We have also added Table 1 to assist with understanding our predictors and the broader factors they represent in this study.",
       "Author.0.0": "Paper"
     }
   },
@@ -91,55 +98,55 @@
       "Reviewer_1.1.1"
     ],
     [
-      "Author.2.1",
+      "Author.2.2",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.3",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.1",
-      "Reviewer_3.1.1"
-    ],
-    [
-      "Author.2.2",
-      "Reviewer_3.1.1"
-    ],
-    [
-      "Author.2.3",
-      "Reviewer_3.1.2"
-    ],
-    [
       "Author.2.4",
-      "Reviewer_3.1.3"
+      "Reviewer_3.1.1"
     ],
     [
       "Author.2.5",
-      "Reviewer_3.1.4"
+      "Reviewer_3.1.1"
     ],
     [
       "Author.2.6",
-      "Reviewer_3.1.5"
+      "Reviewer_3.1.2"
     ],
     [
       "Author.2.7",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Author.2.10",
       "Reviewer_3.1.6"
     ],
     [
-      "Author.2.1",
+      "Author.2.11",
       "Reviewer_4.1.1"
     ],
     [
-      "Author.2.1",
+      "Author.2.12",
       "Reviewer_4.1.2"
     ],
     [
-      "Author.2.1",
+      "Author.2.13",
       "Reviewer_4.1.4"
     ],
     [
-      "Author.2.2",
+      "Author.2.14",
       "Reviewer_4.1.3"
     ],
     [

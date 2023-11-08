@@ -11,11 +11,12 @@
       "Reviewer_2.1.1": "This is an important study that deserves to be published. The results are controversial. However, the findings may be of great interest for the readers of the journal. The paper is of high quality. I recommend the manuscript published. It can be published as it is."
     },
     "Author": {
-      "Author.2.1": "Thank you.",
-      "Author.2.2": "Both cases and controls could have been diagnosed with autism, but it should have been a relative minority. Autism is relatively rare compared to a 314 diagnosis. This issue was added to the study limitations in the revised manuscript.\r\n \u201cIn the present study, neurodevelopmental diagnoses other than 314.xx were not examined among cases and controls. This limitation of the present study should have had a limited impact on the results observed because of the rarity of other neurodevelopmental diagnoses as compared to a 314.xx diagnosis, but future studies could further evaluate this phenomenon.\u201d",
+      "Author.2.1": "In the revised manuscript, this was corrected as suggested.",
+      "Author.2.2": "Both cases and controls could have been diagnosed with autism, but it should have been a relative minority. Autism is relatively rare compared to a 314 diagnosis. This issue was added to the study limitations in the revised manuscript.\n \u201cIn the present study, neurodevelopmental diagnoses other than 314.xx were not examined among cases and controls. This limitation of the present study should have had a limited impact on the results observed because of the rarity of other neurodevelopmental diagnoses as compared to a 314.xx diagnosis, but future studies could further evaluate this phenomenon.\u201d",
       "Author.2.3": "We don\u2019t have the exact number, but it is assumed to be a relatively small number.",
       "Author.2.4": "In the revised manuscript, this was corrected with a better reference.",
-      "Author.2.5": "In the revised manuscript, this information was added.\r\n \u201cThis database is available to outside researchers after obtaining approval from the CDC and KP. Information regarding access to this database is at: http://www.cdc.gov/vaccinesafety/ensuringsafety/monitoring/vsd/accessing-data.html.\u201d",
+      "Author.2.5": "In the revised manuscript, this information was added.\n \u201cThis database is available to outside researchers after obtaining approval from the CDC and KP. Information regarding access to this database is at: http://www.cdc.gov/vaccinesafety/ensuringsafety/monitoring/vsd/accessing-data.html.\u201d",
+      "Author.2.6": "Thank you.",
       "Author.0.0": "Paper"
     }
   },
@@ -65,7 +66,7 @@
       "Reviewer_1.1.5"
     ],
     [
-      "Author.2.1",
+      "Author.2.6",
       "Reviewer_2.1.1"
     ]
   ]

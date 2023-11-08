@@ -1,0 +1,138 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;The citations are not formatted according to the journal guidelines. Please revise.
+Reviewer_1;Author;1;2;0;Include the full form of STD described in the results.
+Reviewer_1;Author;1;3;0;Table 3 “Health apps and computer algorithms are for patients disturbing (=)…” should “(=)” be “(0)”?
+Reviewer_1;Author;1;4;0;Line 252, 24/7 is the commonly accepted form of 7/24.
+Reviewer_1;Author;1;5;0;Line 267 and 268, the description of figure 1 is not clear. Does “focused on senses” mean in-person patient-doctor interaction?
+Reviewer_1;Author;1;6;0;Table 4 data suggest Digital networks increase doctor nurse communication but Line 266 says it undermines the same. Can you clarify?
+Reviewer_1;Author;1;7;0;Table 5, what does numbers 1 through 7 represent?
+Reviewer_2;Author;1;1;0;"Clarity whether or not the study design was “exploratory mixed methods design” or mere a 
+“convergent parallel design”"
+Reviewer_2;Author;1;2;0;"Please, use male undergraduate students or undergraduate male students instead of ‘male and 
+undergraduate students’ in the abstract or simply throughout the paper."
+Reviewer_2;Author;1;3;0;"In the abstract, lines 23-27, I suggest to use the following expression or something like that. 
+Around 38% of the students felt ill-prepared and could not answer AI-related questions because 
+digitization in medicine and AI are not a formal part of the medical curriculum."
+Reviewer_2;Author;1;4;0;"Page 2, line 42, ‘the computation of compounding factors,’ I did not understand what it 
+means. I suggest the authors to replace this with appropriate phrase."
+Reviewer_2;Author;1;5;0;"The aim of the study was not stated clearly. For example, the first sentence should describe the 
+general aim or the overall objective of the study in a more general term. However, the first 
+sentence did not appear to serve this purpose."
+Reviewer_2;Author;1;6;0;"Also, the research questions are not clearly 
+stated. It needs the careful wording of the study participants. Phrases like ‘2020 medical 
+students’ generation,’ and ‘their level on confidence,’ are confusing for the readers. "
+Reviewer_2;Author;1;7;0;Also, the research questions lack describing the study setting.
+Reviewer_2;Author;1;8;0;On page 2, line 111, the phrase ‘to affirm or dismiss,’ does not make sense. Replace this phrase with a more appropriate phrase.
+Reviewer_2;Author;1;9;0;Page 3, lines 117-118, the statement has two issues. ‘The items were then tested through a pilot study consisting of a 117 group of 4 pre- and clinical students, mediated by AG and JE’. First, why did you use only 4 students for pilot testing? 
+Reviewer_2;Author;1;10;0;Second, what do ‘AG’ and ‘JE’ represent?
+Reviewer_2;Author;1;11;0;"Page 3, line 132, it says, Convenience sampling was used. I would ask, why did you use 
+convenience sampling?"
+Reviewer_2;Author;1;12;0;Page 4, table 1, the caption and the table content do not match. Revise either of them.
+Reviewer_2;Author;1;13;0;In the methods section, clearly describe the sampling procedure for the quantitative and qualitative study parts separately.
+Reviewer_2;Author;1;14;0;Also describe the final study sample for both.
+Reviewer_2;Author;1;15;0;"Page 12, line 389, the statement which says, ‘The non-probabilistic sampling makes a 
+generalization of the answers difficult,’ is confusing. I suggest to re-write this sentence."
+Reviewer_2;Author;1;16;0;"I suggest to remove the phrase ‘so called,’ that has been used in the conclusion section or any 
+other section."
+Reviewer_2;Author;1;17;0;"Page 13, lines 409-410, in the conclusion section, the statement which says, ‘This study also 
+found significant differences between those groups indicating differences in subgroups of 
+students from the quantitative survey.’ This is a confusing statement. Re-write this sentence 
+clearly"
+Reviewer_2;Author;1;18;0;I suggest the authors to include a short section including the implications of the study after the conclusions. 
+Author;Reviewer_1;2;1;1;The quoted literature has been adapted to the ACS Style Guide. For that, the authors used to software package Zotero.
+Author;Reviewer_1;2;2;2;STD are included in the all tables were indicated: sum+STD has been added in the legend.
+Author;Reviewer_1;2;3;3;In Table 3 (=) has been changed into (0). It was a typo, sorry.
+Author;Reviewer_1;2;4;4;Line 252: 7/24 has been changed into 24/7.
+Author;Reviewer_1;2;5;5;Line 267 and 268, the description of figure 1 “focused on senses” means that the diagnostic workup should be more focused on the physical examination (the doctor’s senses) rather than based on technical diagnostics. In the revised manuscript has been added in line 270 “and use their senses in physical examinations rather than rely on impersonal technical tools for the diagnostic work-up”.
+Author;Reviewer_1;2;6;6;In Line 266/267 the term “undermine” was wrong. It has been changed into “ease”. Thank you for the hint.
+Author;Reviewer_1;2;7;7;Table 5: The students could rank their answer. 1 = don’t know, 2= false up to 7 = fully agree. The statistical calculation was done only for ranks 2 to 7, excluding the students, who could not or didn’t want to answer the question. The authors knew from the qualitative study part, that some students had no knowledge about AI. Therefor the “don’t know” option was included. In the first draft of the manuscript the legends contained a mistake, because the “fully agree” option had the highest number (7) but not 3. This has been changed in the revised manuscript.
+Author;Reviewer_2;2;8;1;"Aspects of the organizational environment (e.g., creative problem solving) were identified in 
+the qualitative component and statistically confirmed or rejected in the preceding quantitative 
+study phase, which is exactly what the authors did in this study.  Although our study integrates components of both strategies, the authors still think, that the 
+sequential exploratory strategy describes our methods better than the convergent parallel design 
+(see also: Curry et al Circ. Cardiovasc, Qual. Outcomes 2013, 6:119-123). "
+Author;Reviewer_2;2;9;2;"The manuscript has been changed accordingly.
+"
+Author;Reviewer_2;2;10;3;The manuscript has been changed accordingly
+Author;Reviewer_2;2;11;4;The reviewer is right. The phase has been changed into the “analysis” of compounding factors
+Author;Reviewer_2;2;12;5;"The authors followed the reviewer’s suggestions and re-wrote this para as follows: “The overall objective of this study was to investigate the today’s medical students 
+attitudes towards AI and other digital working tools. We wanted to understand if age, gender, 
+semester level and curriculum type influences their views. This study also assembled 
+information on students’ understanding of AI algorithms and digital applications in health care 
+and assessed their level of confidence in working alongside these tools after graduation in 
+patient care. It is our belief that this information may possess the means to employ digital tools 
+including AI into the curriculum of medical students efficiently, enhancing their confidence in 
+using them and therefor to better equip our future physicians with sufficient knowledge.” "
+Author;Reviewer_2;2;13;6;"The authors followed the reviewer’s suggestions and re-wrote this para as follows: “The overall objective of this study was to investigate the today’s medical students 
+attitudes towards AI and other digital working tools. We wanted to understand if age, gender, 
+semester level and curriculum type influences their views. This study also assembled 
+information on students’ understanding of AI algorithms and digital applications in health care 
+and assessed their level of confidence in working alongside these tools after graduation in 
+patient care. It is our belief that this information may possess the means to employ digital tools 
+including AI into the curriculum of medical students efficiently, enhancing their confidence in 
+using them and therefor to better equip our future physicians with sufficient knowledge.” "
+Author;Reviewer_2;2;14;7;"The authors followed the reviewer’s suggestions and re-wrote this para as follows: “The overall objective of this study was to investigate the today’s medical students 
+attitudes towards AI and other digital working tools. We wanted to understand if age, gender, 
+semester level and curriculum type influences their views. This study also assembled 
+information on students’ understanding of AI algorithms and digital applications in health care 
+and assessed their level of confidence in working alongside these tools after graduation in 
+patient care. It is our belief that this information may possess the means to employ digital tools 
+including AI into the curriculum of medical students efficiently, enhancing their confidence in 
+using them and therefor to better equip our future physicians with sufficient knowledge.” "
+Author;Reviewer_2;2;15;8;The phrase in question has been replaced by “to confirm”
+Author;Reviewer_2;2;16;9;"The authors choose 4 pre-clinical and 4 clinical students. The intention was - as outlined in the 
+initial manuscript version - “… to understand how they perceive the subject of interest”. The 
+wording has been specified, to clarify that in total 8 students tested the items but not 4 as the 
+reviewer assumed. This number was considered sufficient a) to detect inconsistencies and b) to 
+verify the correct meaning of the questions. AG and JE are two of the authors (first letter of the 
+first and last name). In order to avoid any misunderstanding, this has been changed to “the 
+authors” in the revised manuscript."
+Author;Reviewer_2;2;17;10;"The authors choose 4 pre-clinical and 4 clinical students. The intention was - as outlined in the 
+initial manuscript version - “… to understand how they perceive the subject of interest”. The 
+wording has been specified, to clarify that in total 8 students tested the items but not 4 as the 
+reviewer assumed. This number was considered sufficient a) to detect inconsistencies and b) to 
+verify the correct meaning of the questions. AG and JE are two of the authors (first letter of the 
+first and last name). In order to avoid any misunderstanding, this has been changed to “the 
+authors” in the revised manuscript."
+Author;Reviewer_2;2;18;11;"Convenience sampling is defined as a method to collect data from a conveniently available pool of respondents. We used it, because it is the most commonly used 
+sampling technique as it's incredibly prompt, uncomplicated, and economical."
+Author;Reviewer_2;2;19;12;The captation has been changed to “Characteristics of the study cohort
+Author;Reviewer_2;2;20;13;"The sampling procedure was clearly described in the initial manuscript. For phase 1: 
+“All participants of the first phase were students from from 1st to 6th year (undergraduate 1st to 
+2th year, graduate 3th to 6th year) from German Universities. The inclusion criteria were to 
+actively study medicine and their agreement for their voluntarily participation. In the same way, 
+the exclusion criteria were to have suspended their studies, as well as other exceptional 
+situations. Prior to start, informed consent was obtained, which was followed by the collection 
+of telephone numbers and email addresses. ... They were selected purposely and consecutively, 
+in part by snowball until theoretical saturation was reached.” For phase 2: “For the second, 
+quantitative study phase identical inclusion/exclusion criteria applied.” This referred to medical 
+students of all semesters, excluding students from other faculties. “The online survey was sent 
+to all medical faculties in Germany from which most forwarded the survey invitation by email 
+to about 80 000 medical students to fulfill the principle of maximum diversity through 
+convenience sampling method. Each contained an invitation letter and an information sheet.” 
+Surely, sampling procedures in mixed method studies are phase depended different.
+"
+Author;Reviewer_2;2;21;14;"The sampling procedure was clearly described in the initial manuscript. For phase 1: 
+“All participants of the first phase were students from from 1st to 6th year (undergraduate 1st to 
+2th year, graduate 3th to 6th year) from German Universities. The inclusion criteria were to 
+actively study medicine and their agreement for their voluntarily participation. In the same way, 
+the exclusion criteria were to have suspended their studies, as well as other exceptional 
+situations. Prior to start, informed consent was obtained, which was followed by the collection 
+of telephone numbers and email addresses. ... They were selected purposely and consecutively, 
+in part by snowball until theoretical saturation was reached.” For phase 2: “For the second, 
+quantitative study phase identical inclusion/exclusion criteria applied.” This referred to medical 
+students of all semesters, excluding students from other faculties. “The online survey was sent 
+to all medical faculties in Germany from which most forwarded the survey invitation by email 
+to about 80 000 medical students to fulfill the principle of maximum diversity through 
+convenience sampling method. Each contained an invitation letter and an information sheet.” 
+Surely, sampling procedures in mixed method studies are phase depended different.
+"
+Author;Reviewer_2;2;22;15;"The statement has been changed into: “The focus on German educational system and the fact that 
+only a small fraction of the total number of medical students filled out the online survey makes 
+a generalization of the answers difficult”."
+Author;Reviewer_2;2;23;16;The authors agree and the phase “so called” has been removed.
+Author;Reviewer_2;2;24;17;The authors agree and this statement has been re-written in the revised manuscript version.
+Author;Reviewer_2;2;25;18;"The authors fully agree. Therefore, the conclusion paragraph has been split into the “Conclusion” paragraph, in which the study’s conclusions has been outlined, and into a the new 
+para “Implications” where the usefulness of the integration of eHealth aspects (including AI) 
+into the curriculum is discussed.
+"

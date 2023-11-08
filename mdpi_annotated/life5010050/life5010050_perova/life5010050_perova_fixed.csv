@@ -1,0 +1,174 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;"The manuscript of Eckert et al., submitted into the journal Life, concerns in principle again only one,
+ but very important genetic criterion for evaluation of prokaryotic diversity. It should be a serious part of
+ this complex evaluation. It is very important and useful and publication of the article is surely
+ recommendable. However, the connection, coincidences and relations to other criteria should be
+ better expressed."
+Reviewer_1;Author;1;2;0;"If we accept also strains and populations from literature or from databases to the evaluation, there
+ is always questionable the taxonomic determination (scientific names) of various species and
+ strains, which are based on the old nomenclature and morphology. The critical revision of
+ identification of these strains and cited materials is necessary"
+Reviewer_1;Author;1;3;0;"It follows from the whole article that the authors accepted the names (and also concepts) of taxa
+ (mostly genera) from older literature, without necessary criticism. There are included revised
+ genera according to modern methods together with taxonomically very problematic groups. As
+ examples is possible to mention that Aphanizomenon ovalisporum and Anabaena bergii are really
+ very related taxa, but they were already re-classified in one special and separate genus
+ Chrysosporum. On the other hand, the complex “Prochlorococcus/Synechococcus” is still very
+ unclear and surely is distant from the typical genus Synechoccocus. etc."
+Reviewer_1;Author;1;4;0;"Numerous cited taxa (on the generic level) were already controlled and revised by most modern
+ methods, and examples in the manuscript should be used especially and selected from these genera. It is
+ true, that majority of the cited genera were already revised (Microcystis, Planktothrix, Aphanizomenon),
+ but just these taxa are important as examples and should be preferred. From the presented results follows
+ only the confirmation of the present methodological principles and a modern system. This fact should
+ be emphasized."
+Reviewer_1;Author;1;5;0;"It is necessary to stress the fact that the numerical criteria (e.g., exactly limited percentage similarity)
+ never are valid uniformly for large groups of organisms and cannot be applied as one main criterion in
+ large groups."
+Reviewer_1;Author;1;6;0;"As concerns the delimitation of taxa on the level of cyanobacterial species, there exists a lot of
+ valuable literature, which was not cited. The characterization and separation of species was not
+ satisfactory solved, but it is particularly important (criteria are not unique for all genera) and need
+ better discussion."
+Reviewer_1;Author;1;7;0;"In Line 40 is cited only DeQueiroz (2007) to the problematic of species concept. It would be useful
+ to evaluate and mention many other authors, who discussed this question more complexly. It concerns
+ also several other problems, e.g., problematics of horizontal gene transfers (Line 43), “bounderies
+ between taxon units” (Line 45), species concept (Line 48), etc. About species concept in cyanobacteria
+ exist particularly many studies from last years."
+Reviewer_1;Author;1;8;0;"I am not sure that cyanobacteria can be accepted as a typical example of all prokaryotes. On the
+ contrary, they have very special position (phylogenetic, metabolic, function in nature, ultrastructural,
+ they grow often in multicellular and differentiated thallus) and their diversity must be evaluated
+ respecting these specificities. It is clear that the taxonomic classification must be different in different
+ groups of organisms."
+Reviewer_1;Author;1;9;0;"The correct citation of scientific names is the obvious request of serious scientific publications. Few
+ unnecessary mistakes are in the manuscript, e.g., in the whole text and also in Figures is written
+ “Arthospira” instead the correct Arthrospira, on other places must be Leptolyngbya (Table 1, Line 191),
+ Fischerella (Line 207), Aphanizomenon (Line 218), Cylindrospermopsis (Line 219)."
+Reviewer_1;Author;1;10;0;"I do not understand why Leptolyngbya and Chamaesiphon could be “closely related genera”.
+ It is in contraversion to the whole up to date results and taxonomic classification. The authors really
+ found the “close” relation just between these two genera? By way, they both are polyphyletic and will
+ be surely divided in several different taxa after the following precise studies."
+Reviewer_2;Author;1;1;0;"When you refer to the Synechococcus, it is important to specify, which clade you have in mind.
+ Honda et al. (1999) and Roberston et al. (2001) showed Synechococcus is polyphyletic genus composed
+ of a least 5 lineages. There are more recent works showing even more clades. From an amount of
+ sequences and relationship to Prochlorococcus, I can assume, it is a marine pelagial picoplanktic clade.
+ However, it should be specified for unexperienced reader in the field of cyanobacteria. The other
+ polyphyletic genera should be also specified—Phormidium, Leptolyngbya, Microcoleus and others.
+ Moreover, although the sequences might have same name (i.e., Synechococcus), they belong to
+ polyphyletic groups, thus they probably belong to different genera, which have not yet been described."
+Reviewer_2;Author;1;2;0;They might also appear to be monophyletic, because there are missing taxa between them
+Reviewer_2;Author;1;3;0;"This might also cause false positive barcoding gaps, because there would be low similarity among
+ sequences with same name. Therefore it may largely affect results."
+Reviewer_2;Author;1;4;0;"I suggest that the paper should be expanded with a discussion, whether barcode gaps are able to
+ delimit described species. For example, are there two species within Cylindrospermopsis? There seems
+ to be a barcoding gap within this clade. In this particular case, it would be beneficial to use a species
+ epithet too to avoid confusion. Is it Cylindrospermopsis raciborskii? Does a barcoding gap in the
+ Planktothrix clade correspond to the described species?"
+Reviewer_2;Author;1;5;0;"Why did you use Phormidium as an outgroup (Line 139)? Would not be more beneficial to use
+ Gloeobacter or some other bacterium?"
+Reviewer_2;Author;1;6;0;"Is there any way to use barcoding gaps in a taxonomy of cyanobacteria? This might be added
+ to discussion."
+Reviewer_2;Author;1;7;0;"There are errors in nomenclature throughout the text, figures, and supplements, e.g.
+ Leptolyngbya, Aphanizomenon, Arthrospira. You might check: http://www.cyanodb.cz/. It is an updated
+ database of names of cyanobacteria."
+Author;Reviewer_1;2;1;1;"The concern the reviewer mentions here was also one of our main conclusions for the article.
+ Apparently we did not formulate it well enough. It has thus been reformulated to: “However an accurate
+ taxonomy can never be achieved by the use of a barcoding method only, since it is based on nucleotide
+ substitutions of a single gene. Accurate classification always requires an integrative taxonomy effort including characteristics from ecology, morphology and physiology, as already previously suggested
+ for prokaryotes [9,28,29,45], and as it is becoming common also for animal taxonomy (e.g., [53,54]).”"
+Author;Reviewer_1;2;2;2;"We understand that our choice of naming as in the database needed clarification. We
+ have thus added the following paragraph. We thank the reviewer for the useful example and have
+ included it: “The names of genera and species used in this study where copied form the names given in
+ the database. This choice was made for the reason that cyanobacterial phylogeny underlies continuous
+ changes and genera and species are often reclassified (e.g., [34]). Thus a whole different type of work
+ would be required in order to use all state-of-art classification of cyanobacteria. Moreover, for the aims
+ of this study not so much the phylogenetic classification of the bacterial species, but the genetic structure
+ of the cyanobacterial 16S rRNA genes was of importance. The use of the names provided in the database
+ on the other hand enables other researchers to conduct a similar analysis using the same sequences.
+ Thus some old and revised names are used, for example the species name Anabaena bergii is used
+ throughout the study despite its revised taxonomy in the genus Crysosporum [35].”"
+Author;Reviewer_1;2;3;3;"We understand that particularly the case of Synechoccocus needs clarification and have thus
+ extended the explanation there: “Sequences termed Synechococcus on the other hand were analysed
+ together with sequences of the monophyletic clade Prochlorococcus, since Synechococcus is known to
+ be a polyphyletic group and if all sequences (including a minimum of five lineages [36–38]) are taken
+ together, Prochlorococcus has to be included, too”."
+Author;Reviewer_1;2;4;4;"We agree with the reviewer that we have to avoid misunderstandings of this kind and added
+ a very clear statement to the discussion: “Moreover it has to be emphasised that a close analysis of the
+ actual properties of the cyanobacterial groups tested is limited by the fact that we used the provided names for the sequences and groups. Thus this study intends only to verify the existence of a barcoding
+ gaps within the 16S rRNA sequences of certain cyanobacterial groups, and by no means revise or
+ confirm the complex cyanobacterial taxonomy.”"
+Author;Reviewer_1;2;5;5;"We agree with the reviewer that we have not stressed this fact enough and have added more
+ sentences explaining why OTUs are used and the problem: “Enormous progress happened in prokaryote
+ taxonomy in the recent years [8,12,24]. However, the data produced with novel methodologies, such as
+ next generation sequencing, often requires a high throughput taxonomic classification of sequences such
+ as fixed threshold to identify OTUs. This kind of fixed numeric classifications can always only be a vague
+ approximation to the actual structure of relatedness of organisms.”"
+Author;Reviewer_1;2;6;6;"our aim was not to start from known and named sequences and test whether species from
+ DNA taxonomy matched them or not; our aim was to test whether a barcoding gap existed at all.
+ To do so, we did not download named sequences from GenBank, but used a carefully annotated and
+ checked database with a built-in phylogeny that would allow us to obtain monophyletic clades,
+ regardless of their names. We thus only briefly discuss names and taxonomy in our analysis. Given that
+ both reviewers commented on this issue, we tried to clarify our aims and included a sentence at the end
+ of the introduction, in order to clarify the point. We hope that now both reviewers, and all other potential
+ readers, will not be misled by our approach. We do not deal with taxonomy at all, only with testing the
+ presence of a barcoding gap."
+Author;Reviewer_1;2;7;7;"we now include new citations in relationship to different problems: Butlin et al. (2009), Cohan
+ (2011), Cohan (2013), Cohan & Aracena (2012), Diekmann et al. (2004), Nosil (2012),
+ Vos (2011), Wiedenbeck & Cohan (2011)."
+Author;Reviewer_1;2;8;8;"We agree with the reviewer’s concern. In fact, this is exactly the reason why we chose
+ Cyanobacteria for this analysis. We reformulated this part of the introduction, to make this statement
+ more clear, which now reads: “We choose Cyanobacteria as an example of prokaryotes, not because
+ they are representative for all prokaryotes, but because there is ample phenotypic, ecological, physiological
+ ultrastructural, and biochemical evidence of the existence of independently evolving units in this
+ group [20,21]. Thus, the expectation is that, if a barcoding gap exists in prokaryotes, this should be
+ more easily seen in taxa where groups can be identified also with other methods, as in Cyanobacteria"
+Author;Reviewer_1;2;9;9;"We apologize for our carelessness in double-checking the naming of the organisms and hope
+ that we now eliminated all errors."
+Author;Reviewer_1;2;10;10;"We agree with the reviewer, this part was formulated clumsily. What we meant was actually
+ exactly what the reviewer means. The two groups were polyphyletic and we could only chose a
+ monophyletic group when analysing them together. We changed the sentence to: “… by two genera that
+ were monophyletic only when taken together in the database used, e.g., Leptolyngbia and Chamaesiphon
+ …” In accordance we did not check for relatedness of the taxa, neither in this one nor for any other one"
+Author;Reviewer_2;2;11;1;"We agree that this might be confusing to the reader. We have therefore clarified this choice
+ and added this part to the first M&M section and the literature suggested has been cited: “Sequences
+ termed Synechococcus on the other hand were analysed together with sequences of Prochlorococcus,
+ since Synechococcus is known to be a polyphyletic group and if all sequences (including a minimum of
+ five lineages [36–38]) are taken together, Prochlorococcus has to be included too.”"
+Author;Reviewer_2;2;12;2;"The sequences we used were clustering monophyletically a-priori in the tree provided in the
+ database used, and we chose them independently of the name. We now clarified this in the first section
+ of M&M: “Thereby a group was considered monophyletic if it was monophyletic in the tree provided
+ with the database, regardless of the taxonomy and the nomenclature of the organisms included in the
+ clade (Supplemetary Figure 1), and only secondarily if there was a correspondence with known taxa.”"
+Author;Reviewer_2;2;13;3;"As mentioned above, we did not only choose sequences that had the same name, but groups
+ of sequences that were monophyletic in the database tree. Thus we should not have artificially
+ introduced a barcoding gap by sequence selection"
+Author;Reviewer_2;2;14;4;"Similarly to the replies for the previous reviewer, our aim was not to start from known and
+ named sequences and test whether species from DNA taxonomy matched them or not; our aim was to
+ test whether a barcoding gaps existed at all. To do so, we did not download named sequences from
+ GenBank, but used a carefully annotated and checked database with a built-in phylogeny that would
+ allow us to obtain monophyletic clades, regardless of their names. We thus only briefly discuss names
+ and taxonomy in our analysis. Given that both reviewers commented on this issue, we tried to clarify
+ our aims and included a sentence at the end of the introduction, in order to clarify the point. We hope
+ that now both reviewers, and all other potential readers, will not be misled by our approach. We do not
+ deal with taxonomy at all, only with testing the presence of a barcoding gap. Given this rationale and
+ the kind of data we used, no clear statement towards the two barcoding groups within
+ Cylindrospermopsis can be made. Nearly all sequences within the database are termed
+ Cylindrospermopsis raciborskii by the people who deposited the sequences. However the clade does not
+ contain the type-strain (which was not in the database). So we would rather not speculate too much on
+ the taxonomic naming of these and other barcoded groups. However, we can clearly say that what is
+ deposited in database SILVA 111 as Cylindrospermopsis contains two species with a barcoding gap.
+ For Planktothrix we added a sentence: “Considering the naming of Planktothrix sequences in the
+ database, some OTUs and ABGD units seem to correspond not only to monophyletic groups but also to
+ named species such as P. mougeotii or similarly in the case of Fischerella muscicola (Figure 3).”
+ However we wish to remain careful on these kinds of statements since we are not sure if the underlying
+ naming of the species used is correct or not."
+Author;Reviewer_2;2;15;5;"We understand why the reviewer would think that that would be beneficial. However, one has
+ to keep in mind that we were not constructing a phylogenetic tree for all cyanobacteria but for single
+ genera. In this case it is preferential to use a sister group that is more closely related to gain resolution
+ within that group. e.g., Hedtke, S.M.; Townsend, T.M.; Hillis, D.M. Resolution of phylogenetic conflict
+ in large data sets by increased taxon sampling. Syst. Biol. 2006, 55, 522–529. Moreover, for the sake of
+ the barcoding analyses, the choice of the outgroup will not affect the results, given that it will not change
+ the relationships towards the tips of the tree."
+Author;Reviewer_2;2;16;6;"The last paragraph of the discussion already included some comments on this issue. Now the
+ paragraph has been expanded to provide a more detailed discussion on the possibility of using a DNA
+ barcoding gap in cyanobacteria."
+Author;Reviewer_2;2;17;7;"We apologize for our carelessness in double checking the naming of the organisms and hope
+ that we now eliminated all errors"

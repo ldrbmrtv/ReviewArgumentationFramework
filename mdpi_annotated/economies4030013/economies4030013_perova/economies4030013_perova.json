@@ -27,17 +27,27 @@
       "Reviewer_2.1.11": "As a suggestion for this paper or another, having the data of output, labor and land, it is also interesting to analyze the agricultural labor productivity explained by the agricultural land productivity and land-labor ratios. Maybe, some simple correlations between the growths of agricultural labor productivity vs land productivity and land-labor ratio could enrich this or future analysis."
     },
     "Author": {
-      "Author.2.1": "We would like to thank the reviewer\u2019s scrutiny. We now specify this better in the text",
-      "Author.2.2": "The reviewer rises a very useful point that we initially ignored. We now better specify the required items on agricultural labor productivity in the text. The agricultural output is deflated with the base year 2000. There is no price index at the prefectural level. For this reason we use the provincial price indices to deflate the nominal series. Hence, all the prefectures within each province are deflated by the same index. Although suboptimal, this helps to preserve the comparability in the two estimations.",
-      "Author.2.3": "The reviewer is right. The first sector is a macro conception of agriculture. It indeed includes fishery. However, the data of output and employment are both collected on this level - the first sector. Hence, we assume the quotient of the two variables is a proxy to agriculture labor productivity. Meanwhile, they are the only available data on the prefectural level to calculate agricultural labor productivity. Therefore, we think this calculation is still helpful.",
-      "Author.2.4": "Yes, the Reviewer is correct. We now specify this better in the text.",
-      "Author.2.5": "Yes, the Reviewer is correct. We now specify this better in the text.",
-      "Author.2.6": "The Reviewer raises a very valuable point. We would like to thank the Reviewer to recommend us to develop this part. We now include more recent literature in the introduction, as well as the government movements of the relevant policies in recent years.",
-      "Author.2.7": "Yes, the Reviewer is correct. We now specify this better in the text.",
-      "Author.2.8": "The Reviewer raises a valuable point which we overlooked previously. In the section 3.3, we improve the understanding of the growth pattern of Chinese agricultural labor productivity by adding the estimations of beta and sigma convergence. The results of convergence estimation also echo our analysis of LGCM.",
-      "Author.2.9": "Yes, the Reviewer is correct. Since we add three years into the dataset (following the suggestion from the other reviewer), the table context changes. We now improve this issue in the text.",
-      "Author.2.10": "We improve this part in the text. The recent movements of the government in this agricultural reform are added. Since we add the data of recent three years, another break is observed in the curve. So we also introduce the macro policy of stimulus package.",
-      "Author.2.11": "The Reviewer raises a very interesting point. We would like to thank the Reviewer to recommend us to develop this part. However, the prefectural-level data in terms of farmland are only reported until 2007 in the China City Statistical Yearbook.",
+      "Author.2.1": "We better specify the required items on agricultural labor productivity in the text. Sorry for the unclearness. The index is actually the measure of agricultural labor productivity, which is calculated by the agricultural output and labor. We now clarify this part with another way of expression. The agricultural output is deflated with the base year 2000. There is no price index at the prefectural level. For this reason we use the provincial price indices to deflate the nominal series. Hence, all the prefectures within each province are deflated by the same index. Although suboptimal, this helps to preserve the comparability in the two estimations.",
+      "Author.2.2": "The Reviewer raises a very valuable point. We would like to thank the Reviewer to recommend us to develop this part. We now include more recent literature in the introduction, as well as the government movements of the relevant policies in recent years.",
+      "Author.2.3": "The Reviewer raises an interesting point that we overlooked previously. We take the starting year as 2000 is mainly because of the entry of WTO, which influences the pattern of agricultural production in China. We take the reviewer\u2019s advice, to extend the time period until 2013, which is the latest available data on prefectural level.",
+      "Author.2.4": "We would like to thank the reviewer\u2019s scrutiny. We now correct all the issues in citations and tables and figures in the text. Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note. In Appendix A1, the \u201cabsolute value\u201d means real value; we now change it to the better expression. In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.",
+      "Author.2.5": "We would like to thank the reviewer\u2019s scrutiny. We now correct all the issues in citations and tables and figures in the text. Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note. In Appendix A1, the \u201cabsolute value\u201d means real value; we now change it to the better expression. In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.",
+      "Author.2.6": "We would like to thank the reviewer\u2019s scrutiny. We now correct all the issues in citations and tables and figures in the text. Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note. In Appendix A1, the \u201cabsolute value\u201d means real value; we now change it to the better expression. In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.",
+      "Author.2.7": "We would like to thank the reviewer\u2019s scrutiny. We now correct all the issues in citations and tables and figures in the text. Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note. In Appendix A1, the \u201cabsolute value\u201d means real value; we now change it to the better expression. In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.",
+      "Author.2.8": "We would like to thank the reviewer\u2019s scrutiny. We now correct all the issues in citations and tables and figures in the text. Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note. In Appendix A1, the \u201cabsolute value\u201d means real value; we now change it to the better expression. In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.",
+      "Author.2.9": "We would like to thank the reviewer\u2019s scrutiny. We now correct all the issues in citations and tables and figures in the text. Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note. In Appendix A1, the \u201cabsolute value\u201d means real value; we now change it to the better expression. In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.",
+      "Author.2.10": "We would like to thank the reviewer\u2019s scrutiny. We now correct all the issues in citations and tables and figures in the text. Figure 3 (now is Figure 4), the vertical axis indicates the growth rate of agricultural labor productivity; we now put it in the note. In Appendix A1, the \u201cabsolute value\u201d means real value; we now change it to the better expression. In Appendix A2, they are measured in real value at constant price; we now better specify it in the text.",
+      "Author.2.11": "We would like to thank the reviewer\u2019s scrutiny. We now specify this better in the text",
+      "Author.2.12": "The reviewer rises a very useful point that we initially ignored. We now better specify the required items on agricultural labor productivity in the text. The agricultural output is deflated with the base year 2000. There is no price index at the prefectural level. For this reason we use the provincial price indices to deflate the nominal series. Hence, all the prefectures within each province are deflated by the same index. Although suboptimal, this helps to preserve the comparability in the two estimations.",
+      "Author.2.13": "The reviewer is right. The first sector is a macro conception of agriculture. It indeed includes fishery. However, the data of output and employment are both collected on this level - the first sector. Hence, we assume the quotient of the two variables is a proxy to agriculture labor productivity. Meanwhile, they are the only available data on the prefectural level to calculate agricultural labor productivity. Therefore, we think this calculation is still helpful.",
+      "Author.2.14": "Yes, the Reviewer is correct. We now specify this better in the text.",
+      "Author.2.15": "Yes, the Reviewer is correct. We now specify this better in the text.",
+      "Author.2.16": "The Reviewer raises a very valuable point. We would like to thank the Reviewer to recommend us to develop this part. We now include more recent literature in the introduction, as well as the government movements of the relevant policies in recent years.",
+      "Author.2.17": "Yes, the Reviewer is correct. We now specify this better in the text.",
+      "Author.2.18": "The Reviewer raises a valuable point which we overlooked previously. In the section 3.3, we improve the understanding of the growth pattern of Chinese agricultural labor productivity by adding the estimations of beta and sigma convergence. The results of convergence estimation also echo our analysis of LGCM.",
+      "Author.2.19": "Yes, the Reviewer is correct. Since we add three years into the dataset (following the suggestion from the other reviewer), the table context changes. We now improve this issue in the text.",
+      "Author.2.20": "We improve this part in the text. The recent movements of the government in this agricultural reform are added. Since we add the data of recent three years, another break is observed in the curve. So we also introduce the macro policy of stimulus package.",
+      "Author.2.21": "The Reviewer raises a very interesting point. We would like to thank the Reviewer to recommend us to develop this part. However, the prefectural-level data in terms of farmland are only reported until 2007 in the China City Statistical Yearbook.",
       "Author.0.0": "Paper"
     }
   },
@@ -143,71 +153,71 @@
       "Reviewer_1.1.4"
     ],
     [
-      "Author.2.4",
+      "Author.2.5",
       "Reviewer_1.1.5"
     ],
     [
-      "Author.2.4",
+      "Author.2.6",
       "Reviewer_1.1.6"
     ],
     [
-      "Author.2.4",
+      "Author.2.7",
       "Reviewer_1.1.7"
     ],
     [
-      "Author.2.4",
+      "Author.2.8",
       "Reviewer_1.1.8"
     ],
     [
-      "Author.2.4",
+      "Author.2.9",
       "Reviewer_1.1.9"
     ],
     [
-      "Author.2.4",
+      "Author.2.10",
       "Reviewer_1.1.10"
     ],
     [
-      "Author.2.1",
+      "Author.2.11",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.12",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.13",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.14",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.15",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.16",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.7",
+      "Author.2.17",
       "Reviewer_2.1.7"
     ],
     [
-      "Author.2.8",
+      "Author.2.18",
       "Reviewer_2.1.8"
     ],
     [
-      "Author.2.9",
+      "Author.2.19",
       "Reviewer_2.1.9"
     ],
     [
-      "Author.2.10",
+      "Author.2.20",
       "Reviewer_2.1.10"
     ],
     [
-      "Author.2.11",
+      "Author.2.21",
       "Reviewer_2.1.11"
     ],
     [

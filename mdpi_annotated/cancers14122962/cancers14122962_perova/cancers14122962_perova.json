@@ -13,10 +13,14 @@
       "Reviewer_2.1.4": "Line 170, \u201cFigure 1E\u201d should be \u201cFigure 1D\u201d."
     },
     "Author": {
-      "Author.2.1": "We completely agree with the reviewer that it will be informative to demonstrate the NR2F1 expression in both primary and metastatic breast cancer and the possible correlation of NR2F1 expression with metastasis. In Figure 3C, we present NR2F1 expression in primary breast cancer with and without distant metastases. NR2F1 expression was not increased in the group with later recurrence in four cohorts in this analysis. We also present NR2F1 expression between primary and metastatic breast cancer in Figure 3E with no significant difference. We did not find a clear association of NR2F1 with distant metastasis in this study. On the other hand, NR2F1 expression was higher in primary breast tumors with lymph node metastasis in all four cohorts, as shown in Figure 3B, suggesting an association between NR2F1 and lymph node metastasis. Given these results, we revised the results section as follows.",
-      "Author.2.2": "We completely agree with the reviewer that NR2F1 expression in cancer cells and CAFs should be investigated not only in primary but also in metastatic breast cancer using single-cell sequence in order to prove that NR2F1 expression in CAFs affects late recurrence. The main finding of this study is that NR2F1 is predominantly expressed in CAFs rather than in all other cell types in the TME, and we do not intend to claim that CAF-expressed NR2F1 regulates dormancy. Further, we do not have access to single-cell sequence cohorts of metastatic breast cancer tumors, but it is of our interest, and this will be our future direction. In response to the reviewer, we added the following sentences in the discussion section.",
-      "Author.2.3": "We thank the reviewer for closely reading our manuscript and pointing out our oversight. We have corrected the results section as answered in Responce1.",
+      "Author.2.1": "We totally agree with the reviewer that it is puzzling how NR2F1 expressed in CAFs of the primary breast cancer contribute to the dormancy of DTCs, thus the addition of a discussion on this point in more detail will strengthen this manuscript. Based on our results, NR2F1 expression in primary bulk tumor is associated with several pathways related to dormancy, and NR2F1 is most predominantly expressed in CAFs in the tumor microenvironment. However, we did not prove the underlying mechanism through which CAF-expressed NR2F1 regulates dormancy, and we do not intend to claim a causal relationship. Single-cell sequence data of metastatic tumor cohorts will allow us to investigate whether the expression of NR2F1 in CAFs in the metastatic TME is related to the dormancy of DTCs. We added the following sentences to the discussion section.",
+      "Author.2.2": "We agree with the reviewer that it would be interesting to see how NR2F1 levels would change with endocrine therapy. However, we do not have access to cohorts that include tumor samples before and after neoadjuvant endocrine therapy at this point. What we do have access to regarding endocrine therapy is a cohort comparing responders and non-responders to neoadjuvant endocrine therapy (GSE145325). We found that NR2F1 expression between responders and non-responders to endocrine therapy was not different. We added this to the results section as follows.",
+      "Author.2.3": "We agree with the reviewer that breast cancer is a heterogenous disease and we should show subtype-specific data. We analyzed survival outcomes and the cell fraction in TME by each immunohistological subtype. We did not observe any validated difference in survival outcomes. Cell fractionation of immune cells and stromal cells showed almost similar trends for the scores such as intratumor heterogeneity, HRD, mutation rate, and neoantigens across all subtypes. The results for each immunohistological subtype of single-cell Cohort 2 are shown in Supplementary Figure 7, and each subtype showed the same trend. We have revised the results section and added supplementary data as follows.",
       "Author.2.4": "We thank the reviewer for reading our manuscript closely and pointing out our oversight. As you indicated, we did not find any significance difference in 2D in Figure 1A and have corrected the results section as follows.",
+      "Author.2.5": "We completely agree with the reviewer that it will be informative to demonstrate the NR2F1 expression in both primary and metastatic breast cancer and the possible correlation of NR2F1 expression with metastasis. In Figure 3C, we present NR2F1 expression in primary breast cancer with and without distant metastases. NR2F1 expression was not increased in the group with later recurrence in four cohorts in this analysis. We also present NR2F1 expression between primary and metastatic breast cancer in Figure 3E with no significant difference. We did not find a clear association of NR2F1 with distant metastasis in this study. On the other hand, NR2F1 expression was higher in primary breast tumors with lymph node metastasis in all four cohorts, as shown in Figure 3B, suggesting an association between NR2F1 and lymph node metastasis. Given these results, we revised the results section as follows.",
+      "Author.2.6": "We completely agree with the reviewer that NR2F1 expression in cancer cells and CAFs should be investigated not only in primary but also in metastatic breast cancer using single-cell sequence in order to prove that NR2F1 expression in CAFs affects late recurrence. The main finding of this study is that NR2F1 is predominantly expressed in CAFs rather than in all other cell types in the TME, and we do not intend to claim that CAF-expressed NR2F1 regulates dormancy. Further, we do not have access to single-cell sequence cohorts of metastatic breast cancer tumors, but it is of our interest, and this will be our future direction. In response to the reviewer, we added the following sentences in the discussion section.",
+      "Author.2.7": "We completely agree with the reviewer that NR2F1 expression in cancer cells and CAFs should be investigated not only in primary but also in metastatic breast cancer using single-cell sequence in order to prove that NR2F1 expression in CAFs affects late recurrence. The main finding of this study is that NR2F1 is predominantly expressed in CAFs rather than in all other cell types in the TME, and we do not intend to claim that CAF-expressed NR2F1 regulates dormancy. Further, we do not have access to single-cell sequence cohorts of metastatic breast cancer tumors, but it is of our interest, and this will be our future direction. In response to the reviewer, we added the following sentences in the discussion section.",
+      "Author.2.8": "We thank the reviewer for closely reading our manuscript and pointing out our oversight. We have corrected the results section as answered in Responce1.",
       "Author.0.0": "Paper"
     }
   },
@@ -70,19 +74,19 @@
       "Reviewer_1.1.4"
     ],
     [
-      "Author.2.1",
+      "Author.2.5",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.6",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.2",
+      "Author.2.7",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.3",
+      "Author.2.8",
       "Reviewer_2.1.4"
     ]
   ]

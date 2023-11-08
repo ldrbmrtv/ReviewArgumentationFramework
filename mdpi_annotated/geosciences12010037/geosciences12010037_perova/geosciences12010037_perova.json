@@ -52,7 +52,7 @@
       "Reviewer_2.1.35": "Consider using the most prominent colour (red) for the possible fluid escape features as this is the key element of the map. Bright green might also bee an option.",
       "Reviewer_2.1.36": "Not possible to differentiate \u201cntspr_2M_gw\u201d (whatever that is) and \u201cPossibleFluidEscapeStructures\u201d (same colour",
       "Reviewer_2.1.37": "The link between interpreted faults and fluid or gas escape features is a key feature of this figure. The map differentiates between \u201cBaseCambrian seismic faults\u201d, Post-Wilton \u201cStrike-slip\u201d and \u201cReverse\u201d faults, and \u201cFAULTS\u201d. The categorization is not adequately explained (e.g. what differentiates \u201cFAULT\u201d from a \u201cBaseCambrianSeismic fault\u201d?).",
-      "Reviewer_2.1.38": "Consider adding a simple conceptual sketch highlighting the stratigraphic position of the different faults (and possible fluid escape structures\u2013 this would also help visualizing which stratigraphic intervals the potential fluid escapes originate from and which stratigraphic intervals are potentially\r\n connected along potential fault-related fluid flow pathways",
+      "Reviewer_2.1.38": "Consider adding a simple conceptual sketch highlighting the stratigraphic position of the different faults (and possible fluid escape structures\u2013 this would also help visualizing which stratigraphic intervals the potential fluid escapes originate from and which stratigraphic intervals are potentially\n connected along potential fault-related fluid flow pathways",
       "Reviewer_2.1.39": "Figure 8. Please provide a more informative caption to what these plots show. What is included in the \u201cDrainage and structural lineament analysis\u201d plot?",
       "Reviewer_2.1.40": "Figure 9. Poor resolution in the copy provided for the review. Consider using higher contrast colours or thicker lines to highlight different faults on the map.",
       "Reviewer_2.1.41": "I hope you will find these comments useful when revising the manuscript and look forward to seeing the paper published in Geoscience",
@@ -64,52 +64,65 @@
       "Reviewer_2.3.6": "Figure 8. Please keep the number of measurements included in each plot. The plot \u201cSurface drainage network from this study\u201d is identical to the original figure and should have n=130 measurements. According to the new caption shows the unfiltered surface drainage network. To my understanding this should correspond to Figure 2 a, which shows substantially more than 130 lineaments. How did you pick the ones you measured? Please clarify."
     },
     "Author": {
-      "Author.2.1": "The revisited figure 43 is now providing this information",
-      "Author.2.2": "Thank you, the details comments on those figures have been followed and new figures are provided",
-      "Author.2.3": "There is no other reference to date to the \"primary documentation\" but the link to the data (they should now be online) which are in the fact sheets.",
-      "Author.2.4": "We have redone the figure 2 and added explanations on the process (see reply to comments on figure 2). Figure 8 should now be easier to read\r\n The surface drainage network line dataset was indeed based on the simplified (n=130) network following the following approach: Small segments with less than 10 nodes were automatically removed in SKUA (Paradigm/Emerson Trademark) and one iteration of smoothing was applied that further removed small irregularities without changing the overall orientation of major drainage lines. This output was then overlayed upon satellite and magnetic images where lineaments are evident for checking and quality control. In this process, minor mismatches of the automated simplified lines were removed and small drainage segments were connected along major lineaments for further simplification and reduction of the dataset.",
-      "Author.2.5": "There is indeed an error on the figure referencing, we modified to Figure 3B where the lineaments are now clearly indicated.",
-      "Author.2.6": "done",
-      "Author.2.7": "We indeed need to add this link- we will put a link in place upon acceptance of the paper",
-      "Author.2.8": "done",
-      "Author.2.9": "done",
+      "Author.2.1": "The colour refer to the SEEBASE depth to basement, the legend has been added",
+      "Author.2.2": "Thanks, the figure have been entirely revisited and divided into four subfigures.",
+      "Author.2.3": "The figure has been redrawn and the magnetic lineaments indicated",
+      "Author.2.4": "Thank you. We hesitated on this point but decided to keep the figure in as the quality of the seismic in the shallow level is really crucial to the discussion. We need to know if the interpretation is reliable, especially in this shallow zone that is not well imaged by this type of data. A misinterpretation can led to the targeting of circulation pathways that are in fact only artefacts.",
+      "Author.2.5": "done",
+      "Author.2.6": "We removed the seismic interpretation of figure 7G (cross) that were misleading the reader and add the interpretation of the fluid leakage features on the images",
+      "Author.2.7": "done, we also totally revisited this figure as to have a cleared output",
+      "Author.2.8": "\u2018this is due to the different seismic acquisition technics and processing applied in each survey as well as the fact that our interval of interest is shallow and not fitting with the interval of interest the companies tried to best image with those datasets\u201d",
+      "Author.2.9": "as the presence of fluid or gas can locally alter the seismic signal\u201d",
       "Author.2.10": "done",
-      "Author.2.11": "done, we also modified the fault legend to add clarity",
-      "Author.2.12": "done",
-      "Author.2.13": "We separated the legends from figures 1A and 1B as to add clarity. This article is focused on the Beetaloo subbasin and we use the direct input for Geoscience Australia in this stratigraphic column. We are not willing to add complexity by presenting in detail the Basins that are covering the Beetaloo Sub-Basin. We removed from the legend the details on the different basins as we understand that it is\r\n leading the reviewer in directions we are not exploring on the CLA stratigraphy- we do not refer this complexity in the results and discussion.",
-      "Author.2.14": "Quality improved",
-      "Author.2.15": "Thanks, the figure have been entirely revisited and divided into four subfigures as advised below",
-      "Author.2.16": "done",
-      "Author.2.17": "The adopted approach was:\r\n Small segments with less than 10 nodes were automatically removed in SKUA (Paradigm/Emerson Trademark) and one iteration of smoothing was applied that further removed small irregularities without changing the overall orientation of major drainage lines. This output was then overlayed upon satellite and magnetic images where lineaments are evident for checking and quality control. In this process, minor mismatches of the automated simplified lines were removed and small drainage segments were connected along major lineaments for further simplification and reduction of the dataset. We added this description of the adopted approach in the legend",
+      "Author.2.11": "We added: \u201cWe define as recent tectonic activity the events that are recorded at the surface and can alter the surface with active tectonic features, such as modifications of the drainage system\u201d",
+      "Author.2.12": "Radon cannot give this information since with the short half-live of 3.8days it's signal comes only from the direct vicinity of the sampled location. Stable isotopes of water could in principle do this if there is a geothermal signature on them (such as plotting far left to the meteoric water line - see inset in Figure 1 of McIntosh and Ferguson, 2020 \u2013 Geophysical research Letter) - but we have not seen such a signature. We may mention that in the text - but for such a signature to be discernible the bulk of the water needs to be geothermal, and what we see is only a small admixture.",
+      "Author.2.13": "The revisited figure 43 is now providing this information",
+      "Author.2.14": "Thank you, the details comments on those figures have been followed and new figures are provided",
+      "Author.2.15": "There is no other reference to date to the \"primary documentation\" but the link to the data (they should now be online) which are in the fact sheets.",
+      "Author.2.16": "We have redone the figure 2 and added explanations on the process (see reply to comments on figure 2). Figure 8 should now be easier to read\n The surface drainage network line dataset was indeed based on the simplified (n=130) network following the following approach: Small segments with less than 10 nodes were automatically removed in SKUA (Paradigm/Emerson Trademark) and one iteration of smoothing was applied that further removed small irregularities without changing the overall orientation of major drainage lines. This output was then overlayed upon satellite and magnetic images where lineaments are evident for checking and quality control. In this process, minor mismatches of the automated simplified lines were removed and small drainage segments were connected along major lineaments for further simplification and reduction of the dataset.",
+      "Author.2.17": "There is indeed an error on the figure referencing, we modified to Figure 3B where the lineaments are now clearly indicated.",
       "Author.2.18": "done",
-      "Author.2.19": "done",
-      "Author.2.20": "figure redrawn",
+      "Author.2.19": "We indeed need to add this link- we will put a link in place upon acceptance of the paper",
+      "Author.2.20": "done",
       "Author.2.21": "done",
-      "Author.2.22": "Well label typos modified",
-      "Author.2.23": "Legend added for those lines",
+      "Author.2.22": "done",
+      "Author.2.23": "done, we also modified the fault legend to add clarity",
       "Author.2.24": "done",
-      "Author.2.25": "isochores added as supplementary material",
-      "Author.2.26": "done",
-      "Author.2.27": "done",
+      "Author.2.25": "We separated the legends from figures 1A and 1B as to add clarity. This article is focused on the Beetaloo subbasin and we use the direct input for Geoscience Australia in this stratigraphic column. We are not willing to add complexity by presenting in detail the Basins that are covering the Beetaloo Sub-Basin. We removed from the legend the details on the different basins as we understand that it is\n leading the reviewer in directions we are not exploring on the CLA stratigraphy- we do not refer this complexity in the results and discussion.",
+      "Author.2.26": "Quality improved",
+      "Author.2.27": "Thanks, the figure have been entirely revisited and divided into four subfigures as advised below",
       "Author.2.28": "done",
-      "Author.2.29": "done, legend cleared from information not represented",
-      "Author.2.30": "done, legend cleared from information not represented",
-      "Author.2.31": "checked and clarified",
-      "Author.2.32": "identified in the legend and representation",
-      "Author.2.33": "removed",
-      "Author.2.34": "Outline size modified and homogenised with other figures",
-      "Author.2.35": "Red selected",
-      "Author.2.36": "modified",
-      "Author.2.37": "modified accordingly",
-      "Author.2.38": "With the new classification the reader should be able to better read the paper and can now directly refer to the stratigraphic table",
-      "Author.2.39": "Done, figure clarified as well",
-      "Author.2.40": "we also totally revisited this figure as to have a cleared output",
-      "Author.2.41": "Thank you, we truly appreciated the time took by the reviewer to provide detail guidance to improve the manuscript and the figures",
+      "Author.2.29": "The adopted approach was:\n Small segments with less than 10 nodes were automatically removed in SKUA (Paradigm/Emerson Trademark) and one iteration of smoothing was applied that further removed small irregularities without changing the overall orientation of major drainage lines. This output was then overlayed upon satellite and magnetic images where lineaments are evident for checking and quality control. In this process, minor mismatches of the automated simplified lines were removed and small drainage segments were connected along major lineaments for further simplification and reduction of the dataset. We added this description of the adopted approach in the legend",
+      "Author.2.30": "done",
+      "Author.2.31": "done",
+      "Author.2.32": "figure redrawn",
+      "Author.2.33": "done",
+      "Author.2.34": "Well label typos modified",
+      "Author.2.35": "Legend added for those lines",
+      "Author.2.36": "done",
+      "Author.2.37": "isochores added as supplementary material",
+      "Author.2.38": "done",
+      "Author.2.39": "done",
+      "Author.2.40": "done",
+      "Author.2.41": "done, legend cleared from information not represented",
+      "Author.2.42": "done, legend cleared from information not represented",
+      "Author.2.43": "checked and clarified",
+      "Author.2.44": "identified in the legend and representation",
+      "Author.2.45": "removed",
+      "Author.2.46": "Outline size modified and homogenised with other figures",
+      "Author.2.47": "Red selected",
+      "Author.2.48": "modified",
+      "Author.2.49": "modified accordingly",
+      "Author.2.50": "With the new classification the reader should be able to better read the paper and can now directly refer to the stratigraphic table",
+      "Author.2.51": "Done, figure clarified as well",
+      "Author.2.52": "we also totally revisited this figure as to have a cleared output",
+      "Author.2.53": "Thank you, we truly appreciated the time took by the reviewer to provide detail guidance to improve the manuscript and the figures",
       "Author.4.1": "The helium measurements have been added as supplementary data and the author made a clear difference between this study Helium measurements and other tracer studies we are citing.",
       "Author.4.2": "Done, thank you",
       "Author.4.3": "The isochores have been added in the seismic supplementary dataset",
       "Author.4.4": "Post Wilton \u201cStrike-slip\u201d and \u201cReverse\u201d faults have been redrawn in all figures (Figure 1, 7, 9) with a new colour code, the fluid escape features are now shown as red dots in the legend as well.",
-      "Author.4.5": "Number of measurements added in each plot. Figure 2a correspond to the SEEBASE structural lineaments (n=681).",
+      "Author.4.5": "Post Wilton \u201cStrike-slip\u201d and \u201cReverse\u201d faults have been redrawn in all figures (Figure 1, 7, 9) with a new colour code, the fluid escape features are now shown as red dots in the legend as well.",
+      "Author.4.6": "Number of measurements added in each plot. Figure 2a correspond to the SEEBASE structural lineaments (n=681).",
       "Author.0.0": "Paper"
     }
   },
@@ -375,167 +388,167 @@
       "Reviewer_1.1.12"
     ],
     [
-      "Author.2.1",
+      "Author.2.13",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.14",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.15",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.16",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.17",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.18",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.7",
+      "Author.2.19",
       "Reviewer_2.1.7"
     ],
     [
-      "Author.2.8",
+      "Author.2.20",
       "Reviewer_2.1.8"
     ],
     [
-      "Author.2.9",
+      "Author.2.21",
       "Reviewer_2.1.9"
     ],
     [
-      "Author.2.10",
+      "Author.2.22",
       "Reviewer_2.1.10"
     ],
     [
-      "Author.2.11",
+      "Author.2.23",
       "Reviewer_2.1.11"
     ],
     [
-      "Author.2.12",
+      "Author.2.24",
       "Reviewer_2.1.12"
     ],
     [
-      "Author.2.13",
+      "Author.2.25",
       "Reviewer_2.1.13"
     ],
     [
-      "Author.2.14",
+      "Author.2.26",
       "Reviewer_2.1.14"
     ],
     [
-      "Author.2.15",
+      "Author.2.27",
       "Reviewer_2.1.15"
     ],
     [
-      "Author.2.16",
+      "Author.2.28",
       "Reviewer_2.1.16"
     ],
     [
-      "Author.2.17",
+      "Author.2.29",
       "Reviewer_2.1.17"
     ],
     [
-      "Author.2.18",
+      "Author.2.30",
       "Reviewer_2.1.18"
     ],
     [
-      "Author.2.19",
+      "Author.2.31",
       "Reviewer_2.1.19"
     ],
     [
-      "Author.2.20",
+      "Author.2.32",
       "Reviewer_2.1.20"
     ],
     [
-      "Author.2.21",
+      "Author.2.33",
       "Reviewer_2.1.21"
     ],
     [
-      "Author.2.22",
+      "Author.2.34",
       "Reviewer_2.1.22"
     ],
     [
-      "Author.2.23",
+      "Author.2.35",
       "Reviewer_2.1.23"
     ],
     [
-      "Author.2.24",
+      "Author.2.36",
       "Reviewer_2.1.24"
     ],
     [
-      "Author.2.25",
+      "Author.2.37",
       "Reviewer_2.1.25"
     ],
     [
-      "Author.2.26",
+      "Author.2.38",
       "Reviewer_2.1.26"
     ],
     [
-      "Author.2.27",
+      "Author.2.39",
       "Reviewer_2.1.27"
     ],
     [
-      "Author.2.28",
+      "Author.2.40",
       "Reviewer_2.1.28"
     ],
     [
-      "Author.2.29",
+      "Author.2.41",
       "Reviewer_2.1.29"
     ],
     [
-      "Author.2.30",
+      "Author.2.42",
       "Reviewer_2.1.30"
     ],
     [
-      "Author.2.31",
+      "Author.2.43",
       "Reviewer_2.1.31"
     ],
     [
-      "Author.2.32",
+      "Author.2.44",
       "Reviewer_2.1.32"
     ],
     [
-      "Author.2.33",
+      "Author.2.45",
       "Reviewer_2.1.33"
     ],
     [
-      "Author.2.34",
+      "Author.2.46",
       "Reviewer_2.1.34"
     ],
     [
-      "Author.2.35",
+      "Author.2.47",
       "Reviewer_2.1.35"
     ],
     [
-      "Author.2.36",
+      "Author.2.48",
       "Reviewer_2.1.36"
     ],
     [
-      "Author.2.37",
+      "Author.2.49",
       "Reviewer_2.1.37"
     ],
     [
-      "Author.2.38",
+      "Author.2.50",
       "Reviewer_2.1.38"
     ],
     [
-      "Author.2.39",
+      "Author.2.51",
       "Reviewer_2.1.39"
     ],
     [
-      "Author.2.40",
+      "Author.2.52",
       "Reviewer_2.1.40"
     ],
     [
-      "Author.2.41",
+      "Author.2.53",
       "Reviewer_2.1.41"
     ],
     [
@@ -579,11 +592,11 @@
       "Reviewer_2.3.4"
     ],
     [
-      "Author.4.4",
+      "Author.4.5",
       "Reviewer_2.3.5"
     ],
     [
-      "Author.4.5",
+      "Author.4.6",
       "Reviewer_2.3.6"
     ]
   ]

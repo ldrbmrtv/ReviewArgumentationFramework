@@ -1,0 +1,45 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;Some errors in the legend of Figure 4, such as EM/PHYT/BHT, EM/PHYT is not presented in Figure 4
+Reviewer_1;Author;1;2;0;In Figure 4, the results is represented in three times or signal one or other times. Therefore, you must rewritten the legend of Figure 4. 
+Reviewer_2;Author;1;1;0;We recommend “galenic” can be changed to herbaceous, because galenic is not usually to see for non-professional fields or general cosmetics reader.
+Reviewer_2;Author;1;2;0;Less a parenthesis at line 132. 
+Reviewer_2;Author;1;3;0;At line 160, “Figureure” should be “Figure.”
+Reviewer_2;Author;1;4;0;At line 161 mentioned Tonset DCS, but does not explain what this word mean. 
+Reviewer_2;Author;1;5;0;In Table II, Tonset DCS is a units of temperature, it should be used comma instead of decimal point.
+Reviewer_2;Author;1;6;0;At line 167, “donateis” is typically used to represent donate money, we proposed change to be “provide”, in additional, this sentence is not fluent at grammar. 
+Reviewer_2;Author;1;7;0;The sentence in line 168 is not fluent at grammar. 
+Reviewer_2;Author;1;8;0;At line 189, it dors (does) not have sample named EBL, it needs to be check again. 
+Reviewer_2;Author;1;9;0;"Integration of all the above problems, this post Journal does not provide future applications of phytic 
+acid in cosmetics and its title is mentioned in herbal lotion but the experiment did not use any herb 
+emulsion formulation. For the antioxidant capacity of phytic acid only do the experiment of DPPH that 
+has not more in-depth study. Lot of grammatical errors is found in sentences. So we suggested to big 
+modifications, then returned for review"
+Reviewer_3;Author;1;1;0;The conclusions reported are very short and poor. More discussion of the presented results is needed.
+Reviewer_3;Author;1;2;0;The authors missed to report other authors’ studies which agree or disagree with their findings.
+Reviewer_3;Author;1;3;0;What is the output of this study? What are the implications in the use of PA in galenic/cosmetic formulations? 
+Reviewer_3;Author;1;4;0;"What are the suggestions of the authors about the use of PA in Cosmetics based on their results? 
+And what the parameters and the tricks that the formulators should be aware of while using PA in their products? "
+Author;Reviewer_1;2;1;1;All the corrections are highlighted in yellow. Corrected the legend of Figure 4 (EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT)
+Author;Reviewer_1;2;2;2;The errors were corrected in text on page 09 (EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT). 
+Author;Reviewer_2;2;3;1;"All the corrections are highlighted in red. The “galenic” was mentioned in the article due to 
+physician Claudio Galeno, which created the first creams formulations. Therefore we decided to change 
+galenic to cosmetic."
+Author;Reviewer_2;2;4;2;Inserted parenthesis at line 132 (Tpeak = 48.17 °C). 
+Author;Reviewer_2;2;5;3;Corrected at line 160 “Figureure” to “Figure”
+Author;Reviewer_2;2;6;4;"This abbreviation is widely use in Thermal analysis. We specified in the text (the extrapolated 
+peak onset temperature (TonsetDSC). "
+Author;Reviewer_2;2;7;5;We removed the units of temperature from the Table
+Author;Reviewer_2;2;8;6;We changed “donate” to provide and the other word donor to provider. 
+Author;Reviewer_2;2;9;7;We changed this sentence. 
+Author;Reviewer_2;2;10;8;The sample´s name corrected (EM/BL) at line 189. 
+Author;Reviewer_2;2;11;9;We integrated all the problems and correct he errors
+Author;Reviewer_3;2;12;1;"All the corrections are highlighted in green. We expanded the discussion of the results on pages 7, 
+10 and the conclusion on page 11 (item 4). "
+Author;Reviewer_3;2;13;2;"As mentioned in this paper, there are few studies related to the phytic acid in cosmetic products. 
+However we added more references regarding about phytic acid antioxidant activity. References 24, 25 and 26. "
+Author;Reviewer_3;2;14;3;We mentioned in the text more information about incorporation of phytic acid into emulsion on Thermal Analysis results, DPPH results and conclusion. 
+Author;Reviewer_3;2;15;4;Regarding with this queries we improved the discussion in the results on page 7. But we need to study more about. 
+Reviewer_2;Author;3;1;0;"From the experimental results that phytic acid will decrease the thermal stability of the emulsion, but 
+at line 220 mention that phytic acid has the effect of lipid peroxidation and therefore can be added as an 
+anti-oxidant in the emulsion. So we recommend authors to describe these two points much clearer. "
+Author;Reviewer_2;4;1;1;We described these two points more clearly. The thermal analysis technique applies high temperatures in the samples due to this thermal stability of the emulsion associated with phytic acid decreased

@@ -21,16 +21,22 @@
       "Reviewer_2.1.5": "The results are clearly reported and adequately discussed. The findings are novel and may be compared to previous studies of exercise and neuroimaging in fibromyalgia."
     },
     "Author": {
-      "Author.2.1": "These analyses were intended primarily for descriptive purposes. However, we recognize the need to control for multiple comparisons in order to reduce the risk of making Type I errors. Therefore, we created 3 families including 2 correlations each (one for each of the significant regions) and performed a Bonferroni correction, making the critical alpha level for significance 0.025.",
-      "Author.2.2": "This has been clarified in the statistical analysis section.",
-      "Author.2.3": "This change has been made.",
-      "Author.2.4": "This correction has been made.",
-      "Author.2.5": "We agree that this would add valuable information to the discussion section and have added the paragraph shown below discussing previous work using neuroimaging to understand the effects of exercise on the brain.",
-      "Author.2.6": "A growing number of studies have begun to employ neuroimaging methods to better understand the impact of exercise on the brain both longitudinally and acutely. For example, Smith and colleagues [37] conducted fMRI scans pre and post an exercise training program in older adults with mild cognitive impairment and found that exercise improved neural efficiency during cognitive tasks post-intervention. Structural MRI has also been used to show the neuroprotective effects of regular exercise in older adults with respect to preservation of brain volume[38]. In contrast to using neuroimaging to track changes in the brain over time, neuroimaging during and immediately following exercise presents some unique challenges due to artifacts associated with movement and the physiological underpinnings of many neuroimaging methods (e.g. BOLD response). EEG has been used most extensively to explore the effects of exercise on cortical activity [39]. PET and fMRI have also been used, though to a much lesser extent. For example, Boecker and colleagues used PET to demonstrate the effects of a long-distance run on opioid release in the brain and Janse Van Rensberg and colleagues used fMRI to examine brain responses to nicotine craving following 10 minutes of moderate intensity cycling. Our study adds to this important body of literature by using fMRI to show that an acute bout of moderate intensity exercise improved brain mechanisms underlying pain modulation in patients with chronic pain and further highlights the potential benefits of utilizing neuroimaging technology to better understand the more immediate effects of exercise on the human brain.",
+      "Author.2.1": "We concur that a brief description of the literature regarding EIH in FM is warranted and have added information to the discussion as follows: \u201cPrevious research regarding the effects of acute bouts of exercise on pain sensitivity in FM patients is largely equivocal. Some studies have demonstrated a hypoalgesic effect [5,24] while other studies show either no changes in pain perception or an exacerbation of pain [25\u201327].\u201d",
+      "Author.2.2": "With respect to the reviewer\u2019s comment regarding the lack of EIH in controls, we have included some additional information to demonstrate the consistency of our findings with previous research. The passage now reads: \u201cHowever, it appears that the exercise bout as prescribed was not a sufficient stimulus to induce a decrease in pain sensitivity in our pain-free controls. This is consistent with previous literature regarding the effects of acute exercise on pain in healthy controls, which typically finds that higher intensity exercise is necessary to elicit a hypoalgesic response [33].\u201d Additionally, we want to again mention that our study was not primarily designed to induce EIH in controls; it was designed to examine brain responses to pain following exercise and thus we wanted to ensure that FM patients could complete the exercise bout. Exploring brain responses associated with EIH in healthy individuals would be an interesting future direction.",
+      "Author.2.3": "With respect to the reviewer\u2019s comment on generalizability, we agree that our exclusionary criteria were stringent and have added the following sentence to our limitations section. \u201cFurther, we excluded individuals with diagnosed mental health conditions and those who were taking medications that could impact pain or the interpretation of brain responses. As such our results may not apply to FM patients with comorbid conditions.\u201d",
+      "Author.2.4": "Lastly, with respect to the comment about controlling for physiological noise, the following statements have been added. \u201cThough the evidence is equivocal, it has been suggested that cardiovascular mechanisms may be involved in the hypoalgesic response to exercise [34] and thus statistically controlling for these effects may have influenced the interpretation of our results. However, without controlling physiological differences between EX and QR the neuroimaging data would have been very difficult to interpret.\u201d",
+      "Author.2.5": "This sentence has been revised to better reflect the reference used.",
+      "Author.2.6": "We agree. We consulted with each physician with respect to type and dosage of medication, including whether this was a low, moderate or high dose. We also double-checked each medication and dose with the Physician\u2019s Desk Reference (60th-65th editions). We have added the following information to the methods section \u201cMedication information and dosage were supplied by the patient and their physician and dosage levels (low, moderate, high) were determined through both physician consultation and use of the Physician\u2019s Desk Reference (65th edition). \u201c",
       "Author.2.7": "This addition has been made.",
       "Author.2.8": "This addition has been made.",
       "Author.2.9": "The suggested change has been made.",
       "Author.2.10": "Thank you for catching this omission. This was an oversight on our part and these effect sizes are now included on page 11.",
+      "Author.2.11": "These analyses were intended primarily for descriptive purposes. However, we recognize the need to control for multiple comparisons in order to reduce the risk of making Type I errors. Therefore, we created 3 families including 2 correlations each (one for each of the significant regions) and performed a Bonferroni correction, making the critical alpha level for significance 0.025.",
+      "Author.2.12": "This has been clarified in the statistical analysis section.",
+      "Author.2.13": "This change has been made.",
+      "Author.2.14": "This correction has been made.",
+      "Author.2.15": "We agree that this would add valuable information to the discussion section and have added the paragraph shown below discussing previous work using neuroimaging to understand the effects of exercise on the brain.",
+      "Author.2.16": "A growing number of studies have begun to employ neuroimaging methods to better understand the impact of exercise on the brain both longitudinally and acutely. For example, Smith and colleagues [37] conducted fMRI scans pre and post an exercise training program in older adults with mild cognitive impairment and found that exercise improved neural efficiency during cognitive tasks post-intervention. Structural MRI has also been used to show the neuroprotective effects of regular exercise in older adults with respect to preservation of brain volume[38]. In contrast to using neuroimaging to track changes in the brain over time, neuroimaging during and immediately following exercise presents some unique challenges due to artifacts associated with movement and the physiological underpinnings of many neuroimaging methods (e.g. BOLD response). EEG has been used most extensively to explore the effects of exercise on cortical activity [39]. PET and fMRI have also been used, though to a much lesser extent. For example, Boecker and colleagues used PET to demonstrate the effects of a long-distance run on opioid release in the brain and Janse Van Rensberg and colleagues used fMRI to examine brain responses to nicotine craving following 10 minutes of moderate intensity cycling. Our study adds to this important body of literature by using fMRI to show that an acute bout of moderate intensity exercise improved brain mechanisms underlying pain modulation in patients with chronic pain and further highlights the potential benefits of utilizing neuroimaging technology to better understand the more immediate effects of exercise on the human brain.",
       "Author.0.0": "Paper"
     }
   },
@@ -132,27 +138,27 @@
       "Reviewer_1.1.9"
     ],
     [
-      "Author.2.1",
+      "Author.2.11",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.12",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.3",
+      "Author.2.13",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.4",
+      "Author.2.14",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.5",
+      "Author.2.15",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.6",
+      "Author.2.16",
       "Reviewer_2.1.5"
     ],
     [

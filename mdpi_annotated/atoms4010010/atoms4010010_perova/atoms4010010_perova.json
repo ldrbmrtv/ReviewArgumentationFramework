@@ -20,12 +20,17 @@
       "Reviewer_3.1.6": "Page 9:* \"experimental one\" -> \"experimental ones\""
     },
     "Author": {
-      "Author.2.1": "The changes is made in the text.",
-      "Author.2.2": "The changes is made in the text.",
-      "Author.2.3": "The changes is made in the text.",
-      "Author.2.4": "The changes is made in the text.",
-      "Author.2.5": "The changes is made in the text.",
+      "Author.2.1": "The review article by W Nakel and C. T. Whelan you refer to do indeed tackle the relativistic regime but at the expense of a huge amount of numerical work. So, we think that presenting for the first time a work that incorporates fully analytical results and QED formalism is interesting to the scientific community. The work of W Nakel and C. T. Whelan is devoted to study heavy atoms but Our work is aimed to study analytically the hydrogen atom, we believe that such a comparison is impossible. Another difference that makes comparison difficult is that the work of W Nakel and C. T. Whelan uses coplanar asymmetric geometry while in our work we\n use coplanar symmetric geometry.",
+      "Author.2.2": "We are fully aware that the mainstream trend is to study heavy atoms. But some fundamental processes have not until now been investigated fully and analytically and it is our very humble belief that such a fundamental work must be presented to the international scientific community. We are not in a position to compare with these works since they are devoted to heavy atoms.",
+      "Author.2.3": "Points (i) and (ii) have been corrected and changed following to the referee\u2019s amendments.",
+      "Author.2.4": "As you requested, we have made all necessary changes in our manuscript. A major revision of the paper has been carried out to take all the comments, suggestions and english corrections into account. We believe that the paper has been significantly improved.",
+      "Author.2.5": "As you requested, we have made all necessary changes in our manuscript. A major revision of the paper has been carried out to take all the comments, suggestions and english corrections into account. We believe that the paper has been significantly improved.",
       "Author.2.6": "The changes is made in the text.",
+      "Author.2.7": "The changes is made in the text.",
+      "Author.2.8": "The changes is made in the text.",
+      "Author.2.9": "The changes is made in the text.",
+      "Author.2.10": "The changes is made in the text.",
+      "Author.2.11": "The changes is made in the text.",
       "Author.0.0": "Paper"
     }
   },
@@ -91,35 +96,35 @@
       "Reviewer_1.1.4"
     ],
     [
-      "Author.2.1",
+      "Author.2.4",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.1",
+      "Author.2.5",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.1",
+      "Author.2.6",
       "Reviewer_3.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.7",
       "Reviewer_3.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.8",
       "Reviewer_3.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.9",
       "Reviewer_3.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.10",
       "Reviewer_3.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.11",
       "Reviewer_3.1.6"
     ],
     [

@@ -36,17 +36,28 @@
       "Reviewer_2.3.1": "The authors have provided convincing responses to the questions raised in the first revision round. Therefore, I suggest to accept the manuscript for publication."
     },
     "Author": {
-      "Author.2.1": "We thank the reviewer for this comment that adds useful information in the present study, when we decided to limit our study period to the 1931-2016 range, we based our decision in the maps of the number of stations for each pixel in the dataset. We have added a figure in supplementary material (Figure S1), as the figure shows, the plot for 1931 is the first one to show stations over the Andes and the central Amazon rainforest. We believe that data prior this time (as seen on the 1921 figure and the ones before) are not sufficient for the analysis we perform.",
-      "Author.2.2": "PCA is very useful tools for studying of climate. We chose this technique as it is very adequate to distinguish among different modes of variability that are independent from each other (as each PC is calculated after the effect of the previous ones is removed), which was the objective of our analysis. Another reason for us to choose PCA was that we needed to reduce the dimensions of our dataset, thus this method was the most suitable to fulfill of these requisites.",
-      "Author.2.3": "We thank the reviewer for this suggestion. Please refer to our reply for the next comment.",
-      "Author.2.4": "We are thankful to the reviewer for this observation that improves and strengthen the analyses of our manuscript. In order to calculate the SACZ intensity we calculated an index based on Outgoing Longwave Radiation (OLR) data over central-eastern Brazil delimited by 65\u201330\u25e6 W, 40\u25e6 S\u20130\u25e6 N. The SACZ index is the first PC of the DJF OLR anomalies over this area. This methodology is described in [1]. We had to calculate the correlation between PC1 and the SACZ index for the 1979-2016 period, as OLR data is only available since 1979. \r\n When we correlated the SACZ index with our PC1 we found a correlation coefficient equal to 0.69. Thus, we confirm that our first PC and the associated precipitation anomalies are related to the SACZ intensity.",
-      "Author.2.5": "We have added the effects in precipitation anomalies of La Ni\u00f1a (or the negative phase of the second PC) to Section 3.2.",
-      "Author.2.6": "As observed in Figure 5, the 4 leading PCs of precipitation anomalies in Tropical South America do not have any observable trends over time. Thus, these time series do not show a sign of the climate change in the past 50 years. However, we do comment on the implications of our results in the context of climate change in the Conclusions section. We refer to how the SAMS has changed, and also about how the relation between our PCs and their corresponding precipitation anomalies could be useful to infer precipitation changes should these modes of variability change in the future. However, there is an apparent, change in the frequency and amplitude of the extremes after 1970, we have made a comment about this in the conclusions.",
-      "Author.2.7": "We thank the reviewer for this comment, we have fixed these errors of standardization in the citation style format.",
-      "Author.2.8": "We thank the reviewer for this comment. We have written a short paragraph in the end of the Introduction section. We think this is a good addition to our manuscript.",
-      "Author.2.9": "We thank the reviewer for this comment. This is something that we considered carefully and discussed when deciding on the color bars, not only for this figure but also for the others (4 and 6). We decided on the color bars as they are to relate blue colors to more rainfall, moisture, and thus water; and red colors to less rainfall and thus drought. This is also stated in the figure captions. We believe this makes for a more intuitive reading of the papers and figures. Therefore, we would like to keep our figures in their current format.",
-      "Author.2.10": "We thank the reviewer for their careful revision of our paper, we have corrected this typo.",
-      "Author.2.11": "We have checked our paper to correct the mentioned typos.",
+      "Author.2.1": "By \u201cknowledge\u201d we meant state of the art literature, we have made this clearer now, we thank the reviewer for this observation.",
+      "Author.2.2": "We have stated the methods used in our research in the abstract. We thank the reviewer for this comment that has improved the content of the abstract.",
+      "Author.2.3": "We have rewritten this sentence; we believe it is clearer now.",
+      "Author.2.4": "The seasonal cycle was removed because our interest is to study precipitation anomalies, which are better observed once the seasonal cycle is removed. Furthermore, when we applied the PCA analysis before removing seasonality, the first 2 PCs were related to the seasonal cycle, and they explained over 70% of variability in the data. This obscured the variability that we aimed to analyze in our manuscript.\n The seasonal cycle was removed by calculating the seasonality of rainfall for each pixel in our dataset and then removing this cycle from each pixel timeseries. In this way, we kept values above or below average only (i.e., anomalies).",
+      "Author.2.5": "We did not a analyze a 10-year period. What we did was to take the 10 years with the maximum values in each PC time series and the 10 years with the minimum values in the PC time series. We did this to build the composites that are respectively representative of the positive and negative modes of the PCs. This is how the data for Figures 4, 6, 7, 8, and 9 were selected.",
+      "Author.2.6": "In section 3.1 we analyze the circulation anomalies related to PC1. Figure 3a shows that PC1 is mainly related to the DJF season, when the SACZ is more active. As we hypothesized that PC1 is related to the SACZ and we already found from Figure 3a that the amplitude of this PC is higher in this season, we chose to analyze the variable of interest (in this case VIDMF) for the DJF season.",
+      "Author.2.7": "The arrow and the label 15 g kg -1ms-1 the scale for the figure. The arrows in the figure show moisture flux in g kg -1ms-1, The arrow is the size corresponding to 15 g kg -1ms-1",
+      "Author.2.8": "We have made the font in Figure 5 bigger.",
+      "Author.2.9": "That conclusion is from the black line in Figure 7, which shows the MAM climatology for \u03c9. This is now clearer in the text.",
+      "Author.2.10": "Please refer to our reply for the comment about LINE 120 above.",
+      "Author.2.11": "Please refer to our reply for the comment about the 15 g kg -1ms-1 label for Figure 4.",
+      "Author.2.12": "We thank the reviewer for this comment that adds useful information in the present study, when we decided to limit our study period to the 1931-2016 range, we based our decision in the maps of the number of stations for each pixel in the dataset. We have added a figure in supplementary material (Figure S1), as the figure shows, the plot for 1931 is the first one to show stations over the Andes and the central Amazon rainforest. We believe that data prior this time (as seen on the 1921 figure and the ones before) are not sufficient for the analysis we perform.",
+      "Author.2.13": "PCA is very useful tools for studying of climate. We chose this technique as it is very adequate to distinguish among different modes of variability that are independent from each other (as each PC is calculated after the effect of the previous ones is removed), which was the objective of our analysis. Another reason for us to choose PCA was that we needed to reduce the dimensions of our dataset, thus this method was the most suitable to fulfill of these requisites.",
+      "Author.2.14": "We thank the reviewer for this suggestion. Please refer to our reply for the next comment.",
+      "Author.2.15": "We are thankful to the reviewer for this observation that improves and strengthen the analyses of our manuscript. In order to calculate the SACZ intensity we calculated an index based on Outgoing Longwave Radiation (OLR) data over central-eastern Brazil delimited by 65\u201330\u25e6 W, 40\u25e6 S\u20130\u25e6 N. The SACZ index is the first PC of the DJF OLR anomalies over this area. This methodology is described in [1]. We had to calculate the correlation between PC1 and the SACZ index for the 1979-2016 period, as OLR data is only available since 1979. \n When we correlated the SACZ index with our PC1 we found a correlation coefficient equal to 0.69. Thus, we confirm that our first PC and the associated precipitation anomalies are related to the SACZ intensity.",
+      "Author.2.16": "We have added the effects in precipitation anomalies of La Ni\u00f1a (or the negative phase of the second PC) to Section 3.2.",
+      "Author.2.17": "As observed in Figure 5, the 4 leading PCs of precipitation anomalies in Tropical South America do not have any observable trends over time. Thus, these time series do not show a sign of the climate change in the past 50 years. However, we do comment on the implications of our results in the context of climate change in the Conclusions section. We refer to how the SAMS has changed, and also about how the relation between our PCs and their corresponding precipitation anomalies could be useful to infer precipitation changes should these modes of variability change in the future. However, there is an apparent, change in the frequency and amplitude of the extremes after 1970, we have made a comment about this in the conclusions.",
+      "Author.2.18": "We thank the reviewer for this comment, we have fixed these errors of standardization in the citation style format.",
+      "Author.2.19": "We thank the reviewer for this comment. We have written a short paragraph in the end of the Introduction section. We think this is a good addition to our manuscript.",
+      "Author.2.20": "We thank the reviewer for this comment. This is something that we considered carefully and discussed when deciding on the color bars, not only for this figure but also for the others (4 and 6). We decided on the color bars as they are to relate blue colors to more rainfall, moisture, and thus water; and red colors to less rainfall and thus drought. This is also stated in the figure captions. We believe this makes for a more intuitive reading of the papers and figures. Therefore, we would like to keep our figures in their current format.",
+      "Author.2.21": "We thank the reviewer for their careful revision of our paper, we have corrected this typo.",
+      "Author.2.22": "We have checked our paper to correct the mentioned typos.",
       "Author.4.1": "We have implemented this change.",
       "Author.4.2": "We thank the reviewer for this comment. We have introduced a description of what these maps of the positive phase show in the Methods section. Please refer to lines 128-130 in the revised version of the manuscript.",
       "Author.4.3": "We have added a short paragraph summarizing the evidence that demonstrates that PC1 is related to the SACZ intensity. Please refer to lines 194-197 in the revised version of the manuscript.",
@@ -190,47 +201,47 @@
       "Reviewer_1.1.11"
     ],
     [
-      "Author.2.1",
+      "Author.2.12",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.13",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.14",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.4",
+      "Author.2.15",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.5",
+      "Author.2.16",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.6",
+      "Author.2.17",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.7",
+      "Author.2.18",
       "Reviewer_2.1.7"
     ],
     [
-      "Author.2.8",
+      "Author.2.19",
       "Reviewer_2.1.8"
     ],
     [
-      "Author.2.9",
+      "Author.2.20",
       "Reviewer_2.1.9"
     ],
     [
-      "Author.2.10",
+      "Author.2.21",
       "Reviewer_2.1.10"
     ],
     [
-      "Author.2.11",
+      "Author.2.22",
       "Reviewer_2.1.11"
     ],
     [

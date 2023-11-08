@@ -11,7 +11,7 @@
       "Reviewer_1.1.8": "Line 150 - it should be \"anti-thrombotic\" rather than \"an-thrombotic\".",
       "Reviewer_1.1.9": "P values have to presented in Table 1.",
       "Reviewer_1.1.10": "Line 179 - authors first mention 39 factors, and then in line 179 state 40. Which is true?",
-      "Reviewer_1.3.1": "I have one major comment. It is still not clear how thrombophilia was defined. You write (page 3, lines 129-130): \"Only women with thrombophilia defined as a factor correlated with thrombotic phenomena linked to congenital or acquired factors. [21,40-43]\"\r\n \r\n I suggest you alter the sentence, e.g. to something like: \"Thrombophilia was defined as either the diagnosis of an inherited thrombophilia, a personal history of VTE or a familial history of VTE.\" If that is how you defined thrombophilia?",
+      "Reviewer_1.3.1": "I have one major comment. It is still not clear how thrombophilia was defined. You write (page 3, lines 129-130): \"Only women with thrombophilia defined as a factor correlated with thrombotic phenomena linked to congenital or acquired factors. [21,40-43]\"\n \n I suggest you alter the sentence, e.g. to something like: \"Thrombophilia was defined as either the diagnosis of an inherited thrombophilia, a personal history of VTE or a familial history of VTE.\" If that is how you defined thrombophilia?",
       "Reviewer_1.3.2": "Also, another round of language editing may be suitable."
     },
     "Reviewer_2": {
@@ -28,9 +28,9 @@
       "Reviewer_2.1.11": "The Discussion section could benefit from a language revision, especially in the latter part, to make the flow better. Also, a brief discussion on the limitations of your study should be included."
     },
     "Author": {
-      "Author.2.1": "we are very sorry for the mistake, and the manuscript was modified accordingly.",
-      "Author.2.2": "The criticism of the reviewer has been accepted and the manuscript was modified accordingly.",
-      "Author.2.3": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.1": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.2": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.3": "The new manuscript has been evaluated by an expert of English language.",
       "Author.2.4": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
       "Author.2.5": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
       "Author.2.6": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
@@ -38,6 +38,17 @@
       "Author.2.8": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
       "Author.2.9": "The observation of the reviewer has been accepted and the table 1 was modified accordingly.",
       "Author.2.10": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.11": "we are very sorry for the mistake, and the manuscript was modified accordingly.",
+      "Author.2.12": "The criticism of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.13": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.14": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.15": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.16": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.17": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.18": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.19": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.20": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
+      "Author.2.21": "The observation of the reviewer has been accepted and the manuscript was modified accordingly.",
       "Author.4.1": "The observation of the reviewer has been accepted and the table 1 was modified accordingly.",
       "Author.4.2": "The new manuscript has been evaluated by an expert of English language.",
       "Author.0.0": "Paper"
@@ -169,47 +180,47 @@
       "Reviewer_1.1.10"
     ],
     [
-      "Author.2.1",
+      "Author.2.11",
       "Reviewer_2.1.1"
     ],
     [
-      "Author.2.2",
+      "Author.2.12",
       "Reviewer_2.1.2"
     ],
     [
-      "Author.2.3",
+      "Author.2.13",
       "Reviewer_2.1.3"
     ],
     [
-      "Author.2.3",
+      "Author.2.14",
       "Reviewer_2.1.4"
     ],
     [
-      "Author.2.3",
+      "Author.2.15",
       "Reviewer_2.1.5"
     ],
     [
-      "Author.2.4",
+      "Author.2.16",
       "Reviewer_2.1.6"
     ],
     [
-      "Author.2.4",
+      "Author.2.17",
       "Reviewer_2.1.7"
     ],
     [
-      "Author.2.4",
+      "Author.2.18",
       "Reviewer_2.1.8"
     ],
     [
-      "Author.2.4",
+      "Author.2.19",
       "Reviewer_2.1.9"
     ],
     [
-      "Author.2.4",
+      "Author.2.20",
       "Reviewer_2.1.10"
     ],
     [
-      "Author.2.5",
+      "Author.2.21",
       "Reviewer_2.1.11"
     ],
     [
