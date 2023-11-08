@@ -27,13 +27,13 @@
       "Reviewer_2.1.20": "In the reference list, write the names of the microorganisms in italic. Some journal titles are registered in abbreviated form, and others have a full name. Standardize, taking into account the rules of the journal."
     },
     "Reviewer_3": {
-      "Reviewer_3.1.1": "The main comment addressing the article improvement is the methodology applied for statistical analysis.\n The appropriate methodology considering parametric assumption for normality and homogeneity of variances before data analysis should be applied. Later one-factor analysis of variance should carry out accordingly. The application of the Duncan test should be justified because it is less sensitive in this kind of study.",
+      "Reviewer_3.1.1": "The main comment addressing the article improvement is the methodology applied for statistical analysis.\r\n The appropriate methodology considering parametric assumption for normality and homogeneity of variances before data analysis should be applied. Later one-factor analysis of variance should carry out accordingly. The application of the Duncan test should be justified because it is less sensitive in this kind of study.",
       "Reviewer_3.1.2": "Figures 2a, 3a and 4a include photos whose resolution should be improved."
     },
     "Author": {
-      "Author.2.1": "Thanks for your comment. The statistical analysis were conducted as follows:\n All experiments were conducted in triplicate. The UNIVARIATE procedure of SAS was used to test the normality of the data before any further analyses were carried out. Data were subjected to ANOVA using the MIXED procedure of SAS (SAS 9.2, SAS Institute Inc., Cary, NC). Mean \u00b1 standard error (S.E.) were reported, and means were separated by LSD multiple comparisons. Differences were accepted as statistically significance at P < 0.05.",
+      "Author.2.1": "Thanks for your comment. The statistical analysis were conducted as follows:\r\n All experiments were conducted in triplicate. The UNIVARIATE procedure of SAS was used to test the normality of the data before any further analyses were carried out. Data were subjected to ANOVA using the MIXED procedure of SAS (SAS 9.2, SAS Institute Inc., Cary, NC). Mean \u00b1 standard error (S.E.) were reported, and means were separated by LSD multiple comparisons. Differences were accepted as statistically significance at P < 0.05.",
       "Author.2.2": "Thanks for your comment. We have enhanced clarity and detail of the image for easy reading.",
-      "Author.2.3": "Thanks for your comment. The hot water extraction conditions was adopt according to previous methods (Dong et al., 2021).\n Dong, C.L.; Liu, N.; Wang, Y.; Song, M.; Wang, R.F.; Yang, Y.P.; An, X.P.; Qi, J.W. Study on Antioxidant Activity of Fermented Rice Bran Water Extract. Feed Industry 2021, 42(24), 8-13. DOI:10.13302/j.cnki.fi.2021.24.002.",
+      "Author.2.3": "Thanks for your comment. The hot water extraction conditions was adopt according to previous methods (Dong et al., 2021).\r\n Dong, C.L.; Liu, N.; Wang, Y.; Song, M.; Wang, R.F.; Yang, Y.P.; An, X.P.; Qi, J.W. Study on Antioxidant Activity of Fermented Rice Bran Water Extract. Feed Industry 2021, 42(24), 8-13. DOI:10.13302/j.cnki.fi.2021.24.002.",
       "Author.2.4": "Thanks for your comment. 24hpf means 24 hours post fertilization.",
       "Author.2.5": "Thanks for your comment. AO solution is acridine orange.",
       "Author.2.6": "Thanks for your comment. Humates added to feed stimulate the microbial growth(Huck et al., 1991). Sodium humate added to fermentation substrate improved the growth of bacteria (Liu et al., 2014, Shi et al., 2016). The role of sodium humate is fermentation synergist.",
@@ -42,7 +42,7 @@
       "Author.2.9": "Thanks for your comment. Phenolic acids belongs to polyphenols. The increasing of content of water-soluble phenolic acids in FRBE may be attributed to the degradation of rice bran cell wall during fermentation.",
       "Author.2.10": "Thanks for your comment. Fig.3a and 3b showing different groups of LPO rate.",
       "Author.2.11": "Thanks for your comment. The 73.85 and 77.00 values are correct.",
-      "Author.2.12": "Thanks for your comment. We have rewrited the first sentence in Conclusions.\n In summary, the DPPH radical radical scavenging abilities of rice bran water-soluble extracts and the content of bioactive constituents were considerably altered by mixed bacteria solid-state fermentation.",
+      "Author.2.12": "Thanks for your comment. We have rewrited the first sentence in Conclusions.\r\n In summary, the DPPH radical radical scavenging abilities of rice bran water-soluble extracts and the content of bioactive constituents were considerably altered by mixed bacteria solid-state fermentation.",
       "Author.2.13": "Thanks for your comment. I have changed.",
       "Author.2.14": "Thanks for your comment. I have changed.",
       "Author.2.15": "Thanks for your comment. I have changed.",

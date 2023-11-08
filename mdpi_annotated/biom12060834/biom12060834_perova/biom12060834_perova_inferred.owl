@@ -2516,16 +2516,16 @@ _:8928 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999
 <biom12060834_perova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "Unfortunately, its structure was not fully determined."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_11> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_11> <biom12060834_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "The manuscript is very long: it contains a lot of information and many references not always pertinent to\n EPS characterization."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "The manuscript is very long: it contains a lot of information and many references not always pertinent to\n EPS characterization."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_12> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_12> <biom12060834_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "Optimization of production constitutes an important part not mentioned in the\n title."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "Optimization of production constitutes an important part not mentioned in the\n title."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_13> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_13> <biom12060834_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "Acceptability for food applications was not discussed."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_14> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_14> <biom12060834_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "English language should be revised thoroughly. There are inconsistencies in singular-plural concordance\n between subject and verb as well as noun and pronoun. Verb tenses should be checked. Articles (mostly\n definite, but also indefinite) are often missing and sometimes superfluous."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "English language should be revised thoroughly. There are inconsistencies in singular-plural concordance\n between subject and verb as well as noun and pronoun. Verb tenses should be checked. Articles (mostly\n definite, but also indefinite) are often missing and sometimes superfluous."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_15> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_15> <biom12060834_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "EPS vs. EPSs in plural form should be consistent throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -2534,121 +2534,121 @@ _:8928 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999
 <biom12060834_perova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> "Use a consistent abbreviation (l or L) for liter (including milliliter and microliter) throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_17> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_17> <biom12060834_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 50-51\n improvement of rheological"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 50-51\n improvement of rheological"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_18> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_18> <biom12060834_perova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "l. 57\n stabilizing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "l. 57\n stabilizing"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_19> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_19> <biom12060834_perova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "l. 133\n in nutrient"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "l. 133\n in nutrient"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_110> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_110> <biom12060834_perova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_111> <http://www.w3.org/2000/01/rdf-schema#label> "l. 143\n min instead of mins"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_111> <http://www.w3.org/2000/01/rdf-schema#label> "l. 143\n min instead of mins"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_111> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_111> <biom12060834_perova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_112> <http://www.w3.org/2000/01/rdf-schema#label> "l. 145\n volume of chilled acetone was added"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_112> <http://www.w3.org/2000/01/rdf-schema#label> "l. 145\n volume of chilled acetone was added"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_112> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_112> <biom12060834_perova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_113> <http://www.w3.org/2000/01/rdf-schema#label> "l. 160\n There is no coded value in Table 1."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_113> <http://www.w3.org/2000/01/rdf-schema#label> "l. 160\n There is no coded value in Table 1."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_113> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_113> <biom12060834_perova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_114> <http://www.w3.org/2000/01/rdf-schema#label> "l. 165\n Table 2 where Table 1 expected"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_114> <http://www.w3.org/2000/01/rdf-schema#label> "l. 165\n Table 2 where Table 1 expected"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_114> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_114> <biom12060834_perova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_115> <http://www.w3.org/2000/01/rdf-schema#label> "l. 169-170\n thirty instead of thirteen ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_115> <http://www.w3.org/2000/01/rdf-schema#label> "l. 169-170\n thirty instead of thirteen ?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_115> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_115> <biom12060834_perova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_116> <http://www.w3.org/2000/01/rdf-schema#label> "l. 177\n i instead of 0 in second term?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_116> <http://www.w3.org/2000/01/rdf-schema#label> "l. 177\n i instead of 0 in second term?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_116> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_116> <biom12060834_perova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_117> <http://www.w3.org/2000/01/rdf-schema#label> "l. 228\n GPC defined on l. 231"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_117> <http://www.w3.org/2000/01/rdf-schema#label> "l. 228\n GPC defined on l. 231"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_117> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_117> <biom12060834_perova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_118> <http://www.w3.org/2000/01/rdf-schema#label> "l. 230\n PEG undefined"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_118> <http://www.w3.org/2000/01/rdf-schema#label> "l. 230\n PEG undefined"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_118> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_118> <biom12060834_perova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_119> <http://www.w3.org/2000/01/rdf-schema#label> "l. 247\n Volume of 0.2 mM ethanolic DPPH solution?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_119> <http://www.w3.org/2000/01/rdf-schema#label> "l. 247\n Volume of 0.2 mM ethanolic DPPH solution?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_119> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_119> <biom12060834_perova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_120> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 255, 286, and 441\n et al."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_120> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 255, 286, and 441\n et al."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_120> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_120> <biom12060834_perova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_121> <http://www.w3.org/2000/01/rdf-schema#label> "l. 284\n No section 2.6.3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_121> <http://www.w3.org/2000/01/rdf-schema#label> "l. 284\n No section 2.6.3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_121> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_121> <biom12060834_perova.owl#number> "21"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_122> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1\n What is the significance of the tick mark labels on the maps? Are these maps really necessary?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_122> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1\n What is the significance of the tick mark labels on the maps? Are these maps really necessary?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_122> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_122> <biom12060834_perova.owl#number> "22"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_123> <http://www.w3.org/2000/01/rdf-schema#label> "l. 340\n source"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_123> <http://www.w3.org/2000/01/rdf-schema#label> "l. 340\n source"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_123> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_123> <biom12060834_perova.owl#number> "23"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_124> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 2\n No x-axis label\n Units not specified"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_124> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 2\n No x-axis label\n Units not specified"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_124> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_124> <biom12060834_perova.owl#number> "24"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_125> <http://www.w3.org/2000/01/rdf-schema#label> "l. 400\n affected ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_125> <http://www.w3.org/2000/01/rdf-schema#label> "l. 400\n affected ?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_125> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_125> <biom12060834_perova.owl#number> "25"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_126> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 3\n Units are not specified on the axes labels or in the legend."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_126> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 3\n Units are not specified on the axes labels or in the legend."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_126> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_126> <biom12060834_perova.owl#number> "26"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_127> <http://www.w3.org/2000/01/rdf-schema#label> "l. 414\n Delete ( before C. pH ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_127> <http://www.w3.org/2000/01/rdf-schema#label> "l. 414\n Delete ( before C. pH ."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_127> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_127> <biom12060834_perova.owl#number> "27"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_128> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 416 and 432\n Add C. before pH= ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_128> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 416 and 432\n Add C. before pH= ."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_128> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_128> <biom12060834_perova.owl#number> "28"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_129> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 417 and 432\n 30.0 instead of 3.0 ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_129> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 417 and 432\n 30.0 instead of 3.0 ?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_129> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_129> <biom12060834_perova.owl#number> "29"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_130> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 4\n This figure is redundant as it gives the same information as Figure 3. Tick label values for glucose and\n yeast extract are different. Units are not specified on the axes labels or in the legend."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_130> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 4\n This figure is redundant as it gives the same information as Figure 3. Tick label values for glucose and\n yeast extract are different. Units are not specified on the axes labels or in the legend."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_130> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_130> <biom12060834_perova.owl#number> "30"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_131> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 433, 434, 454, 458, and 507\n First section 3.6 (and its subsections) should be section 3.5."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_131> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 433, 434, 454, 458, and 507\n First section 3.6 (and its subsections) should be section 3.5."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_131> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_131> <biom12060834_perova.owl#number> "31"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_132> <http://www.w3.org/2000/01/rdf-schema#label> "l. 442\n C), whereas the"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_132> <http://www.w3.org/2000/01/rdf-schema#label> "l. 442\n C), whereas the"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_132> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_132> <biom12060834_perova.owl#number> "32"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_133> <http://www.w3.org/2000/01/rdf-schema#label> "l. 471, 600, 678, and 718\n Reference format is different; corresponding references could be missing in the list."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_133> <http://www.w3.org/2000/01/rdf-schema#label> "l. 471, 600, 678, and 718\n Reference format is different; corresponding references could be missing in the list."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_133> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_133> <biom12060834_perova.owl#number> "33"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_134> <http://www.w3.org/2000/01/rdf-schema#label> "l. 480\n Why was linkage analysis not performed?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_134> <http://www.w3.org/2000/01/rdf-schema#label> "l. 480\n Why was linkage analysis not performed?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_134> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_134> <biom12060834_perova.owl#number> "34"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_135> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 481-482\n spectrum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_135> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 481-482\n spectrum"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_135> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_135> <biom12060834_perova.owl#number> "35"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_136> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 6\n Bacterial EPSs are normally composed of repeating units. Based on the 1H NMR spectrum, the purity\n and/or heterogeneity of the EPS is questioned. How can the authors ascertain that mannose does not\n come from mannans in yeast extract?\n A 2D COSY spectrum would be necessary to confirm the assignments made on the 1D: e.g., H2- Man is\n not normally found in the range 3.2-3.5 ppm (the statement ll. 495-496 is wrong).\n The abbreviation for glucose is Glc."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_136> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 6\n Bacterial EPSs are normally composed of repeating units. Based on the 1H NMR spectrum, the purity\n and/or heterogeneity of the EPS is questioned. How can the authors ascertain that mannose does not\n come from mannans in yeast extract?\n A 2D COSY spectrum would be necessary to confirm the assignments made on the 1D: e.g., H2- Man is\n not normally found in the range 3.2-3.5 ppm (the statement ll. 495-496 is wrong).\n The abbreviation for glucose is Glc."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_136> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_136> <biom12060834_perova.owl#number> "36"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_137> <http://www.w3.org/2000/01/rdf-schema#label> "l. 500\n The chemical shift range is more than from 1 to 5."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_137> <http://www.w3.org/2000/01/rdf-schema#label> "l. 500\n The chemical shift range is more than from 1 to 5."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_137> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_137> <biom12060834_perova.owl#number> "37"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_138> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 528 and 531\n radical"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_138> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 528 and 531\n radical"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_138> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_138> <biom12060834_perova.owl#number> "38"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_139> <http://www.w3.org/2000/01/rdf-schema#label> "l. 535 and 536\n activity"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_139> <http://www.w3.org/2000/01/rdf-schema#label> "l. 535 and 536\n activity"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_139> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_139> <biom12060834_perova.owl#number> "39"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_140> <http://www.w3.org/2000/01/rdf-schema#label> "l. 537\n No section 3.6.2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_140> <http://www.w3.org/2000/01/rdf-schema#label> "l. 537\n No section 3.6.2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_140> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_140> <biom12060834_perova.owl#number> "40"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_141> <http://www.w3.org/2000/01/rdf-schema#label> "l. 581\n Table S1A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_141> <http://www.w3.org/2000/01/rdf-schema#label> "l. 581\n Table S1A"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_141> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_141> <biom12060834_perova.owl#number> "41"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_142> <http://www.w3.org/2000/01/rdf-schema#label> "l. 603\n Figure S1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_142> <http://www.w3.org/2000/01/rdf-schema#label> "l. 603\n Figure S1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_142> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_142> <biom12060834_perova.owl#number> "42"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_143> <http://www.w3.org/2000/01/rdf-schema#label> "l. 636\n Glc and Gal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_143> <http://www.w3.org/2000/01/rdf-schema#label> "l. 636\n Glc and Gal"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_143> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_143> <biom12060834_perova.owl#number> "43"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_144> <http://www.w3.org/2000/01/rdf-schema#label> "l. 683-684\n Food-grade oils are not aliphatic and aromatic hydrocarbons."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_144> <http://www.w3.org/2000/01/rdf-schema#label> "l. 683-684\n Food-grade oils are not aliphatic and aromatic hydrocarbons."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_144> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_144> <biom12060834_perova.owl#number> "44"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_145> <http://www.w3.org/2000/01/rdf-schema#label> "l. 711\n to be significantly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_145> <http://www.w3.org/2000/01/rdf-schema#label> "l. 711\n to be significantly"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_145> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_145> <biom12060834_perova.owl#number> "45"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#reviewer_146> <http://www.w3.org/2000/01/rdf-schema#label> "l. 725\n possibility of future"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#reviewer_146> <http://www.w3.org/2000/01/rdf-schema#label> "l. 725\n possibility of future"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_146> <biom12060834_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_146> <biom12060834_perova.owl#number> "46"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#reviewer_147> <http://www.w3.org/2000/01/rdf-schema#label> "The English language was improved, but there are still errors."^^<http://www.w3.org/2001/XMLSchema#string> .
@@ -2834,7 +2834,7 @@ _:8928 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999
 <biom12060834_perova.owl#author51> <http://www.w3.org/2000/01/rdf-schema#label> "On the other side, we performed the 1D and 2D - NMR analysis as complementary information to the other techniques in the present work. Such analysis was performed to try to replace the traditional acid hydrolysis, methylation/acetylation and GC-MS used in glycoside analysis. On the opposite to NMR, we do not have access to this analysis, and we could not find it as a service."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#author51> <biom12060834_perova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#author51> <biom12060834_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_perova.owl#author52> <http://www.w3.org/2000/01/rdf-schema#label> "The HPLC and NMR results from the present work confirmed the heterogeneity of the EPS (3 different sugar moieties with different molar ratios), which agrees with the other reported mannan polysaccharides. The 1H and 13C NMR chemical shifts are comparable with literature reports of other similar EPS or oligosaccharides, where complex structures are identified by NMR too (Casillo et al.,\n 2021; Chatterjee et al; 2018). Besides, our 2D-NMR analysis supported EPS heterogeneity, identifying different types of monomer linkages. Casillo, A., Fabozzi, A., Russo Krauss, I., Parrilli, E., Biggs, C. I., Gibson, M. I., … Corsaro, M. M. (2021). Physicochemical Approach to Understanding the Structure, Conformation, and Activity of Mannan Polysaccharides. Biomacromolecules, 22(4), 1445–1457. doi:10.1021/acs.biomac.0c01659. Chatterjee, S., Mukhopadhyay, S. K., Gauri, S. S., & Dey, S. (2018). Sphingobactan, a new α-mannan exopolysaccharide from Arctic Sphingobacterium sp. IITKGP-BTPF3 capable of biological response modification. International Immunopharmacology, 60, 84–95. doi:10.1016/j.intimp.2018.04.039"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_perova.owl#author52> <http://www.w3.org/2000/01/rdf-schema#label> "The HPLC and NMR results from the present work confirmed the heterogeneity of the EPS (3 different sugar moieties with different molar ratios), which agrees with the other reported mannan polysaccharides. The 1H and 13C NMR chemical shifts are comparable with literature reports of other similar EPS or oligosaccharides, where complex structures are identified by NMR too (Casillo et al.,\n 2021; Chatterjee et al; 2018). Besides, our 2D-NMR analysis supported EPS heterogeneity, identifying different types of monomer linkages. Casillo, A., Fabozzi, A., Russo Krauss, I., Parrilli, E., Biggs, C. I., Gibson, M. I., … Corsaro, M. M. (2021). Physicochemical Approach to Understanding the Structure, Conformation, and Activity of Mannan Polysaccharides. Biomacromolecules, 22(4), 1445–1457. doi:10.1021/acs.biomac.0c01659. Chatterjee, S., Mukhopadhyay, S. K., Gauri, S. S., & Dey, S. (2018). Sphingobactan, a new α-mannan exopolysaccharide from Arctic Sphingobacterium sp. IITKGP-BTPF3 capable of biological response modification. International Immunopharmacology, 60, 84–95. doi:10.1016/j.intimp.2018.04.039"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#author52> <biom12060834_perova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#author52> <biom12060834_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_perova.owl#author53> <http://www.w3.org/2000/01/rdf-schema#label> "Your mention of the non-uniform peak intensity confirming the three different sugar units found. This is because the signal intensity of NMR peaks is related to an -H abundance. Different monomer ratios are responsible for this variation and support our findings. Also, the 10 H1/H2 cross peaks observed in the COSY spectra supported our findings of EPS heterogeneity, given the following facts: 1) We found 3 different types of sugars by HPLC. 2) We identified by NMR at least 2 types of linkages α 1-2 Man-Man and alfa 1-4 Man-Man monosaccharides. 3) There are other 2 sugars for which the β-type of linkage was identified but not the exact sugar position. 4) Anomeric protons shifts from units at the reducing end of polysaccharide differs from the one in another position. In conclusion, there are different linkage possibilities (plus already identified) to different monosaccharides in different ring positions. This gives rise to a multiplicity of signals (not fully identified in this work), which could produce different H1/H2 correlations"^^<http://www.w3.org/2001/XMLSchema#string> .

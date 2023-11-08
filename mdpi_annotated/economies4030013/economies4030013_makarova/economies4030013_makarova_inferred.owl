@@ -873,7 +873,7 @@ _:17331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/199
 <economies4030013_makarova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "Appendix Figure A2: The figure presents the chain-linked index of output and input. It is not clear whether the output is measured in real value (at constant price) or nominal value (at current price). Please be more specific."^^<http://www.w3.org/2001/XMLSchema#string> .
 <economies4030013_makarova.owl#reviewer_19> <economies4030013_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <economies4030013_makarova.owl#reviewer_19> <economies4030013_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<economies4030013_makarova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "One specific comment:\nPlease double check the references list as some citations are not included in the references."^^<http://www.w3.org/2001/XMLSchema#string> .
+<economies4030013_makarova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "One specific comment:\nPlease double check the references list as some citations are not included in the references."^^<http://www.w3.org/2001/XMLSchema#string> .
 <economies4030013_makarova.owl#reviewer_110> <economies4030013_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <economies4030013_makarova.owl#reviewer_110> <economies4030013_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <economies4030013_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "One question that it is necessary to correct is the number of figures in the text."^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -943,7 +943,7 @@ _:19281 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/199
 <gels8040212_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your check. It was revised in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author11> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author11> <gels8040212_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your carefully review. The characterization of emulsions was investigated by the droplet size, polydispersity index (PDI) and zeta potential. This expression has been revised in the manuscript.\nPoint 14: Line 500: Define PDI at first use"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your carefully review. The characterization of emulsions was investigated by the droplet size, polydispersity index (PDI) and zeta potential. This expression has been revised in the manuscript.\nPoint 14: Line 500: Define PDI at first use"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author12> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author12> <gels8040212_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your comment. PDI was the polydispersity index and the manuscript has been revised in Line 501."^^<http://www.w3.org/2001/XMLSchema#string> .

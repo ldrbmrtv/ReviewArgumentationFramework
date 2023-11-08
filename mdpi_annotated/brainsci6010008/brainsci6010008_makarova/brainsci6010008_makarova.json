@@ -21,7 +21,7 @@
       "Reviewer_2.1.5": "The findings are novel and may be compared to previous studies of exercise and neuroimaging in fibromyalgia."
     },
     "Author": {
-      "Author.2.1": "These analyses were intended primarily for descriptive purposes. However, we recognize the need to control for multiple comparisons in order to reduce the risk of making Type I errors. Therefore, we created 3 families including 2 correlations each  (one for each of the significant regions) and performed a Bonferroni correction, making the critical alpha level for significance 0.025.\n\nThis has been clarified in the statistical analysis section.",
+      "Author.2.1": "These analyses were intended primarily for descriptive purposes. However, we recognize the need to control for multiple comparisons in order to reduce the risk of making Type I errors. Therefore, we created 3 families including 2 correlations each  (one for each of the significant regions) and performed a Bonferroni correction, making the critical alpha level for significance 0.025.\r\n\r\nThis has been clarified in the statistical analysis section.",
       "Author.2.2": "This change has been made.",
       "Author.2.3": "This correction has been made.",
       "Author.2.4": "We agree that this would add valuable information to the discussion section and have added the paragraph shown below discussing previous work using neuroimaging to understand the effects of exercise on the brain.",
