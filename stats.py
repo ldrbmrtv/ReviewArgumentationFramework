@@ -23,6 +23,7 @@ for i, review in enumerate(os.listdir(path)):
         onto = os.path.join(path, review, annotation, f'{annotation}_inferred.owl')
         if os.path.exists(onto):
             onto = get_ontology(onto).load()
+
             n_classes = len(list(Thing.subclasses()))
             
             n_arg_revs = []
@@ -52,7 +53,7 @@ for i, review in enumerate(os.listdir(path)):
 
             annotations[f'Annotator{j}: Number of argument sets'] = n_classes
             annotations[f'Annotator{j}: Number of author\'s arguments'] = n_arg_author
-            annotations[f'Annotator{j}: Average number of reviewers\' argumnets'] = sum(n_arg_revs)/len(n_arg_revs)
+            annotations[f'Annotator{j}: Average number of reviewers\' arguments'] = sum(n_arg_revs)/len(n_arg_revs)
             annotations[f'Annotator{j}: Average length of argument chains'] = sum(lengths)/len(lengths)
             annotations[f'Annotator{j}: Number of author\'s admissible arguments'] = adm_author
             annotations[f'Annotator{j}: Average number of reviewers\' admissible arguments'] = sum(adm_revs)/len(adm_revs)
@@ -72,22 +73,23 @@ reviews = pd.DataFrame.from_dict(reviews)
 reviews.to_csv('stats.csv')
 
 total = {
-    'Annotator0: Average number of argument sets': round(reviews['Annotator0: Number of argument sets'].mean(), 2),
+    'Annotator0: average number of argument sets': round(reviews['Annotator0: Number of argument sets'].mean(), 2),
     'Annotator0: average number of author\'s arguments': round(reviews['Annotator0: Number of author\'s arguments'].mean(), 2),
-    'Annotator0: average number of reviewers\' argumnets': round(reviews['Annotator0: Average number of reviewers\' argumnets'].mean(), 2),
+    'Annotator0: average number of reviewers\' arguments': round(reviews['Annotator0: Average number of reviewers\' arguments'].mean(), 2),
     'Annotator0: average length of argument chains': round(reviews['Annotator0: Average length of argument chains'].mean(), 2),
     'Annotator0: average number of author\'s admissible arguments': round(reviews['Annotator0: Number of author\'s admissible arguments'].mean(), 2),
     'Annotator0: average number of reviewers\' admissible arguments': round(reviews['Annotator0: Average number of reviewers\' admissible arguments'].mean(), 2),
     'Annotator0: average if author\'s extension preferable': round(reviews['Annotator0: Is author\'s extension preferable'].mean(), 2),
-    'Annotator1: Average number of argument sets': round(reviews['Annotator1: Number of argument sets'].mean(), 2),
+    'Annotator1: average number of argument sets': round(reviews['Annotator1: Number of argument sets'].mean(), 2),
     'Annotator1: average number of author\'s arguments': round(reviews['Annotator1: Number of author\'s arguments'].mean(), 2),
-    'Annotator1: average number of reviewers\' argumnets': round(reviews['Annotator1: Average number of reviewers\' argumnets'].mean(), 2),
+    'Annotator1: average number of reviewers\' arguments': round(reviews['Annotator1: Average number of reviewers\' arguments'].mean(), 2),
     'Annotator1: average length of argument chains': round(reviews['Annotator1: Average length of argument chains'].mean(), 2),
     'Annotator1: average number of author\'s admissible arguments': round(reviews['Annotator1: Number of author\'s admissible arguments'].mean(), 2),
     'Annotator1: average number of reviewers\' admissible arguments': round(reviews['Annotator1: Average number of reviewers\' admissible arguments'].mean(), 2),
     'Annotator1: average if author\'s extension preferable': round(reviews['Annotator1: Is author\'s extension preferable'].mean(), 2),
+    'Correlation in number of argument sets': round(reviews['Annotator0: Number of argument sets'].corr(reviews['Annotator1: Number of argument sets']), 2),
     'Correlation in number of author\'s arguments': round(reviews['Annotator0: Number of author\'s arguments'].corr(reviews['Annotator1: Number of author\'s arguments']), 2),
-    'Correlation in average number of reviewers\' argumnets': round(reviews['Annotator0: Average number of reviewers\' argumnets'].corr(reviews['Annotator1: Average number of reviewers\' argumnets']), 2),
+    'Correlation in average number of reviewers\' arguments': round(reviews['Annotator0: Average number of reviewers\' arguments'].corr(reviews['Annotator1: Average number of reviewers\' arguments']), 2),
     'Correlation in average length of argument chains': round(reviews['Annotator0: Average length of argument chains'].corr(reviews['Annotator1: Average length of argument chains']), 2),
     'Correlation in number of author\'s admissible arguments': round(reviews['Annotator0: Number of author\'s admissible arguments'].corr(reviews['Annotator1: Number of author\'s admissible arguments']), 2),
     'Correlation in average number of reviewers\' admissible arguments': round(reviews['Annotator0: Average number of reviewers\' admissible arguments'].corr(reviews['Annotator1: Average number of reviewers\' admissible arguments']), 2),

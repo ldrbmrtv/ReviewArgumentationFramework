@@ -7,8 +7,7 @@ path = 'mdpi_annotated'
 for review in os.listdir(path):
     print(review)
     for annotation in os.listdir(os.path.join(path, review)):
-        annotator = annotation.split('_')[1]
-        print(annotator)
+        print(annotation)
         file = os.path.join(path, review, annotation, f'{annotation}.csv')
         name = file.split('.')[0]
 
