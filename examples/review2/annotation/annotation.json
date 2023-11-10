@@ -1,0 +1,43 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "Lorem",
+      "Reviewer_1.1.2": "Ipsum"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Dolor"
+    },
+    "Author": {
+      "Author.2.1": "Sit",
+      "Author.2.2": "Amet",
+      "Author.2.3": "\u00d1onsectetur",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.1"
+    ]
+  ]
+}

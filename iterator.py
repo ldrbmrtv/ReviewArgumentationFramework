@@ -3,7 +3,7 @@ from parser import csv2json
 from generate_onto import json2owl
 
 
-path = 'mdpi_annotated'
+path = 'examples'
 for review in os.listdir(path):
     print(review)
     for annotation in os.listdir(os.path.join(path, review)):

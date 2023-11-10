@@ -1,0 +1,1381 @@
+Prefix: : <http://www.semanticweb.org/owl/owlapi/turtle#>
+Prefix: owl: <http://www.w3.org/2002/07/owl#>
+Prefix: rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+Prefix: rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+Prefix: xml: <http://www.w3.org/XML/1998/namespace>
+Prefix: xsd: <http://www.w3.org/2001/XMLSchema#>
+
+
+
+Ontology: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl>
+
+
+AnnotationProperty: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number>
+
+    
+AnnotationProperty: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round>
+
+    
+AnnotationProperty: rdfs:label
+
+    
+Datatype: xsd:string
+
+    
+ObjectProperty: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>
+
+    InverseOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy>
+    
+    
+ObjectProperty: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy>
+
+    InverseOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>
+
+    SubClassOf: 
+        owl:Thing
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorConflictFree>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> some <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorConflictFree>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorConflictFree>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorConflictFree>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only 
+            (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>
+
+    SubClassOf: 
+        owl:Thing
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1Admissible>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> some <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only 
+            (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2>
+
+    SubClassOf: 
+        owl:Thing
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2Admissible>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> some <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only 
+            (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>
+
+    SubClassOf: 
+        owl:Thing
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3Admissible>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> some <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only 
+            (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>
+
+    SubClassOf: 
+        owl:Thing
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4Admissible>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4ConflictFree>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> some <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4ConflictFree>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4ConflictFree>
+    
+    
+Class: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4ConflictFree>
+
+    EquivalentTo: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>
+         and (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only 
+            (<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2> or <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>))
+    
+    SubClassOf: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>
+    
+    
+Class: owl:Nothing
+
+    
+Class: owl:Thing
+
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author10>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "10"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Corrected."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_110>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_110>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author11>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "11"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "I agree with your points about the over-emphasis on principle-agent types of governance arrangements. The Cornforth (2004) article reoriented my thinking (thank you). I recognized that it was not 'P-A' I was critiquing, but the unitarist tradition. That approach helped with definitional rigor."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_21>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_21>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author12>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "12"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "I believe the recalibration of the core critique from 'P-A' to unitarism addresses the commentary, here."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_22>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_22>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author13>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "13"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "A further recalibration. I adusted the commentary to address 'pluralistic' governance as opposed to stakeholder governance."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_23>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_23>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author14>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "14"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "I editted the paper for consistenct, in line with your commentary."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_24>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_24>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author15>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "15"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "The definition used is from the official representative body, the International Co-operative Alliance."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_24>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_24>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author16>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "16"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Acknowledged. First, the paper is no longer listed as a case study, but as a discussion piece. Second, I note in the paper that I am not making the claim that the co-operative model is part of the third sector."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_24>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_24>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author17>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "17"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Acknowledged. The 'Literature Review' section now falls under a more accurate heading of 'Introducing the Ostrom Design Principles.'"^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_25>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_25>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author18>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "18"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "I believe that this then addresses the issues that fall in line with your critiques about the theoretical foundation."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_25>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_25>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author19>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "19"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "As per your suggestions, I did focus on the co-operative model."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_26>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_26>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author1>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "1"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Agree that it should not be an issue. Therefore, I recalibrated the piece to note that co-operatives are not third sector organizations, but instead have similar features that could allow the institutional analyst fertile ground for innovations in governance."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_11>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_11>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author20>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "20"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Very helpful! Thank you!"^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_26>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_26>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author21>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "21"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Note that the paper no longer claims this to be a case study, and instead positions itself as a discussion paper, performing a secondary archival analysis of media accounts."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_26>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_26>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author22>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "22"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Agreed."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_31>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_31>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author23>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "23"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "I agree with your critique. I have adjusted accordingly. I did this by separating the co-operative model from the third sector, and instead noted that there exists commonalities which allows for comparative learning and innovations in governance."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_32>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_32>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author24>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "24"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Note that throughout the document I incorporate Coule's unitary-pluralist dimensions."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_33>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_33>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author25>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "25"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Agreed and accounted for."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_34>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_34>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author26>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "26"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Agreed. I misrepresented the analysis. It is not a case study, but instead an cursory archival analysis and exploration, utilizing secondary sources."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_35>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_35>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author27>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "27"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Agreed. The Analysis, Discussiom, and Conclusion sections are more fleshed out."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_36>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_36>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author28>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "28"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Agreed, and accounted for."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_37>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_37>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author29>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "29"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "I hope that the revisions in the abstract an introduction better clarify the purpose."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_41>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_41>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author2>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "2"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "I agree that this is not a case study; I made the mistake in haste. I have therefore changed the paper from a case study to a discussion paper. Additionally, I note in the paper that I perform an archival analysis of media accounts in an effort to demonstrate how the utilization of the ODPs for analysizing secondary data may better position the analyst to perform rigorous, interogative fieldwork."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_12>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_12>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author30>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "30"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Agreed. I accounted for this throughout the document. Terminology is used in a definitionally consistent manner."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_42>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_42>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author31>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "31"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Note that I adjusted the paper, and recalibrated it from a case study, to a discussion paper that utilizes an archival analysis of secondary sources. I do this in order to demonstrate how the Ostrom Design Principles may be used by the researcher to better contextualize the subject being studied so they may enter the field prepared to deeply interrogate."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_43>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_43>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author32>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "32"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Noted and accounted for throughout the document."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_44>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_44>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author33>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "33"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Acknowledged. I cleaned and honed the Introduction, and added a more robust Conclusion."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_45>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_45>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author34>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "1"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "4"^^xsd:string,
+        rdfs:label "I have changed the headings for these sections to better reflect the content."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_111>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_111>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author35>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "2"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "4"^^xsd:string,
+        rdfs:label "This is general knowledge, thereby not necessitating a reference. If the reviewers disagree, I would add a reference."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_111>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_111>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author36>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "3"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "4"^^xsd:string,
+        rdfs:label "I have added commentary about moral hazard and information asymetries."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_111>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_111>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author37>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "4"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "4"^^xsd:string,
+        rdfs:label "Agreed. I have added additional elaboration."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_112>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_112>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author38>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "5"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "4"^^xsd:string,
+        rdfs:label "Commentary added, nothing the need for additiona interogation."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_113>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_113>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author39>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "6"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "4"^^xsd:string,
+        rdfs:label "Commentary added for further clarity."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_113>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_113>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author3>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "3"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "I agree that this is not a case study; I made the mistake in haste. I have therefore changed the paper from a case study to a discussion paper. Additionally, I note in the paper that I perform an archival analysis of media accounts in an effort to demonstrate how the utilization of the ODPs for analysizing secondary data may better position the analyst to perform rigorous, interogative fieldwork."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_13>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_13>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "0"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "0"^^xsd:string,
+        rdfs:label "Paper"^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only owl:Nothing,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_11> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_110> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_111> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_112> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_113> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_12> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_13> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_14> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_15> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_16> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_17> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_18> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_19> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_21> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_22> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_23> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_24> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_25> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_26> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_31> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_32> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_33> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_34> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_35> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_36> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_37> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_41> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_42> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_43> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_44> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_45>})
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author4>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "4"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "See the DISCUSSION and CONCLUSION sections, where I have added additional analyses."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_14>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_14>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author5>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "5"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Corrected."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_15>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_15>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author6>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "6"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Corrected and accounted for."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_16>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_16>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author7>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "7"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "I do not believe this is a necessary reference as I cite the International Co-operative Alliance principles, and the Rochdale Principles are somewhat commonly understood."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_17>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_17>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author8>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "8"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Accounted for."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_18>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_18>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author9>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "9"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "2"^^xsd:string,
+        rdfs:label "Addressed in the text."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Author>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#AuthorAdmissible>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_19>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only owl:Nothing
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_19>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_110>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "10"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "Are references 27 and 33 used in the text? (could not find them)"^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author10>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_111>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "1"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "3"^^xsd:string,
+        rdfs:label "The literature part is improved by changing the headline, putting it in the right setting. The change illustrates how headlines can change the apperance of the text contents. However, I cannot see how chapter 2.2. is a sub-theme under the Ostrom Principles? If they are - the connection need explainnig. If they are not, the main headling Chapter 2 should be reformulated again. I still miss a source reference at the bottom of page 9 (Rochdale Society). On top of page 11 there is still no examples of adversarial effects removed by co-operative."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author34> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author35> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author36>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_112>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "2"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "3"^^xsd:string,
+        rdfs:label "The comments added in the beginning of Chapter 3 on methodology are important and improves the text a lot. The author openly acknowledges that the basis for a complete picture is lacking. I do not expect the complete picture, but should have comments on limitations and to what degree the conclusions and learnings are possible to generalize."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author37>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_113>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "3"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "3"^^xsd:string,
+        rdfs:label "Conclusion: middle of page 16: 'we cannot know the motivations behind..' Have you tried to talk to them? I believe it is possible to get to know. Low on page 16: 'The ownership becomes absentee, ...' This is in the case of co-operative?"^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author38> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author39>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_11>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "1"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The third sector, its definition and description is missing. I would not have thought of this as a major issue unless Evers and Laville (2004) The third sector in Europe, Edward Elgar, spesifically discuss whether cooperations are defined within or outside the third sector. Maybe taken for granted here? The least we should expect is a definition."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author1>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_12>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "2"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The case description and analysis is based only on media accounts - no actual first hand information to inform the analysis. I find this less than satisfying. It should be possible to interview a few key individuals about the case to make sure the medis picture is corrected where this is needed. Media does not always get it right. There is not enough evidence to prove anything about CEC."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author2>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_13>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "3"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "These issues, and the second one in particular, points towards unclear research methodology. Your choices may be OK in given circumstances, but how do you argue for these choices here? This is unclear in the paper - a methodology chapter/discussion is needed."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author3>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_14>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "4"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "I also have problems with the depth of the discussion, and I feel the conclusion does not match the promises of the abstract."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author4>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_15>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "5"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "Wrong reference number on page 4, line 14: should be 15."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author5>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_16>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "6"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "Figure 1 text overwrite part of the figure, and there should be comments on how this is different from a general structure for a private sector company (if you look at stakeholders as shareholders)."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author6>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_17>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "7"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "Bottom of page 9: Missing reference to Co-operative principles by Rochdale Society."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author7>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_18>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "8"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "USA context concerning cooperatives (upper half page 10) should be highlighted even more for readers to be able to compare to their own context (for instance in Europe)."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author8>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_19>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "9"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The cooperative firm removes adversarial aspects of market contracting (page 11) - what adversarial aspects?."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_1ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author9>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_21>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "1"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The abstract of the manuscript mentions that dominant modes of third sector organizational governance adhere to a narrow principal-agent orientation. Similarly, in the introduction, it is stated that governance research on third sector organizations predominantly fixates analysts on the board-management dynamic. I do not agree with the author for several reasons. First, the principal-agent approach is only one of theoretical perspectives used to analyze nonprofit governance (Cornforth, 2004; Renz and Andersson, 2014). Second, the board-manager relationship is only a small part of the research on nonprofit boards, which in turn is the major focus of nonprofit governance research (Cornforth, 2012; Renz and Andersson, 2014). Furthermore, there is no discussion of principal-agent literature in a third sector context (see, for example, Jegers, 2009), which is quite surprising since the proposition to go beyond the traditional principal-agent literature is one of the main ideas of the manuscript."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author11>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_22>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "2"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "In the abstract, the author also states that the over-reliance on the principal-agent model introduces two challenges. However, a solid foundation for this argument is missing. The disadvantages of a too narrow principal-agent approach have been acknowledged in previous studies (Miller, 2002). Furthermore, attempts have already been made to broaden the principal-agent approach in nonprofit organizations (Ben-Ner et al., 2012; Van Puyvelde et al., 2012, Coule, 2015), leading me to the question what this manuscript actually adds to the literature."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author12>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_23>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "3"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "In the introduction, the author also mentions underdeveloped modes of stakeholder governance in the third sector. I do not agree with this view. Several stakeholder governance frameworks for third sector organizations have already been developed in the literature (Young, 2011; Van Puyvelde et al., 2012; Wellens and Jegers, 2014)."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author13>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_24>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "4"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The author uses “stakeholder-controlled firm”, “third sector organizations”, “nonprofit organizations”, “social enterprise”, and “co-operative” without clearly defining these types and mentioning which nonprofit type is actually the focus of the study. I am also not convinced by the definition of co-operatives mentioned in the paper. Furthermore, given that the world of third sector organizations is very rich and heterogeneous, one should be careful by discussing third sector organizations in general, especially since the case study seems to focus on co-operative enterprises. Instead of being vague and using a mixed terminology, the manuscript should clearly distinguish which nonprofit type is the subject of the paper, and be very careful in generalizing the findings of this study to third sector governance, which mistakenly happens in the conclusion (p. 15). Given the case study, I would focus on the governance of co-operatives (Cornforth, 2004)"^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author14> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author15> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author16>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_25>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "5"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The literature review is completely missing. The author only focuses on the application of Ostrom design principles to nonprofit governance, thereby neglecting the solid theoretical foundation that is absolutely necessary to build a more extensive governance framework for third sector organizations. Cornforth (2004) has already analyzed the governance of co-operatives from multiple theoretical perspectives. In addition, the developed model (Figure 1) is not new. It is very similar to the nonprofit governance model of Van Puyvelde et al. (2012) and the idea that is necessary to capture the broader stakeholder environment in a democratic way is also not new (Coule, 2015)."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author17> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author18>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_26>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "6"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "Given the aforementioned comments, I would advise the author to revise the paper by focusing on the governance of nonprofit associations / co-operatives. I believe that Cornforth’s paper (2004) might be a good starting point. In addition, a more extensive literature review and comparison with previous principal-agent literature and stakeholder governance models (especially Van Puyvelde et al., 2012 and Coule, 2015) may give the manuscript a more solid theoretical foundation. As such, applying the idea of the Ostrom design principles to nonprofit governance and illustrating this with a case study may more clearly show the contribution of the manuscript to the current literature."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_2ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author19> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author20> , <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author21>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_31>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "1"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The writing is good, there is a sound development of the theory, and some well drawn conclusions. However, there are subtleties in the literature that need considering, and also the methodology (which is extremely weak)."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author22>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_32>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "2"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "LITERATURE The characterisation of third sector governance is too crude. For example, the third sector itself can be seen as diverse with philanthropic, mutual, cooperative and association sub-sectors. The comments at the start of the literature review might apply to foundations and charities, but are less true of association and mutuals (let alone cooperatives). Also, where there are accounting regulations (like SORP), there are mechanism that keep associations and charities accountable to their donors"^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author23>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_33>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "3"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "Given the inclusion of Coule's paper, I would have already expected more sensitivity to divisions unitary and pluralist theories of governance but by reviting this (and reading Turnbull's Cornforth's and Ridley-Duff's precursor to Coule's work), this should be adequately addressed."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author24>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_34>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "4"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "Secondly, I just can't agree that third sector governance is derived from for-profit principles. It is - mostly - derived from philanthropic principles (or mutual principles inside the social economy). There is, however, some common practices, but not for the reasons described. Just as the wealthy entrepreneur seeks to control the private enterprise through shareholdings, so the wealthy philanthropist seeks to control the non-profit enterprise through trust law. In both cases, Principle-Agent assumptions apply, but not because both are based on for-profit assumptions. These apply in both cases because funding is sought from wealthy providers with the power to frame laws that require their investees to use the money for the purposes stimpulated by them. Associations, mutuals and cooperatives, however, are not dependent on the patronage of the rich, but the patronage of the many, and their mass member legal R9 structures and accountability mechanisms reflect this. In the social economy (associations, mutuals and cooperatives) the legal structures and accountabilities are different (and are captured well in the paper)."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author25>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_35>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "5"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "METHODOLOGY This is weak, perhaps too weak for an academic paper. Certainly, some description of the process by which the case study was developed (sources used, data collection techniquies, analysis techniques) are needed to be publishable. The use of media sources, while not ideal, might be adequate if the author(s) can show systematic and comprehensive collection of them. However, the credibility of the paper and findings would be enormously enhanced is some primary interview data could be collected and presented. Is there a way to interview members who participated in action (or access sources written by them)?"^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author26>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_36>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "6"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "ANALYSIS The framework for this section exists but feels a bit superficial and under-developed. I think it needs linking back to the findings more clearly and to be elaborated and slightly more length (cut some literature if needed to stay within the word length limits)."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author27>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_37>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "7"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "THEORISATION Lastly, the discussion and conclusions need to stick to contributions to theory / research practice and refrain from commenting on wider issues without adequate justification. Stick to commenting on the usefulness and value of ODPs, and draw out any theoretical contributions regarding the design principles themselves, or their value as a theoretical perspective for governance research. Some well grounded comments on their use in other governance research are merited right at the end."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_3ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author28>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_41>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "1"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "I do not understand the purpose of the paper."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author29>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_42>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "2"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The author is mixing up several concepts and ignore the abundant literature on governance in nonprofits not dealing with the agency theory."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author30>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_43>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "3"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The style is more journalistic and free opinion than rigourous research."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author31>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_44>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "4"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "Public enterprises, third sector cooperatives are all mixedup."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author32>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    
+Individual: <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#reviewer_45>
+
+    Annotations: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#number> "5"^^xsd:string,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#round> "1"^^xsd:string,
+        rdfs:label "The conceptual framework is not clearly presented and I do not see what are the contributions except some free statements at the end not really related to the analysis."^^xsd:string
+    
+    Types: 
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#Reviewer_4ConflictFree>,
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>}),
+        <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#isAttackedBy> only ({<file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author33>})
+    
+    Facts:  
+     <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#attacks>  <file:/C:/Users/baimu/Work/Argumentation/GraphReview/example/review/annotation/annotation.owl#author40>
+    
+    

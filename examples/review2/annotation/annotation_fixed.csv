@@ -1,0 +1,7 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;Lorem
+Reviewer_1;Author;1;2;0;Ipsum
+Reviewer_2;Author;1;1;0;Dolor
+Author;Reviewer_1;2;1;1;Sit
+Author;Reviewer_1;2;2;2;Amet
+Author;Reviewer_2;2;3;1;Ñonsectetur
