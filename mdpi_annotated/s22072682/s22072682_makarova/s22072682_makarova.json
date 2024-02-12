@@ -1,0 +1,113 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "Please add a table with patients' baseline characteristics, including BMI and smoking status.",
+      "Reviewer_1.1.2": "Did authors estimate sample size? Please add in data analysis section",
+      "Reviewer_1.1.3": "Please add ethics protocol approval number",
+      "Reviewer_1.1.4": "I found some minor English errors throughout the paper. Please have a re-check."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "The paper's aim should be the same in the abstract and the introduction",
+      "Reviewer_2.1.2": "I suggest presenting the paper's aim as the last idea in the introduction to make the manuscript easier to read.",
+      "Reviewer_2.1.3": "Given the poor quality of the images (Fig 1 and 2), it might be better to redraw them and describe them as an adaptation of the original publication.",
+      "Reviewer_2.1.4": "The methods do not specify how the baseline load of the participants was determined.",
+      "Reviewer_2.1.5": "In figure 3, the indication of the test time appears in the reverse direction. Time \"0\" should be at the start.",
+      "Reviewer_2.1.6": "I recommend deleting graphs 5, 8, and 11 because graphs 7, 10, and 13 show the same information together with lines obtained by analyzing the structural change of the time series."
+    },
+    "Author": {
+      "Author.2.1": "I added a table listing the baseline characteristics, including BMI and smoking status, of subjects.",
+      "Author.2.2": "Since this study focuses on AT search, detailed estimation of sample size is not performed. I added in data analysis section.",
+      "Author.2.3": "Project identification code is H29-4. I added in 2.1.subjects and 6.patents.",
+      "Author.2.4": "My manuscript is checked by an English proofreader. \nI will attach an English proofreading certificate.",
+      "Author.2.5": "I described the paper's aim.",
+      "Author.2.6": "I described the paper's aim.",
+      "Author.2.7": "I redrew Figures 1 and 2 and described them as an adaptation of the original publication.",
+      "Author.2.8": "I described baseline load of the participants in 2.2. Experimental Protocol and Setup.",
+      "Author.2.9": "I revised Figure 3.",
+      "Author.2.10": "I deleted graphs 5, 8, and 11.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.6"
+    ]
+  ]
+}

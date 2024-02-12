@@ -1,0 +1,218 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "It is an interesting topic, however, the presentation seems not to be clear. \nIt would be better to have a short but clear description about what \"bending elasticity modulus\" is and \nits relevance to biological functions.",
+      "Reviewer_1.1.2": "The theory section could be in the Method section with both principle and procedures to get kc values.",
+      "Reviewer_1.1.3": "However, not all results seem to be presented. For example, it is not clear what kind of images were \nrecorded, which were used to calculate the kc values, what the sizes/shapes of the fluctuating vesicles \nlooked like. How these observations would be different or similar to other types of vesicles.",
+      "Reviewer_1.1.4": "It is also not clear about the \u201cthermally induced shape fluctuations\u201d, such as the temperatures and \nincubation length and etc., especially this is a hyperthermophilic archaeal membrane vesicle, which \nwould be expected to be more thermostable than those eukaryotic ones.",
+      "Reviewer_1.1.5": "It would also be helpful to clarify/expand the description about the drug delivery system using the \narchaeal vesicle.",
+      "Reviewer_1.1.6": "The first sentence in the introduction section should be corrected as cell should not be considered to \nbe \u201cthe building block of life\u201d. It\u2019s better to re-write the \u201cbasic motivation\u201d for the study.",
+      "Reviewer_1.1.7": "There are two reference lists, one for 1\u201331 and another from 1\u201334. There are repeated ones. It\u2019s not \nclear why the case was.",
+      "Reviewer_1.3.1": "It is also not clear about the \u201cthermally induced shape fluctuations\u201d, such as the temperatures and \nincubation length and etc., especially this is a hyperthermophilic archaeal membrane vesicle, which \nwould be expected to be more thermostable than those eukaryotic ones.",
+      "Reviewer_1.3.2": "However, the comment of the \nreviewer is notable and we state in the conclusion of the manuscript (Lines 229\u2013232) that at room \ntemperature the thermophilicity is not necessarily related to the bending elasticity.",
+      "Reviewer_1.3.3": "If only measured at one temperature, how would it be possible to draw a conclusion with \u201cthermally \ninduced shape fluctuations\u201d?",
+      "Reviewer_1.3.4": "Is it possible to do the measurement at elevated temperatures?",
+      "Reviewer_1.3.5": "Would kc be temperature dependent? If yes, what would be the valid range?",
+      "Reviewer_1.3.6": "The photo added merely shows the shape, but is it possible to show a few time related changes of the \nshape at different temperatures?",
+      "Reviewer_1.3.7": "The numbering from Lines 306\u2013307 may not be correct as there are two 2.2."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "In addition, the number of tables and figures are too low for article. If could, the author should \nadd other experimental data.",
+      "Reviewer_2.1.2": "In Page 1, Lines 27\u201328, the author described \u201cthe experimental set-up was improved \u2026\u201d. However, \nthe authors have already reported the measurements of bending elasticity using stroboscopic \nillumination in author\u2019s previous papers (such as Genova et al., J. Optoelectro. Adv. Mat., 2005). \nDescribe how the experimental set-up was improved in this paper more precisely.",
+      "Reviewer_2.1.3": "As a comparison of archaeal lipids, SOPC was used in this study. SOPC contains an unsaturated bond \nin its alkyl chains and its transition temperature seems to be quite low compared with archaeal lipids. \nWhat is the reason why the authors selected the SOPC for the representative of eukaryotic lipids?",
+      "Reviewer_2.1.4": "In page 4, between line 108 and 109, this equation should be numbered as (6).",
+      "Reviewer_2.1.5": "Describe the temperature condition for measurement of fluctuation of GVs. Are there any effects of \ntemperature on the fluctuation of GVs?",
+      "Reviewer_2.1.6": "In this paper, bending elasticity modulus was measured in pure water. Are there any effects of ionic \nstrength or composition of solution on the fluctuation of GVs?",
+      "Reviewer_2.3.1": "The manuscript was thoroughly revised according to reviewer\u2019s suggestions and comments. Now this \nrevised manuscript can be acceptable for publication."
+    },
+    "Author": {
+      "Author.2.1": "Bending modulus is a material constant which does not depend on the size and shape of the \nobject, but on the composition of the vesicle membrane and aqueous solution used (Lines 121\u2013123 in the \nnew version). We have inserted a definition of the membrane bending modulus (Lines 115\u2013116) while \nthe text regarding this issue extends between Lines 112\u2013128.",
+      "Author.2.2": "As the referee suggested The Theory and Experimental section were organized into the \nSection \u201cMaterials and Methods\u201d. Other sections were renumbered accordingly.",
+      "Author.2.3": "As it was explained in the text our experimental method is developed for application to almost \nspherical vesicles. Vesicles with diameters between 20 and 40 micrometers were considered, whose \ndeviations from spherical shape (fluctuation of the radius) were small in comparison with the mean \nsphere radius. We added the information concerning the shape and the size of the studied objects and \nadded pictures of the equatorial cross section of a fluctuating vesicle (new Figure 3), as seen under the \nphase contrast microscope.",
+      "Author.2.4": "The observed fluctuations of the membrane do not destabilize it. However, the comment of the \nreviewer is notable and we state in the conclusion of the manuscript (Lines 229\u2013232) that at room \ntemperature the thermophilicity is not necessarily related to the bending elasticity.",
+      "Author.2.5": "We have rewritten the introductory paragraph (Lines 46\u201360).",
+      "Author.2.6": "Thank you for the comment, there was a mistake. We have tidied and updated the references.",
+      "Author.2.7": "As the referee suggested, we have added data for the bending elasticity modulus of another \nlipid type\u2014POPC lipid membrane. Also, we have added a new figure (Figure 3).",
+      "Author.2.8": "A number of improvements of the experimental procedure for the thermally induced shape \nfluctuation method were used in this study: the stroboscopic illumination was improved on several steps \nto achieve a better experimental conditions; a thermostatic stage was used to set and control a constant \ntemperature, the analysing procedure was improved by adding strict objective criteria for qualification \nof the vesicle as a whole as well as for acceptance or rejection of a given contour of the sequence of \nrecorded images and the white noise contribution to the amplitudes of thermal shape fluctuations was evaluated and taken into account. We have given short description of the improvements made and for \neach of them cited the corresponding articles for detailed explanation. (Lines 181\u2013184; 187\u2013193).",
+      "Author.2.9": "SOPC was chosen as both lipid types have transition temperature far below the temperature \nat experiments. In the revised version, we measured the bending modulus for another lipid type (POPC), \nmeasured and analysed by the same method for the same experimental conditions.",
+      "Author.2.10": "We have corrected the wrong number.",
+      "Author.2.11": "The aim of the present study was to obtain the bending elasticity modulus of the archaeal \nmembrane at fixed temperature (27 degrees C) far above the phase transition temperature. We have not \nmeasured the temperature dependence of the bending constant.",
+      "Author.2.12": "In this work we present the bending elasticity modulus of archaeal lipid membrane in pure \nwater environment. We added the details concerning the water purification (Lines 173\u2013175). \nIn other works the influence of different admixtures in the aqueous solution around the membrane was \nstudied and the values depending on the type and the concentration of it for given lipid were reported. \nAs the referee suggested we added such information with the corresponding references in the \nintroduction section (Lines 57\u201360).",
+      "Author.4.1": "We thank the reviewer for further comments and hope that we can clarify the issues as given \nbelow. We have made changes in the manuscript (marked red) and added one new reference (ref. [35]).",
+      "Author.4.2": "We thank the reviewer for further comments and hope that we can clarify the issues as given \nbelow. We have made changes in the manuscript (marked red) and added one new reference (ref. [35]).",
+      "Author.4.3": "In principal in order to obtain elastic constants you need to apply force and measure the \ndeformation that this force causes. If we want to obtain the bending elasticity of lipid vesicle we need a \nforce with a very small power. In the case of thermally induced shape fluctuations as a force we use the \nBrownian (thermal) motion of water molecules, bombarding the membrane. This force is stochastic (we \ndo not know its instant value), but the mean value of it is proportional to the temperature. As a result of \nthis stochastic bombardment the lipid vesicle deforms (changes its shape or fluctuates). We acquire a \nbig amount of pictures of fluctuating vesicle in order to get the mean value of the deformation that our \nforce causes. To extract mean we need to have stationary conditions over the time, so the mean is taken, \nthat is why it is really important to have constant temperature throughout the experiment.",
+      "Author.4.4": "Using our experimental system we can measure bending elasticity also at higher \ntemperatures (up to approximately 40 degrees C).",
+      "Author.4.5": "The bending elasticity modulus depends on the temperature below and near the phase \ntransition temperature, but far above the phase transition temperature (this is the case in our experiment) \nthe bending elasticity modulus is practically constant. See: Temperature and Chain Length Effects on \nBending Elasticity of Phosphatidylcholine Bilayers. Fernandez-Puente, I. Bivas, M. D. Mitov and P. \nMeleard, Europhys. Lett., 28, 181 (1994). We have added this text to the Discussion (Lines 234\u2013237) \nand also added the reference to the reference list (ref. [35]).",
+      "Author.4.6": "It is not a problem for us to make pictures of a fluctuating vesicle at different temperatures, \nbut these photos would not be related to the manuscript.",
+      "Author.4.7": "We thank the referee for pointing to negligent mistakes in numbering. We have corrected \nwrong numbering of subsections.",
+      "Author.4.8": "As I understand the referee had no further comments.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.1",
+      "Reviewer_1.3.1"
+    ],
+    [
+      "Author.4.2",
+      "Reviewer_1.3.2"
+    ],
+    [
+      "Author.4.3",
+      "Reviewer_1.3.3"
+    ],
+    [
+      "Author.4.4",
+      "Reviewer_1.3.4"
+    ],
+    [
+      "Author.4.5",
+      "Reviewer_1.3.5"
+    ],
+    [
+      "Author.4.6",
+      "Reviewer_1.3.6"
+    ],
+    [
+      "Author.4.7",
+      "Reviewer_1.3.7"
+    ],
+    [
+      "Author.4.8",
+      "Reviewer_2.3.1"
+    ]
+  ]
+}

@@ -1,0 +1,91 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;although the agency theory and practical function of remuneration committees were described in the manuscript, few efforts were made to give the main theoretical mechanism/logic. Especially since “there does not appear to be any literature focused on examining the association between the constitution of remuneration committees and the reporting of CSR information”, the authors should provide the theoretical link to propose the hypotheses.
+Reviewer_1;Author;1;2;0;the dummy of CSR_index is too simple and cannot address the complexity of CSR strategy and CSR disclosure. And so is the independent variable. Many other important control variables should be introduced to the regression, such as, financial performance, the firm size, the firm age, the industry-fixed effects, the country-fixed effects. The results may not be robust without these controls.
+Reviewer_1;Author;1;3;0;the figure 1 can be re-designed to conform the academic norms.
+Reviewer_2;Author;1;1;0;The article is methodologically OK and well written. However, in general, we see many articles like this in the area of social and environmental reporting. Also, the application of agency theory is so common that reading it over and again in the new studies also makes the readers bored these days. Now it is important that the new researchers try to take the research on this area to a new and interesting level. However, I accept this article only for the moderating variable the authors have tested.
+Reviewer_3;Author;1;1;0;"The paper studies the relationship between remuneration committees and CSR as well as the moderating role of independent directors. While the paper seems interesting I have several concerns that I would like to share with the authors:
+ The introduction lacks of motivation. The reader needs to understand why your research question is important"
+Reviewer_3;Author;1;2;0;The theoretical background is weak. I am not convinced on your explanation on why committees would affect CSR
+Reviewer_3;Author;1;3;0;Your empirical model needs to be reconsidered. Indeed, I believe you have some omitted control variables which may cause an endogeneity issue and drive your findings
+Reviewer_3;Author;1;4;0;The paper lacks of robustness checks
+Reviewer_3;Author;1;5;0;The conclusion needs to be rewritten to highlight the practical contributions of the paper
+Author;Reviewer_1;2;1;1;"Thank you very much for your words. In our modest opinion, the originality of the paper is: (i) analyse of the association between remuneration committees and CSR disclosure; (ii) examine the moderating effect of independent board in the association between the remuneration committees and the disclosure of CSR information. We have not found previous research focused on these both topics. We have improved the section to clarify the need to extend this line of research"
+Author;Reviewer_1;2;2;2;"Thank you for your suggestion. From a theoretical point of view, we find various references that explain how CSR index is calculated as the ratio between the aggregation of 140 items focused on environmental, social and economic issues and the total number of items analyzed, which codes as 1 if the firm disclose the CSR information related each item, and 0.
+ - Gallego‐Álvarez, I., & Pucheta‐Martínez, M. C. Corporate social responsibility reporting and corporate governance mechanisms: An international outlook from emerging countries. Business Strategy & Development 2020, 3(1), 77–97.
+ - Pucheta-Martínez, M. C., & Gallego-Álvarez, I. (2021). The Role of CEO Power on CSR Reporting: The Moderating Effect of Linking CEO Compensation to Shareholder Return. Sustainability, 13(6), 3197.
+ Moreover, we include a Table 1 to justify the items used in the Corporate social responsibility disclosure.
+ Additionally, we have also introduced in the control variable paragraph more information to provide justifications on why those control variables are considered in this study. We had the firm size variable labelled as LTA which is calculated as logarithm of total assets. In this sense, we have used the control variables in line with previous research to avoid biased results. We have introduced the following references:
+ - Ali, W., Frynas, J., & Mahmood, Z. (2017). Determinants of corporate social responsibility (CSR) disclosure in developed and developing countries: A literature review. Corporate Social Responsibility and Environmental Management,24, 273–294
+ 
+ - Barako, D., & Brown, A. (2008). Corporate social reporting and board rep-resentation: Evidence from the Kenyan banking sector. Journal of Management and Governance,12, 309–324
+ 
+ - Brammer, S., Millington, A., & Pavelin, S. (2007). Gender and ethnic diversity among UK corporate boards. Corporate Governance: An International Review,15(2), 393–403
+ 
+ - Chau, G., & Gray, S. (2010). Family ownership, board independence and voluntary disclosure: Evidence from Hong Kong. Journal of International Accounting, Auditing and Taxation,19(2), 93–109
+ 
+ - Donnelly, R., & Mulcahy, M. (2008). Board structure, ownership, and voluntary disclosure in Ireland. Corporate Governance: An International Review,16(5), 416–429
+ 
+ - Jizi, M., Salama, A., Dixon, R., & Stratling, R. (2014). Corporate governance and corporate social responsibility disclosure: Evidence from the US banking sector. Journal of Business Ethics,125(4), 601–615
+ 
+ - Haniffa, R., & Cooke, T. (2005). The impact of culture and governance on corporate social reporting. Journal of Accounting and Public Policy,2 4(5), 391–430
+ 
+ - Liao, L., Luo, L., & Tang, Q. (2015). Gender diversity, board independence, environmental committee, and greenhouse gas disclosure. The British Accounting Review, 47, 409–424
+ 
+ - Reverte, C. (2009). Determinants of corporate social responsibility disclosure ratings by Spanish listed firms. Journal of Business Ethics,8 8,351–366"
+Author;Reviewer_1;2;3;3;Thanks for your suggestion. I have improved the figure in line with academic norms
+Author;Reviewer_2;2;4;1;"Thank you very much for your words. In our modest opinion, the originality of the paper is the analysis of the moderating role played by the proportion of independent directors on boards of directors with the relationship between the constitution of remuneration committees and CSR disclosure. 
+ 
+ -We have not found previous research focused on this topic using independent directors as moderator variable. We have improved the introduction by adding a paragraph that better motivates the work. Furthermore, we have included these other references to improve the introduction of the work:
+ - Code, U. G. G. (2006). Unified Good Governance Code of Listed Companies. Comisión Nacional del Mercado de Valores. Spain.
+ - Conyon, M. J., & Peck, S. I. (1998). Board control, remuneration committees, and top management compensation. Academy of management journal, 41(2), 146-157.
+ - Good Governance Code of Listed Companies (2020). Comisión Nacional del Mercado de Valores. Spain.
+ - Fama, E.F., & Jensen, M.C. (1983). Separation of ownership and control. Journal of Law and Economics, 24, 301–325.
+ - Harrison, J. R. (1987). The strategic use of corporate board committees. California Management Review, 30(1), 109-125.
+ 
+ - Khan, A., Muttakin, M. B., & Siddiqui, J. (2013). Corporate governance and corporate social responsibility disclosures: Evidence from an emerging economy. Journal of business ethics, 114(2), 207-223.
+ - Tao, N. B., & Hutchinson, M. (2013). Corporate governance and risk management: The role of risk management and compensation committees. Journal of Contemporary Accounting and Economics, 9(1), 83-99.
+ - Williamson, O. E. (1983). Credible commitments: Using hostages to support exchange. The American Economic Review, 73(4), 519–540.
+ - Zaid, M. A., Abuhijleh, S. T., & Pucheta‐Martínez, M. C. (2020). Ownership structure, stakeholder engagement, and corporate social responsibility policies: The moderating effect of board independence. Corporate Social Responsibility and Environmental Management, 27(3), 1344-1360.
+ 
+ 
+ -We have justified the need to extend the literature focused on the compensation committees and the disclosure of CSR information due to the scarce existence of previous literature in recent years."
+Author;Reviewer_3;2;5;1;"Authors:
+ Thank you very much for this suggestion since, indeed, the introduction was presented with scant motivation. We have corrected this issue and we have included a new paragraph based on remuneration committee and which explains the importance of including this committee for companies. Furthermore, we have included these other references to improve the introduction of the work:
+ - Code, U. G. G. (2006). Unified Good Governance Code of Listed Companies. Comisión Nacional del Mercado de Valores. Spain.
+ - Conyon, M. J., & Peck, S. I. (1998). Board control, remuneration committees, and top management compensation. Academy of management journal, 41(2), 146-157.
+ - Good Governance Code of Listed Companies (2020). Comisión Nacional del Mercado de Valores. Spain.
+ - Fama, E.F., & Jensen, M.C. (1983). Separation of ownership and control. Journal of Law and Economics, 24, 301–325.
+ - Harrison, J. R. (1987). The strategic use of corporate board committees. California Management Review, 30(1), 109-125.
+ - Khan, A., Muttakin, M. B., & Siddiqui, J. (2013). Corporate governance and corporate social responsibility disclosures: Evidence from an emerging economy. Journal of business ethics, 114(2), 207-223.
+ - Tao, N. B., & Hutchinson, M. (2013). Corporate governance and risk management: The role of risk management and compensation committees. Journal of Contemporary Accounting and Economics, 9(1), 83-99.
+ - Williamson, O. E. (1983). Credible commitments: Using hostages to support exchange. The American Economic Review, 73(4), 519–540.
+ - Zaid, M. A., Abuhijleh, S. T., & Pucheta‐Martínez, M. C. (2020). Ownership structure, stakeholder engagement, and corporate social responsibility policies: The moderating effect of board independence. Corporate Social Responsibility and Environmental Management, 27(3), 1344-1360.
+ -We have justified the need to extend the literature focused on the compensation committees and the disclsoure of CSR information due to the scarce existence of previous literature in recent years."
+Author;Reviewer_3;2;6;2;"In our modest opinion, the originality of the paper is: (i) analyse of the association between remuneration committees and CSR disclosure; (ii) examine the moderating effect of independent board in the association between the remuneration committees and the disclosure of CSR information. We have not found previous research focused on these both topics. We have improved the section to clarify the need to extend this line of research and have included the following references:
+ 
+ - Abeysekera, I. (2012). Role of remuneration committee in narrative human capital disclosure. Accounting & Finance, 52, 1-23.
+ - Alotaibi, K. O., & Hussainey, K. (2016). Determinants of CSR disclosure quantity and quality: Evidence from non-financial listed firms in Saudi Arabia. International Journal of Disclosure and Governance, 13(4), 364-393.
+ - Chhaochharia, V. & Grinstein, Y. (2009). CEO compensation and board structure. The Journal of Finance, 61,(1), 231-261.
+ - Kanapathippillai, S., Mihret, D., & Johl, S. (2019). Remuneration committees and attribution disclosures on remuneration decisions: Australian evidence. Journal of business ethics, 158(4), 1063–1082
+ - Suttipun, M. (2021). The influence of board composition on environmental, social and governance (ESG) disclosure of Thai listed companies. International Journal of Disclosure and Governance, 1-12."
+Author;Reviewer_3;2;7;3;"Authors:
+ Thank you for your suggestion, we have included in the control variable paragraph more information to provide justifications on why those control variables are considered in this study. In this sense, we have used the control variables in line with previous research to avoid biased results. We have introduced the following references:
+ - Ali, W., Frynas, J., & Mahmood, Z. (2017). Determinants of corporate social responsibility (CSR) disclosure in developed and developing countries: A literature review. Corporate Social Responsibility and Environmental Management,24, 273–294
+ 
+ - Barako, D., & Brown, A. (2008). Corporate social reporting and board rep-resentation: Evidence from the Kenyan banking sector. Journal of Management and Governance,12, 309–324
+ 
+ - Brammer, S., Millington, A., & Pavelin, S. (2007). Gender and ethnic diversity among UK corporate boards. Corporate Governance: An International Review,15(2), 393–403
+ 
+ - Chau, G., & Gray, S. (2010). Family ownership, board independence and voluntary disclosure: Evidence from Hong Kong. Journal of International Accounting, Auditing and Taxation,19(2), 93–109
+ 
+ - Donnelly, R., & Mulcahy, M. (2008). Board structure, ownership, and voluntary disclosure in Ireland. Corporate Governance: An International Review,16(5), 416–429
+ 
+ - Jizi, M., Salama, A., Dixon, R., & Stratling, R. (2014). Corporate governance and corporate social responsibility disclosure: Evidence from the US banking sector. Journal of Business Ethics,125(4), 601–615
+ 
+ - Haniffa, R., & Cooke, T. (2005). The impact of culture and governance on corporate social reporting. Journal of Accounting and Public Policy,2 4(5), 391–430
+ 
+ - Liao, L., Luo, L., & Tang, Q. (2015). Gender diversity, board independence, environmental committee, and greenhouse gas disclosure. The British Accounting Review, 47, 409–424
+ 
+ - Reverte, C. (2009). Determinants of corporate social responsibility disclosure ratings by Spanish listed firms. Journal of Business Ethics,8 8,351–366"
+Author;Reviewer_3;2;8;4;Thank you for this suggestion. In our modest opinion, this paper presents the exhaustive revision and calculation
+Author;Reviewer_3;2;9;5;Thank you. In the implications paragraph located in the conclusions section, we have added a short text to assess the practical implications

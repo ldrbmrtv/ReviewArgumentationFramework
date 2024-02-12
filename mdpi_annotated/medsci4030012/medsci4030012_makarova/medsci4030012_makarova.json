@@ -1,0 +1,163 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "My main issue is with the way the results are presented. The authors claim that they observed statistical differences between  case and reference groups yet they do not preform a statistical test, nor give any p-value.  Even if they performed a test, important questions remain on the selection ofthe reference.  The ancestry of HapMap is not latino so therefore any test between cases and references will be confounded by ancestry.The PCA they show is probably capturing those differences instead of real differences given by disease status and, by the way, I question the usefulness of this PCA. My suggestion is to offer a better background for these results by trying to answer two main questions:",
+      "Reviewer_1.1.2": "1) is the deletion burden observed really exceptional in a population\nsample of similar ancestry? To answer this question, I would refer to\nthe 1000 genomes data where there are Mexicans, Colombians, Puerto Ricans and Peruvians. There must be available CNV estimations for these ancestries. If you find good estimates then perhaps a statistical tests with those as your control group would be more believable.",
+      "Reviewer_1.1.3": "2) is the deletion burden observed similar to those for other cancers? Then again there must be estimates of deletion burden for different types of cancers from TCGA studies. Please cite those.",
+      "Reviewer_1.1.4": "The only real statistical inference they show is on the pathway analysis yet no mention is made on the abstract. I suggest bringing this result up to the surface and making it more relevant even from the abstract. You can refer to it as methodological alternative, in the introduction, for the limited\nnumber of cases and lack of control group; issues that must be tackle in a larger study.",
+      "Reviewer_1.1.5": "I missed a definition of the sample's\nancestry. In the title it refers to Mexican American but in the rest\nof the manuscript it is treated as a latino population. Note that\nthere are differences in admixture in the latino population depending\nof their country of origin. Studies on the 1000 genomes show\ndifferences between Puerto Ricans, Colombians, Mexicans and\nPeruvians. Therefore, if the authors can state that their sample is essentially\nMexican that would be more informative and precise. I would then\nlimit the use of latino. However if the ancestry is only self\nreported as latino, then I would write latino in the title and\nmention the issue of genetic variability between latinos in the\ndiscussion.",
+      "Reviewer_1.1.6": "Abstract Line 23: should read Latino\nPopulations",
+      "Reviewer_1.1.7": "Figure 1: I cannot see the supposed\ndeletions marked in green",
+      "Reviewer_1.1.8": "Table 2b:  Please remove the % sign\nin some of the table cells, for instance  in Reference (Deletion,\n10-100kb).",
+      "Reviewer_1.3.1": "I have no further comments"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Line 34. The authors need to make clear about \u201cpre-, cancer (91.3%) groups\u201d. It is not clear if there is one or two groups but just one percentage.",
+      "Reviewer_2.1.2": "Line 40. The authors may add up to 6 key words.",
+      "Reviewer_2.1.3": "Lines 196-197. It is not clear which statistical method is used for the significant results in Table 2.Please give more details.",
+      "Reviewer_2.1.4": "Line 199. The authors need to define \u201cpre-cancer\u201d in materials.",
+      "Reviewer_2.1.5": "Lines 202-206. The authors mentioned the results by using PCA but PCA was not found in methods. The authors need to give more details about how to use PCA in statistical methods.",
+      "Reviewer_2.1.6": "Lines 214-216. It is not clear which statistical method is used for the significant results. Please give more details.",
+      "Reviewer_2.1.7": "Lines 238-242 are replicated in discussion lines 376-380. The authors may need to delete the part in lines 238-242."
+    },
+    "Author": {
+      "Author.2.1": "thank you for reviewer\u2019s comments, we made changes accordingly. We added statistical analysis for CNA association between case and reference groups (please see page 5).",
+      "Author.2.2": "For the questions of \u201cis the deletion burden observed really exceptional in a population sample of similar ancestry\u201d, we agree with the reviewer\u2019s comment. We did the analysis a couple of years ago, at that time, there is no CNV data from the 1000 genome for Mexicans, Colombians, Puerto Ricans and Peruvians, however, there is data for the admixed populations, thus we used this for this study. There might be some difficulty to do more analysis since our statistician and bioinformatics person left the department and we are in the process of hiring somebody for this role. At the same, we continue in recruiting more subjects with cervical cancers to further confirm our findings. Moreover, in the discussion, we have list this as one of the limitations in page 8 \u201c2) there might be bias of the CNA identified in cervical cancer for the Mexican Americans since we used the 1000 Genome admixed populations, not Mexican Americans, thus, we current recruit more subjects with cervical cancer from the same population and plan to validate the findings in more samples;\u201d",
+      "Author.2.3": "For the question of \u201cis the deletion burden observed similar to those for other cancers? Then again there must be estimates of deletion burden for different types of cancers from TCGA  studies\u201d, our response is that we did search of CNAs observed in other cancer based on TCGA studies, although there are limited studies, we addressed this issue in the discussion section (page 8) \u201c\u2026Using the TCGA data, a recent study identified nine regions of deletion that were unique to ER+ post menopause tumors in patients with breast cancer, including  deletion in 7p22.3 where our newly identified deletion in cases only located and it contains known tumor suppressor gene\u201d.",
+      "Author.2.4": "great suggestions, thank the reviewer.\nNow we added a sentence of \u201cMoreover, the pathway analysis revealed endometrial cancer and estrogen signaling pathways associated with this cancer (P < 0.05) using the KEGG\u201d in the abstract as the reviewer\u2019s suggestion. In addition, in the introduction section, we added \u201cWe are aware of the limited number of cases and lack of control group. Thus future a large study with a control sample and more cases as methodological alternative is needed\u201d. (Please see page 3)",
+      "Author.2.5": "as the reviewer\u2019s suggestion, we changed \u201cLatino\u201d to \u201cMexican American\u201d in the text of the manuscript and table",
+      "Author.2.6": "now we change \u201cLatino population\u201d to \u201cMexican American\u201d as the reviewer\u2019s suggestion",
+      "Author.2.7": "thank you for the comments. We also realized this issue which is due to that the color green overlaps with the other colors, thus it cannot be distinguished, and we have tried different color combinations without help. Now we made changes of the figure and legend.",
+      "Author.2.8": "thanks, we removed the % sign in table cells in Table 2b",
+      "Author.2.9": "thank you, reviewer, this is a typo, we corrected it.",
+      "Author.2.10": "yes, we added up to six key words now",
+      "Author.2.11": "we made changes based on the reviewer\u2019s suggestion, please see statistical method in page 5 and result in page 6",
+      "Author.2.12": "thanks, we provided definition for pre-cancer in materials, which include patients with CIN I, II, and III.",
+      "Author.2.13": "thanks, we added \u201c\u2026using statistical analyses described in the method section\u201d",
+      "Author.2.14": "thanks, the reviewer. Now we removed redundancy statement.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ]
+  ]
+}

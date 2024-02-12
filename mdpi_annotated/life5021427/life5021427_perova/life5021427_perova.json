@@ -1,14 +1,14 @@
 {
   "argument_sets": {
     "Reviewer_1": {
-      "Reviewer_1.1.1": "Giving specific examples is certainly a good idea. However, being experts in their field the authors\n might not be aware that for readers less familiar with the metabolism/physiology of archaea, the\n examples are not always easy to follow, such as examples given on p. 7 starting line 196 (The main\n difference here is between a ferredoxin-dependent and/or a NAD-dependent decarboxylation of\n pyruvate into acetyl-CoA?/A few lines later when I read that \u201chalophilic archaea do not contain the\n coenzyme methanopterin\u201d, I had to go back and reread the preceding sentences to get an idea of the\n argument.), p. 10 starting Line 299, and p. 12 starting Line 354."
+      "Reviewer_1.1.1": "Giving specific examples is certainly a good idea. However, being experts in their field the authors\r\n might not be aware that for readers less familiar with the metabolism/physiology of archaea, the\r\n examples are not always easy to follow, such as examples given on p. 7 starting line 196 (The main\r\n difference here is between a ferredoxin-dependent and/or a NAD-dependent decarboxylation of\r\n pyruvate into acetyl-CoA?/A few lines later when I read that \u201chalophilic archaea do not contain the\r\n coenzyme methanopterin\u201d, I had to go back and reread the preceding sentences to get an idea of the\r\n argument.), p. 10 starting Line 299, and p. 12 starting Line 354."
     },
     "Reviewer_2": {
-      "Reviewer_2.1.1": "There is now available a great resource for the gene discovery in Haloferax volcanii (Kiljunen et al\n 2014: BMC Biology). A comprehensive insertion mutant library has been generated for this model\n archaeon in order to facilitate gene discovery. This should be mentitioned and discussed in the text; i.e.,\n how this resource could be used to assign functions for genes."
+      "Reviewer_2.1.1": "There is now available a great resource for the gene discovery in Haloferax volcanii (Kiljunen et al\r\n 2014: BMC Biology). A comprehensive insertion mutant library has been generated for this model\r\n archaeon in order to facilitate gene discovery. This should be mentitioned and discussed in the text; i.e.,\r\n how this resource could be used to assign functions for genes."
     },
     "Author": {
-      "Author.2.1": "We have rephrased the four paragraphs where the referee found that the\n described examples are not always easy to follow.",
-      "Author.2.2": "We have added a short \u201coutlook-type\u201d paragraph towards the end of the conclusions. In this\n paragraph we mention three approaches that will facilitate gene discovery, among them large-scale\n screening techniques as exemplified by the insertion mutant library pointed out by the referee.",
+      "Author.2.1": "We have rephrased the four paragraphs where the referee found that the\r\n described examples are not always easy to follow.",
+      "Author.2.2": "We have added a short \u201coutlook-type\u201d paragraph towards the end of the conclusions. In this\r\n paragraph we mention three approaches that will facilitate gene discovery, among them large-scale\r\n screening techniques as exemplified by the insertion mutant library pointed out by the referee.",
       "Author.0.0": "Paper"
     }
   },

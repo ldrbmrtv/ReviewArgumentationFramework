@@ -117,665 +117,665 @@
 <life5010050_perova.owl#author15> <life5010050_perova.owl#attacks> <life5010050_perova.owl#reviewer_25> .
 <life5010050_perova.owl#author16> <life5010050_perova.owl#attacks> <life5010050_perova.owl#reviewer_26> .
 <life5010050_perova.owl#author17> <life5010050_perova.owl#attacks> <life5010050_perova.owl#reviewer_27> .
-_:29307 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29307 <http://www.w3.org/2002/07/owl#oneOf> _:29308 .
-_:29308 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29308 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29309 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29309 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29309 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29307 .
-<life5010050_perova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29309 .
-_:29310 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29310 <http://www.w3.org/2002/07/owl#oneOf> _:29311 .
-_:29311 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author1> .
-_:29311 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29312 .
-_:29312 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author1> .
-_:29312 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29313 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29313 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29310 .
-<life5010050_perova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29313 .
-_:29314 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29314 <http://www.w3.org/2002/07/owl#oneOf> _:29315 .
-_:29315 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29315 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29316 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29316 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29316 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29314 .
-<life5010050_perova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29316 .
-_:29317 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29317 <http://www.w3.org/2002/07/owl#oneOf> _:29318 .
-_:29318 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author2> .
-_:29318 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29319 .
-_:29319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author2> .
-_:29319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29320 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29320 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29317 .
-<life5010050_perova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29320 .
-_:29321 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29321 <http://www.w3.org/2002/07/owl#oneOf> _:29322 .
-_:29322 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29322 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29323 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29323 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29323 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29321 .
-<life5010050_perova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29323 .
-_:29324 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29324 <http://www.w3.org/2002/07/owl#oneOf> _:29325 .
-_:29325 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author3> .
-_:29325 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29326 .
-_:29326 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author3> .
-_:29326 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29327 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29327 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29327 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29324 .
-<life5010050_perova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29327 .
-_:29328 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29328 <http://www.w3.org/2002/07/owl#oneOf> _:29329 .
-_:29329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29330 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29330 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29328 .
-<life5010050_perova.owl#reviewer_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29330 .
-_:29331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29331 <http://www.w3.org/2002/07/owl#oneOf> _:29332 .
-_:29332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author4> .
-_:29332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29333 .
-_:29333 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author4> .
-_:29333 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29334 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29334 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29334 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29331 .
-<life5010050_perova.owl#reviewer_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29334 .
-_:29335 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29335 <http://www.w3.org/2002/07/owl#oneOf> _:29336 .
-_:29336 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29336 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29337 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29337 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29335 .
-<life5010050_perova.owl#reviewer_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29337 .
-_:29338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29338 <http://www.w3.org/2002/07/owl#oneOf> _:29339 .
-_:29339 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author5> .
-_:29339 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29340 .
-_:29340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author5> .
-_:29340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29341 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29341 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29341 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29338 .
-<life5010050_perova.owl#reviewer_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29341 .
-_:29342 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29342 <http://www.w3.org/2002/07/owl#oneOf> _:29343 .
-_:29343 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29343 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29344 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29344 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29344 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29342 .
-<life5010050_perova.owl#reviewer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29344 .
-_:29345 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29345 <http://www.w3.org/2002/07/owl#oneOf> _:29346 .
-_:29346 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author6> .
-_:29346 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29347 .
-_:29347 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author6> .
-_:29347 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29348 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29348 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29345 .
-<life5010050_perova.owl#reviewer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29348 .
-_:29349 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29349 <http://www.w3.org/2002/07/owl#oneOf> _:29350 .
-_:29350 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29350 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29351 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29351 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29351 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29349 .
-<life5010050_perova.owl#reviewer_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29351 .
-_:29352 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29352 <http://www.w3.org/2002/07/owl#oneOf> _:29353 .
-_:29353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author7> .
-_:29353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29354 .
-_:29354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author7> .
-_:29354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29355 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29355 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29355 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29352 .
-<life5010050_perova.owl#reviewer_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29355 .
-_:29356 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29356 <http://www.w3.org/2002/07/owl#oneOf> _:29357 .
-_:29357 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29357 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29358 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29358 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29358 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29356 .
-<life5010050_perova.owl#reviewer_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29358 .
-_:29359 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29359 <http://www.w3.org/2002/07/owl#oneOf> _:29360 .
-_:29360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author8> .
-_:29360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29361 .
-_:29361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author8> .
-_:29361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29362 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29362 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29362 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29359 .
-<life5010050_perova.owl#reviewer_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29362 .
-_:29363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29363 <http://www.w3.org/2002/07/owl#oneOf> _:29364 .
-_:29364 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29364 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29365 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29365 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29365 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29363 .
-<life5010050_perova.owl#reviewer_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29365 .
-_:29366 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29366 <http://www.w3.org/2002/07/owl#oneOf> _:29367 .
-_:29367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author9> .
-_:29367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29368 .
-_:29368 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author9> .
-_:29368 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29369 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29369 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29369 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29366 .
-<life5010050_perova.owl#reviewer_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29369 .
-_:29370 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29370 <http://www.w3.org/2002/07/owl#oneOf> _:29371 .
-_:29371 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29371 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29372 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29372 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29372 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29370 .
-<life5010050_perova.owl#reviewer_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29372 .
-_:29373 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29373 <http://www.w3.org/2002/07/owl#oneOf> _:29374 .
-_:29374 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author10> .
-_:29374 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29375 .
-_:29375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author10> .
-_:29375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29376 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29376 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29376 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29373 .
-<life5010050_perova.owl#reviewer_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29376 .
-_:29377 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29377 <http://www.w3.org/2002/07/owl#oneOf> _:29378 .
-_:29378 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29378 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29379 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29379 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29377 .
-<life5010050_perova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29379 .
-_:29380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29380 <http://www.w3.org/2002/07/owl#oneOf> _:29381 .
-_:29381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author11> .
-_:29381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29382 .
-_:29382 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author11> .
-_:29382 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29383 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29383 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29383 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29380 .
-<life5010050_perova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29383 .
-_:29384 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29384 <http://www.w3.org/2002/07/owl#oneOf> _:29385 .
-_:29385 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29385 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29386 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29386 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29386 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29384 .
-<life5010050_perova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29386 .
-_:29387 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29387 <http://www.w3.org/2002/07/owl#oneOf> _:29388 .
-_:29388 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author12> .
-_:29388 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29389 .
-_:29389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author12> .
-_:29389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29390 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29390 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29390 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29387 .
-<life5010050_perova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29390 .
-_:29391 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29391 <http://www.w3.org/2002/07/owl#oneOf> _:29392 .
-_:29392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29393 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29393 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29393 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29391 .
-<life5010050_perova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29393 .
-_:29394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29394 <http://www.w3.org/2002/07/owl#oneOf> _:29395 .
-_:29395 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author13> .
-_:29395 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29396 .
-_:29396 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author13> .
-_:29396 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29397 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29397 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29397 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29394 .
-<life5010050_perova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29397 .
-_:29398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29398 <http://www.w3.org/2002/07/owl#oneOf> _:29399 .
-_:29399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29400 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29400 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29398 .
-<life5010050_perova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29400 .
-_:29401 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29401 <http://www.w3.org/2002/07/owl#oneOf> _:29402 .
-_:29402 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author14> .
-_:29402 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29403 .
-_:29403 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author14> .
-_:29403 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29404 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29404 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29404 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29401 .
-<life5010050_perova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29404 .
-_:29405 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29405 <http://www.w3.org/2002/07/owl#oneOf> _:29406 .
-_:29406 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29406 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29407 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29407 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29407 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29405 .
-<life5010050_perova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29407 .
-_:29408 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29408 <http://www.w3.org/2002/07/owl#oneOf> _:29409 .
-_:29409 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author15> .
-_:29409 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29410 .
-_:29410 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author15> .
-_:29410 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29411 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29411 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29411 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29408 .
-<life5010050_perova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29411 .
-_:29412 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29412 <http://www.w3.org/2002/07/owl#oneOf> _:29413 .
-_:29413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29414 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29414 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29414 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29412 .
-<life5010050_perova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29414 .
-_:29415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29415 <http://www.w3.org/2002/07/owl#oneOf> _:29416 .
-_:29416 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author16> .
-_:29416 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29417 .
-_:29417 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author16> .
-_:29417 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29418 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29418 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29418 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29415 .
-<life5010050_perova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29418 .
-_:29419 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29419 <http://www.w3.org/2002/07/owl#oneOf> _:29420 .
-_:29420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
-_:29420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29421 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29421 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29421 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29419 .
-<life5010050_perova.owl#reviewer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29421 .
-_:29422 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29422 <http://www.w3.org/2002/07/owl#oneOf> _:29423 .
-_:29423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author17> .
-_:29423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29424 .
-_:29424 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author17> .
-_:29424 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29425 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29425 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29425 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29422 .
-<life5010050_perova.owl#reviewer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29425 .
-_:29426 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29426 <http://www.w3.org/2002/07/owl#oneOf> _:29427 .
-_:29427 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_11> .
-_:29427 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29428 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29428 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29426 .
-<life5010050_perova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29428 .
-_:29429 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29429 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29429 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29429 .
-_:29430 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29430 <http://www.w3.org/2002/07/owl#oneOf> _:29431 .
-_:29431 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_12> .
-_:29431 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29432 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29432 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29430 .
-<life5010050_perova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29432 .
-_:29433 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29433 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29433 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29433 .
-_:29434 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29434 <http://www.w3.org/2002/07/owl#oneOf> _:29435 .
-_:29435 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_13> .
-_:29435 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29436 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29436 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29436 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29434 .
-<life5010050_perova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29436 .
-_:29437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29437 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29437 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29437 .
-_:29438 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29438 <http://www.w3.org/2002/07/owl#oneOf> _:29439 .
-_:29439 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_14> .
-_:29439 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29440 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29440 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29438 .
-<life5010050_perova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29440 .
-_:29441 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29441 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29441 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29441 .
-_:29442 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29442 <http://www.w3.org/2002/07/owl#oneOf> _:29443 .
-_:29443 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_15> .
-_:29443 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29444 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29444 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29444 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29442 .
-<life5010050_perova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29444 .
-_:29445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29445 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29445 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29445 .
-_:29446 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29446 <http://www.w3.org/2002/07/owl#oneOf> _:29447 .
-_:29447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_16> .
-_:29447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29448 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29448 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29446 .
-<life5010050_perova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29448 .
-_:29449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29449 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29449 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29449 .
-_:29450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29450 <http://www.w3.org/2002/07/owl#oneOf> _:29451 .
-_:29451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_17> .
-_:29451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29452 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29452 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29452 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29450 .
-<life5010050_perova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29452 .
-_:29453 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29453 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29453 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29453 .
-_:29454 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29454 <http://www.w3.org/2002/07/owl#oneOf> _:29455 .
-_:29455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_18> .
-_:29455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29456 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29456 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29456 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29454 .
-<life5010050_perova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29456 .
-_:29457 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29457 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29457 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29457 .
-_:29458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29458 <http://www.w3.org/2002/07/owl#oneOf> _:29459 .
-_:29459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_19> .
-_:29459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29460 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29460 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29458 .
-<life5010050_perova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29460 .
-_:29461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29461 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29461 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29461 .
-_:29462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29462 <http://www.w3.org/2002/07/owl#oneOf> _:29463 .
-_:29463 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_110> .
-_:29463 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29464 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29464 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29464 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29462 .
-<life5010050_perova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29464 .
-_:29465 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29465 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29465 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29465 .
-_:29466 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29466 <http://www.w3.org/2002/07/owl#oneOf> _:29467 .
-_:29467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_21> .
-_:29467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29468 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29468 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29468 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29466 .
-<life5010050_perova.owl#author11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29468 .
-_:29469 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29469 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29469 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29469 .
-_:29470 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29470 <http://www.w3.org/2002/07/owl#oneOf> _:29471 .
-_:29471 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_22> .
-_:29471 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29472 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29472 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29472 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29470 .
-<life5010050_perova.owl#author12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29472 .
-_:29473 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29473 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29473 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29473 .
-_:29474 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29474 <http://www.w3.org/2002/07/owl#oneOf> _:29475 .
-_:29475 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_23> .
-_:29475 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29476 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29476 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29476 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29474 .
-<life5010050_perova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29476 .
-_:29477 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29477 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29477 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29477 .
-_:29478 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29478 <http://www.w3.org/2002/07/owl#oneOf> _:29479 .
-_:29479 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_24> .
-_:29479 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29480 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29480 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29480 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29478 .
-<life5010050_perova.owl#author14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29480 .
-_:29481 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29481 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29481 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29481 .
-_:29482 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29482 <http://www.w3.org/2002/07/owl#oneOf> _:29483 .
-_:29483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_25> .
-_:29483 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29484 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29484 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29484 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29482 .
-<life5010050_perova.owl#author15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29484 .
-_:29485 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29485 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29485 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29485 .
-_:29486 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29486 <http://www.w3.org/2002/07/owl#oneOf> _:29487 .
-_:29487 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_26> .
-_:29487 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29488 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29488 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29488 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29486 .
-<life5010050_perova.owl#author16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29488 .
-_:29489 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29489 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29489 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29489 .
-_:29490 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29490 <http://www.w3.org/2002/07/owl#oneOf> _:29491 .
-_:29491 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_27> .
-_:29491 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29492 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29492 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29492 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29490 .
-<life5010050_perova.owl#author17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29492 .
-_:29493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29493 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29493 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29493 .
-_:29494 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29494 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29494 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_perova.owl#author18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29494 .
-_:29495 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29495 <http://www.w3.org/2002/07/owl#oneOf> _:29496 .
-_:29496 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_11> .
-_:29496 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29497 .
-_:29497 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_12> .
-_:29497 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29498 .
-_:29498 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_13> .
-_:29498 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29499 .
-_:29499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_14> .
-_:29499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29500 .
-_:29500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_15> .
-_:29500 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29501 .
-_:29501 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_16> .
-_:29501 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29502 .
-_:29502 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_17> .
-_:29502 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29503 .
-_:29503 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_18> .
-_:29503 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29504 .
-_:29504 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_19> .
-_:29504 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29505 .
-_:29505 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_110> .
-_:29505 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29506 .
-_:29506 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_21> .
-_:29506 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29507 .
-_:29507 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_22> .
-_:29507 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29508 .
-_:29508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_23> .
-_:29508 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29509 .
-_:29509 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_24> .
-_:29509 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29510 .
-_:29510 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_25> .
-_:29510 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29511 .
-_:29511 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_26> .
-_:29511 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29512 .
-_:29512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_27> .
-_:29512 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29513 .
-_:29513 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_27> .
-_:29513 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29514 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29514 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29514 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29495 .
-<life5010050_perova.owl#author18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:29514 .
+_:32832 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32832 <http://www.w3.org/2002/07/owl#oneOf> _:32833 .
+_:32833 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32833 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32834 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32834 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32832 .
+<life5010050_perova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32834 .
+_:32835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32835 <http://www.w3.org/2002/07/owl#oneOf> _:32836 .
+_:32836 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author1> .
+_:32836 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32837 .
+_:32837 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author1> .
+_:32837 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32838 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32838 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32838 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32835 .
+<life5010050_perova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32838 .
+_:32839 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32839 <http://www.w3.org/2002/07/owl#oneOf> _:32840 .
+_:32840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32841 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32841 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32841 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32839 .
+<life5010050_perova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32841 .
+_:32842 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32842 <http://www.w3.org/2002/07/owl#oneOf> _:32843 .
+_:32843 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author2> .
+_:32843 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32844 .
+_:32844 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author2> .
+_:32844 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32845 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32845 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32845 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32842 .
+<life5010050_perova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32845 .
+_:32846 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32846 <http://www.w3.org/2002/07/owl#oneOf> _:32847 .
+_:32847 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32847 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32848 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32848 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32846 .
+<life5010050_perova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32848 .
+_:32849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32849 <http://www.w3.org/2002/07/owl#oneOf> _:32850 .
+_:32850 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author3> .
+_:32850 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32851 .
+_:32851 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author3> .
+_:32851 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32852 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32852 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32852 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32849 .
+<life5010050_perova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32852 .
+_:32853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32853 <http://www.w3.org/2002/07/owl#oneOf> _:32854 .
+_:32854 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32854 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32855 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32855 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32855 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32853 .
+<life5010050_perova.owl#reviewer_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32855 .
+_:32856 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32856 <http://www.w3.org/2002/07/owl#oneOf> _:32857 .
+_:32857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author4> .
+_:32857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32858 .
+_:32858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author4> .
+_:32858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32859 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32859 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32859 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32856 .
+<life5010050_perova.owl#reviewer_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32859 .
+_:32860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32860 <http://www.w3.org/2002/07/owl#oneOf> _:32861 .
+_:32861 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32861 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32862 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32862 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32862 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32860 .
+<life5010050_perova.owl#reviewer_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32862 .
+_:32863 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32863 <http://www.w3.org/2002/07/owl#oneOf> _:32864 .
+_:32864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author5> .
+_:32864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32865 .
+_:32865 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author5> .
+_:32865 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32866 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32866 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32866 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32863 .
+<life5010050_perova.owl#reviewer_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32866 .
+_:32867 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32867 <http://www.w3.org/2002/07/owl#oneOf> _:32868 .
+_:32868 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32868 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32869 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32869 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32869 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32867 .
+<life5010050_perova.owl#reviewer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32869 .
+_:32870 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32870 <http://www.w3.org/2002/07/owl#oneOf> _:32871 .
+_:32871 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author6> .
+_:32871 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32872 .
+_:32872 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author6> .
+_:32872 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32873 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32873 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32870 .
+<life5010050_perova.owl#reviewer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32873 .
+_:32874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32874 <http://www.w3.org/2002/07/owl#oneOf> _:32875 .
+_:32875 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32875 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32876 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32876 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32876 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32874 .
+<life5010050_perova.owl#reviewer_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32876 .
+_:32877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32877 <http://www.w3.org/2002/07/owl#oneOf> _:32878 .
+_:32878 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author7> .
+_:32878 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32879 .
+_:32879 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author7> .
+_:32879 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32880 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32880 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32877 .
+<life5010050_perova.owl#reviewer_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32880 .
+_:32881 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32881 <http://www.w3.org/2002/07/owl#oneOf> _:32882 .
+_:32882 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32882 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32883 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32883 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32883 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32881 .
+<life5010050_perova.owl#reviewer_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32883 .
+_:32884 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32884 <http://www.w3.org/2002/07/owl#oneOf> _:32885 .
+_:32885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author8> .
+_:32885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32886 .
+_:32886 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author8> .
+_:32886 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32887 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32887 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32887 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32884 .
+<life5010050_perova.owl#reviewer_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32887 .
+_:32888 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32888 <http://www.w3.org/2002/07/owl#oneOf> _:32889 .
+_:32889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32890 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32890 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32890 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32888 .
+<life5010050_perova.owl#reviewer_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32890 .
+_:32891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32891 <http://www.w3.org/2002/07/owl#oneOf> _:32892 .
+_:32892 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author9> .
+_:32892 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32893 .
+_:32893 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author9> .
+_:32893 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32894 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32894 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32894 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32891 .
+<life5010050_perova.owl#reviewer_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32894 .
+_:32895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32895 <http://www.w3.org/2002/07/owl#oneOf> _:32896 .
+_:32896 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32896 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32897 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32897 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32897 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32895 .
+<life5010050_perova.owl#reviewer_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32897 .
+_:32898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32898 <http://www.w3.org/2002/07/owl#oneOf> _:32899 .
+_:32899 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author10> .
+_:32899 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32900 .
+_:32900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author10> .
+_:32900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32901 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32901 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32901 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32898 .
+<life5010050_perova.owl#reviewer_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32901 .
+_:32902 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32902 <http://www.w3.org/2002/07/owl#oneOf> _:32903 .
+_:32903 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32903 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32904 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32904 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32904 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32902 .
+<life5010050_perova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32904 .
+_:32905 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32905 <http://www.w3.org/2002/07/owl#oneOf> _:32906 .
+_:32906 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author11> .
+_:32906 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32907 .
+_:32907 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author11> .
+_:32907 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32908 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32908 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32905 .
+<life5010050_perova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32908 .
+_:32909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32909 <http://www.w3.org/2002/07/owl#oneOf> _:32910 .
+_:32910 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32910 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32911 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32911 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32911 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32909 .
+<life5010050_perova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32911 .
+_:32912 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32912 <http://www.w3.org/2002/07/owl#oneOf> _:32913 .
+_:32913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author12> .
+_:32913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32914 .
+_:32914 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author12> .
+_:32914 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32915 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32915 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32915 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32912 .
+<life5010050_perova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32915 .
+_:32916 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32916 <http://www.w3.org/2002/07/owl#oneOf> _:32917 .
+_:32917 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32917 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32918 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32918 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32918 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32916 .
+<life5010050_perova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32918 .
+_:32919 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32919 <http://www.w3.org/2002/07/owl#oneOf> _:32920 .
+_:32920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author13> .
+_:32920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32921 .
+_:32921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author13> .
+_:32921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32922 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32922 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32922 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32919 .
+<life5010050_perova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32922 .
+_:32923 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32923 <http://www.w3.org/2002/07/owl#oneOf> _:32924 .
+_:32924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32925 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32925 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32923 .
+<life5010050_perova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32925 .
+_:32926 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32926 <http://www.w3.org/2002/07/owl#oneOf> _:32927 .
+_:32927 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author14> .
+_:32927 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32928 .
+_:32928 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author14> .
+_:32928 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32929 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32929 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32926 .
+<life5010050_perova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32929 .
+_:32930 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32930 <http://www.w3.org/2002/07/owl#oneOf> _:32931 .
+_:32931 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32931 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32932 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32932 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32932 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32930 .
+<life5010050_perova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32932 .
+_:32933 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32933 <http://www.w3.org/2002/07/owl#oneOf> _:32934 .
+_:32934 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author15> .
+_:32934 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32935 .
+_:32935 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author15> .
+_:32935 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32936 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32936 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32936 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32933 .
+<life5010050_perova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32936 .
+_:32937 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32937 <http://www.w3.org/2002/07/owl#oneOf> _:32938 .
+_:32938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32939 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32939 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32939 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32937 .
+<life5010050_perova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32939 .
+_:32940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32940 <http://www.w3.org/2002/07/owl#oneOf> _:32941 .
+_:32941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author16> .
+_:32941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32942 .
+_:32942 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author16> .
+_:32942 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32943 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32943 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32943 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32940 .
+<life5010050_perova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32943 .
+_:32944 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32944 <http://www.w3.org/2002/07/owl#oneOf> _:32945 .
+_:32945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author18> .
+_:32945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32946 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32946 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32946 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32944 .
+<life5010050_perova.owl#reviewer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32946 .
+_:32947 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32947 <http://www.w3.org/2002/07/owl#oneOf> _:32948 .
+_:32948 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author17> .
+_:32948 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32949 .
+_:32949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#author17> .
+_:32949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32950 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32950 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32950 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32947 .
+<life5010050_perova.owl#reviewer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32950 .
+_:32951 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32951 <http://www.w3.org/2002/07/owl#oneOf> _:32952 .
+_:32952 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_11> .
+_:32952 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32953 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32953 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32953 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32951 .
+<life5010050_perova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32953 .
+_:32954 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32954 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32954 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32954 .
+_:32955 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32955 <http://www.w3.org/2002/07/owl#oneOf> _:32956 .
+_:32956 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_12> .
+_:32956 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32957 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32957 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32957 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32955 .
+<life5010050_perova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32957 .
+_:32958 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32958 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32958 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32958 .
+_:32959 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32959 <http://www.w3.org/2002/07/owl#oneOf> _:32960 .
+_:32960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_13> .
+_:32960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32961 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32961 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32961 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32959 .
+<life5010050_perova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32961 .
+_:32962 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32962 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32962 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32962 .
+_:32963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32963 <http://www.w3.org/2002/07/owl#oneOf> _:32964 .
+_:32964 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_14> .
+_:32964 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32965 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32965 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32965 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32963 .
+<life5010050_perova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32965 .
+_:32966 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32966 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32966 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32966 .
+_:32967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32967 <http://www.w3.org/2002/07/owl#oneOf> _:32968 .
+_:32968 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_15> .
+_:32968 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32969 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32969 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32967 .
+<life5010050_perova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32969 .
+_:32970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32970 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32970 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32970 .
+_:32971 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32971 <http://www.w3.org/2002/07/owl#oneOf> _:32972 .
+_:32972 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_16> .
+_:32972 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32973 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32973 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32973 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32971 .
+<life5010050_perova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32973 .
+_:32974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32974 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32974 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32974 .
+_:32975 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32975 <http://www.w3.org/2002/07/owl#oneOf> _:32976 .
+_:32976 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_17> .
+_:32976 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32977 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32977 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32977 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32975 .
+<life5010050_perova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32977 .
+_:32978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32978 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32978 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32978 .
+_:32979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32979 <http://www.w3.org/2002/07/owl#oneOf> _:32980 .
+_:32980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_18> .
+_:32980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32981 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32981 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32981 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32979 .
+<life5010050_perova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32981 .
+_:32982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32982 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32982 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32982 .
+_:32983 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32983 <http://www.w3.org/2002/07/owl#oneOf> _:32984 .
+_:32984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_19> .
+_:32984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32985 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32985 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32985 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32983 .
+<life5010050_perova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32985 .
+_:32986 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32986 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32986 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32986 .
+_:32987 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32987 <http://www.w3.org/2002/07/owl#oneOf> _:32988 .
+_:32988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_110> .
+_:32988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32989 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32989 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32987 .
+<life5010050_perova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32989 .
+_:32990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32990 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32990 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32990 .
+_:32991 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32991 <http://www.w3.org/2002/07/owl#oneOf> _:32992 .
+_:32992 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_21> .
+_:32992 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32993 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32993 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32993 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32991 .
+<life5010050_perova.owl#author11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32993 .
+_:32994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32994 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32994 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32994 .
+_:32995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32995 <http://www.w3.org/2002/07/owl#oneOf> _:32996 .
+_:32996 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_22> .
+_:32996 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32997 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:32997 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32995 .
+<life5010050_perova.owl#author12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32997 .
+_:32998 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32998 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:32998 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32998 .
+_:32999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32999 <http://www.w3.org/2002/07/owl#oneOf> _:33000 .
+_:33000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_23> .
+_:33000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33001 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33001 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:33001 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32999 .
+<life5010050_perova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33001 .
+_:33002 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33002 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33002 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33002 .
+_:33003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33003 <http://www.w3.org/2002/07/owl#oneOf> _:33004 .
+_:33004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_24> .
+_:33004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33005 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:33005 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33003 .
+<life5010050_perova.owl#author14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33005 .
+_:33006 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33006 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33006 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33006 .
+_:33007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33007 <http://www.w3.org/2002/07/owl#oneOf> _:33008 .
+_:33008 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_25> .
+_:33008 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33009 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33009 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:33009 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33007 .
+<life5010050_perova.owl#author15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33009 .
+_:33010 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33010 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33010 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33010 .
+_:33011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33011 <http://www.w3.org/2002/07/owl#oneOf> _:33012 .
+_:33012 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_26> .
+_:33012 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33013 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:33013 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33011 .
+<life5010050_perova.owl#author16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33013 .
+_:33014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33014 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33014 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33014 .
+_:33015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33015 <http://www.w3.org/2002/07/owl#oneOf> _:33016 .
+_:33016 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_27> .
+_:33016 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33017 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:33017 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33015 .
+<life5010050_perova.owl#author17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33017 .
+_:33018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33018 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33018 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33018 .
+_:33019 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33019 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:33019 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_perova.owl#author18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33019 .
+_:33020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33020 <http://www.w3.org/2002/07/owl#oneOf> _:33021 .
+_:33021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_11> .
+_:33021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33022 .
+_:33022 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_12> .
+_:33022 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33023 .
+_:33023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_13> .
+_:33023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33024 .
+_:33024 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_14> .
+_:33024 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33025 .
+_:33025 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_15> .
+_:33025 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33026 .
+_:33026 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_16> .
+_:33026 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33027 .
+_:33027 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_17> .
+_:33027 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33028 .
+_:33028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_18> .
+_:33028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33029 .
+_:33029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_19> .
+_:33029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33030 .
+_:33030 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_110> .
+_:33030 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33031 .
+_:33031 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_21> .
+_:33031 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33032 .
+_:33032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_22> .
+_:33032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33033 .
+_:33033 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_23> .
+_:33033 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33034 .
+_:33034 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_24> .
+_:33034 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33035 .
+_:33035 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_25> .
+_:33035 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33036 .
+_:33036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_26> .
+_:33036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33037 .
+_:33037 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_27> .
+_:33037 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33038 .
+_:33038 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#reviewer_27> .
+_:33038 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33039 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33039 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33020 .
+<life5010050_perova.owl#author18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33039 .
 <life5010050_perova.owl#Reviewer_1ConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_perova.owl#Reviewer_1ConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_perova.owl#Reviewer_1> .
-_:29517 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29517 <http://www.w3.org/2002/07/owl#unionOf> _:29516 .
-_:29516 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_2> .
-_:29516 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29518 .
-_:29518 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Author> .
-_:29518 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29519 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29519 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29519 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29517 .
-_:29520 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29520 <http://www.w3.org/2002/07/owl#intersectionOf> _:29515 .
-_:29515 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_1> .
-_:29515 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29521 .
-_:29521 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:29519 .
-_:29521 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_perova.owl#Reviewer_1ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:29520 .
+_:33042 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33042 <http://www.w3.org/2002/07/owl#unionOf> _:33041 .
+_:33041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_2> .
+_:33041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33043 .
+_:33043 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Author> .
+_:33043 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33044 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33044 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:33044 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33042 .
+_:33045 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33045 <http://www.w3.org/2002/07/owl#intersectionOf> _:33040 .
+_:33040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_1> .
+_:33040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33046 .
+_:33046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33044 .
+_:33046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_perova.owl#Reviewer_1ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:33045 .
 <life5010050_perova.owl#Reviewer_2ConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_perova.owl#Reviewer_2ConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_perova.owl#Reviewer_2> .
-_:29524 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29524 <http://www.w3.org/2002/07/owl#unionOf> _:29523 .
-_:29523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_1> .
-_:29523 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29525 .
-_:29525 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Author> .
-_:29525 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29526 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29526 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29526 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29524 .
-_:29527 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29527 <http://www.w3.org/2002/07/owl#intersectionOf> _:29522 .
-_:29522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_2> .
-_:29522 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29528 .
-_:29528 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:29526 .
-_:29528 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_perova.owl#Reviewer_2ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:29527 .
+_:33049 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33049 <http://www.w3.org/2002/07/owl#unionOf> _:33048 .
+_:33048 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_1> .
+_:33048 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33050 .
+_:33050 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Author> .
+_:33050 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33051 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33051 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:33051 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33049 .
+_:33052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33052 <http://www.w3.org/2002/07/owl#intersectionOf> _:33047 .
+_:33047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_2> .
+_:33047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33053 .
+_:33053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33051 .
+_:33053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_perova.owl#Reviewer_2ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:33052 .
 <life5010050_perova.owl#AuthorConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_perova.owl#AuthorConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_perova.owl#Author> .
-_:29531 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29531 <http://www.w3.org/2002/07/owl#unionOf> _:29530 .
-_:29530 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_1> .
-_:29530 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29532 .
-_:29532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_2> .
-_:29532 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:29533 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29533 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
-_:29533 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29531 .
-_:29534 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29534 <http://www.w3.org/2002/07/owl#intersectionOf> _:29529 .
-_:29529 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Author> .
-_:29529 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29535 .
-_:29535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:29533 .
-_:29535 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_perova.owl#AuthorConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:29534 .
+_:33056 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33056 <http://www.w3.org/2002/07/owl#unionOf> _:33055 .
+_:33055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_1> .
+_:33055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33057 .
+_:33057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_2> .
+_:33057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33058 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33058 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#attacks> .
+_:33058 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33056 .
+_:33059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33059 <http://www.w3.org/2002/07/owl#intersectionOf> _:33054 .
+_:33054 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Author> .
+_:33054 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33060 .
+_:33060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33058 .
+_:33060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_perova.owl#AuthorConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:33059 .
 <life5010050_perova.owl#Reviewer_1Admissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_perova.owl#Reviewer_1Admissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_perova.owl#Reviewer_1ConflictFree> .
-_:29537 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29537 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29537 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_perova.owl#Reviewer_1ConflictFree> .
-_:29538 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29538 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29538 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29537 .
-_:29539 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29539 <http://www.w3.org/2002/07/owl#intersectionOf> _:29536 .
-_:29536 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_1ConflictFree> .
-_:29536 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29540 .
-_:29540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:29538 .
-_:29540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_perova.owl#Reviewer_1Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:29539 .
+_:33062 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33062 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33062 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_perova.owl#Reviewer_1ConflictFree> .
+_:33063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33063 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33063 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33062 .
+_:33064 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33064 <http://www.w3.org/2002/07/owl#intersectionOf> _:33061 .
+_:33061 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_1ConflictFree> .
+_:33061 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33065 .
+_:33065 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33063 .
+_:33065 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_perova.owl#Reviewer_1Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:33064 .
 <life5010050_perova.owl#Reviewer_2Admissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_perova.owl#Reviewer_2Admissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_perova.owl#Reviewer_2ConflictFree> .
-_:29542 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29542 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29542 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_perova.owl#Reviewer_2ConflictFree> .
-_:29543 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29543 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29543 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29542 .
-_:29544 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29544 <http://www.w3.org/2002/07/owl#intersectionOf> _:29541 .
-_:29541 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_2ConflictFree> .
-_:29541 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29545 .
-_:29545 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:29543 .
-_:29545 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_perova.owl#Reviewer_2Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:29544 .
+_:33067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33067 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33067 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_perova.owl#Reviewer_2ConflictFree> .
+_:33068 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33068 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33068 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33067 .
+_:33069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33069 <http://www.w3.org/2002/07/owl#intersectionOf> _:33066 .
+_:33066 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#Reviewer_2ConflictFree> .
+_:33066 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33070 .
+_:33070 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33068 .
+_:33070 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_perova.owl#Reviewer_2Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:33069 .
 <life5010050_perova.owl#AuthorAdmissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_perova.owl#AuthorAdmissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_perova.owl#AuthorConflictFree> .
-_:29547 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29547 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29547 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_perova.owl#AuthorConflictFree> .
-_:29548 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:29548 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
-_:29548 <http://www.w3.org/2002/07/owl#allValuesFrom> _:29547 .
-_:29549 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:29549 <http://www.w3.org/2002/07/owl#intersectionOf> _:29546 .
-_:29546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#AuthorConflictFree> .
-_:29546 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:29550 .
-_:29550 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:29548 .
-_:29550 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_perova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:29549 .
+_:33072 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33072 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33072 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_perova.owl#AuthorConflictFree> .
+_:33073 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33073 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_perova.owl#isAttackedBy> .
+_:33073 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33072 .
+_:33074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33074 <http://www.w3.org/2002/07/owl#intersectionOf> _:33071 .
+_:33071 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_perova.owl#AuthorConflictFree> .
+_:33071 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33075 .
+_:33075 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33073 .
+_:33075 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_perova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:33074 .
 <life5010050_perova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#author16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
-<life5010050_perova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
+<life5010050_perova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
@@ -786,13 +786,13 @@ _:29550 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/199
 <life5010050_perova.owl#author18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#author12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#author14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
-<life5010050_perova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#author11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
-<life5010050_perova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
+<life5010050_perova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#author15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
+<life5010050_perova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#AuthorAdmissible> .
 <life5010050_perova.owl#reviewer_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_1ConflictFree> .
-<life5010050_perova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_1ConflictFree> .
 <life5010050_perova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_1ConflictFree> .
+<life5010050_perova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_1ConflictFree> .
 <life5010050_perova.owl#reviewer_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_1ConflictFree> .
 <life5010050_perova.owl#reviewer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_1ConflictFree> .
 <life5010050_perova.owl#reviewer_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_1ConflictFree> .
@@ -801,112 +801,112 @@ _:29550 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/199
 <life5010050_perova.owl#reviewer_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_1ConflictFree> .
 <life5010050_perova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_1ConflictFree> .
 <life5010050_perova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_2ConflictFree> .
-<life5010050_perova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_2ConflictFree> .
 <life5010050_perova.owl#reviewer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_2ConflictFree> .
+<life5010050_perova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_2ConflictFree> .
 <life5010050_perova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_2ConflictFree> .
 <life5010050_perova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_2ConflictFree> .
 <life5010050_perova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_2ConflictFree> .
 <life5010050_perova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_perova.owl#Reviewer_2ConflictFree> .
-<life5010050_perova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "The manuscript of Eckert et al., submitted into the journal Life, concerns in principle again only one,\n but very important genetic criterion for evaluation of prokaryotic diversity. It should be a serious part of\n this complex evaluation. It is very important and useful and publication of the article is surely\n recommendable. However, the connection, coincidences and relations to other criteria should be\n better expressed."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "The manuscript of Eckert et al., submitted into the journal Life, concerns in principle again only one,\n but very important genetic criterion for evaluation of prokaryotic diversity. It should be a serious part of\n this complex evaluation. It is very important and useful and publication of the article is surely\n recommendable. However, the connection, coincidences and relations to other criteria should be\n better expressed."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_11> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_11> <life5010050_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "If we accept also strains and populations from literature or from databases to the evaluation, there\n is always questionable the taxonomic determination (scientific names) of various species and\n strains, which are based on the old nomenclature and morphology. The critical revision of\n identification of these strains and cited materials is necessary"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "If we accept also strains and populations from literature or from databases to the evaluation, there\n is always questionable the taxonomic determination (scientific names) of various species and\n strains, which are based on the old nomenclature and morphology. The critical revision of\n identification of these strains and cited materials is necessary"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_12> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_12> <life5010050_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "It follows from the whole article that the authors accepted the names (and also concepts) of taxa\n (mostly genera) from older literature, without necessary criticism. There are included revised\n genera according to modern methods together with taxonomically very problematic groups. As\n examples is possible to mention that Aphanizomenon ovalisporum and Anabaena bergii are really\n very related taxa, but they were already re-classified in one special and separate genus\n Chrysosporum. On the other hand, the complex “Prochlorococcus/Synechococcus” is still very\n unclear and surely is distant from the typical genus Synechoccocus. etc."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "It follows from the whole article that the authors accepted the names (and also concepts) of taxa\n (mostly genera) from older literature, without necessary criticism. There are included revised\n genera according to modern methods together with taxonomically very problematic groups. As\n examples is possible to mention that Aphanizomenon ovalisporum and Anabaena bergii are really\n very related taxa, but they were already re-classified in one special and separate genus\n Chrysosporum. On the other hand, the complex “Prochlorococcus/Synechococcus” is still very\n unclear and surely is distant from the typical genus Synechoccocus. etc."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_13> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_13> <life5010050_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "Numerous cited taxa (on the generic level) were already controlled and revised by most modern\n methods, and examples in the manuscript should be used especially and selected from these genera. It is\n true, that majority of the cited genera were already revised (Microcystis, Planktothrix, Aphanizomenon),\n but just these taxa are important as examples and should be preferred. From the presented results follows\n only the confirmation of the present methodological principles and a modern system. This fact should\n be emphasized."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "Numerous cited taxa (on the generic level) were already controlled and revised by most modern\n methods, and examples in the manuscript should be used especially and selected from these genera. It is\n true, that majority of the cited genera were already revised (Microcystis, Planktothrix, Aphanizomenon),\n but just these taxa are important as examples and should be preferred. From the presented results follows\n only the confirmation of the present methodological principles and a modern system. This fact should\n be emphasized."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_14> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_14> <life5010050_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "It is necessary to stress the fact that the numerical criteria (e.g., exactly limited percentage similarity)\n never are valid uniformly for large groups of organisms and cannot be applied as one main criterion in\n large groups."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "It is necessary to stress the fact that the numerical criteria (e.g., exactly limited percentage similarity)\n never are valid uniformly for large groups of organisms and cannot be applied as one main criterion in\n large groups."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_15> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_15> <life5010050_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "As concerns the delimitation of taxa on the level of cyanobacterial species, there exists a lot of\n valuable literature, which was not cited. The characterization and separation of species was not\n satisfactory solved, but it is particularly important (criteria are not unique for all genera) and need\n better discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "As concerns the delimitation of taxa on the level of cyanobacterial species, there exists a lot of\n valuable literature, which was not cited. The characterization and separation of species was not\n satisfactory solved, but it is particularly important (criteria are not unique for all genera) and need\n better discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_16> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_16> <life5010050_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> "In Line 40 is cited only DeQueiroz (2007) to the problematic of species concept. It would be useful\n to evaluate and mention many other authors, who discussed this question more complexly. It concerns\n also several other problems, e.g., problematics of horizontal gene transfers (Line 43), “bounderies\n between taxon units” (Line 45), species concept (Line 48), etc. About species concept in cyanobacteria\n exist particularly many studies from last years."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> "In Line 40 is cited only DeQueiroz (2007) to the problematic of species concept. It would be useful\n to evaluate and mention many other authors, who discussed this question more complexly. It concerns\n also several other problems, e.g., problematics of horizontal gene transfers (Line 43), “bounderies\n between taxon units” (Line 45), species concept (Line 48), etc. About species concept in cyanobacteria\n exist particularly many studies from last years."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_17> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_17> <life5010050_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "I am not sure that cyanobacteria can be accepted as a typical example of all prokaryotes. On the\n contrary, they have very special position (phylogenetic, metabolic, function in nature, ultrastructural,\n they grow often in multicellular and differentiated thallus) and their diversity must be evaluated\n respecting these specificities. It is clear that the taxonomic classification must be different in different\n groups of organisms."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "I am not sure that cyanobacteria can be accepted as a typical example of all prokaryotes. On the\n contrary, they have very special position (phylogenetic, metabolic, function in nature, ultrastructural,\n they grow often in multicellular and differentiated thallus) and their diversity must be evaluated\n respecting these specificities. It is clear that the taxonomic classification must be different in different\n groups of organisms."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_18> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_18> <life5010050_perova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "The correct citation of scientific names is the obvious request of serious scientific publications. Few\n unnecessary mistakes are in the manuscript, e.g., in the whole text and also in Figures is written\n “Arthospira” instead the correct Arthrospira, on other places must be Leptolyngbya (Table 1, Line 191),\n Fischerella (Line 207), Aphanizomenon (Line 218), Cylindrospermopsis (Line 219)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "The correct citation of scientific names is the obvious request of serious scientific publications. Few\n unnecessary mistakes are in the manuscript, e.g., in the whole text and also in Figures is written\n “Arthospira” instead the correct Arthrospira, on other places must be Leptolyngbya (Table 1, Line 191),\n Fischerella (Line 207), Aphanizomenon (Line 218), Cylindrospermopsis (Line 219)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_19> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_19> <life5010050_perova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "I do not understand why Leptolyngbya and Chamaesiphon could be “closely related genera”.\n It is in contraversion to the whole up to date results and taxonomic classification. The authors really\n found the “close” relation just between these two genera? By way, they both are polyphyletic and will\n be surely divided in several different taxa after the following precise studies."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "I do not understand why Leptolyngbya and Chamaesiphon could be “closely related genera”.\n It is in contraversion to the whole up to date results and taxonomic classification. The authors really\n found the “close” relation just between these two genera? By way, they both are polyphyletic and will\n be surely divided in several different taxa after the following precise studies."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_110> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_110> <life5010050_perova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "When you refer to the Synechococcus, it is important to specify, which clade you have in mind.\n Honda et al. (1999) and Roberston et al. (2001) showed Synechococcus is polyphyletic genus composed\n of a least 5 lineages. There are more recent works showing even more clades. From an amount of\n sequences and relationship to Prochlorococcus, I can assume, it is a marine pelagial picoplanktic clade.\n However, it should be specified for unexperienced reader in the field of cyanobacteria. The other\n polyphyletic genera should be also specified—Phormidium, Leptolyngbya, Microcoleus and others.\n Moreover, although the sequences might have same name (i.e., Synechococcus), they belong to\n polyphyletic groups, thus they probably belong to different genera, which have not yet been described."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "When you refer to the Synechococcus, it is important to specify, which clade you have in mind.\n Honda et al. (1999) and Roberston et al. (2001) showed Synechococcus is polyphyletic genus composed\n of a least 5 lineages. There are more recent works showing even more clades. From an amount of\n sequences and relationship to Prochlorococcus, I can assume, it is a marine pelagial picoplanktic clade.\n However, it should be specified for unexperienced reader in the field of cyanobacteria. The other\n polyphyletic genera should be also specified—Phormidium, Leptolyngbya, Microcoleus and others.\n Moreover, although the sequences might have same name (i.e., Synechococcus), they belong to\n polyphyletic groups, thus they probably belong to different genera, which have not yet been described."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_21> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_21> <life5010050_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "They might also appear to be monophyletic, because there are missing taxa between them"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_22> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_22> <life5010050_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "This might also cause false positive barcoding gaps, because there would be low similarity among\n sequences with same name. Therefore it may largely affect results."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "This might also cause false positive barcoding gaps, because there would be low similarity among\n sequences with same name. Therefore it may largely affect results."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_23> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_23> <life5010050_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "I suggest that the paper should be expanded with a discussion, whether barcode gaps are able to\n delimit described species. For example, are there two species within Cylindrospermopsis? There seems\n to be a barcoding gap within this clade. In this particular case, it would be beneficial to use a species\n epithet too to avoid confusion. Is it Cylindrospermopsis raciborskii? Does a barcoding gap in the\n Planktothrix clade correspond to the described species?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "I suggest that the paper should be expanded with a discussion, whether barcode gaps are able to\n delimit described species. For example, are there two species within Cylindrospermopsis? There seems\n to be a barcoding gap within this clade. In this particular case, it would be beneficial to use a species\n epithet too to avoid confusion. Is it Cylindrospermopsis raciborskii? Does a barcoding gap in the\n Planktothrix clade correspond to the described species?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_24> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_24> <life5010050_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "Why did you use Phormidium as an outgroup (Line 139)? Would not be more beneficial to use\n Gloeobacter or some other bacterium?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "Why did you use Phormidium as an outgroup (Line 139)? Would not be more beneficial to use\n Gloeobacter or some other bacterium?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_25> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_25> <life5010050_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_26> <http://www.w3.org/2000/01/rdf-schema#label> "Is there any way to use barcoding gaps in a taxonomy of cyanobacteria? This might be added\n to discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_26> <http://www.w3.org/2000/01/rdf-schema#label> "Is there any way to use barcoding gaps in a taxonomy of cyanobacteria? This might be added\n to discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_26> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_26> <life5010050_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#reviewer_27> <http://www.w3.org/2000/01/rdf-schema#label> "There are errors in nomenclature throughout the text, figures, and supplements, e.g.\n Leptolyngbya, Aphanizomenon, Arthrospira. You might check: http://www.cyanodb.cz/. It is an updated\n database of names of cyanobacteria."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#reviewer_27> <http://www.w3.org/2000/01/rdf-schema#label> "There are errors in nomenclature throughout the text, figures, and supplements, e.g.\n Leptolyngbya, Aphanizomenon, Arthrospira. You might check: http://www.cyanodb.cz/. It is an updated\n database of names of cyanobacteria."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_27> <life5010050_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#reviewer_27> <life5010050_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "The concern the reviewer mentions here was also one of our main conclusions for the article.\n Apparently we did not formulate it well enough. It has thus been reformulated to: “However an accurate\n taxonomy can never be achieved by the use of a barcoding method only, since it is based on nucleotide\n substitutions of a single gene. Accurate classification always requires an integrative taxonomy effort including characteristics from ecology, morphology and physiology, as already previously suggested\n for prokaryotes [9,28,29,45], and as it is becoming common also for animal taxonomy (e.g., [53,54]).”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "The concern the reviewer mentions here was also one of our main conclusions for the article.\n Apparently we did not formulate it well enough. It has thus been reformulated to: “However an accurate\n taxonomy can never be achieved by the use of a barcoding method only, since it is based on nucleotide\n substitutions of a single gene. Accurate classification always requires an integrative taxonomy effort including characteristics from ecology, morphology and physiology, as already previously suggested\n for prokaryotes [9,28,29,45], and as it is becoming common also for animal taxonomy (e.g., [53,54]).”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author1> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author1> <life5010050_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "We understand that our choice of naming as in the database needed clarification. We\n have thus added the following paragraph. We thank the reviewer for the useful example and have\n included it: “The names of genera and species used in this study where copied form the names given in\n the database. This choice was made for the reason that cyanobacterial phylogeny underlies continuous\n changes and genera and species are often reclassified (e.g., [34]). Thus a whole different type of work\n would be required in order to use all state-of-art classification of cyanobacteria. Moreover, for the aims\n of this study not so much the phylogenetic classification of the bacterial species, but the genetic structure\n of the cyanobacterial 16S rRNA genes was of importance. The use of the names provided in the database\n on the other hand enables other researchers to conduct a similar analysis using the same sequences.\n Thus some old and revised names are used, for example the species name Anabaena bergii is used\n throughout the study despite its revised taxonomy in the genus Crysosporum [35].”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "We understand that our choice of naming as in the database needed clarification. We\n have thus added the following paragraph. We thank the reviewer for the useful example and have\n included it: “The names of genera and species used in this study where copied form the names given in\n the database. This choice was made for the reason that cyanobacterial phylogeny underlies continuous\n changes and genera and species are often reclassified (e.g., [34]). Thus a whole different type of work\n would be required in order to use all state-of-art classification of cyanobacteria. Moreover, for the aims\n of this study not so much the phylogenetic classification of the bacterial species, but the genetic structure\n of the cyanobacterial 16S rRNA genes was of importance. The use of the names provided in the database\n on the other hand enables other researchers to conduct a similar analysis using the same sequences.\n Thus some old and revised names are used, for example the species name Anabaena bergii is used\n throughout the study despite its revised taxonomy in the genus Crysosporum [35].”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author2> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author2> <life5010050_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "We understand that particularly the case of Synechoccocus needs clarification and have thus\n extended the explanation there: “Sequences termed Synechococcus on the other hand were analysed\n together with sequences of the monophyletic clade Prochlorococcus, since Synechococcus is known to\n be a polyphyletic group and if all sequences (including a minimum of five lineages [36–38]) are taken\n together, Prochlorococcus has to be included, too”."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "We understand that particularly the case of Synechoccocus needs clarification and have thus\n extended the explanation there: “Sequences termed Synechococcus on the other hand were analysed\n together with sequences of the monophyletic clade Prochlorococcus, since Synechococcus is known to\n be a polyphyletic group and if all sequences (including a minimum of five lineages [36–38]) are taken\n together, Prochlorococcus has to be included, too”."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author3> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author3> <life5010050_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer that we have to avoid misunderstandings of this kind and added\n a very clear statement to the discussion: “Moreover it has to be emphasised that a close analysis of the\n actual properties of the cyanobacterial groups tested is limited by the fact that we used the provided names for the sequences and groups. Thus this study intends only to verify the existence of a barcoding\n gaps within the 16S rRNA sequences of certain cyanobacterial groups, and by no means revise or\n confirm the complex cyanobacterial taxonomy.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer that we have to avoid misunderstandings of this kind and added\n a very clear statement to the discussion: “Moreover it has to be emphasised that a close analysis of the\n actual properties of the cyanobacterial groups tested is limited by the fact that we used the provided names for the sequences and groups. Thus this study intends only to verify the existence of a barcoding\n gaps within the 16S rRNA sequences of certain cyanobacterial groups, and by no means revise or\n confirm the complex cyanobacterial taxonomy.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author4> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author4> <life5010050_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer that we have not stressed this fact enough and have added more\n sentences explaining why OTUs are used and the problem: “Enormous progress happened in prokaryote\n taxonomy in the recent years [8,12,24]. However, the data produced with novel methodologies, such as\n next generation sequencing, often requires a high throughput taxonomic classification of sequences such\n as fixed threshold to identify OTUs. This kind of fixed numeric classifications can always only be a vague\n approximation to the actual structure of relatedness of organisms.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer that we have not stressed this fact enough and have added more\n sentences explaining why OTUs are used and the problem: “Enormous progress happened in prokaryote\n taxonomy in the recent years [8,12,24]. However, the data produced with novel methodologies, such as\n next generation sequencing, often requires a high throughput taxonomic classification of sequences such\n as fixed threshold to identify OTUs. This kind of fixed numeric classifications can always only be a vague\n approximation to the actual structure of relatedness of organisms.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author5> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author5> <life5010050_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "our aim was not to start from known and named sequences and test whether species from\n DNA taxonomy matched them or not; our aim was to test whether a barcoding gap existed at all.\n To do so, we did not download named sequences from GenBank, but used a carefully annotated and\n checked database with a built-in phylogeny that would allow us to obtain monophyletic clades,\n regardless of their names. We thus only briefly discuss names and taxonomy in our analysis. Given that\n both reviewers commented on this issue, we tried to clarify our aims and included a sentence at the end\n of the introduction, in order to clarify the point. We hope that now both reviewers, and all other potential\n readers, will not be misled by our approach. We do not deal with taxonomy at all, only with testing the\n presence of a barcoding gap."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "our aim was not to start from known and named sequences and test whether species from\n DNA taxonomy matched them or not; our aim was to test whether a barcoding gap existed at all.\n To do so, we did not download named sequences from GenBank, but used a carefully annotated and\n checked database with a built-in phylogeny that would allow us to obtain monophyletic clades,\n regardless of their names. We thus only briefly discuss names and taxonomy in our analysis. Given that\n both reviewers commented on this issue, we tried to clarify our aims and included a sentence at the end\n of the introduction, in order to clarify the point. We hope that now both reviewers, and all other potential\n readers, will not be misled by our approach. We do not deal with taxonomy at all, only with testing the\n presence of a barcoding gap."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author6> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author6> <life5010050_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "we now include new citations in relationship to different problems: Butlin et al. (2009), Cohan\n (2011), Cohan (2013), Cohan & Aracena (2012), Diekmann et al. (2004), Nosil (2012),\n Vos (2011), Wiedenbeck & Cohan (2011)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "we now include new citations in relationship to different problems: Butlin et al. (2009), Cohan\n (2011), Cohan (2013), Cohan & Aracena (2012), Diekmann et al. (2004), Nosil (2012),\n Vos (2011), Wiedenbeck & Cohan (2011)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author7> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author7> <life5010050_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer’s concern. In fact, this is exactly the reason why we chose\n Cyanobacteria for this analysis. We reformulated this part of the introduction, to make this statement\n more clear, which now reads: “We choose Cyanobacteria as an example of prokaryotes, not because\n they are representative for all prokaryotes, but because there is ample phenotypic, ecological, physiological\n ultrastructural, and biochemical evidence of the existence of independently evolving units in this\n group [20,21]. Thus, the expectation is that, if a barcoding gap exists in prokaryotes, this should be\n more easily seen in taxa where groups can be identified also with other methods, as in Cyanobacteria"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer’s concern. In fact, this is exactly the reason why we chose\n Cyanobacteria for this analysis. We reformulated this part of the introduction, to make this statement\n more clear, which now reads: “We choose Cyanobacteria as an example of prokaryotes, not because\n they are representative for all prokaryotes, but because there is ample phenotypic, ecological, physiological\n ultrastructural, and biochemical evidence of the existence of independently evolving units in this\n group [20,21]. Thus, the expectation is that, if a barcoding gap exists in prokaryotes, this should be\n more easily seen in taxa where groups can be identified also with other methods, as in Cyanobacteria"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author8> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author8> <life5010050_perova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "We apologize for our carelessness in double-checking the naming of the organisms and hope\n that we now eliminated all errors."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "We apologize for our carelessness in double-checking the naming of the organisms and hope\n that we now eliminated all errors."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author9> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author9> <life5010050_perova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer, this part was formulated clumsily. What we meant was actually\n exactly what the reviewer means. The two groups were polyphyletic and we could only chose a\n monophyletic group when analysing them together. We changed the sentence to: “… by two genera that\n were monophyletic only when taken together in the database used, e.g., Leptolyngbia and Chamaesiphon\n …” In accordance we did not check for relatedness of the taxa, neither in this one nor for any other one"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer, this part was formulated clumsily. What we meant was actually\n exactly what the reviewer means. The two groups were polyphyletic and we could only chose a\n monophyletic group when analysing them together. We changed the sentence to: “… by two genera that\n were monophyletic only when taken together in the database used, e.g., Leptolyngbia and Chamaesiphon\n …” In accordance we did not check for relatedness of the taxa, neither in this one nor for any other one"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author10> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author10> <life5010050_perova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "We agree that this might be confusing to the reader. We have therefore clarified this choice\n and added this part to the first M&M section and the literature suggested has been cited: “Sequences\n termed Synechococcus on the other hand were analysed together with sequences of Prochlorococcus,\n since Synechococcus is known to be a polyphyletic group and if all sequences (including a minimum of\n five lineages [36–38]) are taken together, Prochlorococcus has to be included too.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "We agree that this might be confusing to the reader. We have therefore clarified this choice\n and added this part to the first M&M section and the literature suggested has been cited: “Sequences\n termed Synechococcus on the other hand were analysed together with sequences of Prochlorococcus,\n since Synechococcus is known to be a polyphyletic group and if all sequences (including a minimum of\n five lineages [36–38]) are taken together, Prochlorococcus has to be included too.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author11> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author11> <life5010050_perova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "The sequences we used were clustering monophyletically a-priori in the tree provided in the\n database used, and we chose them independently of the name. We now clarified this in the first section\n of M&M: “Thereby a group was considered monophyletic if it was monophyletic in the tree provided\n with the database, regardless of the taxonomy and the nomenclature of the organisms included in the\n clade (Supplemetary Figure 1), and only secondarily if there was a correspondence with known taxa.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "The sequences we used were clustering monophyletically a-priori in the tree provided in the\n database used, and we chose them independently of the name. We now clarified this in the first section\n of M&M: “Thereby a group was considered monophyletic if it was monophyletic in the tree provided\n with the database, regardless of the taxonomy and the nomenclature of the organisms included in the\n clade (Supplemetary Figure 1), and only secondarily if there was a correspondence with known taxa.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author12> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author12> <life5010050_perova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "As mentioned above, we did not only choose sequences that had the same name, but groups\n of sequences that were monophyletic in the database tree. Thus we should not have artificially\n introduced a barcoding gap by sequence selection"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "As mentioned above, we did not only choose sequences that had the same name, but groups\n of sequences that were monophyletic in the database tree. Thus we should not have artificially\n introduced a barcoding gap by sequence selection"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author13> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author13> <life5010050_perova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "Similarly to the replies for the previous reviewer, our aim was not to start from known and\n named sequences and test whether species from DNA taxonomy matched them or not; our aim was to\n test whether a barcoding gaps existed at all. To do so, we did not download named sequences from\n GenBank, but used a carefully annotated and checked database with a built-in phylogeny that would\n allow us to obtain monophyletic clades, regardless of their names. We thus only briefly discuss names\n and taxonomy in our analysis. Given that both reviewers commented on this issue, we tried to clarify\n our aims and included a sentence at the end of the introduction, in order to clarify the point. We hope\n that now both reviewers, and all other potential readers, will not be misled by our approach. We do not\n deal with taxonomy at all, only with testing the presence of a barcoding gap. Given this rationale and\n the kind of data we used, no clear statement towards the two barcoding groups within\n Cylindrospermopsis can be made. Nearly all sequences within the database are termed\n Cylindrospermopsis raciborskii by the people who deposited the sequences. However the clade does not\n contain the type-strain (which was not in the database). So we would rather not speculate too much on\n the taxonomic naming of these and other barcoded groups. However, we can clearly say that what is\n deposited in database SILVA 111 as Cylindrospermopsis contains two species with a barcoding gap.\n For Planktothrix we added a sentence: “Considering the naming of Planktothrix sequences in the\n database, some OTUs and ABGD units seem to correspond not only to monophyletic groups but also to\n named species such as P. mougeotii or similarly in the case of Fischerella muscicola (Figure 3).”\n However we wish to remain careful on these kinds of statements since we are not sure if the underlying\n naming of the species used is correct or not."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "Similarly to the replies for the previous reviewer, our aim was not to start from known and\n named sequences and test whether species from DNA taxonomy matched them or not; our aim was to\n test whether a barcoding gaps existed at all. To do so, we did not download named sequences from\n GenBank, but used a carefully annotated and checked database with a built-in phylogeny that would\n allow us to obtain monophyletic clades, regardless of their names. We thus only briefly discuss names\n and taxonomy in our analysis. Given that both reviewers commented on this issue, we tried to clarify\n our aims and included a sentence at the end of the introduction, in order to clarify the point. We hope\n that now both reviewers, and all other potential readers, will not be misled by our approach. We do not\n deal with taxonomy at all, only with testing the presence of a barcoding gap. Given this rationale and\n the kind of data we used, no clear statement towards the two barcoding groups within\n Cylindrospermopsis can be made. Nearly all sequences within the database are termed\n Cylindrospermopsis raciborskii by the people who deposited the sequences. However the clade does not\n contain the type-strain (which was not in the database). So we would rather not speculate too much on\n the taxonomic naming of these and other barcoded groups. However, we can clearly say that what is\n deposited in database SILVA 111 as Cylindrospermopsis contains two species with a barcoding gap.\n For Planktothrix we added a sentence: “Considering the naming of Planktothrix sequences in the\n database, some OTUs and ABGD units seem to correspond not only to monophyletic groups but also to\n named species such as P. mougeotii or similarly in the case of Fischerella muscicola (Figure 3).”\n However we wish to remain careful on these kinds of statements since we are not sure if the underlying\n naming of the species used is correct or not."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author14> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author14> <life5010050_perova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "We understand why the reviewer would think that that would be beneficial. However, one has\n to keep in mind that we were not constructing a phylogenetic tree for all cyanobacteria but for single\n genera. In this case it is preferential to use a sister group that is more closely related to gain resolution\n within that group. e.g., Hedtke, S.M.; Townsend, T.M.; Hillis, D.M. Resolution of phylogenetic conflict\n in large data sets by increased taxon sampling. Syst. Biol. 2006, 55, 522–529. Moreover, for the sake of\n the barcoding analyses, the choice of the outgroup will not affect the results, given that it will not change\n the relationships towards the tips of the tree."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "We understand why the reviewer would think that that would be beneficial. However, one has\n to keep in mind that we were not constructing a phylogenetic tree for all cyanobacteria but for single\n genera. In this case it is preferential to use a sister group that is more closely related to gain resolution\n within that group. e.g., Hedtke, S.M.; Townsend, T.M.; Hillis, D.M. Resolution of phylogenetic conflict\n in large data sets by increased taxon sampling. Syst. Biol. 2006, 55, 522–529. Moreover, for the sake of\n the barcoding analyses, the choice of the outgroup will not affect the results, given that it will not change\n the relationships towards the tips of the tree."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author15> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author15> <life5010050_perova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "The last paragraph of the discussion already included some comments on this issue. Now the\n paragraph has been expanded to provide a more detailed discussion on the possibility of using a DNA\n barcoding gap in cyanobacteria."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "The last paragraph of the discussion already included some comments on this issue. Now the\n paragraph has been expanded to provide a more detailed discussion on the possibility of using a DNA\n barcoding gap in cyanobacteria."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author16> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author16> <life5010050_perova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_perova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "We apologize for our carelessness in double checking the naming of the organisms and hope\n that we now eliminated all errors"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_perova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "We apologize for our carelessness in double checking the naming of the organisms and hope\n that we now eliminated all errors"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author17> <life5010050_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author17> <life5010050_perova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_perova.owl#author18> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -1,0 +1,33 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "However, being experts in their field the authors \nmight not be aware that for readers less familiar with the metabolism/physiology of archaea, the \nexamples are not always easy to follow, such as examples given on p. 7 starting line 196 (The main \ndifference here is between a ferredoxin-dependent and/or a NAD-dependent decarboxylation of \npyruvate into acetyl-CoA?/A few lines later when I read that \u201chalophilic archaea do not contain the \ncoenzyme methanopterin\u201d, I had to go back and reread the preceding sentences to get an idea of the \nargument.), p. 10 starting Line 299, and p. 12 starting Line 354."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "There is now available a great resource for the gene discovery in Haloferax volcanii (Kiljunen et al \n2014: BMC Biology). A comprehensive insertion mutant library has been generated for this model \narchaeon in order to facilitate gene discovery. This should be mentitioned and discussed in the text; i.e., \nhow this resource could be used to assign functions for genes."
+    },
+    "Author": {
+      "Author.2.1": "We have rephrased the four paragraphs where the referee found that the \ndescribed examples are not always easy to follow.",
+      "Author.2.2": "We have added a short \u201coutlook-type\u201d paragraph towards the end of the conclusions. In this \nparagraph we mention three approaches that will facilitate gene discovery, among them large-scale \nscreening techniques as exemplified by the insertion mutant library pointed out by the referee.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_2.1.1"
+    ]
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The largest concern is regarding the colocalization of IFITM3 and Rab11A. It seems (as the authors state) that these represent abortive events (Figure 7). Therefore the inclusion of the movie examining the colocalization of Rab11A GFP, IFITM3-SNAP, and labeled virion seems completely unnecessary. In addition, the movie does not provide any details on cellular features and a viewer is left wondering where the foci are coming from and going. This reviewer suggests removing the movie or alternatively including labels on the movie of cellular features and including a scale bar.",
+      "Reviewer_1.1.2": "Additional minor comments on the figures include:\na.    Supplemental figures should be included in the main text.",
+      "Reviewer_1.1.3": "b.    The NP stain in HSAEpCs is only shown to be cytoplasmic, inclusion of an uninfected control would demonstrate specificity of the staining. At later timepoints is the NP stain nuclear as expected, is this simply a delay in replication?",
+      "Reviewer_1.1.4": "c.    Labels or zoomed out images from those presented in Figure 3 and 7 are needed to orient the reader to where within a cell the colocalization is observed.",
+      "Reviewer_1.1.5": "d.     Figure 2B - Western blot examining levels of IFITM3 should include 24 hpi to correlate with the data presented in Figure 1."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Figure 1 should be labeled as to what treatments are used in panels A-E.  As it is now, the figure on its own cannot possibly be interpreted without the legend.",
+      "Reviewer_2.1.2": "Figure 2A:  The siRNA control should be shown.  qPCR is acceptable, but an IFITM3 Western would be better, particularly since the antibody is readily available.",
+      "Reviewer_2.1.3": "Figure 2B:  These data need to be improved.  The IFITM3 blot shows wide variability with no pattern from one hour to the next, and yet the conclusion is that there is no change in IFITM3 levels during this time period.",
+      "Reviewer_2.1.4": "Figure 3A:  Why is there so much IFITM3 present in the uninfected cells?  This does not appear to increase post infection as was shown previously.",
+      "Reviewer_2.1.5": "Figure 4: Uninfected control should be shown in the main text.",
+      "Reviewer_2.1.6": "Figure 4: Label the figure so that it can be interpreted independent of the legend.",
+      "Reviewer_2.1.7": "Figure 5A/C: Label the figure so that it can be interpreted independent of the legend.",
+      "Reviewer_2.1.8": "Figure 7:  I am not sure that this figure is a useful addition to the paper as it suffers from exactly the problems that the authors claim to overcome in their study, i.e., the use of overexpressed IFITM3 and an overexpressed Rab11 marker protein, both of which may show unnatural localization due to the overexpression.",
+      "Reviewer_2.1.9": "Lines 227/228:  This sentence is misleading as the references cited are not contradictory, nor are they unclear as to IFITM3 possessing antiviral activity.  Furthermore, the authors need to examine the literature more carefully, as previous studies have indeed shown that IFITM3 knockdown in A549 cells increases influenza virus infection, e.g., Lin, Cell Reports, 2013.",
+      "Reviewer_2.1.10": "Since this paper is primarily studying IFITM localization and clustering at endosomes/lysosomes it should reference studies in which endocytic localization motifs of the IFITMs were identified and characterized (Jia, Cell Microbiol, 2014; Chesarino, JBC, 2014; Li, JBC, 2015)",
+      "Reviewer_2.1.11": "Line 65 states that subsequent studies have failed to confirm an association between SNP rs12252 and severe influenza.  This may be true, but far more studies have confirmed this link than have refuted it. Further, the studies which failed to find an association were generally performed in populations in which the SNP is almost non-existent.  Additionally, a second SNP in the IFITM3 promoter has also been linked to severe flu. For a review of these studies, see Zani, Current Clin Microbiol Reports, 2018, though the primary articles should be cited.",
+      "Reviewer_2.1.12": "Lines 67-73  The inhibition of virus membrane fusion by IFITM3 has been attributed to the presence of a palmitoylated amphipathic helix within IFITM3 (Chesarino, EMBO Reports, 2017). This helix and neighboring palmitoylation sites are among the most highly conserved residues among IFITMs from all species.  Additionally, the role of cholesterol in IFITM3\u2019s mechanism of action has been largely disproven by the field, and reference 52 seems to have been misused in line 73.",
+      "Reviewer_2.3.1": "The authors have largely addressed my previous comments."
+    },
+    "Author": {
+      "Author.2.1": "Following the suggestion of this reviewer, we have removed the movie in the revised version.",
+      "Author.2.2": "We show indirect immunofluorescence analysis with anti-IFITM3 and anti-NP antibodies of HSAEpCs in Figure S6. No unspecific signal is detected in the cytosol of HSAEpCs, indicating that the observed cytoplasmic NP stain is specific.\nNuclear NP stain is detected at 10 h p.i., and this may indeed indicate delayed replication compared to A549 cells as suggested by the reviewer, but no direct side-by-side comparison of replication kinetics in different cells was performed.",
+      "Author.2.3": "We show indirect immunofluorescence analysis with anti-IFITM3 and anti-NP antibodies of HSAEpCs in Figure S6. No unspecific signal is detected in the cytosol of HSAEpCs, indicating that the observed cytoplasmic NP stain is specific.\nNuclear NP stain is detected at 10 h p.i., and this may indeed indicate delayed replication compared to A549 cells as suggested by the reviewer, but no direct side-by-side comparison of replication kinetics in different cells was performed.",
+      "Author.2.4": "The IFITM3 images were acquired in the cytosol distant from the nucleus and absent from the plasma membrane. We included this information in the respective figure legend of Figure 3 and 7.\nFigure 3: \u201cSTED images (raw data) show representative subcellular regions located in the cytosolic part distant from the nucleus and absent from the plasma membrane as used for cluster analysis.\u201d\nFigure 7: \u201cImages show regions located in the cytosolic part distant from the nucleus and absent from the plasma membrane.\u201d",
+      "Author.2.5": "We now include the Western Blot analysis suggested by the reviewer as Figure S2B and thank the reviewer for suggesting this important control.",
+      "Author.2.6": "We have made the suggested changes.",
+      "Author.2.7": "We now include an immunoblot showing IFITM3 levels in whole-cell lysates from A549 wildtype and IFITM3 knock-down cells as Figure S1D.",
+      "Author.2.8": "To address the reviewer\u2019s concern, we performed statistical analysis of three independent experiments shown in Figure 2B, lower panel. Statistical analysis of mean values of the determined protein amount for IFITM3 shows no statistically significant differences (e.g. p-value of 6 h pi compared to control is 0.5224).\nWe included this information in the figure legend of Figure 2.",
+      "Author.2.9": "We have not made this change as we show that the anti-NP antibody is highly specific and shows negligible signal in the uninfected controls in Figure 1A. A representative example of non-infected HSAEpC is shown in the supplement. If this is not acceptable we will make the changes in final revision.",
+      "Author.2.10": "We have not made this change as we show that the anti-NP antibody is highly specific and shows negligible signal in the uninfected controls in Figure 1A. A representative example of non-infected HSAEpC is shown in the supplement. If this is not acceptable we will make the changes in final revision.",
+      "Author.2.11": "We have made the requested changes.",
+      "Author.2.12": "We have made the requested changes to figure 5A/C and Figure 7.",
+      "Author.2.13": "We used a fluorescently tagged Rab11 because the anti-Rab11 antibodies were not sufficient to label recycling endosomes. However, IFITM3 is detected at native levels and this compromise allowed us to evaluate its localization. Overexpressed IFITM3 was only used for the live cell microscopy shown in the movie, which has now been removed (see reply to reviewer 1).",
+      "Author.2.14": "Based on the reviewer\u00b4s suggestion, we have now included again the reference showing the infection increase of IAV in A549 IFITM3 knockdown cells and have changed the wording to make the statement clearer.\n\u201cThe mechanism by whichIFITM3 impedes IAV infection was divergent in previous studies and inhibition was mostly described upon IFITM3 over-expression [37, 38, 51]. It was demonstrated that IFITM3 knockdown in A549 cells increases infection rate [37].\u201d",
+      "Author.2.15": "All the references have been added and we now include this aspect of the IFITM3 mechanism in the discussion of the paper. We thank the reviewer for the comment.",
+      "Author.2.16": "Lines 61 ff. were changed pointing out the relevance of SNP rs12252-C and SNP rs34481144-A. References have been added.",
+      "Author.2.17": "We thank the reviewer for pointing out the inaccuracy in the references. The statement \"...IFITM3 elevates the level of cholesterol on late endosomes and lysosomes thereby restricting early IAV infection\" is based on the publication of K\u00fchnl et al. 2018 (mBio). The reference was replaced.\nWe have also complemented the introductory part with the aspect of fusion inhibition through the amphipathic helix of IFITM3.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_2.1.10"
+    ],
+    [
+      "Author.2.16",
+      "Reviewer_2.1.11"
+    ],
+    [
+      "Author.2.17",
+      "Reviewer_2.1.12"
+    ],
+    [
+      "Reviewer_2.3.1",
+      "Author.0.0"
+    ]
+  ]
+}

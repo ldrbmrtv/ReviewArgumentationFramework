@@ -1,0 +1,318 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "However, their parameterization of the bending modulus is not acceptable because it leads to an unreasonably large (0.5 metre) persistence length for a bacterial trichome. As a result, I do not recommend that this paper should be published in its current form.",
+      "Reviewer_1.1.2": "The literature seems to indicate a low value of the bending modulus (alpha) that corresponds to a \npersistence length of 500 microns. The authors instead use alpha = 2 \u00d7 10\u221221 Nm2, which is 1000\u00d7\nlarger. With this value, the persistence length = alpha/(kbT) = 0.5 metres. This seems orders of magnitude too large, especially in the face of the results of Boal and Ng [44]. The authors need to be in a physical regime of parameter space in order to confront their results with observed patterns. \nOtherwise, they are just fitting a non-linear phenomenon with a (potentially inappropriate) non-linear model\u2014 in this case agreement does not provide firm insight into the physical system.",
+      "Reviewer_1.1.3": "In Section 3.3 the authors describe how an increase in system size indicated that one of the results presented earlier in the paper (at beta = 0.5) was an artifact of a smaller system size. This brings into question all results at the smaller system size, potentially including all the quantitative results of the \npaper. The authors should be able to argue that the other results will not depend on system size. The correlation length in Figure 3b is by eye more than the system size, indicating a potential qualitative change with increasing system size (which the authors find). The correlation length in other figures \nis less than the system size, indicating that they may be fine. The authors need to add some of this \ndiscussion to reassure the reader.",
+      "Reviewer_1.1.4": "The authors find that results at beta = 0 are most similar to the experimental reticulate patterns. In the force model, there are three forces: elastic, gliding, and contact/cohesion. The contact/cohesion force is presented in equation 12, and is proportional to epsilon. After Equation 23, the authors define beta = epsilon/(zeta\u22c5v0), implying that there will be no contact/cohesion forces when beta = 0. \nHowever, in the results of Figures 3, 4, and 5 the results for beta = 0 clearly show interactions between the filaments. The fourth paragraph of section 2.9 describes a hard-core interaction, which appears to be the source of the patterns when beta = 0. This hard-core interaction should be \nmentioned after Equation 12, since it is not simply an implementation issue but the dominant interaction with beta = 0.",
+      "Reviewer_1.1.5": "All the results depend on the cohesion forces, which are described by a Lennard\u2013Jones function in Equation 12, in Section 2.5. However, this way of approximating cohesion is not well justified, and in Section 2.9 (several sections later) the authors mention that in reality the attractive force \u201cdoes not really exist\u201d and that the trichomes cohere after contact. The authors are using an LJ interaction to approximate contact adhesion. They should say why, and address how good of an approximation \nthey expect this to be.",
+      "Reviewer_1.1.6": "In Section 2.4, it is stated that a stochastic process determines P, but no details are given. There should be some description, if brief, for this process. What distribution is used?",
+      "Reviewer_1.1.7": "The authors mention in the discussion that they may get stronger results for a deeper system, or for trichomes that may only glide freely near a surface or other trichome. In terms of the understanding gained from the modelling/simulations, how would these lead to qualitative changes in the observed patterns?",
+      "Reviewer_1.1.8": "The viscosity mu = 1 Pa s is used. This value is approximately 1000 times higher than the viscosity of water, which is the environment of filamentous cyanobacteria. A reference is given, but there should also be a brief justification in the text.",
+      "Reviewer_1.1.9": "The authors do not include a description of the reaction force for the top and bottom planes. A brief explanation would be appropriate.",
+      "Reviewer_1.1.10": "None of the references at the end of the paper contain journal volume or page numbers. They should.",
+      "Reviewer_1.1.11": "In general, and especially in the introduction, many statements are made without accompanying references.",
+      "Reviewer_1.1.12": "There are supplemental movies attached. These are not referred to in the text.",
+      "Reviewer_1.3.1": "At the end of the discussion of the bending modulus (in Section 2.8, on page 11), the implied \npersistence length and the irrelevance of thermal fluctuations should be explicitly mentioned.",
+      "Reviewer_1.3.2": "In Section 4, the discussion section of the paper, the topic of the bending modulus is returned to for \na paragraph. This paragraph needs to explicitly address why the measurements of Boal and Ng were \nnot used, i.e., why Boal and Ng misinterpreted their data. In particular the authors should suggest \nhow the measurements are significant measurements to not use. In particular this paragraph needs to suggest how the measurement should be done to properly test their suggested values for the bending \nmodulus, and so resolve the disagreement with Boal and Ng."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "(1) Notation:\n\u2022 L is used both for the length of the trichome Nl and in the non-dimensionalization as \u03b1 \u03bd \u03b6",
+      "Reviewer_2.1.2": "\u2022 I have never seen ,\u22c5 \u22c5 used to define an edge. It looks like an inner product. Is this standard?",
+      "Reviewer_2.1.3": "\u2022 In Equations (5)\u2013(8), is there any difference between subscripts and superscripts?",
+      "Reviewer_2.1.4": "\u2022 It is confusing that \u03bab is a vector that is not simply related to b. I initially thought that \u03ba was a new parameter. Similarly, it is odd that e is a vector and [e] is a matrix. Why not use the\nLevi\u2013Civita tensor?",
+      "Reviewer_2.1.5": "\u2022 \u02c6h looks like a unit vector parallel to h. Is there a reason that h only has a \u02c6\u22c5 in Equation (12)?",
+      "Reviewer_2.1.6": "Walter (ref 7) describes the formation of \u201cclumps\u201d which are very similar to the structures describes by Shepard. Shepard and Sumner provide better images (Walter only shows sketches), but it might be worth mentioning that the phenomenon is more general. As I recall, Petroff et al.\n(ref 13) show similar patterns.",
+      "Reviewer_2.1.7": "In the force balance, the drag coeffcient is assumed to be the viscosity of water. Since the cells glide over a surface and next to other cells, it would seem that cell\u2013cell friction and cell\u2013surface friction might be at least as important as hydrodynamic drag. What about the viscosity of the material used in the \u201cslime jet\u201d?",
+      "Reviewer_2.1.8": "Following Equation (13), it is stated that \u201cThe interpolation ensures the net force and net torque of the interaction forces are null\u201d. This confuses me so I suspect that I have misunderstood something. In an overdamped system, such as this one, all forces and torques are balanced by drag \non the cell. Is this all that is happening in this derivation? The text reads like certain forces and torques are assumed to vanish. Are these forces and torques introduced by the interpolation and the parameterization is chosen to cancel artifacts? Or, are there internal forces and and torques \nacting on the vertices that cancel as a result of Newton\u2019s second law? Please clarify this point.",
+      "Reviewer_2.1.9": "In the estimation of the Young\u2019s modulus it is assumed that the bending resistance is due to the cell wall. I suspect that this is a very poor approximation, accounting for the two order of magnitude difference between the estimated and benchmark values of Y. It would seem that the resistance is controlled or at least influenced by additional factors such as protein expression (notably MreB) and osmotic pressure. If my intuition is wrong (I am not an expert on cell morphology), I would appreciate knowing why.",
+      "Reviewer_2.1.10": "If I understand correctly, there are six important length scales in the problem, the size of the \ndomain DH , the spacing between trichomes \u03c1\n\u22121\n3 , 0\n, , L l \u03b1\n\u03bd \u03b6 = \u0398, and the trichome length \nL = Nl (also denoted L in the manuscript), giving five dimensionless numbers. However, in the \nnon-dimensionalization, the authors state that there are only two parameters: \u03c1 and Nl \u03b3 \u03b8 = . \nUnless I am mistaken, there are additional parameters like l/L, Nl/D, and N that the authors hold\nfixed but may influence the details of the numerics.",
+      "Reviewer_2.1.11": "It seems a little odd to posit an attractive force in the derivation (Equation (12)) and then ignore/dismiss it in the numerics (\u201c\u2026 in reality the attractive force does not really exist, trichomes only cohere after they have come into contact\u201d page 12). Clearly, this is done to (quite reasonably) \navoid modeling steric interactions with hard bodies. It was a little distracting to think that sticky adhesion was decaying like 6 ( ) h \u0398 . Perhaps note after Equation (12) that the attractive force decreases to zero at a finite distance in the numerics.",
+      "Reviewer_2.1.12": "The parameter space is rather large, and only a small subspace is explored in the numerics. This is fine, but it leaves a lot of interesting questions un-addressed. For example, is the transition from broad streams (Figure 4a) to loops (Figure 4d) continuous or are there bifurcations/phase \ntransitions?",
+      "Reviewer_2.1.13": "Can you coarse grain this model to make it analytically tractable? The basic phenomena suggest \nsomething like an active shear-thinning uid? This would make it easier to understand the bifurcations in \nthe dynamics and may require fewer parameters. Just something to think about.",
+      "Reviewer_2.1.14": "In this model, the density of cells is assumed to be constant. However, the timescale of the simulations is comparable to the doubling time of many bacteria. Because cell density is found to be important in determining the morphology of communities, I suspect that reproduction is important in understanding the patterns. This point might be worth addressing in the text.",
+      "Reviewer_2.1.15": "Notably, the introduction of reproduction does not introduce another parameter. As I recall, these \ncyanobacteria reproduce (with doubling time \u03c4 ) by adding cells to the filament and that filaments \nperiodically break (rate k+). Thus, the length of a filament is not a model parameter. Rather, length is \ndetermined dynamically as ~ N k \u03c4 +",
+      "Reviewer_2.1.16": "This project would benefit immeasurably from a quantitative comparison to experiments. \nI understand that this is beyond the scope of this paper, but I strongly encourage future work in \nthis direction.",
+      "Reviewer_2.1.17": "In the introduction, this project is put into the context of stromatolites. In the \ndiscussion/conclusion, I would appreciate to hear the authors thoughts on what this model teaches \nus about stromatolites. In the current form I am left to conclude only that communities of\nfilamentous bacteria can develop reticulated patterns similar to forms observed in the fossil record. \nThis conclusion does not offer much more than Shepard\u2019s experimental observation of this result. \nCan we use the details of this model to, for example, estimate the cohesion \u03b2 of ancient cells? Do \nthese results provide any insight into the identity of stromatolite building cells. As far as I can tell, \nnothing in this model suggests that photosynthesis (much less oxygenic photosynthesis) is \nrequired to form these patterns. It seems that this model shows that polygonal patters are a generic \nfeature of elongated gliding cells and is independent of metabolism. A quick google search \nproduced this video of mat of the sulfur-oxidizing bacteria Beggiatoa spp. \nhttp://vimeo.com/57205513 (note: I have no idea of the details of these observations so any \nsimilarity may be spurious)."
+    },
+    "Author": {
+      "Author.2.1": "In the paper we justify (at some length) the bending modulus we used, which we extrapolated from \nvarious sources, and explain why we believe the value in Boal and Ng\u2019s study is likely too low. The \nreviewer did not question the logic or the sources used to arrive at this value, but nevertheless seemed \nsurprised at the result. The reviewer claims that the parameter falls outside of the physical regime, but \ndoesn\u2019t offer a justification other than that the implied persistence length \u201cseems too large\u201d. However, \nthe large persistence length simply implies that the cyanobacteria are stiff enough that they are largely \nunaffected by thermal fluctuations. Despite this, the trichomes in our simulations are still quite flexible \nin practice, as can be seen in Figure 4. Even if the virtual trichomes are somewhat too stiff, we do not feel \nthat this would have a major impact on the results.",
+      "Author.2.2": "We added the following statement to the end of Section 3.3: \n\u201cThe simulation results of the previous section for \u03b2 > 0.5 are unlikely to be affected by the domain \nsize, however, since the features in those simulations are on a much smaller scale than the domain size \nand are also more chaotic, as seen in the correlation length and the global alignment (Figure 5a,d).\u201d",
+      "Author.2.3": "We added the following clarification to the end of the non-dimensionalization section:\n\u201cIn the subsequent sections, simulations for \u03b2 = 0 use a modified interaction force such that there is \nno cohesion, but the hard core repulsion is maintained, i.e., F0\nc = 0 for h \u2265 0 , otherwise \n0\nc c F F = with \u03b2 = 0.125.\u201d",
+      "Author.2.4": "We added two references to justify using the Lennard\u2013Jones potential.",
+      "Author.2.5": "We added the following clarification: \u201cThis is simulated by generating a pseudo-random number x\nfollowing a uniform distribution X ~ U(0,1), and reversing the gliding direction if x < \u03c9\u22c5\u2206t.",
+      "Author.2.6": "We amended the following sentences of the discussion:\n\u201cThese differences may be due to the fact that we use a shallow domain (7.5 microns) to reduce the \nsimulation run time, which may cause the pattern to be \u201csquashed\u201d as the domain ceiling prevents \nridges from growing vertically\u201d\n\u201cRestricting the virtual trichomes such that they may only glide when in contact with the \nsubstratum or another trichome may promote further aggregation of the trichomes from streams into \nridges, as a trichome would be less likely to successfully break away from a stream because it would \nlose much of its propulsive force as it lost contact with neighboring trichomes and/or the substratum.\u201d",
+      "Author.2.7": "We added the following sentence to Section 2.4:\n\u201cGliding requires contact with some (semi-)solid substrate in order to provide a reaction force to \nthe gliding mechanism. We assume that the trichomes are immersed in highly viscous medium \nthat allows them to glide freely in all directions. This medium could consist of the EPS the \ntrichomes produce copiusly when gliding [Hoiczyk2000].\u201d",
+      "Author.2.8": "The exact force is now given.",
+      "Author.2.9": "The bibliography now has volume and page numbers.",
+      "Author.2.10": "The reviewer did not provide any examples where he/she felt a reference was warranted. We cited 55 sources, which we feel offers reasonable background and justification for our assumptions.",
+      "Author.2.11": "References to the movies were added to the results section.",
+      "Author.2.12": "The symbol used to denote trichome length was changed to an uppercase lambda. The ,\u22c5 \u22c5 is often \nused to denote a tuple in computer science, in this case a pair. The superscripts should have been \nsubscripts. The notation used in Equations (5)\u2013(8) was adopted from Bergou et al\u2019s paper. h-hat is in \nfact a unit vector parallel to h, and we\u2019ve clarified the text to this point.",
+      "Author.2.13": "The symbol used to denote trichome length was changed to an uppercase lambda. The ,\u22c5 \u22c5 is often \nused to denote a tuple in computer science, in this case a pair. The superscripts should have been \nsubscripts. The notation used in Equations (5)\u2013(8) was adopted from Bergou et al\u2019s paper. h-hat is in \nfact a unit vector parallel to h, and we\u2019ve clarified the text to this point.",
+      "Author.2.14": "The symbol used to denote trichome length was changed to an uppercase lambda. The ,\u22c5 \u22c5 is often \nused to denote a tuple in computer science, in this case a pair. The superscripts should have been \nsubscripts. The notation used in Equations (5)\u2013(8) was adopted from Bergou et al\u2019s paper. h-hat is in \nfact a unit vector parallel to h, and we\u2019ve clarified the text to this point.",
+      "Author.2.15": "The symbol used to denote trichome length was changed to an uppercase lambda. The ,\u22c5 \u22c5 is often \nused to denote a tuple in computer science, in this case a pair. The superscripts should have been \nsubscripts. The notation used in Equations (5)\u2013(8) was adopted from Bergou et al\u2019s paper. h-hat is in \nfact a unit vector parallel to h, and we\u2019ve clarified the text to this point.",
+      "Author.2.16": "The symbol used to denote trichome length was changed to an uppercase lambda. The ,\u22c5 \u22c5 is often \nused to denote a tuple in computer science, in this case a pair. The superscripts should have been \nsubscripts. The notation used in Equations (5)\u2013(8) was adopted from Bergou et al\u2019s paper. h-hat is in \nfact a unit vector parallel to h, and we\u2019ve clarified the text to this point.",
+      "Author.2.17": "We added a few sentences to the introduction that expand a bit on similar structures in the Petroff \nand Walter references.",
+      "Author.2.18": "Actually, as Reviewer 1 noted, we use a viscosity that is 1000 times greater than that of water \n(following Wolgemuth et al. 2005), for the very reasons the reviewer mentioned.",
+      "Author.2.19": "The statement has been clarified and is now: \u201cThe sum of the interaction\u2019s opposing forces and torques is zero, thereby ensuring Newton's third law is respected.\u201d",
+      "Author.2.20": "Our estimate is simplistic, however we were unable to find a reliable measurement of this parameter \nin the literature, and so we resorted to some simple extrapolations.",
+      "Author.2.21": "There are indeed additional parameters. We have added a complete list to Section 2.8. Many are \nexplored to some extent in the results (beta, reversal frequency, domain dimensions, trichome density), whereas most of the physical characteristics of the trichomes are known from published \nsources (diameter, length, gliding speed, bending modulus), and finally N was simply chosen so that \ntrichomes had a \u201csmooth\u201d appearance.",
+      "Author.2.22": "To avoid confusion on this point we have replaced this statement with the following: \u201cWe find that \nthese errors are infrequent and acceptable as a trade-off for increased computational performance.\u201d\nWe have also added a comment to Section 2.5 regarding the Lennard\u2013Jones interaction: \u201cThe \nattractive force has a short range, and is practically zero at h = 2\u03b8.\u201d",
+      "Author.2.23": "It would be interesting to explore the approach the reviewer suggested; we have not yet explored \nmore coarse grained models.",
+      "Author.2.24": "It would be interesting to explore the approach the reviewer suggested; we have not yet explored \nmore coarse grained models.",
+      "Author.2.25": "Shepard et al. claim that the formation of the reticulate pattern occurs on a faster scale than cell \ngrowth and division, and so we did not consider this in our model. Including this might make the \nresults more robust, however, and we added a comment to the discussion.",
+      "Author.2.26": "Shepard et al. claim that the formation of the reticulate pattern occurs on a faster scale than cell \ngrowth and division, and so we did not consider this in our model. Including this might make the \nresults more robust, however, and we added a comment to the discussion.",
+      "Author.2.27": "We had plans to include a quantitative comparison, however we were not able obtain a good dataset \nfor doing so. It would be interesting to replicate Shepard\u2019s experiments taking care to collect enough \ngood quality images/movies for a quantitative analysis on the patterns.",
+      "Author.2.28": "Replicating Shepard and Sumner\u2019s results was our primary objective for this paper, as we state in \nthe discussion. In future work we would like to increase the scale of the simulations by adding more \ntrichomes and a deeper domain to (hopefully) get more robust reticulate formation. We would also \nlike to do a quantitative analysis on experimental data to in order to fit the model to the data. Finally, \nwe would like to see whether this same minimal system plus photomovement is sufficient to \nproduce the cone-shaped structures documented by Walter, Petroff and others. If successful, we \ncould then link macroscopic features of similar stromatolites back to the parameters of the \ntrichomes, as well as understand the contribution of each factor in the model to building these \nstructures. We have added this explanation to the conclusions section.",
+      "Author.4.1": "We added the following sentence to the end of Section 2.8:\n\u201cThis value corresponds to a persistence length of 0.49 m, which implies that the trichomes would \nbe practically unaffected by thermal fluctuations.\u201d",
+      "Author.4.2": "We added the following paragraph to the discussion:\n\u201cMany of the model parameters, such as trichome length, diameter, gliding speed, reversal \nfrequency, etc. are easily measured and are well known. However, the bending modulus is more \ndifficult to measure directly. We attempted to use the bending modulus implied from the relation \n\u03b1= kBT \u03b5 and Boal and Ng\u2019s (2010, p. 4625) measurements of the trichome persistence length, but \nthe resulting value seemed too low compared to measurements of other bacteria and in practice the \nvirtual trichomes appeared flaccid during simulations. It is possible that the flexure seen in Boal \nand Ng\u2019s trichomes was due more to the motility of the trichomes than random thermal \nfluctuations, in which case the above relation would no longer be valid, and a more complex model \nwould be required to associate the observed geometry of the trichomes to their bending modulus. \nFor example, Wolgemuth (2005) used an elastic model to estimate the bending modulus of \nM. xanthus by fitting the model to the flailing motions of a Myxobacterium stuck at one end.\u201d",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.14",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.15",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.16",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.17",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.9"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_1.1.10"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_1.1.11"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_1.1.12"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.16",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.17",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.18",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.19",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.20",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.21",
+      "Reviewer_2.1.10"
+    ],
+    [
+      "Author.2.22",
+      "Reviewer_2.1.11"
+    ],
+    [
+      "Author.2.23",
+      "Reviewer_2.1.12"
+    ],
+    [
+      "Author.2.24",
+      "Reviewer_2.1.13"
+    ],
+    [
+      "Author.2.25",
+      "Reviewer_2.1.14"
+    ],
+    [
+      "Author.2.26",
+      "Reviewer_2.1.15"
+    ],
+    [
+      "Author.2.27",
+      "Reviewer_2.1.16"
+    ],
+    [
+      "Author.2.28",
+      "Reviewer_2.1.17"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.3.2",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.1",
+      "Reviewer_1.3.1"
+    ],
+    [
+      "Author.4.2",
+      "Reviewer_1.3.2"
+    ]
+  ]
+}

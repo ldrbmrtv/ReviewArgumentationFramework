@@ -1,0 +1,32 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;I would like to suggest authors label inoculation points in Figure 1, which could give readers a clear view of three different inoculation methods.
+Reviewer 1;Author;1;2;0;Line 142: “proportion of PPSD” should be “proportion of PSD or PPSD”.
+Reviewer 1;Author;1;3;0;Line 143: “PPSD-premature spike death” should be “PPSD-proportion of premature spike death”.
+Reviewer 1;Author;1;4;0;Lines 168 - 169: Should it be that DON content of most lines without Fhb1 exceeded 1000 µg/kg under UBFI? Where is 4224.38 µg/kg in Table 1? Do you mean in Table S1?
+Reviewer 1;Author;1;5;0;Lines 411 & 413: “PPSB” should be “PPSD”.
+Reviewer 1;Author;1;6;0;Table S1: “PPSD - premature spike death” in the footnote should be “PPSD - proportion of premature spike death”.
+Reviewer 1;Author;1;7;0;Fhb1- and Fhb1+ don’t appear in Table S1, so they can be removed from the footnote.
+Reviewer 2;Author;1;1;0;"I would suggest to avoid citing supplementary figures at the beginning of the chapter.
+See for example chapter 2.4. Given that 2.4 chapter discusses data of supplementary figure 4 I would suggest to make figure S4 as Figure 4 of the manuscript."
+Reviewer 2;Author;1;2;0;To futher clarify the infection methods a supplementary figure detailing graphically the modes of inoculation with figures would make the paper extremely useful for the community
+Reviewer 2;Author;1;3;0;Identity of the strain used for infection should be confirmed: a multilocus species characterisation is needed to confirm the species of the strain or a reference to a publication where the strain was described and appropriately characterised.
+Reviewer 2;Author;1;4;0;Mycotoxin data analysis should be provided (I guess is policy of mdpi to make raw data available together with the publication)
+Author;Reviewer 1;2;1;1;Thanks! the inoculation points were labeled with the red arrows in Figure 1 as suggested.
+Author;Reviewer 1;2;2;2;Sorry for carelessness. We corrected it as suggested. (Pag.4 Line 157)
+Author;Reviewer 1;2;3;3;Thanks. We revised the expression in the footnote of Table 1. (Pag.4 Line 158)
+Author;Reviewer 1;2;4;4;"Thanks. we revised the sentence as “DON content of most lines without Fhb1 exceeded 
+1000 μg∙kg-1 under UBFI method (Figure 2), with the highest reaching 4224.38 μg∙kg-1
+(Table S1)”. 
+(Pag.5 Line 184-186)"
+Author;Reviewer 1;2;5;5;Thanks. We corrected it. (Pag.11 Line 441 & 443)
+Author;Reviewer 1;2;6;6;Thanks. We revised the expression in the footnote of Table S1.
+Author;Reviewer 1;2;7;7;Thanks. We revised the annotations in Table S1.
+Author;Reviewer 2;2;1;1;"Thanks! We agree with the reviewer’s comments and make Figure S4 as Figure 4 in this 
+revised version."
+Author;Reviewer 2;2;2;2;Thanks! We marked the inoculation sites with red arrows in Figure 1.
+Author;Reviewer 2;2;3;3;"Thanks! We added more details about the strain and cited the following paper. (Pag.10 
+Line 402-403)
+Zhang, Y.; Li, A.; Zhu, S.; Li, L.; He, X.; Sun, Z.; Li, T. Basal Rachis Internode Injection (BRII): A novel 
+inoculation method to evaluate wheat resistance to Fusarium head blight. Phytopathology, 2021, 111, 
+1670-1674, doi:10.1094/PHYTO-11-20-0488-R."
+Author;Reviewer 2;2;4;4;Thanks! We uploaded the raw mycotoxin data as suggested.

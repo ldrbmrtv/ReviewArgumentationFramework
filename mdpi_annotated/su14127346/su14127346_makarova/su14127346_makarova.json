@@ -1,0 +1,165 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "1- need to update the literature review with recent studies",
+      "Reviewer_1.1.2": "2- Please add a theoretical background section",
+      "Reviewer_1.1.3": "3- What are the policy implications of your study",
+      "Reviewer_1.1.4": "4- Add discussion of results section and relate your results with theories."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "\"To the best of our knowledge, this is the only study that addresses the role of economic and political uncertainty as a moderator in a model that accounts for the dynamic patterns of firm environmental performance\" (line 128). --> I believe the authors intended \"moderating role.\"",
+      "Reviewer_2.1.2": "The authors could go into greater detail to explain the logic behind this relationship. As it stands, the paper offers little insight into the reasoning behind their hypothesis.",
+      "Reviewer_2.1.3": "It would be useful if the authors provided some speculative thoughts on the finding that the slope of the GenDiv variable is negative in highly uncertain countries on the firm's environmental performance (Figure 3 (c) red line)."
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "1- In lines 28 and onwards, you argue a lack of literature looking at dynamic (GMM) analysis of the role of female on CSR and ESG issues, but fail to mention some examples. Please provide some, and position your work in that (brief) strand of literature. One example you should consider is Gaio, C., & Gon\u00e7alves, T. C. (2022). Gender diversity on the board and firms\u2019 corporate social responsibility. International Journal of Financial Studies, 10(1), 15.",
+      "Reviewer_3.1.2": "2- Please revise if it makes sense to present your research hypothesis in the introduction.",
+      "Reviewer_3.1.3": "3- Please reconsider the use of adjectives such as \"complicated\" (line 79), interestingly (line 88) and so on.",
+      "Reviewer_3.1.4": "4- What do you mean by \"in the crowd\" (line 141). Please revise carefully english for clarity.",
+      "Reviewer_3.1.5": "5- Please revise your data: your max tangibility is over 2 (which means that Net PP&E, a subset of Assets, is 2 times those same Assets - this should be a typo. Similar problems might exist for a negative tobin's Q.",
+      "Reviewer_3.1.6": "6 - In line 192 you mention \"all the sectors\". But you are working one sector only, aren't you?",
+      "Reviewer_3.1.7": "7- Explain your sentences in lines 242-244. What did you do specifically?",
+      "Reviewer_3.1.8": "8- Lines 330 and onwards are presenting conclusions that are not warranted by the results and the english is a bit strange (what do you measnby \"households' anxiety\"?). Similar problems stem from the following paragraphs discussing the results."
+    },
+    "Author": {
+      "Author.2.1": "We added more coherent theoretical arguments to the discussion based on the most recently published relevant academic papers on the topic (lines 125-133, 153-158, 442-452). The incorporated studies include Yarram and Adapa (2021), Boukattaya and Omri (2021), Shakil (2021), Wang, Wilson & Li, (2021), Cordeiro et al 2020, Birindelli, et al. (2019), and Nuber & Velte (2021). In total, the list of references increased from 21 to 36. The details of these studies and the logic behind their inclusion are explained in the text (pages 3 and 4).\nFor the quantitative papers, our guiding line is the inclusion of papers proposing a reliable strategy to address the problem of endogeneity characterizing virtually all studies dealing with gender diversity. In a nutshell, gender diversity and firms\u2019 performances (be they financial, ESG or environmental) have reverse causality. More gender-diverse boards are found to improve firms\u2019 performances, and at the same time, better performing firms are more attractive to females. Any study incorporating these two variables would suffer from endogeneity. Therefore, inference and results are biased. Finding an instrument for gender diversity becomes a concern of first importance. The task is challenging as all potential candidates for being a suitable instrument should be already part of the regression equation. So far, the literature has not found an instrument unanimously agreed upon. This is the reason for which our selection of papers is rather limited. We focused on those papers with a choice of instrumental variables that are well explained and papers that \u2018\u2019go around\u2019\u2019 the problem by making use of a method that does not rely on external instruments. This includes papers using difference-GMM or system-GMM estimators. Their principal advantage is the use of internal instruments instead of external ones. Indeed, the instruments chosen are difference and the level of the covariates themselves. There are only a few of these studies available, including ours. This again explains the relatively restricted number of references we are considering.",
+      "Author.2.2": "Initially, we opted for integrating the theoretical background disseminated throughout the text to connect to the findings of related papers and to avoid redundancy and repetition. Changes that we incorporated in response to this comment improve the overall theoretical framework of the paper, including concepts, definitions and links to relevant literature. We also articulated theoretical assumptions and added a comprehensive discussion of the observed phenomena. Specifically,  we added critical mass theory discussion in the literature review section (lines 125-132). We added interpretation of corresponding results in the findings and discussions section (lines 445-452) and the conclusion section (lines 482-503). These changes in addition to the existing discussions of theories and concepts significantly improve the theoretical background of the paper.",
+      "Author.2.3": "We answered this comment along different dimensions. We revise and elaborate on the explanation and interpretation of the results. We provide further explanations on the ways political and economic uncertainty shapes the relationship between corporate board gender diversity and firms\u2019 environmental performance. We also emphasize the policy implications of these findings (lines 453-462, 497-503). To better reflect the policy implications of the study, we incorporate changes that are diffuse through the text. In particular, we argue that promoting gender diversity cannot deliver its full potential, and may even lead to adverse results unless it is accompanied by measures that mitigate political and economic uncertainty. These measures would create an enabling environment both for households and entrepreneurs. Such measures should increase agents\u2019 confidence, dump their willingness to invest and expand the activity by reducing their aversion to risk. The accompanying measures should primarily target building and strengthening institutions to unlock this potential. Institutions are a defence against uncertainty. They contribute to anchoring economic agents\u2019 expectations and stabilize the economy.\nWe also elaborate on the finding of the critical mass theory. This result suggests that a very effective way to improve environmental quality and mitigate the adverse effects of economic activities is to encourage gender diversity in corporate boards in countries with low uncertainty where we find a higher impact on firms\u2019 environmental performances. In these countries, the margin for progress is large and the effect of improving gender diversity in corporate boards materializes more easily and at lower costs, as these countries are far from their efficiency frontiers (lines 445-461 and 482-503).",
+      "Author.2.4": "We addressed your suggestion to improve arguments and discussion of findings by revising existing and adding new paragraphs better explaining regression coefficients that demonstrate how political and economic uncertainty shapes the relationship between corporate board gender diversity and firms\u2019 environmental performance. (Lines 379-389).\nFurthermore, we added supporting arguments disseminated across the text (particularly in lines 348-361, lines 379-389, etc). These relate our finding to theory. We focus here on the attitude towards risk and uncertainties. The related theory posits that females\u2019 attitude when facing uncertainty is different from males. Women on corporate boards tend to be more risk-averse and lean more toward conservatism in uncertain environments. They tend to exhibit a strong inclination to wait until the uncertainty is resolved before making major business decisions. Therefore, the more females there are on corporate boards, the higher their weight in the board decisions would be, and by the same token, the higher the effect of uncertainty on firms\u2019 decisions.\nMoreover, we also relate our findings to the critical mass theory, suggesting that the impact of gender diversity on the environmental performances of firms materializes only when a critical mass weight of females is realized in corporate boards (Konrad et al. 2008, Torchia et al. 2011, Schwartz-Ziv, 2017- page 12, lines 445-451).",
+      "Author.2.5": "Absolutely. Changed accordingly (line 160).",
+      "Author.2.6": "We answered this comment along different dimensions. We revise and elaborate on the explanation and interpretation of the results. We provide further explanations on the ways political and economic uncertainty shapes the relationship between corporate board gender diversity and firms\u2019 environmental performance. We also emphasize the policy implications of these findings (lines 453-461, 487-496).\nIn addition, we add more theoretical arguments to the discussion based on the most recently published academic papers on the topic. (Lines 421-452)",
+      "Author.2.7": "To address this comment, we added supporting arguments disseminated across the text (particularly in lines 348-361, lines 421-428, etc). These explain the finding you are referring to by attitude towards risk and uncertainties. The related theory posits that females\u2019 attitude when facing uncertainty is different from males. Women on corporate boards tend to be more risk-averse and lean more toward conservatism in an uncertain environment. They tend to exhibit a strong inclination to wait until the uncertainty is resolved before making major business decisions. Therefore, the more females there are on corporate boards, the higher would be their weight in the board decisions, and by the same token, the higher would be the effect of uncertainty on firms\u2019 decisions.",
+      "Author.2.8": "The literature on the relationship between gender diversity and environmental performances of firms \nthat addresses dynamic endogeneity is rather limited. We mention Gaio and Gon\u00e7alves (2022), Lu \nand Herremans (2019), Kassini et al (2016), Silla, et al (2016) that opt for a dynamic modelling using\na System-GMM estimator. This estimator is particularly suitable to panels with large number of \nindividual and few time periods, which the case for our paper. Moreover, it accommodates situations \nwhere the independent variable changes slowly (Antoniou et al., 2008). To keep a good flow in the \ntext, we only mention these papers in the introduction section. We elaborate further on them in the \nliterature review section. We describe their main purpose and explain how our analysis departs from \nthem.",
+      "Author.2.9": "Thanks for the Suggestion. We highlighted the research hypothesis by moving it the introduction. \nWe also added another hypothesis. The first relates to the very existence of a relationship between \ngender diversity on corporate boards and firms\u2019 performances. The second, deals with the intensity \nand shape of this relationship. We believe, this adds a deal of clarity to the text and purpose of the \npaper.",
+      "Author.2.10": "We reviewed all the text and changed wording in different parts of the text.",
+      "Author.2.11": "We initially meant, among all these papers, there is one that\u2026 We rephrased this sentence and \nreviewed all the text. We edited sentences when needed.",
+      "Author.2.12": "In our initial submission, we used winsorized data for all our econometric analysis. However, we, \ninadvertently, displayed summary statistics (Table 2) for raw data, i.e., before winsorizing. We \nshould have reported only winsorized summary statistics. This is precisely what we do in this \nrevised version of the paper.\nThe reason for winsorizing data (beyond its advantage of having regular statistical distribution) was \nthat we initially have detected outliers. Further investigation revealed that one company (RIC: \nOBE.TO; CompName: Obsidian Energy Ltd) is responsible for these outliers. The company had \npresumably reported wrong values in FY-12, where PP&E was higher than Total Assets (see table \nbelow from Refinitiv Eikon). We have reported this case to Refinitiv (Case number: 11297339) and our doubts were confirmed \n(See their response below). Refinitiv Eikon replaced old value of PP&E (27834189009) with a \ncorrect value (10788172656). In order to avoid similar mistakes, we opted for winsorizing data and avoid outliers. \nSimilarly, only one company had negative Tobins\u2019 Q in 2017 (RIC: ELR.TO ; company name: \nEastern Platinum Ltd), which was a reporting typo as well.\nHowever, our analysis is not affected by these outliers which are removed after winsorizing all the \nvariables. In this revised version of the paper, we replace the table of summary statistics with the \none based on winsorized variables.",
+      "Author.2.13": "The sentence \u201cThe global average of corporate boards\u2019 gender diversity for all the sectors during \n2008-2018 was about 13.5%\u201d is correct as it is calculated based on all industries (5120 firms in \ntotal). However, since we are focusing on \u201cMining, Quarrying, and Oil and Gas Extraction Industry\u201d, \nit makes more sense indeed to report the value for that particular sector. Therefore, we update the \ntext as follows: \u201cThe average of corporate boards\u2019 gender diversity for Mining, Quarrying, and Oil \nand Gas Extraction Industry during 2008-2018 was about 9.6%\u201d.",
+      "Author.2.14": "This is an explanation of the following sentence in our article: \u201cTo avoid bias and inconsistency that \nmight be caused by instruments proliferation, we collapse the instruments matrix.\u201d\nWe are using longer lags of the dependent variable as additional instruments. Intuitively, there is a \ntrade-off, on one hand, using longer lags gives more information and improves efficiency, but on the \nother hand sample gets smaller (as it is the case in standard 2SLS models). GMM is a way around \nthis trade-off between lag length and sample length. However, implementation of System-GMM is not \nexempt from weaknesses. With the instruments count being quadratic in the time dimension, the \nvariance matrix of the moments can be very large. Estimating its elements may be problematic in \nparticular in a finite sample lacking the adequate amount of information. This finite sample bias can \nweaken Hansen J-test and overstate its p-value and therefore generate suspicious high pass rate of \ninstruments validity. The problem is known as instruments proliferation (Roodman 2009). \nTo avoid bias and inconsistency due to instruments proliferation, we limit the number of instruments \nused and collapse the instrument matrix which prevents the model from being over-fitted.",
+      "Author.2.15": "We revised the concerned section and rewrote the text in order to improve on clarity. The revised \ntext reads as follows:",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_3.1.6"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_3.1.7"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_3.1.8"
+    ]
+  ]
+}

@@ -1,5 +1,7 @@
 import pandas as pd
 import json
+import os
+from generate_onto import json2owl
 
 
 def format_id(side, round, number):

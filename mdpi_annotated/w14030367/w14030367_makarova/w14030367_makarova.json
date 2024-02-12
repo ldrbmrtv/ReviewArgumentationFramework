@@ -1,0 +1,517 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The innovation of this research needs to be better explored.",
+      "Reviewer_1.1.2": "Lines 33-38: You should mention that discharge of PPCPs degrades water quality and thus it cannot be directly used for potable water (via desalination) and industrial applications. Cite the following references:\nPanagopoulos, A. (2021). Energetic, economic and environmental assessment of zero liquid discharge (ZLD) brackish water and seawater desalination systems. Energy Conversion and Management, 235.\nPanagopoulos, A. (2021). Techno-economic assessment of Minimal Liquid Discharge (MLD) treatment systems for saline wastewater (brine) management and treatment. Process Safety and Environmental Protection, 146, pp. 656-669.\nPanagopoulos, A. (2021). Study and evaluation of the characteristics of saline wastewater (brine) produced by desalination and industrial plants. Environmental Science and Pollution Research, 1-14.",
+      "Reviewer_1.1.3": "How many replications you performed for your experiments?",
+      "Reviewer_1.1.4": "Conclusion: Discuss the applicability of your findings/results and future study in this field.",
+      "Reviewer_1.1.5": "Conclusion: Make it as one or two paragraphs.",
+      "Reviewer_1.1.6": "Language editing is recommended.",
+      "Reviewer_1.1.7": "Table 1: What is the salinity (in mg/L) of the samples ?",
+      "Reviewer_1.3.1": "The authors improved significantly their manuscript, which is now ready for publication. I recommend acceptance for publication."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "However, there are some mistakes in the writing of the paper.",
+      "Reviewer_2.1.2": "Please also see the attached file for my corrections/comments.",
+      "Reviewer_2.1.3": "Overall, the manuscript can be accepted after the minor correction/revision to be published in the journal of Water."
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "The title seems good, but the abstract seems to be fine. Please add one problem statement line in abstract to justify this sentence ``the long-term pilot-scale study is urged to be investigated.``.",
+      "Reviewer_3.1.2": "Research gap should be delivered on more clear way with directed necessity for the future research work.",
+      "Reviewer_3.1.3": "Introduction section must be written on more quality way, i.e., more up-to-date references addressed. Please target the specific gap such as 2015-2021 etc.",
+      "Reviewer_3.1.4": "Page 1 Line 38. Please cite this reference with existing reference 3\u2026.Role of nanotechnology for design and development of cosmeceutical: application in makeup and skin care.",
+      "Reviewer_3.1.5": "The novelty of the work must be clearly addressed and discussed, compare previous research with existing research findings and highlight novelty.",
+      "Reviewer_3.1.6": "What is the main challenge? Why author choose this material? Please highlight in the introduction part.",
+      "Reviewer_3.1.7": "Page 2 Line 55 need a reference. Please consider these at end of this sentence\u2026\u2026The oxidation method exhibited a fast reaction speed and high removal efficiency\u2026(i) Role of nanomaterials in the treatment of wastewater: A review (ii) Advances and challenges in developing efficient graphene oxide-based ZnO photocatalysts for dye photo-oxidation.",
+      "Reviewer_3.1.8": "The main objective of the work must be written on the more clear and more concise way at the end of introduction section.",
+      "Reviewer_3.1.9": "Please check the abbreviations of words throughout the article. All should be consistent. Please revise your paper accordingly since some issue occurs on several spots in the paper.",
+      "Reviewer_3.1.10": "Please add chemical reagents section and stated all chemical with brand specifications.",
+      "Reviewer_3.1.11": "Regarding the replications, authors confirmed that replications of experiment were carried out. However, these results are not shown in the manuscript, how many replicated were carried out by experiment? Results seem to be related to a unique experiment. Please, clarify whether the results of this document are from a single experiment or from an average resulting from replications. If replicated were carried out, the use of average data is required as well as the standard deviation in the results and figures shown throughout the manuscript. In case of showing only one replicate explain why only one is shown and include the standard deviations.",
+      "Reviewer_3.1.12": "Please use Fig. or figure? It very confusing. Article should be in one pattern. Please follow the journal guidelines. Please revise your paper accordingly since some issue occurs on several spots in the paper.",
+      "Reviewer_3.1.13": "Please provide high quality image of figure 1.",
+      "Reviewer_3.1.14": "Please use one style for units such as m3/h or m3h-1 Please revise your paper accordingly since some issue occurs on several spots in the paper.",
+      "Reviewer_3.1.15": "Please add a comparative profile section to compare your results and prove how it better than previous.",
+      "Reviewer_3.1.16": "Section 4 should be renamed by Conclusion and Future perspectives. Conclusion section is missing some perspective related to the future research work, quantify main research findings, highlight relevance of the work with respect to the field aspect. In the present form conclusion is very weird.",
+      "Reviewer_3.1.17": "To avoid grammar and linguistic mistakes, Major level English language should be thoroughly checked. Please revise your paper accordingly since several language issue occurs on several spots in the paper.",
+      "Reviewer_3.1.18": "Reference formatting need carefully revision. All must be consistent in one formate. Please follow the journal guidelines.",
+      "Reviewer_3.3.1": "Dear Authors, i reviewed again the revised version. I would like to recommend the publication in present form. Authors shows sincere efforts during revision."
+    },
+    "Reviewer_4": {
+      "Reviewer_4.1.1": "Authors should avoid abbreviations in the title and the abstract. ",
+      "Reviewer_4.1.2": "Authors may revise the title to include river water instead of surface water.",
+      "Reviewer_4.1.3": "References should be according to the journal format.",
+      "Reviewer_4.1.4": "Line 44-45: Ultrafiltration (UF) as emerging technology, has been widely used to remove pollutants such as particles, colloids, bacteria and viruses, reducing the risk of water-borne diseases and \u2026UF membranes cannot effectively rejected these soluble substances\u201d. Please clarify, why ultrafiltration cannot remove the PPCPs since it can remove bacteria and viruses.",
+      "Reviewer_4.1.5": "Please add t-test results in Table 1 for each parameter to understand the significant differences. Authors may provide data in the supporting information file.",
+      "Reviewer_4.1.6": "Why the same trend of increase or decrease in graphs (Fig. 1) was observed in Fig. 1(c). Why is the DO concentration of BAC-effluent sometimes higher than the Raw water. Please explain it in the manuscript. The reviewer suggests statistical analysis using a t-test (Raw water- BAC-Effluent and Raw water \u2013 BAC/UF-effluent).",
+      "Reviewer_4.1.7": "The reviewer suggests evaluating the statistical t-test for Figures 4.",
+      "Reviewer_4.1.8": "T-test results should be included in Table 2. Why is the standard deviation of Erythromycin showing a high value? ",
+      "Reviewer_4.1.9": "Please look at the curve of BAC/UF; there was a symbol missing in near 85 days. Please show each symbol.",
+      "Reviewer_4.1.10": "The conclusion may be revised.",
+      "Reviewer_4.3.1": "Authors should avoid abbreviations in the title. Authors should add a list of abbreviations before the references.",
+      "Reviewer_4.3.2": "Please avoid repeating the full name and abbreviation throughout the manuscript if you used the first-time abbreviation.",
+      "Reviewer_4.3.3": "Line 46-52: & line 84-85 \u201cUltrafiltration (UF) as an emerging alternative technology to conventional water treatment processes, has been widely used to remove pollutants such as particles, colloids, bacteria, and viruses, thus reducing the risk of water-borne diseases [10]. Size exclusion is considered the primary removal mechanism for the UF. However, in the case of the PPCPs with a small molecular weight (typically < 600 Da), UF membranes also cannot effectively reject these PPCPs, but nanofiltration and reverse osmosis are able to remove these PPCPs based on the thin-film composite\u201d. Sorry, but I don't see why UF can reject viruses and bacteria but not PPCPs. Is it true that the molecular weight of viruses and bacteria is more than that of PPCPs? Please elaborate.",
+      "Reviewer_4.3.4": "The authors should include some information regarding the biological degradation of PPCPs by microorganisms in the introduction section.",
+      "Reviewer_4.3.5": "Line 53-55: \u201cThe combined process with ultrafiltration may be another promising choice, featuring a comparable removing performance as the nanofiltration and low operational cost\u201d. Have the authors compared the BAC-UF performance to that of nanofiltration?",
+      "Reviewer_4.3.6": "I strongly suggest that the authors explain how they performed the t-tests. Please include the sample size (n) or degree of freedom (df).",
+      "Reviewer_4.3.7": "Please show the t-value and p-value in a scientific view (e.g., 2.79E-4 would be P <.001).",
+      "Reviewer_4.3.8": "Line 161-176: Please delete the name of medicinal compounds not used for this study.",
+      "Reviewer_4.3.9": "Point 6: Why the same trend of increase or decrease in graphs (Fig. 1) was observed in Fig. 1(c). Why is the DO concentration of BAC-effluent sometimes higher than the Raw water. Please explain it in the manuscript. The reviewer suggests statistical analysis using a t-test (Raw water- BAC-Effluent and Raw water \u2013 BAC/UF-effluent).\nResponse 6: Thanks very much for this comment. The same trend (Figure 2) was mainly due to the stable removal ability of BAC and UF for organics, causing the removal restriction. The periodic backwash (7days) of BAC caused sometimes the dissolved oxygen concentration of BAC-effluent higher than that of raw water. After the gas scrubbing and the hydraulic backwashing, the dissolved oxygen detection of the effluent was carried out, resulting in the above results for dissolved oxygen. Besides, the t-test was used and proved the significant difference between BAC-Effluent and BAC/UF-effluent.\nThanks for the response. Please include it in the manuscript.",
+      "Reviewer_4.3.10": "What is the utility or deterioration of PPCPs sludge after removing it from river water? If possible, please add at least one paragraph."
+    },
+    "Author": {
+      "Author.2.1": "The BAC biofilter can remove the PPCPs, and then the following UF can reject micro-organisms and particles flowing out from the biofilter to ensure the quality of drinking water. The above coupling process makes up for the defects concerning respective operations of the BAC biofilter and UF. Although many pilot-scale setups were used to treat secondary wastewater effluent for water reclamation, this type of raw water quality was different from the river water, causing the different potential of biofilm growing. As far as we investigated, the lack of enough attention to long-term pilot study exists. Therefore, in this study, a BAC-UF system was carried out for several months with pilot scale to access the long-term removal performances and the respective contributions of BAC and UF. The innovation of this research has been clarified in the abstract, the introduction, and the conclusion.",
+      "Author.2.2": "We agree with the suggestion of this reviewer. Thank you very much for your kind reminder. Three references have been cited. Please see lines 40-41 in the revised manuscript.",
+      "Author.2.3": "Thank you very much for your kind reminder. These three GAC-UF systems were operated in parallel. Samples of the feedwater and effluent from three systems were taken simultaneously and measured once.",
+      "Author.2.4": "Thanks very much for the reviewer. The conclusion has been revised according to the reviewer\u2019s suggestion. The added paragraph in the revised manuscript is as follow:To sum up, the results show that the proposed BAC-UF system can be effective in the treatment of river water polluted by PPCPs, conventional organic pollutants and ammonia nitrogen. The two-stage biofilms located in the activated carbon column and on the UF membrane synergistically, can be conducive to the removal performances. Besides, the results of this analysis can have significant implications for the conventional UF operation procedure and the ozone-activated carbon process, providing a simple decentralized approach to drinking water treatment for the areas where source water is contaminated with PPCPs. However, the mechanisms of the two-stage biofilm, such as bacterial and metazoan communities, membrane fouling and dissolved oxygen transfer, should be further investigated to enhance the removal efficiency and stability of this system.",
+      "Author.2.5": "Thanks for the reviewer\u2019s suggestion. The conclusion has been revised and integrated into two paragraphs. The first paragraph mainly includes important findings, and the second paragraph mainly includes the outlook for the future in this field.",
+      "Author.2.6": "We are so sorry to make reviewer\u2019s reading uncomfortable. We have used an English Language Editing service to correct the grammatical and spelling errors and to make the expressions conform to correct scientific English (the Language Editing Certification is attached below). Two native English-speaking colleagues help us verify the manuscript. Hope the revised manuscript would be more satisfactory.",
+      "Author.2.7": "Thank you very much for your kind reminder. The salinity concentrations in the samples have been added to Table 1 in the revised manuscript.",
+      "Author.2.8": "Thank you very much for your kind reminder. We agree with the suggestion and comments of the reviewer. All comments have been revised one by one, and the modifications are highlighted in yellow in the marked revised manuscript. Two native English-speaking colleagues help us verify the manuscript. Hope the revised manuscript would be more satisfactory. Thanks again for your patient review.",
+      "Author.2.9": "Thank you very much for your kind reminder. We agree with the suggestion and comments of the reviewer. All comments have been revised one by one, and the modifications are highlighted in yellow in the marked revised manuscript. Two native English-speaking colleagues help us verify the manuscript. Hope the revised manuscript would be more satisfactory. Thanks again for your patient review.",
+      "Author.2.10": "Thank you very much for your kind reminder. We agree with the suggestion and comments of the reviewer. All comments have been revised one by one, and the modifications are highlighted in yellow in the marked revised manuscript. Two native English-speaking colleagues help us verify the manuscript. Hope the revised manuscript would be more satisfactory. Thanks again for your patient review.",
+      "Author.2.11": "Thanks for the reviewer\u2019s helpful suggestion. The objective statement has been added to the abstract to support the seriousness of the problem, and the revised sentences are as follows: \nBiological activated carbon (BAC) biofilter coupling ultrafiltration (UF) is a promising process for the treatment of river water contaminated by pharmaceutical and personal care products (PPCPs). However, the pilot-scale study should be conducted to reveal the long-term removal performance and the respective contributions of BAC and UF.",
+      "Author.2.12": "We agree with the suggestion of this reviewer. The research gap has been added in the Conclusion and is as follow:\nTo sum up, the results show that the proposed BAC-UF system can be effective in the treatment of river water polluted by PPCPs, conventional organic pollutants and ammonia nitrogen. The two-stage biofilms located in the activated carbon column and on the UF membrane synergistically, can be conducive to the removal performances. Besides, the results of this analysis can have significant implications for the conven-tional UF operation procedure and the ozone-activated carbon process, providing a simple decentralized approach to drinking water treatment for the areas where source water is contaminated with PPCPs. However, the mechanisms of the two-stage biofilm, such as bacterial and metazoan communities, membrane fouling and dissolved oxygen transfer, should be further investigated to enhance the removal efficiency and stability of this system.",
+      "Author.2.13": "Thanks for the reviewer\u2019s comment. The introduction has been revised carefully, including using up-to-date references. For example, the outdated references have been removed. Meanwhile, the articles published within the last two years were added, such as (the Reference2 Yu et al., 2020) and (the Reference21 Tang et al., 2018).",
+      "Author.2.14": "Thank you very much for your kind reminder. The reference has been cited. Please see line 38 in the revised manuscript.",
+      "Author.2.15": "Thanks very much for this comment. The BAC biofilter can remove the PPCPs, and then the following UF can reject micro-organisms and particles flowing out from the biofilter to ensure the quality of drinking water. The above coupling process makes up for the defects concerning respective operations of the BAC biofilter and UF. Although many pilot-scale setups were used to treat secondary wastewater effluent for water reclamation, this type of raw water quality was different from the river water, causing the different potential of biofilm growing. As far as we investigated, the lack of enough attention to long-term pilot study exists. Therefore, in this study, a BAC-UF system was carried out for several months with pilot scale to access the long-term removal performances and the respective contributions of BAC and UF. The relevant content has been supplemented and revised in the abstract to highlight the innovative points. The comparison of previous research with existing research findings was added in the final part of the results and discussion.",
+      "Author.2.16": "Thanks very much for this comment. Biological activated carbon (BAC) combined the adsorption and biologic degradation consuming low power energy and chemicals without concern of DBPs production as well as no frequent updates for activated carbon media. The BAC biofilter can remove the PPCPs pollutants, and then the followed UF can reject microorganisms and particles flowing out from the biofilter to ensure the quality of drinking water. Thus, the BAC-UF process makes up for the defects of the respective operations of BAC biofilter and UF. Although many pilot-scale setups were used to treat secondary wastewater effluent for water reclamation, this type of raw water quality was different from the river water, causing the potential of biofilm growing differently. As far as we investigated, the lack of enough attention to long-term pilot study is present. Therefore, in this study, a BAC-UF system was carried out for several months with a pilot scale.",
+      "Author.2.17": "Thank you very much for your kind reminder. The two references have been cited. Please see the lines 58.",
+      "Author.2.18": "T Thanks very much for this comment. The introduction has been improved for better reading.",
+      "Author.2.19": "Thank you very much for your kind reminder. Two PPCP mistakes have been revised. The abbreviation of chemical oxygen demand in previous version has been corrected to CODMn. The unnecessary abbreviations have been also corrected in the abstract.",
+      "Author.2.20": "Thank you very much for your kind reminder. The added paragraph is as follows:\nPotassium permanganate, H2SO4, potassium sodium tartrate tetrahydrate, Nessler\u2019s reagent and NaOH were purchased from a commercial company and certified as AR purity (Guangzhou Chemical Reagent Factory, Guangzhou, China), while PPCP standards were provided by three companies. Sulfamethoxazole (SMX), Sulfadoxine (SD), Sulfachloropyridazine (SCP), Sulfamethoxypyridazine (SMP), Sulfaquinoxaline (SQX), Sulfathiazole (STZ), Doxycycline (DOX), Erythromycin (EM), Anhydroerythromycin (EA), Roxithromycin (ROX), Penicillin-G (PEN G), Clarithromycin (CAM), Norfloxacin (NOR), Oxociprofloxacin (OFL), Enrofloxacin (EFL), Flumequine (FQ), Acetaminophen (APAP), Diclofenac sodium (DCF), Naproxen (NAP), Indomethacine (IND), Metoprolol (METO), Propranolol (), Atenolol (ATL), Primidone (PRM), Carbamazepine (CMZ), and Sulpiride (SP) were obtained from the Dr. Ehrenstorfer Company in Germany. Furthermore, Sulfadimidine (SM2), Sulfadiazine (SDZ), Sulfapyridine (SP), Sulfamonomethoxine (SMM), Tetracycline (TC), Ofloxacin (OFL), Amoxicillin (AM), Dimetridazole (DMZ), Trimethoprim (TMP) were bought from the National Institute of Metrology in China, whereas Oxytetracycline (OTC), Caffeine (CF), and Diethyltoluamide (DEET) were acquired from the Toronto Research Chemicals Company in Canada.",
+      "Author.2.21": "Thanks very much for this comment. These three GAC-UF systems were operated in parallel. Samples of the feedwater and effluent from three systems were taken simultaneously and measured once. The standard deviation was obtained by the detection over the full period of the experiment.",
+      "Author.2.22": "Thanks very much for this comment. The figure is used as the only pattern in the revised manuscript.",
+      "Author.2.23": "Thank you very much for your kind reminder. The front sizes in the figure 1 have been increased. The quality of the figure 1 has been also improved.",
+      "Author.2.24": "Thank you very much for your kind reminder. The style for units has been revised and unified.",
+      "Author.2.25": "Thanks very much for this comment. The comparison of previous research with existing research findings was added in the final part of the results and discussion. The added paragraph is as follows:\nPPCPs risks have been posing severe challenges to the safety of drinking water supply in rural areas due to the absence of the process with simple operation and maintenance as well as reliable performance. In this study, BAC coupling gravi-ty-driven UF was performed continuously, and the rejection performance of mem-brane filtration and BAC filtration both showed barriers for the conventional pollu-tants and PPCPs. Furthermore, this study indicated the respective contributions of BAC and UF, showing the role of the two-stage biofilm. Previous works involving BAC generally combined the ozonation with the BAC filter for treating the contaminants of emerging concern, eliminating a majority of PPCPs by more than 90% [34]. However, the regulation and maintenance of machines for ozone products are complicated, and the disinfection by-products will be newly generated in the effluent, which is incon-venient to use in rural areas [35]. In general, coagulation, filtration and single BAC units worked inefficiently and removed the detected PPCPs by less than 50%, as they were not hydrophobic [34, 36]. Hybrid membrane processes such as inline dosing of powdered activated carbon (PAC) prior to UF have already shown promising potential for the abatement of PPCPs; however, the inline dosing PAC is infeasible in rural areas [37]. In this study, the BAC prior to UF enhanced the biological activity by forming a two-stage biofilm system. Therefore, the integrated BAC-UF process can be considered as an economically and technically feasible approach to the decentralized and emer-gency drinking water treatment.",
+      "Author.2.26": "Thank you very much for your kind reminder. The conclusion has been modified as suggested by reviewers. Please see lines 325-350 in the revised manuscript.",
+      "Author.2.27": "We are so sorry to make reviewer\u2019s reading uncomfortable. We have used an English Language Editing service to correct the grammatical and spelling errors and to make the expressions conform to correct scientific English (the Language Editing Certification is attached below). Two native English-speaking colleagues help us verify the manuscript. Hope the revised manuscript would be more satisfactory.",
+      "Author.2.28": "We agree with the reviewer. The reference formatting has been corrected. Thanks very much for the patient review again.",
+      "Author.2.29": "Thanks for the kind reminder. Full names of BAC, UF, and PPCPs are used in the title and the abstract to show the results briefly. As for NH4+-N, NO2\u2212-N, and NO3\u2014N, the full names have been used instead of abbreviations in the abstract.",
+      "Author.2.30": "Thank you very much for your kind reminder. The title has been revised to river water.",
+      "Author.2.31": "Thank you very much for your kind reminder. The references format has been corrected.",
+      "Author.2.32": "We are very sorry for the confusion caused to the reviewers, the sentences have been revised from the words and Grammarly. The revised sentences are shown below:\nUltrafiltration (UF) as an emerging alternative technology to conventional water treatment processes, has been widely used to remove pollutants such as particles, col-loids, bacteria, and viruses, thus reducing the risk of water-borne diseases [10]. Size exclusion is considered the primary removal mechanism for the UF. However, in the case of the PPCPs with a small molecular weight (typically < 600 Da), UF membranes also cannot effectively reject these PPCPs, but nanofiltration and reverse osmosis are able to remove these PPCPs based on the thin-film composite [11, 12].",
+      "Author.2.33": "Thanks very much for this comment. The t-test results have been added in the revised Table1.",
+      "Author.2.34": "Thanks very much for this comment. The same trend (Figure 2) was mainly due to the stable removal ability of BAC and UF for organics, causing the removal restriction. The periodic backwash (7days) of BAC caused sometimes the dissolved oxygen concentration of BAC-effluent higher than that of raw water. After the gas scrubbing and the hydraulic backwashing, the dissolved oxygen detection of the effluent was carried out, resulting in the above results for dissolved oxygen. Besides, the t-test was used and proved the significant difference between BAC-Effluent and BAC/UF-effluent.",
+      "Author.2.35": "Thank you very much for your kind reminder. The statistical t-test was evaluated for Figure 4, which was added in the text of \"3.2. Removal of nitrogen\" Section.",
+      "Author.2.36": "Thanks very much for this comment. The t-test results have been added to the revised Table2. The concentration of Erythromycin was generally varied between 1047.14 ng L\u22121 and 2037.72 ng L\u22121.",
+      "Author.2.37": "Thanks very much for this comment. Some symbols were overlapped in Figure 5h. The symbols near 85 days have been entirely shown by correcting Y-axis settings, such as Figures 5a and 5f.",
+      "Author.2.38": "Thanks very much for this comment. The conclusion has been revised, including the style and sentences.",
+      "Author.4.1": "Thank you very much for your support and help.",
+      "Author.4.2": "Thank you very much for your support and help.",
+      "Author.4.3": "Thanks for the kind reminder. We agree with this suggestion. The abbreviations in the title have been deleted. Besides, a list of abbreviations has been added before the references.",
+      "Author.4.4": "Thanks to the reviewer for the patient comment. The above mistakes have been revised.",
+      "Author.4.5": "Thanks to this reviewer for the comment. Common waterborne viruses include Shigella, Vibrio cholerae, Poliovirus, adenovirus, and coxsackie virus, with sizes of 26 nm, 27 nm, 30 nm, 90 nm, and 30 nm, respectively [1-5]. The molecular weights of PPCPs are generally less than 1000 Da (about 1-2 nm), obviously smaller than the virus. The molecular weight cut off of UF membranes was an average 100 000 Da in this work, which was similar to the virus but larger than the PPCPs molecules.\n1.Karthik K, Dhanuskodi S, Gobinath C, et al. Multifunctional properties of microwave assisted CdO\u2013NiO\u2013ZnO mixed metal oxide nanocomposite: enhanced photocatalytic and antibacterial activities [J]. Journal of Materials Science: Materials in Electronics, 2018, 29(7): 5459-71. \n2.Song S, Liu Z, Zhou J, et al. An adjuvant compound that enhances immunogenicity at fractional doses of the Sabin-inactivated poliovirus vaccine (sIPV) with a long duration of protection in a rat model [J]. Journal of Medical Virology, 2019, 91(1): 14-21.\n3.Kim K, Choi J-W, Ma K, et al. Nanoisland-Based Random Activation of Fluorescence for Visualizing Endocytotic Internalization of Adenovirus [J]. Small, 2010, 6(12): 1293-9.\nDourmashkin R R, Mccall S A, Dourmashkin N, et al. Virus-like particles and enterovirus antigen found in the brainstem neurons of Parkinson's disease [J]. F1000Res, 2018, 7: 302-.5.Tamano K, Aizawa S-I, Katayama E, et al. Supramolecular structure of the Shigella type III secretion machinery: the needle part is changeable in length and essential for delivery of effectors [J]. The EMBO Journal, 2000, 19(15): 3876-87.",
+      "Author.4.6": "Thanks for the kind reminder. The information regarding the biological degradation of PPCPs has been added in the introduction. The revised sentences are shown below:\nIn the BAC biofilters, the biotransformation and adsorption both contributed to the PPCPs removal. The activated carbon adsorbed PPCPs to the surface and interior, where microorganisms were suitable for growth. Under the long-term effect of high-concentration PPCPs, the dominant microorganisms in the biofilter were selected to survive. These microorganisms mostly transformed PPCPs into many segments and even directly mineralized them to CO2 [3, 14].",
+      "Author.4.7": "Thanks for the kind reminder. \u201cThe combined process with ultrafiltration may be another promising choice, featuring a comparable removing performance as the nanofiltration and low operational cost\u201d. This claim is not supported by our research. To avoid misunderstandings for readers, we changed the claim and revised the sentence. The revised version is as follows:\nThe combined process with UF may be another promising choice as an alternative to nanofiltration for removing PPCPs in rural areas. It can be seen in lines 54-55.",
+      "Author.4.8": "Thanks very much for this comment. The method of the t-tests has been explained in section 2.4 (lines 157-158) in the revised manuscript. The sample size (n) has also been added in Table 1 and Table 2.",
+      "Author.4.9": "Thank you very much for your kind reminder. The values have been modified in the revised manuscript in yellow highlight.",
+      "Author.4.10": "Thanks for the kind reminder. All the names of medicinal compounds not used have been deleted, including Sulfaquinoxaline (SQX), Sulfathiazole (STZ), Doxycycline (DOX), Roxithromycin (ROX), Penicillin-G (PEN-G), Clarithromycin (CAM), Norfloxacin (NOR), Oxociprofloxacin (OFL), Enrofloxacin (EFL), Flumequine (FQ), Acetaminophen (APAP), Diclofenac sodium (DCF), Naproxen (NAP), Indomethacin (IND), Metoprolol (METO), Propranolol (PRO), Atenolol (ATL), Primidone (PRM), Carbamazepine (CMZ), Sulpiride (SP), Sulfapyridine (SPN), Sulfamonomethoxine (SMM), Tetracycline (TC), Amoxicillin (AM), Dimetridazole (DMZ), Oxytetracycline (OTC) and DEET.",
+      "Author.4.11": "Thanks very much for this comment. The results and discussion has been supplemented in section 3.1. Please see lines 180-185 in the revised manuscript.",
+      "Author.4.12": "Thanks very much for this comment. With a turbulent current and dozens of kilometers in length, this river is located in the mountains of Foshan city. The PPCPs sludge at the bottom of the river never executes removal. Thanks for the suggestion from the reviewer. We will further precipitate the PPCPs sludge before the water treatment plant or excavate the PPCPs sludge from the river and study the effects on drinking water quality. The relevant results will be published in another paper in the future.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.14",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.15",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.16",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.17",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.18",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Author.2.16",
+      "Reviewer_3.1.6"
+    ],
+    [
+      "Author.2.17",
+      "Reviewer_3.1.7"
+    ],
+    [
+      "Author.2.18",
+      "Reviewer_3.1.8"
+    ],
+    [
+      "Author.2.19",
+      "Reviewer_3.1.9"
+    ],
+    [
+      "Author.2.20",
+      "Reviewer_3.1.10"
+    ],
+    [
+      "Author.2.21",
+      "Reviewer_3.1.11"
+    ],
+    [
+      "Author.2.22",
+      "Reviewer_3.1.12"
+    ],
+    [
+      "Author.2.23",
+      "Reviewer_3.1.13"
+    ],
+    [
+      "Author.2.24",
+      "Reviewer_3.1.14"
+    ],
+    [
+      "Author.2.25",
+      "Reviewer_3.1.15"
+    ],
+    [
+      "Author.2.26",
+      "Reviewer_3.1.16"
+    ],
+    [
+      "Author.2.27",
+      "Reviewer_3.1.17"
+    ],
+    [
+      "Author.2.28",
+      "Reviewer_3.1.18"
+    ],
+    [
+      "Author.2.29",
+      "Reviewer_4.1.1"
+    ],
+    [
+      "Author.2.30",
+      "Reviewer_4.1.2"
+    ],
+    [
+      "Author.2.31",
+      "Reviewer_4.1.3"
+    ],
+    [
+      "Author.2.32",
+      "Reviewer_4.1.4"
+    ],
+    [
+      "Author.2.33",
+      "Reviewer_4.1.5"
+    ],
+    [
+      "Author.2.34",
+      "Reviewer_4.1.6"
+    ],
+    [
+      "Author.2.35",
+      "Reviewer_4.1.7"
+    ],
+    [
+      "Author.2.36",
+      "Reviewer_4.1.8"
+    ],
+    [
+      "Author.2.37",
+      "Reviewer_4.1.9"
+    ],
+    [
+      "Author.2.38",
+      "Reviewer_4.1.10"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.3.10",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.1",
+      "Reviewer_1.3.1"
+    ],
+    [
+      "Author.4.2",
+      "Reviewer_3.3.1"
+    ],
+    [
+      "Author.4.3",
+      "Reviewer_4.3.1"
+    ],
+    [
+      "Author.4.4",
+      "Reviewer_4.3.2"
+    ],
+    [
+      "Author.4.5",
+      "Reviewer_4.3.3"
+    ],
+    [
+      "Author.4.6",
+      "Reviewer_4.3.4"
+    ],
+    [
+      "Author.4.7",
+      "Reviewer_4.3.5"
+    ],
+    [
+      "Author.4.8",
+      "Reviewer_4.3.6"
+    ],
+    [
+      "Author.4.9",
+      "Reviewer_4.3.7"
+    ],
+    [
+      "Author.4.10",
+      "Reviewer_4.3.8"
+    ],
+    [
+      "Author.4.11",
+      "Reviewer_4.3.9"
+    ],
+    [
+      "Author.4.12",
+      "Reviewer_4.3.10"
+    ]
+  ]
+}

@@ -1,0 +1,13 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;In page 2, you write the heading “2. Results”, but the content of that paragraph belong to the introduction part. So, please remove the heading “2. Results”.
+Reviewer 2;Author;1;1;0;line. 57-58. It seems that Figure 1 should be placed in other section, namely Section 3.1. , where it is mentioned for the first time (line 176).
+Reviewer 2;Author;1;2;0;"Line 59. Remove ""2. Results"""
+Reviewer 2;Author;1;3;0;line 148. What does NAA mean?
+Reviewer 2;Author;1;4;0;"line 251. Write ""On TEM images "" instead of ""Transmission electrone microscopy can be observed..."""
+Reviewer 2;Author;1;5;0;"line 284. Remove the word ""that"""
+Author;Reviewer 1;2;1;1;Thanks for the valuable comment. We have removed the heading “2. Results” in the revised manuscript.
+Author;Reviewer 2;2;1;1;Thanks for the valuable comment. We have changed the position of Figure 1 to line 182, and adjusted the arrangement of the figures in the article
+Author;Reviewer 2;2;2;2;Thanks for the valuable comment. We have removed the heading “2. Results” in the revised manuscript
+Author;Reviewer 2;2;3;3;Thank you for your valuable opinion. NAA is an abbreviation for amino acid, and we have added the description of NAA in the section of “2.3 Construction of sensor array
+Author;Reviewer 2;2;4;4;Thanks for the valuable comment. We have made the appropriate changes in the text to make the sentences more concise and highlighted them in red (line 248).
+Author;Reviewer 2;2;5;5;Thanks for the valuable comment. We have removed the word “that” in the revised manuscript

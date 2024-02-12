@@ -1,0 +1,123 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "I would like to suggest authors label inoculation points in Figure 1, which could give readers a clear view of three different inoculation methods.",
+      "Reviewer_1.1.2": "Line 142: \u201cproportion of PPSD\u201d should be \u201cproportion of PSD or PPSD",
+      "Reviewer_1.1.3": "Line 143: \u201cPPSD-premature spike death\u201d should be \u201cPPSD-proportion of premature spike death\u201d.",
+      "Reviewer_1.1.4": "Lines 168 - 169: Should it be that DON content of most lines without Fhb1 exceeded 1000 \u03bcg/kg under UBFI? Where is 4224.38 \u03bcg/kg in Table 1? Do you mean in Table S1?",
+      "Reviewer_1.1.5": "Lines 411 & 413: \u201cPPSB\u201d should be \u201cPPSD\u201d.",
+      "Reviewer_1.1.6": "Table S1: \u201cPPSD - premature spike death\u201d in the footnote should be \u201cPPSD - proportion of premature spike death\u201d.",
+      "Reviewer_1.1.7": "Fhb1- and Fhb1+ don\u2019t appear in Table S1, so they can be removed from the footnote"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "I would suggest to avoid citing supplementary figures at the beginning of the chapter.\r\n See for example chapter 2.4. Given that 2.4 chapter discusses data of supplementary figure 4 would suggest to make figure S4 as Figure 4 of the manuscript",
+      "Reviewer_2.1.2": "To further clarify the infection methods a supplementary figure detailing graphically the modes of inoculation with figures would make the paper extremely useful for the community",
+      "Reviewer_2.1.3": "Identity of the strain used for infection should be confirmed: a multilocus species characterisation is needed to confirm the species of the strain or a reference to a publication where the strain was described and appropriately characterised.",
+      "Reviewer_2.1.4": "Mycotoxin data analysis should be provided (I guess is policy of mdpi to make raw data available together with the publication)"
+    },
+    "Author": {
+      "Author.2.1": "Thanks! the inoculation points were labeled with the red arrows in Figure 1 as suggested",
+      "Author.2.2": "Sorry for carelessness. We corrected it as suggested. (Pag.4 Line 157)",
+      "Author.2.3": "Thanks. We revised the expression in the footnote of Table 1. (Pag.4 Line 158)",
+      "Author.2.4": "Thanks. we revised the sentence as \u201cDON content of most lines without Fhb1 exceeded 1000 \u03bcg\u2219kg-1 under UBFI method (Figure 2), with the highest reaching 4224.38 \u03bcg\u2219kg-1 (Table S1)\u201d. (Pag.5 Line 184-186)",
+      "Author.2.5": "Thanks. We corrected it. (Pag.11 Line 441 & 443)",
+      "Author.2.6": "Thanks. We revised the expression in the footnote of Table S1.",
+      "Author.2.7": "Thanks. We revised the annotations in Table S1.",
+      "Author.2.8": "Thanks! We agree with the reviewer\u2019s comments and make Figure S4 as Figure 4 in this revised version.",
+      "Author.2.9": "Thanks! We marked the inoculation sites with red arrows in Figure 1.",
+      "Author.2.10": "Thanks! We added more details about the strain and cited the following paper. (Pag.10 Line 402-403)\r\n Zhang, Y.; Li, A.; Zhu, S.; Li, L.; He, X.; Sun, Z.; Li, T. Basal Rachis Internode Injection (BRII): A novel inoculation method to evaluate wheat resistance to Fusarium head blight. Phytopathology, 2021, 111, 1670-1674, doi:10.1094/PHYTO-11-20-0488-R.",
+      "Author.2.11": "Thanks! We uploaded the raw mycotoxin data as suggested",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_2.1.4"
+    ]
+  ]
+}

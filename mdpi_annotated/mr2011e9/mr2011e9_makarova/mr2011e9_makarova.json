@@ -1,0 +1,268 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The title of the manuscript is too general and should mention PB2 position 526 and also that this work was done exclusively using Indonesian H5N1 clade 2.1 viruses.",
+      "Reviewer_1.1.2": "The data included in Fig. 1 seem much more limited than what is currently available from sequence databases and include very few strains from 2007 and later. What is the amino acid at PB2 position 526 for the 107 human isolates and 101 avian isolates currently available from GISAID? The lack of information about PB2 526 in recent viruses makes it harder to translate the results from this study into actions. Additional phylogenetic analyses on PB2 526R/K in recent strains is needed to make this work relevant to the suggestion of the authors that PB2 position 526 should be screened to identify viruses with zoonotic potential. The human isolates with PB2 526R are in a different clade than most of the avian viruses with PB2 K526R. What are the genetic changes responsible for this difference. Also, the authors should exclude that the important phylogenetic differences (526R vs 526K, and human 526R vs avian 526R) are due to differences in the way that these viruses were propagated (eggs, MDCKs, MDCK-SIAT1, etc)?",
+      "Reviewer_1.1.3": "The authors associate the higher number of human infections in Indonesia with PB2 526R. This association requires an analysis of PB2 526R in other H5N1 clades than 2.1 to show that 526R is indeed absent/rare in regions where the number of human cases is lower than in Indonesia.",
+      "Reviewer_1.1.4": "Line 313: \u201c[\u2026], these results clearly show that K526R substitution in PB2 significantly enhances virus replication in mammalian cells, [\u2026]\u201d. This line should state that the K526R substitution enhances replication in the cells used in the experiments described in this manuscript.",
+      "Reviewer_1.1.5": "Line 332: \u201c[\u2026], supporting the idea that the K526R substitution is critical for infection of mice with Indonesian H5N1 viruses\u201d. This statement is not correct. As shown in Fig. 6C 526K viruses do replicate in mice. Please adjust to state that 526R enhances replication.",
+      "Reviewer_1.1.6": "Line 379: \u201c[\u2026], which suggests that 526R PB2 has no fitness cost [\u2026]. Fitness costs may be very subtle and hard to measure. Therefore, the results of the analysis done for this manuscript do not show that 526R PB2 has no fitness cost, but merely that a fitness cost was not detected with the method used here. Please adjust the text accordingly.",
+      "Reviewer_1.1.7": "Line 384: I think the conclusion from line 384 is an overinterpretation of the results from this work and should be rephrased. Suggest to change to: Taken together, these results indicate that host adaptive mutations in the PB2 gene enhance H5N1 virus replication in mice and that K526R PB2 is a pre-existing adaptive marker present in Indonesian H5N1 viruses currently circulating in avian species which supports increased virus replication in mammalian cells.",
+      "Reviewer_1.1.8": "Line 426: The authors state that \u201c[\u2026], the K526R PB2 substitution in Indonesian H5N1 viruses is rarely associated with either E627K or D701N\u201d, which is not supported by data provided in the manuscript. A more extensive and updated phylogenetic analysis like suggested above could support this statement.",
+      "Reviewer_1.1.9": "It is surprising that the analysis from Fig. 7 was performed only in A549 as representative for mammalian cells, and not in MDCKs like was done for the analysis in from Fig. 3. Please clarify this choice.",
+      "Reviewer_1.1.10": "Line 441: replace indicate by suggest.",
+      "Reviewer_1.1.11": "Line 81: \u201c[\u2026], it seems possible that for the genetic constellation of Indonesian H5N1 viruses optimal function of the polymerase complex for virus replication is independent of E627K, and instead requires K526R adaptive substitution\u201d. There is no indication that K526R is required as an adaptive solution, there may be other adaptive markers that happened to not get selected during evolution. Change requires to utilizes.",
+      "Reviewer_1.1.12": "Line 44: There is a space in the URL",
+      "Reviewer_1.1.13": "Line 50: There is an extra space between emergence and of"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Figure\u00a02.\u00a0What\u00a0exactly\u00a0is\u00a0the\u00a0origin\u00a0of\u00a0the\u00a0PB1,\u00a0PA\u00a0and\u00a0NP\u00a0subunits\u00a0of\u00a0the\u00a0polymerase,\u00a0IND5\u00a0or\u00a0CK2A? (see\u00a0also\u00a0remark\u00a0for\u00a0lines\u00a0427-443\u00a0and\u00a0to\u00a0Fig\u00a08).\u00a0",
+      "Reviewer_2.1.2": "In\u00a0Figure\u00a04A,\u00a0there\u00a0is\u00a0some\u00a0ambiguity\u00a0about\u00a0the\u00a0values\u00a0and\u00a0the\u00a0yscale.\u00a0To\u00a0remove\u00a0that\u00a0ambiguity,\u00a0and\u00a0for\u00a0the\u00a0sake\u00a0of\u00a0readability,\u00a0values\u00a0(not\u00a0their\u00a0log10)\u00a0should\u00a0be\u00a0reported,\u00a0and\u00a0the\u00a0log10y scale\u00a0should\u00a0be\u00a0emphasized\u00a0by\u00a0its\u00a0subdivisions\u00a0[29]\u00a0between\u00a0powers\u00a0of\u00a010.\u00a0Same\u00a0remark\u00a0for\u00a0Fig\u00a06C.\u00a0",
+      "Reviewer_2.1.3": "Line28687.\u00a0Between\u00a0\u201cWe\u00a0tested\u2026\u201d\u00a0and\u00a0\u201cOur\u00a0results\u00a0show\u2026\u201d,\u00a0a\u00a0sentence\u00a0should\u00a0explain\u00a0the\u00a0rationale\u00a0of\u00a0the\u00a0test\u00a0being\u00a0used\u00a0(what\u00a0is\u00a0the\u00a0rationale\u00a0of\u00a0adding\u00a0increasing\u00a0amounts\u00a0of\u00a0NEP?).\u00a0This\u00a0would\u00a0also\u00a0help\u00a0in\u00a0understanding\u00a0the\u00a0data\u00a0(lines\u00a0288-92).\u00a0Same\u00a0remark\u00a0for\u00a0the\u00a0PB2-NP\u00a0interaction\u00a0(lines\u00a0292 95).\u00a0In\u00a0brief,\u00a0how\u00a0NEP\u00a0and\u00a0NP\u00a0could\u00a0be\u00a0expected\u00a0to\u00a0modulate\u00a0the\u00a0activity\u00a0of\u00a0the\u00a0viral\u00a0polymerase?\u00a0Further,\u00a0these\u00a0possible\u00a0interactions\u00a0with\u00a0NEP\u00a0and\u00a0NP\u00a0are\u00a0not\u00a0discussed\u00a0at\u00a0all\u00a0(neither\u00a0here\u00a0nor\u00a0in\u00a0the\u00a0discussion\u00a0section).\u00a028687    ",
+      "Reviewer_2.1.4": "Line\u00a0327\u00a0and\u00a0Table\u00a01.\u00a0Contradictory\u00a0data.\u00a0\u201cmice\u00a0infected\u00a0with\u00a010^3\u00a0PFU\u00a0of\u00a0the\u00a0avian\u00a0isolate\u00a0CK2A\u00a0showed\u00a0no\u00a0disease\u00a0symptoms\u201d,\u00a0while\u00a0according\u00a0to\u00a0Table\u00a01,\u00a0the\u00a0MLD50\u00a0of\u00a0CK2A\u00a0is\u00a02.2\u00a0x\u00a010^3\u00a0PFU.\u00a0Same\u00a0inconsistency\u00a0for\u00a0CK2A-526R\u00a0(all\u00a0mice\u00a0survived\u00a0with\u00a0an\u00a0inoculum\u00a0of\u00a010^3,\u00a0but\u00a0MLD50\u00a0is\u00a02.2x\u00a010^3).\u00a0Moreover,\u00a0according\u00a0to\u00a0the\u00a0legend\u00a0to\u00a0Table\u00a01,\u00a0MLD50\u00a0were\u00a0calculated\u00a0after\u00a0inoculating\u00a0mice\u00a0with\u00a010^2\u00a0to\u00a010^6\u00a0PFU.\u00a0With\u00a0such\u00a0a\u00a0protocol,\u00a0it\u00a0is\u00a0impossible\u00a0to\u00a0reliably\u00a0calculate\u00a0an\u00a0MLD50\u00a0below\u00a010^3.",
+      "Reviewer_2.1.5": "Fig\u00a07E\u00a0is\u00a0somewhat\u00a0misleading,\u00a0in\u00a0that\u00a0one\u00a0may\u00a0understand\u00a0that\u00a0there\u00a0is\u00a0a\u00a0competition\u00a0between\u00a0four\u00a0viruses\u00a0(526\u00a0R\u00a0or\u00a0K\u00a0and\u00a0627\u00a0E\u00a0or\u00a0K).\u00a0It\u00a0would\u00a0be\u00a0better\u00a0to\u00a0put\u00a0the\u00a0name\u00a0of\u00a0the\u00a0two\u00a0viruses\u00a0in\u00a0front\u00a0of\u00a0the \u00a0nucleotide\u00a0sequence\u00a0(CK2A-526R\u00a0in\u00a0front\u00a0of\u00a0AGA\u00a0[R]\u00a0..GAG\u00a0[E],\u00a0and\u00a0CK2A-627K\u00a0in\u00a0front\u00a0of\u00a0the\u00a0line\u00a0below.\u00a0The\u00a0data\u00a0show\u00a0that\u00a0the\u00a0latter\u00a0\u201cwins\u201d\u00a0the\u00a0competition.\u00a0The\u00a0legend\u00a0also\u00a0is\u00a0misleading.\u00a0Line\u00a0417-18\u00a0should\u00a0read\u00a0\u201c..mixed\u00a0populations\u00a0of\u00a0[526R-627E]\u00a0and\u00a0[526K-627K]\u201d.Line\u00a0383\u2026\u00a0rather\u00a0\u201cComparisons\u00a0of\u00a0the\u00a0two\u00a0CK2A-derived\u00a0viruses\u00a0(i.e.\u00a0[526R-627E]\u00a0and\u00a0[526K-627K])\u00a0through\u00a0either\u00a0virus\u00a0growth\u00a0kinetics\u00a0or\u00a0competition\u00a0assays\u00a0suggested\u00a0that\u00a0the\u00a0E627K\u00a0substitution\u00a0had\u00a0a\u00a0greater\u00a0positive\u00a0effect\u00a0on\u00a0the\u00a0replication\u00a0potential\u00a0in\u00a0A549\u00a0cells\u00a0than\u00a0the\u00a0K526R\u00a0substitution\u201d.\u00a0",
+      "Reviewer_2.1.6": "Lines\u00a0427-443,\u00a0117-119\u00a0and\u00a0109-110.\u00a0The\u00a0available\u00a0nucleotide\u00a0sequences\u00a0of\u00a0the\u00a0CK2A\u00a0virus\u00a0are\u00a0only\u00a0partial,\u00a0precluding\u00a0full-length\u00a0alignments.\u00a0Nevertheless,\u00a0comparison\u00a0of\u00a0the\u00a0available\u00a0PB2\u00a0sequences\u00a0shows\u00a0another\u00a0substitution\u00a0(G669V)\u00a0between\u00a0IND5\u00a0and\u00a0CK2A.\u00a0Furthermore,\u00a0comparison\u00a0of\u00a0the\u00a0other\u00a0polymerase\u00a0subunit\u00a0sequences\u00a0reveals\u00a0at\u00a0least\u00a02\u00a0substitutions\u00a0between\u00a0the\u00a0PB1s\u00a0and\u00a04\u00a0substitutions\u00a0between\u00a0the\u00a0PAs.\u00a0But\u00a0in\u00a0fact\u00a0sometimes\u00a0it\u00a0is\u00a0difficult\u00a0to\u00a0find\u00a0the\u00a0precise\u00a0information\u00a0\u00a0about\u00a0the\u00a0composition\u00a0of\u00a0the\u00a0polymerase\u00a0complex\u00a0in\u00a0the\u00a0minireplicon\u00a0assays\u00a0(what\u00a0is\u00a0the\u00a0origin\u00a0of\u00a0the\u00a0PB1,\u00a0PA\u00a0and\u00a0NP\u00a0subunits,\u00a0IND5\u00a0or\u00a0CK2A?)",
+      "Reviewer_2.1.7": "More\u00a0specifically\u00a0for\u00a0lines\u00a0427-443\u00a0and\u00a0Fig.\u00a08:\u00a0since\u00a0there\u00a0are\u00a0other\u00a0substitutions\u00a0(not\u00a0only\u00a0in\u00a0PB2,\u00a0but\u00a0also\u00a0in\u00a0PB1\u00a0and\u00a0PA)\u00a0between\u00a0IND5\u00a0and\u00a0CK2A\u00a0that\u00a0could\u00a0subtly\u00a0alter\u00a0the\u00a0activity\u00a0of\u00a0the\u00a0polymerase,\u00a0it\u00a0is\u00a0necessary\u00a0to\u00a0know\u00a0the\u00a0relative\u00a0efficiency\u00a0of\u00a0the\u00a0two\u00a0polymerase\u00a0complexes\u00a0(IND5\u00a0and\u00a0CK2A).\u00a0To\u00a0this\u00a0end,\u00a0Graphs\u00a0A\u00a0and\u00a0B\u00a0in\u00a0Fig.\u00a08\u00a0should\u00a0be\u00a0combined\u00a0in\u00a0a\u00a0unique\u00a0graph,\u00a0with\u00a0the\u00a0100%\u00a0value\u00a0assigned\u00a0to\u00a0IND5-wt\u00a0(otherwise,\u00a0the\u00a0activity\u00a0of\u00a0the\u00a0wt-CK2A\u00a0RNP\u00a0relative\u00a0to\u00a0that\u00a0of\u00a0IND5\u00a0could\u00a0be\u00a0added\u00a0in\u00a0Fig\u00a08A).\u00a0Maybe\u00a0a\u00a0logarithmic\u00a0y-scale\u00a0(log2\u00a0or\u00a0log10)\u00a0could\u00a0help\u00a0to\u00a0clearly\u00a0see\u00a0the\u00a0differences\u00a0between\u00a0the\u00a0conditions.\u00a0Lines\u00a0441-43.\u00a0It\u00a0is\u00a0somewhat\u00a0excessive\u00a0to\u00a0assign\u00a0the\u00a0difference\u00a0of\u00a0polymerase\u00a0activity\u00a0solely\u00a0to\u00a0the\u00a0two\u00a0PB2\u00a0substitutions\u00a0R288Q\u00a0and\u00a0K526R,\u00a0since\u00a0(i)\u00a0all\u00a0the\u00a0substitutions\u00a0were\u00a0not\u00a0assayed\u00a0and\u00a0(ii)\u00a0other\u00a0substitutions\u00a0in\u00a0PB1\u00a0and\u00a0PA\u00a0may\u00a0also\u00a0play\u00a0a\u00a0role.\u00a0",
+      "Reviewer_2.1.8": "Lines\u00a0535-39.\u00a0Perhaps\u00a0a\u00a0sentence\u00a0could\u00a0be\u00a0added\u00a0with\u00a0the\u00a0meaning\u00a0that\u00a0there\u00a0is\u00a0more\u00a0than\u00a0one\u00a0unique\u00a0pathway\u00a0of\u00a0adaptation\u00a0to\u00a0mammals\u00a0for\u00a0the\u00a0viral\u00a0polymerase,\u00a0since\u00a0at\u00a0least\u00a0two\u00a0substitutions\u00a0[PB2-K526R\u00a0and\u00a0PB2-E627K]\u00a0have\u00a0now\u00a0been\u00a0identified\u00a0that\u00a0prime\u00a0these\u00a0viruses\u00a0for\u00a0infecting\u00a0human;\u00a0with\u00a0the\u00a0added\u00a0information\u00a0that\u00a0K526R\u00a0does\u00a0not\u00a0negatively\u00a0impact\u00a0the\u00a0viral\u00a0replication\u00a0in\u00a0avian\u00a0cells.\u00a0\nPerhaps\u00a0the\u00a0authors\u00a0should\u00a0try\u00a0to\u00a0map\u00a0the\u00a0substitutions\u00a0in\u00a0the\u00a0structure\u00a0of\u00a0the\u00a0viral\u00a0polymerase\u00a0(cf\u00a0Pflug\u00a02014,\u00a0Pflug\u00a02018),\u00a0at\u00a0least\u00a0to\u00a0the\u00a0main\u00a0structural\u00a0domains\u00a0of\u00a0PB2.\u00a0",
+      "Reviewer_2.1.9": "Minor\u00a0remarksLine\u00a021.\u00a0..human\u00a0infection,\u00a0we\u00a0showed\u00a0that:\u00a0(1)\u2026Lines\u00a043-44.\u00a0Please\u00a0update\u00a0the\u00a0figures\u00a0(as\u00a0to\u00a0September\u00a02017,\u00a0there\u00a0were\u00a0860\u00a0lab-confirmed\u00a0infections\u00a0including\u00a0454\u00a0deaths).Line\u00a0208.\u00a0Somewhat\u00a0ambiguous.\u00a0Maybe\u00a0rather\u00a0\u201c\u2026the\u00a0later-emerging\u00a0avian\u00a0H5N1\u00a0viruses\u00a0which\u00a0carry\u00a0526R\u00a0PB2\u00a0(in\u00a0blue)\u2026.Line\u00a0285\u2026.that\u00a0627K\u00a0and\u00a0526R\u00a0substitutions\u00a0in\u00a0PB2Line\u00a0366\u2026\u00a0E627K\u00a0substitution\u00a0was\u00a0[]\u00a0found\u00a0in\u00a0one\u00a0of\u00a0five\u00a0mice\u2026(the\u00a0meaning\u00a0of\u00a0\u201conly\u201d\u00a0is\u00a0ambiguous\u00a0here).Line\u00a0482.\u00a0Initiated\u00a0by\u00a0the\u00a0[]\u00a0emergence\u2026(sudden\u00a0may\u00a0be\u00a0excessive:\u00a0cf\u00a0ref\u00a044,\u00a0which\u00a0should\u00a0be\u00a0added\u00a0here\u00a0with\u00a042-43).Line\u00a0533.\u00a0\u2026primarily..",
+      "Reviewer_2.3.1": "As for Figure 4A and 6C, the authors probably misunderstood my remark.  In fact the first version of these figures was OK with the y-scale  representing powers of ten. I simply suggested to add minor ticks  representing the subdivisions 2 to 9 between powers of ten, so as to  emphasize the logarithmic scale (in GraphPad, just click on  menu \u201cformat axes\u201d and chose \u201cminor ticks\u201d).",
+      "Reviewer_2.3.2": "Lines 293-307 and discussion. The authors could devote at least a  line or a sentence of the discussion section to the interactions of PB2  with NEP and NP.",
+      "Reviewer_2.3.3": "Line 22. We previously showed  substitution PB2-K526R is present in 80%...",
+      "Reviewer_2.3.4": "Line 295. ..functions of \u2026"
+    },
+    "Author": {
+      "Author.2.1": "Title has been modified in revised version",
+      "Author.2.2": "Fig.1 has been modified to include update H5N1 virus sequences from Indonesia",
+      "Author.2.3": "Our previous publication (Song W et al., Nat Commun 2014)  has shown that K526R is prevalent in Indonesia but not in other subclade of H5N1 virus.",
+      "Author.2.4": "Modification has been made in the revised version.",
+      "Author.2.5": "Modification has been made.",
+      "Author.2.6": "We agree with reviewer comment and have adjust the text in the revised version.",
+      "Author.2.7": "Modification has been made to address the concern.",
+      "Author.2.8": "Additional reference has been added in the revised version to address this question.",
+      "Author.2.9": "MDCK cells are permissive to infection of most of avian influenza viruses while A549 cells show restriction to some avian viruses. We considered that A549 cells is more suitable for experiment to test replication efficiency of PB2 adaptive mutations of H5N1 virus.",
+      "Author.2.10": "Modification has been made.",
+      "Author.2.11": "We have modified the text in the revised version.",
+      "Author.2.12": "Correction has been made.",
+      "Author.2.13": "Correction has been made.",
+      "Author.2.14": "Fig. 4A and Fig. 6C have been modified in the revised version. ",
+      "Author.2.15": "We have modified text and included additional reference to state the rationale of this experiment. ",
+      "Author.2.16": "The challenge dose for different groups of mice is from 1-106 pfu per mice (as shown in methods).  For CK2A and CK2A-K526R groups, no mice died when the dose is equal or lower than 10^3 pfu. Therefore, the MLD50 of some groups is lower. Table 1 legend has a typo, challenge dose should to 1-106 pfu. We have made correction in the revised version. ",
+      "Author.2.17": "We have modified Fig. 7E and revised text to address these concerns ",
+      "Author.2.18": "CK2A was used because it was isolated during 2003 before H5N1 human cases emerged in Indonesia. Residues selected for testing in this study on available sequences. We understand these residues tested can not fully represent all the possibilities. Further study based on analyses of  more sequences of all PB2 with K526R substitution will provide more information for understand role of other adaptive mutation associated with K526R \\.",
+      "Author.2.19": "We agree with this reviewer that there are other possibilities in PB1 and PA of both strains. Fig. 8 tests if R288Q is associated with K526R for enhanced polymerase activity in Indonesia H5N1 virus. We consider it is easier for reader to understand acquired mutation,R288Q, would  enhance PB2 K526R RNP polymerase activity in the A/CK/Indonesia/2A/03 background (PB2-526K) while reversed mutation, Q288R, would negatively affect RNP polymerase activity in the A/Indonesia/05/03 background (PB2-526R). ",
+      "Author.2.20": "We have modified text in the revised version to state multiple adaptive strategies are utilized by different avian influenza virus to gain cross species replication. ",
+      "Author.2.21": "Corrections have been made in the revised version  ",
+      "Author.4.1": "We apologized for misunderstood this reviewer's comment in previous response. Revision has been made in current revised version.",
+      "Author.4.2": "We agree with this reviewer's comment and have included a discussion to integrate PB2 with NEP and NP and added additional references in the revised version.",
+      "Author.4.3": "Corrections have been made.",
+      "Author.4.4": "Corrections have been made.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_1.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_1.1.10"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_1.1.11"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_1.1.12"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_1.1.13"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.16",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.17",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.18",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.19",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.20",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.21",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Reviewer_2.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.3.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.3.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.3.4",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.1",
+      "Reviewer_2.3.1"
+    ],
+    [
+      "Author.4.2",
+      "Reviewer_2.3.2"
+    ],
+    [
+      "Author.4.3",
+      "Reviewer_2.3.3"
+    ],
+    [
+      "Author.4.4",
+      "Reviewer_2.3.4"
+    ]
+  ]
+}

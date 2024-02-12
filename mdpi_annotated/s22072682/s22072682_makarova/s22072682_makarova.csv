@@ -1,0 +1,21 @@
+﻿Side;Opponent;Round;Number;Attacks;Text
+Reviewer 1;Author;1;1;0;Please add a table with patients' baseline characteristics, including BMI and smoking status.
+Reviewer 1;Author;1;2;0;Did authors estimate sample size? Please add in data analysis section
+Reviewer 1;Author;1;3;0;Please add ethics protocol approval number
+Reviewer 1;Author;1;4;0;I found some minor English errors throughout the paper. Please have a re-check.
+Reviewer 2;Author;1;1;0;The paper's aim should be the same in the abstract and the introduction
+Reviewer 2;Author;1;2;0;I suggest presenting the paper's aim as the last idea in the introduction to make the manuscript easier to read.
+Reviewer 2;Author;1;3;0;Given the poor quality of the images (Fig 1 and 2), it might be better to redraw them and describe them as an adaptation of the original publication.
+Reviewer 2;Author;1;4;0;The methods do not specify how the baseline load of the participants was determined.
+Reviewer 2;Author;1;5;0;"In figure 3, the indication of the test time appears in the reverse direction. Time ""0"" should be at the start."
+Reviewer 2;Author;1;6;0;I recommend deleting graphs 5, 8, and 11 because graphs 7, 10, and 13 show the same information together with lines obtained by analyzing the structural change of the time series.
+Author;Reviewer 1;2;1;1;I added a table listing the baseline characteristics, including BMI and smoking status, of subjects.
+Author;Reviewer 1;2;2;2;Since this study focuses on AT search, detailed estimation of sample size is not performed. I added in data analysis section.
+Author;Reviewer 1;2;3;3;Project identification code is H29-4. I added in 2.1.subjects and 6.patents.
+Author;Reviewer 1;2;4;4;"My manuscript is checked by an English proofreader. 
+I will attach an English proofreading certificate."
+Author;Reviewer 2;2;1;1,2;I described the paper's aim.
+Author;Reviewer 2;2;2;3;I redrew Figures 1 and 2 and described them as an adaptation of the original publication.
+Author;Reviewer 2;2;3;4;I described baseline load of the participants in 2.2. Experimental Protocol and Setup.
+Author;Reviewer 2;2;4;5;I revised Figure 3.
+Author;Reviewer 2;2;5;6;I deleted graphs 5, 8, and 11.

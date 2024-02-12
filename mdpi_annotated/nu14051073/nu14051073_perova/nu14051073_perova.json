@@ -1,0 +1,243 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The \u201cPart 1\u201d in the title, while perhaps intriguing, calls for some explanation of future directions. This does not seem to be addressed in the article, thus there seems to be no reason to include this phrase in the title.",
+      "Reviewer_1.1.2": "Regarding \u201cThe clinical context in which BC is evaluated usually defines the ideal model to be used\u201d: This is somewhat confusing. Perhaps a simpler definition or specification could be used here, as clinical \u2018context\u2019 more often dictates the availability of methods, not necessarily models. Cost, manpower, location, all play a role in driving the selection of BC techniques",
+      "Reviewer_1.1.3": "P2 L61: FFM is obtained via the 4C model \u2013 it is not a surrogate. Also, the difference(s) between FFM and LM definitions are nuanced and complex and should either be defined, or alternate text should be used here. It seems that the authors are simply trying to point out that use of the 4C model is not common and that other methods are normally used. Best to clarify this statement.",
+      "Reviewer_1.1.4": "P2 L69: The aim stated here does not follow the logic of the preceding statements in the paragraph, i.e., what does comparing BC methods have to do with lack of healthcare or technology? Is the focus then on finding low cost, easy to apply methods? The aim (and intent) of the study seems too simplistic as stated here \u2013 merely comparing methods. How would the results be applied to the healthcare situation in Mexico? These topics should be tied together, or an alternative motivation needs to be presented.",
+      "Reviewer_1.1.5": "P3 L94: This is awkwardly worded. Who was asked to assent?",
+      "Reviewer_1.1.6": "P3 L125: DXA: Was the head ROI excluded from the analyses (as per recommendation by the ISCD)? If so, it should be stated. If not, DXA analysis should be redone and all relationships recalculated.",
+      "Reviewer_1.1.7": "P5 L176: \u201c(n=52??)\u201d Is there uncertainty of the number of participants or is this merely a typo?",
+      "Reviewer_1.1.8": "P5 L191: TBW should be in liters, not kg.",
+      "Reviewer_1.1.9": "P5 L207: The means of FM would be compared using t-test, not calculated.",
+      "Reviewer_1.1.10": "Table 1: The n values in the column headers add up to 293 rather than 288. Are the n values incorrect or is the entire cohort presented here?",
+      "Reviewer_1.1.11": "Table 1; Body Composition Variables: The mean values do not all agree with those in supplementary Table 1.",
+      "Reviewer_1.1.12": "Table 1; MRI subsample: There is no indication of age, BMI, etc. in this group. That information may be helpful, perhaps also as supplementary data.",
+      "Reviewer_1.1.13": "P7 L226: It would be helpful if it was made clear that this refers to comparisons of means of all subjects (not broken down by age, sex).",
+      "Reviewer_1.1.14": "P12 L283: Is Table 4 necessary? The title (and aim?) of the paper is all about comparing techniques against the 4C model. One also begins to wonder about affecting type 1 errors due to multiplicity of comparisons (debatable but worth considering). It may be worth considering moving Table 4 to the supplementary file and bringing supplementary Table 1 into the main document. If the focus (see the title) of the article is comparisons with the 4C model, then supplementary Table 1 seems to merit more direct attention.",
+      "Reviewer_1.1.15": "P13 L294: The legend for Figure 3 seems incorrect. It matches that for Figure 1.",
+      "Reviewer_1.1.16": "As stated above, it may be worth considering moving these Bland-Altman figures to the supplementary file.",
+      "Reviewer_1.1.17": "P15 L393: This paragraph reads more like a conclusion and seem out of place. It should perhaps be the last paragraph in the Discussion.",
+      "Reviewer_1.1.18": "Much of the Discussion addresses strengths and weaknesses of the different BC methods, as if to provide guidance for clinicians in selecting the best techniques according to their needs and capabilities. None of the methods are ideal \u2013 all are flawed (in comparison with a gold standard). Yet a firm conclusion seems to be lacking. Concluding that methods differ is not surprising. One may be better served by discussing how the differences in methods (i.e. over or under estimating FM) may affect health assessments. That is, what impact may underestimating FM, by relying on one particular method, have on child care? How critical is the method selection? Somehow this needs to be tied more firmly to the population and environment being studied."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "I am not familiar with the Bland-Altman method, so was unclear when I read the methods section whether the text in lines 204-207 was explaining the Bland-Altman method or describing a separate procedure. I take from the results that those sentences were describing the Bland-Altman procedure, and if so, adding some text along the lines of \"In this procedure...\" would be helpful. As it was, I couldn't understand the description provided, and it didn't seem to match the figures, which were simply labeled as FM, so seemed to be a simple plots of FM using 2 methods on first read.",
+      "Reviewer_2.1.2": "Relatedly, it would have been helpful to have more explanatory titles for the plots--eg \"Differential correlation between methods across levels of FM\". And, the meaning of the trend line was very counter-intuitive, so an interpretive note under the plots would have been helpful. (E.g., \"A positive trend indicates increasing underestimation of FM at high FM levels; a negative trend indicates increasing overestimation of FM at high FM levels.",
+      "Reviewer_2.1.3": "There is no description of the race and ethnic composition of the sample. I am not well-versed in the ethnic composition of Mexico, however, would it be helpful to know the degree of representation of, for example, youth who are Black, of Indigenous ancestry, and of European ancestry? Or are there other ethnic or cultural groups that should be represented?",
+      "Reviewer_2.1.4": "I didn't understand why the data differed between Table 1 and Supplementary Table 1. Why did Ns (and means/SDs) differ?",
+      "Reviewer_2.1.5": "Not all abbreviations are listed for the table footnotes (FFM, D2O, DXA, LM, BV, ADP)"
+    },
+    "Author": {
+      "Author.2.1": "The second part of this analysis, titled: \u201cBody composition assessment in Mexican children and adolescents. Part 2: Cross-validation of three bio-electrical impedance methods against dual X-ray absorptiometry for whole-body and regional body composition\u201d, has already been accepted by Nutrients #1604578. The two analyses were conducted on the same children\u2019s database and closely complement each other. As the accepted manuscript already includes the phrase \u2018Part 2\u2019 we prefer to keep \u2018Part 1\u2019 here",
+      "Author.2.2": "Changed, line 19",
+      "Author.2.3": "Corrected, we adjusted this paragraph together with the next one to give a clearer explanation of the motivation of this study.",
+      "Author.2.4": "We have adjusted accordingly. We hope now we can give a clearer explanation about the motivation of this study",
+      "Author.2.5": "Clarified in lines 164.",
+      "Author.2.6": "The data used was total body with head, as recommended for the ISCD when using DXA for body composition instead of for bone densitometry. We clarified and referenced this in the text, lines 204-208.",
+      "Author.2.7": "This was a typo, we corrected it. Line 260.",
+      "Author.2.8": "Corrected.",
+      "Author.2.9": "We corrected (lines 287-288).",
+      "Author.2.10": "Indeed, it was like that. We have changed it to show only the data of the 288 subjects (without the 5 outliers).",
+      "Author.2.11": "This was because of the inclusion of the 5 outliers in table 1, which has been corrected.",
+      "Author.2.12": "We have added this in supplementary table as S table 1.",
+      "Author.2.13": "Added, the analysis was for the total sample and by subgroups by age and sex, line 287",
+      "Author.2.14": "We have corrected as recommended. Table 4 sent to supplementary material as supplementary table 3.",
+      "Author.2.15": "Corrected.",
+      "Author.2.16": "Changed as supplementary figure 3.",
+      "Author.2.17": "Changed",
+      "Author.2.18": "We have stated in the conclusion that while individual methods show bias relative to the 4-component reference, the high correlations indicate that all the methods perform well in ranking individual children as having high or low FFM and fat mass. This ranking is itself very valuable in routine clinical care, particularly for longitudinal assessment. We have provided new evidence for the Mexican population that all the methods have utility for this purpose. Furthermore, some of the biases for individual methods can be resolved by the publication of method-specific reference data, whereby all data can be converted to method-specific z-scores. Publishing such reference data is a further aim of our project.",
+      "Author.2.19": "Added",
+      "Author.2.20": "Added to supplementary figure 1 and main figures 1 and 2",
+      "Author.2.21": "Specified in limitations lines 993-997. Important to say is that ~89% of Mexican population is Hispanic. Only 6.6% belong to indigenous population and 5.9% to Afro-Mexican ethnic groups.",
+      "Author.2.22": "Corrected. In the previous version we put data of the whole sample of 293 subjects (including 5 outliers that should not been there). We have corrected the data, and now we only present data on the 288 subjects for both tables.",
+      "Author.2.23": "Added to table 1.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.14",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.15",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.16",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.17",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.18",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_1.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_1.1.10"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_1.1.11"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_1.1.12"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_1.1.13"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_1.1.14"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_1.1.15"
+    ],
+    [
+      "Author.2.16",
+      "Reviewer_1.1.16"
+    ],
+    [
+      "Author.2.17",
+      "Reviewer_1.1.17"
+    ],
+    [
+      "Author.2.18",
+      "Reviewer_1.1.18"
+    ],
+    [
+      "Author.2.19",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.20",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.21",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.22",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.23",
+      "Reviewer_2.1.5"
+    ]
+  ]
+}

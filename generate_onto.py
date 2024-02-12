@@ -39,6 +39,7 @@ def json2owl(name):
 
         attack_pairs = data['attack_pairs']
         for pair in attack_pairs:
+            print(pair)
             argument1 = pair[0].split('.')
             argument1 = onto.search_one(is_a = onto[argument1[0]],
                                         round = argument1[1],
@@ -84,6 +85,7 @@ def json2owl(name):
 
     onto.save(f'{name}.owl', format = 'ntriples')
     with onto:
-        sync_reasoner_pellet(infer_property_values = True)
+        sync_reasoner_pellet(infer_property_values = True,
+                             debug = 2)
     onto.save(f'{name}_inferred.owl', format = 'ntriples')
     onto.destroy()

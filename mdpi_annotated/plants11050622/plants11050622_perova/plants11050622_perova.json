@@ -1,0 +1,305 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The ms is the result of an intensive and years-long work of breeding, that eventually pyramidized several resistance genes and QTLs for abiotic traits into an indian elite rice variety. The work is not unprecedented in the concept, but provides interesting breeding material for specific indian farmers, which is an important achievement and is correctly taken up by authorities and international research centers.",
+      "Reviewer_1.1.2": "The main issue with the ms is the quality of the figures: they are not clearly representing the data, arrows and text may help the reader, the controls are missing in most cases, and a general lack of precision is affecting them. Also, the legends are not clearly describing all the terms and should be revised. Legends should describe what is to be observed in the figure, possibly pointing to parts of special interest.",
+      "Reviewer_1.1.3": "Explaining briefly which and what are the indian sesasons during which experiments have been conducted would help clarity.",
+      "Reviewer_1.1.4": "The phenotypic data are important, but currently they are presented only as additional material. The authors should consider reshaping the tables, eliminating unnecessary columns (e.g. no. of genes / QTLs, which is already represented in column 1) and add the most striking phenotypic data, when possible and relevant for discussion. Also \"entry nos.\" is probably not clear and ILs no should maybe considered instead.",
+      "Reviewer_1.1.5": "The data on bgs are not sufficiently presented in the text nor discussed.",
+      "Reviewer_1.1.6": "revise the use of \"-\" instead of \"( )\" when mentioning the numbers of the ILs, or any other system which would ensure a better homogeneity in comparison to the one present in the ms.",
+      "Reviewer_1.1.7": "check lines 21, 37, 93, 153, 183-184, 312, 351-353, 360, 377, 466",
+      "Reviewer_1.1.8": "stick to BB instead of BLB",
+      "Reviewer_1.1.9": "consider anticipating the explanation of the acronyms which are eventually presented only in the M&M, to facilitate the reading; consider this aspect also in the legends",
+      "Reviewer_1.1.10": "Lines 403 et seq. are redundant",
+      "Reviewer_1.1.11": "lines 414 et seq. seem to be contradicting lines 351 et seq.",
+      "Reviewer_1.1.12": "the 85 ILs presented at 414 seem to be a bit out of the blue: a short intro to where they are coming from would help the reader."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "With minor grammatical revisions, the manuscript can be accepted as is.",
+      "Reviewer_2.1.2": "It is also acknowledged that this paper is probably the first of many papers to emerge from the study. As such, it is an overview paper that raises many questions. It would be interesting for the authors to provide more information about the research design and estimation methodologies, such as chi-square analysis of introgression lines, if possible for each crossed IL population. I only recommend some minor revisions before acceptance.",
+      "Reviewer_2.1.3": "This work is of outstanding quality, and I normally present more critical points in my reviews. However, this time it is just very beautiful work.",
+      "Reviewer_2.1.4": "Line 262: \u201c=261 %\u201d , and Line 312 \u201clinkes\u201d a typo? Correct it"
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "L48-63: should add some citations on the first part of introduction.",
+      "Reviewer_3.1.2": "L127: Please add the explanation of \u201cboro season\u201d.",
+      "Reviewer_3.1.3": "The legend of supplementary table should be improved. Table and main text are independent, so the authors have to describe the table more carefully.",
+      "Reviewer_3.1.4": "L562: the section of statistical analysis should add more details. For example, how does H2 calculate? Also please indicate the R version.",
+      "Reviewer_3.1.5": "On Supplementary table S2, does significant mean p-value? Indicate DFF = days to fifty percent flowering. What is the \u201ctreatment\u201d? What do the results on \u201ccheck\u201d mean? How did you analyze \u201ccontrol vs IL\u201d?",
+      "Reviewer_3.1.6": "On Supplementary table S3, similar questions as S2, please also explain.",
+      "Reviewer_3.1.7": "On Supplementary table S5, what is \u201cC.D\u201d? How did you calculate those values on those comparison types?",
+      "Reviewer_3.1.8": "Please re-organize the Supplementary table S5, I suggest use each ILs only appear one time and add one more column to show their PC groups. Then the table can be more informative and ease to read.",
+      "Reviewer_3.1.9": "Please add the full name of abbreviations. For example on L203 \u201cCD\u201d, L211 \u201cSES\u201c, L228 \u201cUBN\u201c and L332 \u201cICAR-IRRR\u201d.",
+      "Reviewer_3.1.10": "The last paragraph of results is about background selection. Suggest to add subtitle \u201c2.2.8\u201d.",
+      "Reviewer_3.1.11": "Please add some gel pictures of the foreground selection markers you used in order to visualize the genotyping results and showed the polymorphism of these markers on gel.",
+      "Reviewer_3.1.12": "L296-L302: the marker descriptions on main text cannot match the supplementary table S8. Also, what are those 27 ILs on L298?",
+      "Reviewer_3.1.13": "L602: there is no appendix."
+    },
+    "Author": {
+      "Author.2.1": "Authors immensely thank reviewer for the constructive suggestions and valuable comments which greatly helped in the improvement of the manuscript. The corrections have been incorporated as per the suggestions made by the reviewer.",
+      "Author.2.2": "Figures have been revised with addition of arrows and text to represent the data. Since a large number of ILs were screened, susceptible check (SC) was used with a set of ILs and hence SC couldn\u2019t be shown in all figures. However, SC \u2018HR12\u2019 for blast disease was shown in all blast screening figures 3 to 5. Similarly, in Fig 5, \u2018TN1\u2019 and \u2018Improved Samba Mahsuri\u2019 as susceptible and resistant checks respectively for BB in comparison with IL-19031 were shown. Authors once again thank the reviewer for pointing out the mistake in legends. Now, we have rephrased the legends clearly describing all the terms.",
+      "Author.2.3": "Figure 1 legend has been revised with inclusion of the details of kharif and rabi seasons. kharif is the wet season with crop growing period from June to November and rabi is the dry season with crop growing period from December to May. We described kharif as wet season and rabi as dry season in the materials and methods section also.",
+      "Author.2.4": "Since the number of ILs is large, presenting phenotypic data for each IL will result in increasing the size of the main tables, hence data was earlier presented in supplementary tables. As suggested by the reviewers, we have revised the tables and presented the mean phenotypic data of BB, blast and drought screening in the main tables for each IL in parenthesis. Column on \u2018no. of genes/QTL\u2019 has been removed as suggested. Entry nos have been replaced with IL No as suggested.",
+      "Author.2.5": "The present work is not essentially a backcross breeding program aimed at development of near isogenic lines. However, Krishna Hamsa was the common background into which several genes/QTL were targeted from multiple donors and considering the morphological similarity between 27 ILs and Krishna Hamsa, background selection was done retrospectively. BGS validated our observations on morphological similarity. The same has been discussed in the 5th para under \u2018discussion\u2019. Also results on BGS have been presented under subsection 2.3 of results with data on polymorphic markers for BGS in supplementary table S8.",
+      "Author.2.6": "\u201c()\u201d have been removed while mentioned the numbers of the ILs and sentences have been revised appropriately in the manuscript.",
+      "Author.2.7": "The above mentioned lines have been checked and found either spelling mistakes or revision of sentences. Accordingly, corrections were made.",
+      "Author.2.8": "BLB has been replaced with BB throughout the manuscript.",
+      "Author.2.9": "Legends of figures and tables and text in the results section have been revised with explanation of acronyms as suggested.",
+      "Author.2.10": "The sentence here is required to maintain flow of the subsequent content.",
+      "Author.2.11": "Both lines explain our observations in different sets of ILs. Sentence at 351 explains susceptibility in ILs despite possessing the targeted gene/QTLs while sentence at 414 explains resistance in ILs despite the absence of targeted gene/QTLs.",
+      "Author.2.12": "The 85 ILs is a sum total of nine ILs marker positive to blast- R genes, nine ILs harbouring QTLs for drought tolerance and 67 ILs marker positive to BB-R genes mentioned at the beginning of 4th paragraph of discussion. As suggested, we have added in brief about the same at line 414.",
+      "Author.2.13": "Yes, we agree that there were some typo and spelling mistakes in the manuscript. The manuscript has been thoroughly revised for the same.",
+      "Author.2.14": "Authors once again thank the reviewer for correct assessment of the basic purpose of the manuscript. Yes, this is truly an overview paper presenting the interesting observations from our study. The introgression scheme and phenotyping of various biotic traits and drought phenotyping have been described in detail under \u2018Materials and Methods\u2019 section. The metric data on yield traits was statistically analyzed and results of ANOVA, heritability and critical differences have been presented in the manuscript. Authors agree that it would be more inferential with chi square values. However, the crossing scheme was viewed holistically and data on each cross was not maintained separately as the present study aimed at selecting introgression lines from multiples crosses with multiple stress resistance/tolerance by pooling several genes and QTLs into a common background. Despite maintaining large base populations, plants per se were selected based on marker positivity for inter-crossing and selfing and further stringent phenotypic selection for the targeted traits. Hence, chi-square which is perfectly apt for population derived from biparental crosses is not used in our study.",
+      "Author.2.15": "Authors feel greatly encouraged and motivated with the reviewer\u2019s comments.",
+      "Author.2.16": "\u2018=261%\u2019 has been corrected to \u2018+261%\u2019 and typo error of \u2018linkes\u2019 corrected to \u2018linked\u2019",
+      "Author.2.17": "Added references appropriately at two places as suggested by the reviewer.",
+      "Author.2.18": "Explanation for boro season has been added.",
+      "Author.2.19": "Legends of the supplementary tables have been revised and inference of the table is given in foot note.",
+      "Author.2.20": "Authors once again thank the reviewer for the valuable suggestion. More details on the statistical analysis have been added as suggested.",
+      "Author.2.21": "Yes, significant means p-value. In the supplementary tables, expanded form of DFF is given as suggested. Treatments refers to introgression lines and check to control. For uniformity, we have changed the terminology to treatment instead of using IL or variety and check to control in all the revised supplementary tables and rephrased the legends accordingly.",
+      "Author.2.22": "Similar to Supplementary Table S2, S3 has been revised",
+      "Author.2.23": "CD is the critical difference at 1% and 5% level of significance (p-value) for testing of significant differences among the ILs. The details of CD calculation have been added in the materials and methods section as suggested.",
+      "Author.2.24": "Supplementary table S5 is on CD and corrections have been addressed as suggested as at S. No 7. Supplementary table S6 have been modified by shifting data of BB and blast scores to main table. Each PC group is mentioned on top as sub heading at the start of each group. Each IL is presented only once in the entire table under separate PC groups.",
+      "Author.2.25": "Full names of the abbreviations have been added as suggested.",
+      "Author.2.26": "Subtitle has been added as suggested.",
+      "Author.2.27": "A representative gel picture has been added as suggested.",
+      "Author.2.28": "Table S8 represents polymorphic markers between pairs of parents including some common polymorphic markers. Hence the total number represented in the table S8 is not additive and not matching with the numbers given in the text. 124 is the total polymorphic markers excluding repetition. 27 ILs were selected based on their agro-morphological similarity with recurrent parent \u2018Krishna Hamsa\u2019 and evaluated for background recovery. The list of 27 ILs has been included in the revised manuscript as suggested.",
+      "Author.2.29": "Mention of appendix at L602 is a typo error and has been removed",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_1.1.6"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_1.1.7"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_1.1.8"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_1.1.9"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_1.1.10"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_1.1.11"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_1.1.12"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.16",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.17",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.18",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.19",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.20",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Author.2.21",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Author.2.22",
+      "Reviewer_3.1.6"
+    ],
+    [
+      "Author.2.23",
+      "Reviewer_3.1.7"
+    ],
+    [
+      "Author.2.24",
+      "Reviewer_3.1.8"
+    ],
+    [
+      "Author.2.25",
+      "Reviewer_3.1.9"
+    ],
+    [
+      "Author.2.26",
+      "Reviewer_3.1.10"
+    ],
+    [
+      "Author.2.27",
+      "Reviewer_3.1.11"
+    ],
+    [
+      "Author.2.28",
+      "Reviewer_3.1.12"
+    ],
+    [
+      "Author.2.29",
+      "Reviewer_3.1.13"
+    ]
+  ]
+}
