@@ -5,6 +5,8 @@
 <admsci5030125_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <admsci5030125_makarova.owl#isAttackedBy> .
 <admsci5030125_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <admsci5030125_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<admsci5030125_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<admsci5030125_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <admsci5030125_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <admsci5030125_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <admsci5030125_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -708,87 +710,87 @@ _:475 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/
 <admsci5030125_makarova.owl#reviewer_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <admsci5030125_makarova.owl#Reviewer_3ConflictFree> .
 <admsci5030125_makarova.owl#reviewer_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <admsci5030125_makarova.owl#Reviewer_3ConflictFree> .
 <admsci5030125_makarova.owl#reviewer_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <admsci5030125_makarova.owl#Reviewer_3ConflictFree> .
-<admsci5030125_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "My principle concern is with the logical construction of the paper. Given the number and apparent scope of adaptations of the CIRA method, I am not sure that I am more familiar with CIRA or its advantages having read the paper than I was previously."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_11> <admsci5030125_makarova.owl#text> "My principle concern is with the logical construction of the paper. Given the number and apparent scope of adaptations of the CIRA method, I am not sure that I am more familiar with CIRA or its advantages having read the paper than I was previously."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_11> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_11> <admsci5030125_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "While the authors describe the process as a case study, the procedure they use is a table top exercise. Rather than developing a case through research, interviews, or observation, they presented a stylized scenario to academic peers for discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_12> <admsci5030125_makarova.owl#text> "While the authors describe the process as a case study, the procedure they use is a table top exercise. Rather than developing a case through research, interviews, or observation, they presented a stylized scenario to academic peers for discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_12> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_12> <admsci5030125_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "Given the authors stated goal of promoting the CIRA technique and approach to demonstrating its uses, I would recommend re-formatting the paper as a pedagogical tool. Rather than claiming to validate the method, focus on a detailed step by step examination of its implementation using a known outcome."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_13> <admsci5030125_makarova.owl#text> "Given the authors stated goal of promoting the CIRA technique and approach to demonstrating its uses, I would recommend re-formatting the paper as a pedagogical tool. Rather than claiming to validate the method, focus on a detailed step by step examination of its implementation using a known outcome."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_13> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_13> <admsci5030125_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "The paper needs smoother transitions between topics on pages 2-7. The authors should add one or two lines smoothing the flow for the reader, rather than relying on subject headings. Traditionally, limitations are listed towards the end of the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_14> <admsci5030125_makarova.owl#text> "The paper needs smoother transitions between topics on pages 2-7. The authors should add one or two lines smoothing the flow for the reader, rather than relying on subject headings. Traditionally, limitations are listed towards the end of the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_14> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_14> <admsci5030125_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "The paper is on the one hand quite verbose, but with respect to the peer review incomplete."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_21> <admsci5030125_makarova.owl#text> "The paper is on the one hand quite verbose, but with respect to the peer review incomplete."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_21> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_21> <admsci5030125_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "The line of reasoning in the paper is not easy to follow."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_22> <admsci5030125_makarova.owl#text> "The line of reasoning in the paper is not easy to follow."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_22> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_22> <admsci5030125_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "The paper can become stronger if it limits itself to the Peer Review Ring Incident and will look at the various aspects of that scenario including risk reducing measures"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_23> <admsci5030125_makarova.owl#text> "The paper can become stronger if it limits itself to the Peer Review Ring Incident and will look at the various aspects of that scenario including risk reducing measures"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_23> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_23> <admsci5030125_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "Much of what is analyzed and concluded is rather obvious."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_24> <admsci5030125_makarova.owl#text> "Much of what is analyzed and concluded is rather obvious."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_24> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_24> <admsci5030125_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "What are the conclusions about the root cause? Or are there multiple root causes? And what definition of root cause is used?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_25> <admsci5030125_makarova.owl#text> "What are the conclusions about the root cause? Or are there multiple root causes? And what definition of root cause is used?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_25> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_25> <admsci5030125_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_26> <http://www.w3.org/2000/01/rdf-schema#label> "Few minor linguistic glitches have been indicated by annotations in the text."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_26> <admsci5030125_makarova.owl#text> "Few minor linguistic glitches have been indicated by annotations in the text."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_26> <admsci5030125_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_26> <admsci5030125_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_31> <http://www.w3.org/2000/01/rdf-schema#label> "Regarding section 2, literature review should usually be structured with explicitly stating what types of methodologies have already been developed/are existing in the context of what you studied or conducted your research on."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_31> <admsci5030125_makarova.owl#text> "Regarding section 2, literature review should usually be structured with explicitly stating what types of methodologies have already been developed/are existing in the context of what you studied or conducted your research on."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_31> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_31> <admsci5030125_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_32> <http://www.w3.org/2000/01/rdf-schema#label> "If so, there is not enough explanation about the CIRA and the person(s) who developed this method. "^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_32> <admsci5030125_makarova.owl#text> "If so, there is not enough explanation about the CIRA and the person(s) who developed this method. "^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_32> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_32> <admsci5030125_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_33> <http://www.w3.org/2000/01/rdf-schema#label> "Also there is not enough clarification and elaboration on the differences of your  work on CIRA and your customizations comparing to the original methodology."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_33> <admsci5030125_makarova.owl#text> "Also there is not enough clarification and elaboration on the differences of your  work on CIRA and your customizations comparing to the original methodology."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_33> <admsci5030125_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_33> <admsci5030125_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#reviewer_34> <http://www.w3.org/2000/01/rdf-schema#label> "There is a need for some editing; e.g. grammatical and punctuation corrections, elements in the text."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#reviewer_34> <admsci5030125_makarova.owl#text> "There is a need for some editing; e.g. grammatical and punctuation corrections, elements in the text."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_34> <admsci5030125_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#reviewer_34> <admsci5030125_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author1> <admsci5030125_makarova.owl#text> "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author1> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author1> <admsci5030125_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author2> <admsci5030125_makarova.owl#text> "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author2> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author2> <admsci5030125_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author3> <admsci5030125_makarova.owl#text> "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author3> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author3> <admsci5030125_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "I have tried to improve the information density of the paper from being to verbiose."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author4> <admsci5030125_makarova.owl#text> "I have tried to improve the information density of the paper from being to verbiose."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author4> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author4> <admsci5030125_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "I have added the results of the stakeholder analysis to improve the communication our view of the PRP."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author5> <admsci5030125_makarova.owl#text> "I have added the results of the stakeholder analysis to improve the communication our view of the PRP."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author5> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author5> <admsci5030125_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author6> <admsci5030125_makarova.owl#text> "I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author6> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author6> <admsci5030125_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author7> <admsci5030125_makarova.owl#text> "I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author7> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author7> <admsci5030125_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author8> <admsci5030125_makarova.owl#text> "I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author8> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author8> <admsci5030125_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "I have elaborated on all the areas you commented, and clarified the CIRA methodology and hopefully my contribution."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author9> <admsci5030125_makarova.owl#text> "I have elaborated on all the areas you commented, and clarified the CIRA methodology and hopefully my contribution."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author9> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author9> <admsci5030125_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "I have elaborated on all the areas you commented, and clarified the CIRA methodology and hopefully my contribution."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author10> <admsci5030125_makarova.owl#text> "I have elaborated on all the areas you commented, and clarified the CIRA methodology and hopefully my contribution."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author10> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author10> <admsci5030125_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "I have elaborated on all the areas you commented, and clarified the CIRA methodology and hopefully my contribution."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author11> <admsci5030125_makarova.owl#text> "I have elaborated on all the areas you commented, and clarified the CIRA methodology and hopefully my contribution."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author11> <admsci5030125_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author11> <admsci5030125_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "I have included all your suggested changes together with a major spellcheck."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author12> <admsci5030125_makarova.owl#text> "I have included all your suggested changes together with a major spellcheck."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author12> <admsci5030125_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author12> <admsci5030125_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "I have included all your suggested changes together with a major spellcheck."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author13> <admsci5030125_makarova.owl#text> "I have included all your suggested changes together with a major spellcheck."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author13> <admsci5030125_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author13> <admsci5030125_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030125_makarova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030125_makarova.owl#author14> <admsci5030125_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author14> <admsci5030125_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030125_makarova.owl#author14> <admsci5030125_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

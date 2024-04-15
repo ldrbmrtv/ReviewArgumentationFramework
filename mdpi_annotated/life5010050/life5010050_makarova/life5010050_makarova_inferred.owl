@@ -5,6 +5,8 @@
 <life5010050_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <life5010050_makarova.owl#isAttackedBy> .
 <life5010050_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <life5010050_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<life5010050_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<life5010050_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <life5010050_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <life5010050_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <life5010050_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -132,735 +134,735 @@
 <life5010050_makarova.owl#author18> <life5010050_makarova.owl#attacks> <life5010050_makarova.owl#reviewer_27> .
 <life5010050_makarova.owl#reviewer_113> <life5010050_makarova.owl#attacks> <life5010050_makarova.owl#author19> .
 <life5010050_makarova.owl#reviewer_28> <life5010050_makarova.owl#attacks> <life5010050_makarova.owl#author19> .
-_:32561 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32561 <http://www.w3.org/2002/07/owl#oneOf> _:32562 .
-_:32562 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32562 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32563 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32563 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32563 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32561 .
-<life5010050_makarova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32563 .
-_:32564 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32564 <http://www.w3.org/2002/07/owl#oneOf> _:32565 .
-_:32565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author1> .
-_:32565 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32566 .
-_:32566 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author1> .
-_:32566 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32567 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32567 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32567 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32564 .
-<life5010050_makarova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32567 .
-_:32568 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32568 <http://www.w3.org/2002/07/owl#oneOf> _:32569 .
-_:32569 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32569 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32570 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32570 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32570 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32568 .
-<life5010050_makarova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32570 .
-_:32571 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32571 <http://www.w3.org/2002/07/owl#oneOf> _:32572 .
-_:32572 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author2> .
-_:32572 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32573 .
-_:32573 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author2> .
-_:32573 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32574 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32574 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32574 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32571 .
-<life5010050_makarova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32574 .
-_:32575 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32575 <http://www.w3.org/2002/07/owl#oneOf> _:32576 .
-_:32576 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32576 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32577 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32577 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32577 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32575 .
-<life5010050_makarova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32577 .
-_:32578 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32578 <http://www.w3.org/2002/07/owl#oneOf> _:32579 .
-_:32579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author3> .
-_:32579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32580 .
-_:32580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author3> .
-_:32580 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32581 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32581 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32581 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32578 .
-<life5010050_makarova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32581 .
-_:32582 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32582 <http://www.w3.org/2002/07/owl#oneOf> _:32583 .
-_:32583 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32583 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32584 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32584 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32584 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32582 .
-<life5010050_makarova.owl#reviewer_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32584 .
-_:32585 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32585 <http://www.w3.org/2002/07/owl#oneOf> _:32586 .
-_:32586 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author4> .
-_:32586 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32587 .
-_:32587 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author4> .
-_:32587 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32588 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32588 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32588 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32585 .
-<life5010050_makarova.owl#reviewer_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32588 .
-_:32589 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32589 <http://www.w3.org/2002/07/owl#oneOf> _:32590 .
-_:32590 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32590 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32591 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32591 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32591 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32589 .
-<life5010050_makarova.owl#reviewer_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32591 .
-_:32592 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32592 <http://www.w3.org/2002/07/owl#oneOf> _:32593 .
-_:32593 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author5> .
-_:32593 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32594 .
-_:32594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author5> .
-_:32594 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32595 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32595 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32595 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32592 .
-<life5010050_makarova.owl#reviewer_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32595 .
-_:32596 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32596 <http://www.w3.org/2002/07/owl#oneOf> _:32597 .
-_:32597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32597 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32598 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32598 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32598 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32596 .
-<life5010050_makarova.owl#reviewer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32598 .
-_:32599 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32599 <http://www.w3.org/2002/07/owl#oneOf> _:32600 .
-_:32600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author6> .
-_:32600 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32601 .
-_:32601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author6> .
-_:32601 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32602 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32602 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32602 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32599 .
-<life5010050_makarova.owl#reviewer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32602 .
-_:32603 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32603 <http://www.w3.org/2002/07/owl#oneOf> _:32604 .
-_:32604 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32604 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32605 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32605 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32605 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32603 .
-<life5010050_makarova.owl#reviewer_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32605 .
-_:32606 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32606 <http://www.w3.org/2002/07/owl#oneOf> _:32607 .
-_:32607 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author7> .
-_:32607 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32608 .
-_:32608 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author7> .
-_:32608 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32609 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32609 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32609 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32606 .
-<life5010050_makarova.owl#reviewer_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32609 .
-_:32610 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32610 <http://www.w3.org/2002/07/owl#oneOf> _:32611 .
-_:32611 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32611 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32612 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32612 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32612 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32610 .
-<life5010050_makarova.owl#reviewer_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32612 .
-_:32613 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32613 <http://www.w3.org/2002/07/owl#oneOf> _:32614 .
-_:32614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author8> .
-_:32614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32615 .
-_:32615 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author8> .
-_:32615 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32616 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32616 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32616 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32613 .
-<life5010050_makarova.owl#reviewer_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32616 .
-_:32617 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32617 <http://www.w3.org/2002/07/owl#oneOf> _:32618 .
-_:32618 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32618 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32619 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32619 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32619 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32617 .
-<life5010050_makarova.owl#reviewer_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32619 .
-_:32620 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32620 <http://www.w3.org/2002/07/owl#oneOf> _:32621 .
-_:32621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author9> .
-_:32621 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32622 .
-_:32622 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author9> .
-_:32622 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32623 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32623 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32623 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32620 .
-<life5010050_makarova.owl#reviewer_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32623 .
-_:32624 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32624 <http://www.w3.org/2002/07/owl#oneOf> _:32625 .
-_:32625 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32625 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32626 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32626 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32626 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32624 .
-<life5010050_makarova.owl#reviewer_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32626 .
-_:32627 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32627 <http://www.w3.org/2002/07/owl#oneOf> _:32628 .
-_:32628 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author10> .
-_:32628 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32629 .
-_:32629 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author10> .
-_:32629 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32630 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32630 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32630 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32627 .
-<life5010050_makarova.owl#reviewer_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32630 .
-_:32631 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32631 <http://www.w3.org/2002/07/owl#oneOf> _:32632 .
-_:32632 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32632 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32633 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32633 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32633 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32631 .
-<life5010050_makarova.owl#reviewer_111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32633 .
-_:32634 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32634 <http://www.w3.org/2002/07/owl#oneOf> _:32635 .
-_:32635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author11> .
-_:32635 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32636 .
-_:32636 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author11> .
-_:32636 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32637 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32637 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32637 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32634 .
-<life5010050_makarova.owl#reviewer_111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32637 .
-_:32638 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32638 <http://www.w3.org/2002/07/owl#oneOf> _:32639 .
-_:32639 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32639 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32640 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32640 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32640 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32638 .
-<life5010050_makarova.owl#reviewer_112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32640 .
-_:32641 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32641 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32641 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#reviewer_112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32641 .
-_:32642 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32642 <http://www.w3.org/2002/07/owl#oneOf> _:32643 .
-_:32643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32643 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32644 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32644 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32644 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32642 .
-<life5010050_makarova.owl#reviewer_113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32644 .
-_:32645 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32645 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32645 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#reviewer_113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32645 .
-_:32646 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32646 <http://www.w3.org/2002/07/owl#oneOf> _:32647 .
-_:32647 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32647 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32648 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32648 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32648 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32646 .
-<life5010050_makarova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32648 .
-_:32649 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32649 <http://www.w3.org/2002/07/owl#oneOf> _:32650 .
-_:32650 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author12> .
-_:32650 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32651 .
-_:32651 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author12> .
-_:32651 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32652 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32652 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32652 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32649 .
-<life5010050_makarova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32652 .
-_:32653 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32653 <http://www.w3.org/2002/07/owl#oneOf> _:32654 .
-_:32654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32654 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32655 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32655 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32655 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32653 .
-<life5010050_makarova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32655 .
-_:32656 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32656 <http://www.w3.org/2002/07/owl#oneOf> _:32657 .
-_:32657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author13> .
-_:32657 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32658 .
-_:32658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author13> .
-_:32658 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32659 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32659 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32659 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32656 .
-<life5010050_makarova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32659 .
-_:32660 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32660 <http://www.w3.org/2002/07/owl#oneOf> _:32661 .
-_:32661 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32661 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32662 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32662 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32662 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32660 .
-<life5010050_makarova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32662 .
-_:32663 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32663 <http://www.w3.org/2002/07/owl#oneOf> _:32664 .
-_:32664 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author14> .
-_:32664 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32665 .
-_:32665 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author14> .
-_:32665 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32666 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32666 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32666 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32663 .
-<life5010050_makarova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32666 .
-_:32667 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32667 <http://www.w3.org/2002/07/owl#oneOf> _:32668 .
-_:32668 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32668 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32669 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32669 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32669 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32667 .
-<life5010050_makarova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32669 .
-_:32670 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32670 <http://www.w3.org/2002/07/owl#oneOf> _:32671 .
-_:32671 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author15> .
-_:32671 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32672 .
-_:32672 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author15> .
-_:32672 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32673 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32673 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32673 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32670 .
-<life5010050_makarova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32673 .
-_:32674 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32674 <http://www.w3.org/2002/07/owl#oneOf> _:32675 .
-_:32675 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32675 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32676 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32676 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32676 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32674 .
-<life5010050_makarova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32676 .
-_:32677 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32677 <http://www.w3.org/2002/07/owl#oneOf> _:32678 .
-_:32678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author16> .
-_:32678 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32679 .
-_:32679 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author16> .
-_:32679 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32680 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32680 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32680 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32677 .
-<life5010050_makarova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32680 .
-_:32681 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32681 <http://www.w3.org/2002/07/owl#oneOf> _:32682 .
-_:32682 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32682 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32683 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32683 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32683 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32681 .
-<life5010050_makarova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32683 .
-_:32684 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32684 <http://www.w3.org/2002/07/owl#oneOf> _:32685 .
-_:32685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author17> .
-_:32685 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32686 .
-_:32686 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author17> .
-_:32686 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32687 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32687 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32687 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32684 .
-<life5010050_makarova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32687 .
-_:32688 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32688 <http://www.w3.org/2002/07/owl#oneOf> _:32689 .
-_:32689 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32689 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32690 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32690 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32690 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32688 .
-<life5010050_makarova.owl#reviewer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32690 .
-_:32691 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32691 <http://www.w3.org/2002/07/owl#oneOf> _:32692 .
-_:32692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author18> .
-_:32692 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32693 .
-_:32693 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author18> .
-_:32693 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32694 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32694 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32694 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32691 .
-<life5010050_makarova.owl#reviewer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32694 .
-_:32695 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32695 <http://www.w3.org/2002/07/owl#oneOf> _:32696 .
-_:32696 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
-_:32696 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32697 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32697 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32697 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32695 .
-<life5010050_makarova.owl#reviewer_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32697 .
-_:32698 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32698 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32698 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#reviewer_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32698 .
-_:32699 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32699 <http://www.w3.org/2002/07/owl#oneOf> _:32700 .
-_:32700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_11> .
-_:32700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32701 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32701 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32699 .
-<life5010050_makarova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32701 .
-_:32702 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32702 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32702 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32702 .
-_:32703 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32703 <http://www.w3.org/2002/07/owl#oneOf> _:32704 .
-_:32704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_12> .
-_:32704 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32705 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32705 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32705 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32703 .
-<life5010050_makarova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32705 .
-_:32706 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32706 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32706 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32706 .
-_:32707 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32707 <http://www.w3.org/2002/07/owl#oneOf> _:32708 .
-_:32708 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_13> .
-_:32708 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32709 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32709 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32709 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32707 .
-<life5010050_makarova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32709 .
-_:32710 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32710 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32710 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32710 .
-_:32711 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32711 <http://www.w3.org/2002/07/owl#oneOf> _:32712 .
-_:32712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_14> .
-_:32712 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32713 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32713 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32713 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32711 .
-<life5010050_makarova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32713 .
-_:32714 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32714 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32714 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32714 .
-_:32715 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32715 <http://www.w3.org/2002/07/owl#oneOf> _:32716 .
-_:32716 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_15> .
-_:32716 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32717 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32717 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32717 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32715 .
-<life5010050_makarova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32717 .
-_:32718 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32718 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32718 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32718 .
-_:32719 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32719 <http://www.w3.org/2002/07/owl#oneOf> _:32720 .
-_:32720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_16> .
-_:32720 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32721 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32721 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32721 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32719 .
-<life5010050_makarova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32721 .
-_:32722 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32722 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32722 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32722 .
-_:32723 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32723 <http://www.w3.org/2002/07/owl#oneOf> _:32724 .
-_:32724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_17> .
-_:32724 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32725 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32725 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32725 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32723 .
-<life5010050_makarova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32725 .
-_:32726 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32726 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32726 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32726 .
-_:32727 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32727 <http://www.w3.org/2002/07/owl#oneOf> _:32728 .
-_:32728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_18> .
-_:32728 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32729 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32729 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32729 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32727 .
-<life5010050_makarova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32729 .
-_:32730 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32730 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32730 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32730 .
-_:32731 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32731 <http://www.w3.org/2002/07/owl#oneOf> _:32732 .
-_:32732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_19> .
-_:32732 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32733 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32733 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32733 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32731 .
-<life5010050_makarova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32733 .
-_:32734 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32734 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32734 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32734 .
-_:32735 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32735 <http://www.w3.org/2002/07/owl#oneOf> _:32736 .
-_:32736 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_110> .
-_:32736 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32737 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32737 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32737 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32735 .
-<life5010050_makarova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32737 .
-_:32738 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32738 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32738 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32738 .
-_:32739 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32739 <http://www.w3.org/2002/07/owl#oneOf> _:32740 .
-_:32740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_111> .
-_:32740 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32741 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32741 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32741 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32739 .
-<life5010050_makarova.owl#author11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32741 .
-_:32742 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32742 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32742 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32742 .
-_:32743 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32743 <http://www.w3.org/2002/07/owl#oneOf> _:32744 .
-_:32744 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_21> .
-_:32744 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32745 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32745 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32745 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32743 .
-<life5010050_makarova.owl#author12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32745 .
-_:32746 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32746 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32746 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32746 .
-_:32747 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32747 <http://www.w3.org/2002/07/owl#oneOf> _:32748 .
-_:32748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_22> .
-_:32748 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32749 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32749 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32749 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32747 .
-<life5010050_makarova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32749 .
-_:32750 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32750 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32750 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32750 .
-_:32751 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32751 <http://www.w3.org/2002/07/owl#oneOf> _:32752 .
-_:32752 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_23> .
-_:32752 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32753 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32753 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32753 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32751 .
-<life5010050_makarova.owl#author14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32753 .
-_:32754 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32754 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32754 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32754 .
-_:32755 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32755 <http://www.w3.org/2002/07/owl#oneOf> _:32756 .
-_:32756 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_24> .
-_:32756 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32757 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32757 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32757 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32755 .
-<life5010050_makarova.owl#author15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32757 .
-_:32758 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32758 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32758 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32758 .
-_:32759 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32759 <http://www.w3.org/2002/07/owl#oneOf> _:32760 .
-_:32760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_25> .
-_:32760 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32761 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32761 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32761 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32759 .
-<life5010050_makarova.owl#author16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32761 .
-_:32762 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32762 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32762 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32762 .
-_:32763 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32763 <http://www.w3.org/2002/07/owl#oneOf> _:32764 .
-_:32764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_26> .
-_:32764 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32765 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32765 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32765 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32763 .
-<life5010050_makarova.owl#author17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32765 .
-_:32766 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32766 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32766 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32766 .
-_:32767 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32767 <http://www.w3.org/2002/07/owl#oneOf> _:32768 .
-_:32768 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_27> .
-_:32768 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32769 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32769 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32769 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32767 .
-<life5010050_makarova.owl#author18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32769 .
-_:32770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32770 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32770 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32770 .
-_:32771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32771 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32771 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<life5010050_makarova.owl#author19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32771 .
-_:32772 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32772 <http://www.w3.org/2002/07/owl#oneOf> _:32773 .
-_:32773 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_11> .
-_:32773 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32774 .
-_:32774 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_12> .
-_:32774 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32775 .
-_:32775 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_13> .
-_:32775 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32776 .
-_:32776 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_14> .
-_:32776 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32777 .
-_:32777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_15> .
-_:32777 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32778 .
-_:32778 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_16> .
-_:32778 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32779 .
-_:32779 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_17> .
-_:32779 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32780 .
-_:32780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_18> .
-_:32780 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32781 .
-_:32781 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_19> .
-_:32781 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32782 .
-_:32782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_110> .
-_:32782 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32783 .
-_:32783 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_111> .
-_:32783 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32784 .
-_:32784 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_112> .
-_:32784 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32785 .
-_:32785 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_113> .
-_:32785 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32786 .
-_:32786 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_21> .
-_:32786 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32787 .
-_:32787 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_22> .
-_:32787 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32788 .
-_:32788 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_23> .
-_:32788 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32789 .
-_:32789 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_24> .
-_:32789 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32790 .
-_:32790 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_25> .
-_:32790 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32791 .
-_:32791 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_26> .
-_:32791 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32792 .
-_:32792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_27> .
-_:32792 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32793 .
-_:32793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_28> .
-_:32793 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32794 .
-_:32794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_28> .
-_:32794 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32795 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32795 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32795 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32772 .
-<life5010050_makarova.owl#author19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32795 .
+_:32833 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32833 <http://www.w3.org/2002/07/owl#oneOf> _:32834 .
+_:32834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32834 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32835 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32835 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32835 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32833 .
+<life5010050_makarova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32835 .
+_:32836 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32836 <http://www.w3.org/2002/07/owl#oneOf> _:32837 .
+_:32837 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author1> .
+_:32837 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32838 .
+_:32838 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author1> .
+_:32838 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32839 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32839 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32839 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32836 .
+<life5010050_makarova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32839 .
+_:32840 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32840 <http://www.w3.org/2002/07/owl#oneOf> _:32841 .
+_:32841 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32841 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32842 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32842 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32842 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32840 .
+<life5010050_makarova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32842 .
+_:32843 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32843 <http://www.w3.org/2002/07/owl#oneOf> _:32844 .
+_:32844 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author2> .
+_:32844 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32845 .
+_:32845 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author2> .
+_:32845 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32846 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32846 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32846 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32843 .
+<life5010050_makarova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32846 .
+_:32847 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32847 <http://www.w3.org/2002/07/owl#oneOf> _:32848 .
+_:32848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32848 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32849 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32849 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32849 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32847 .
+<life5010050_makarova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32849 .
+_:32850 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32850 <http://www.w3.org/2002/07/owl#oneOf> _:32851 .
+_:32851 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author3> .
+_:32851 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32852 .
+_:32852 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author3> .
+_:32852 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32853 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32853 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32853 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32850 .
+<life5010050_makarova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32853 .
+_:32854 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32854 <http://www.w3.org/2002/07/owl#oneOf> _:32855 .
+_:32855 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32855 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32856 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32856 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32856 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32854 .
+<life5010050_makarova.owl#reviewer_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32856 .
+_:32857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32857 <http://www.w3.org/2002/07/owl#oneOf> _:32858 .
+_:32858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author4> .
+_:32858 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32859 .
+_:32859 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author4> .
+_:32859 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32860 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32860 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32860 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32857 .
+<life5010050_makarova.owl#reviewer_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32860 .
+_:32861 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32861 <http://www.w3.org/2002/07/owl#oneOf> _:32862 .
+_:32862 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32862 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32863 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32863 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32863 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32861 .
+<life5010050_makarova.owl#reviewer_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32863 .
+_:32864 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32864 <http://www.w3.org/2002/07/owl#oneOf> _:32865 .
+_:32865 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author5> .
+_:32865 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32866 .
+_:32866 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author5> .
+_:32866 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32867 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32867 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32867 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32864 .
+<life5010050_makarova.owl#reviewer_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32867 .
+_:32868 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32868 <http://www.w3.org/2002/07/owl#oneOf> _:32869 .
+_:32869 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32869 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32870 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32870 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32870 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32868 .
+<life5010050_makarova.owl#reviewer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32870 .
+_:32871 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32871 <http://www.w3.org/2002/07/owl#oneOf> _:32872 .
+_:32872 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author6> .
+_:32872 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32873 .
+_:32873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author6> .
+_:32873 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32874 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32874 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32874 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32871 .
+<life5010050_makarova.owl#reviewer_16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32874 .
+_:32875 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32875 <http://www.w3.org/2002/07/owl#oneOf> _:32876 .
+_:32876 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32876 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32877 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32877 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32877 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32875 .
+<life5010050_makarova.owl#reviewer_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32877 .
+_:32878 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32878 <http://www.w3.org/2002/07/owl#oneOf> _:32879 .
+_:32879 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author7> .
+_:32879 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32880 .
+_:32880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author7> .
+_:32880 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32881 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32881 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32881 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32878 .
+<life5010050_makarova.owl#reviewer_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32881 .
+_:32882 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32882 <http://www.w3.org/2002/07/owl#oneOf> _:32883 .
+_:32883 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32883 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32884 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32884 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32884 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32882 .
+<life5010050_makarova.owl#reviewer_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32884 .
+_:32885 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32885 <http://www.w3.org/2002/07/owl#oneOf> _:32886 .
+_:32886 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author8> .
+_:32886 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32887 .
+_:32887 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author8> .
+_:32887 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32888 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32888 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32888 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32885 .
+<life5010050_makarova.owl#reviewer_18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32888 .
+_:32889 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32889 <http://www.w3.org/2002/07/owl#oneOf> _:32890 .
+_:32890 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32890 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32891 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32891 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32891 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32889 .
+<life5010050_makarova.owl#reviewer_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32891 .
+_:32892 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32892 <http://www.w3.org/2002/07/owl#oneOf> _:32893 .
+_:32893 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author9> .
+_:32893 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32894 .
+_:32894 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author9> .
+_:32894 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32895 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32895 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32895 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32892 .
+<life5010050_makarova.owl#reviewer_19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32895 .
+_:32896 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32896 <http://www.w3.org/2002/07/owl#oneOf> _:32897 .
+_:32897 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32897 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32898 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32898 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32898 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32896 .
+<life5010050_makarova.owl#reviewer_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32898 .
+_:32899 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32899 <http://www.w3.org/2002/07/owl#oneOf> _:32900 .
+_:32900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author10> .
+_:32900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32901 .
+_:32901 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author10> .
+_:32901 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32902 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32902 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32902 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32899 .
+<life5010050_makarova.owl#reviewer_110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32902 .
+_:32903 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32903 <http://www.w3.org/2002/07/owl#oneOf> _:32904 .
+_:32904 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32904 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32905 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32905 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32905 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32903 .
+<life5010050_makarova.owl#reviewer_111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32905 .
+_:32906 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32906 <http://www.w3.org/2002/07/owl#oneOf> _:32907 .
+_:32907 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author11> .
+_:32907 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32908 .
+_:32908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author11> .
+_:32908 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32909 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32909 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32909 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32906 .
+<life5010050_makarova.owl#reviewer_111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32909 .
+_:32910 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32910 <http://www.w3.org/2002/07/owl#oneOf> _:32911 .
+_:32911 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32911 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32912 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32912 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32912 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32910 .
+<life5010050_makarova.owl#reviewer_112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32912 .
+_:32913 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32913 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32913 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#reviewer_112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32913 .
+_:32914 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32914 <http://www.w3.org/2002/07/owl#oneOf> _:32915 .
+_:32915 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32915 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32916 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32916 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32916 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32914 .
+<life5010050_makarova.owl#reviewer_113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32916 .
+_:32917 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32917 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32917 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#reviewer_113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32917 .
+_:32918 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32918 <http://www.w3.org/2002/07/owl#oneOf> _:32919 .
+_:32919 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32919 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32920 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32920 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32920 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32918 .
+<life5010050_makarova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32920 .
+_:32921 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32921 <http://www.w3.org/2002/07/owl#oneOf> _:32922 .
+_:32922 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author12> .
+_:32922 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32923 .
+_:32923 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author12> .
+_:32923 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32924 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32924 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32921 .
+<life5010050_makarova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32924 .
+_:32925 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32925 <http://www.w3.org/2002/07/owl#oneOf> _:32926 .
+_:32926 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32926 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32927 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32927 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32927 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32925 .
+<life5010050_makarova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32927 .
+_:32928 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32928 <http://www.w3.org/2002/07/owl#oneOf> _:32929 .
+_:32929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author13> .
+_:32929 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32930 .
+_:32930 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author13> .
+_:32930 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32931 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32931 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32931 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32928 .
+<life5010050_makarova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32931 .
+_:32932 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32932 <http://www.w3.org/2002/07/owl#oneOf> _:32933 .
+_:32933 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32933 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32934 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32934 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32934 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32932 .
+<life5010050_makarova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32934 .
+_:32935 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32935 <http://www.w3.org/2002/07/owl#oneOf> _:32936 .
+_:32936 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author14> .
+_:32936 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32937 .
+_:32937 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author14> .
+_:32937 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32938 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32938 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32938 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32935 .
+<life5010050_makarova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32938 .
+_:32939 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32939 <http://www.w3.org/2002/07/owl#oneOf> _:32940 .
+_:32940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32940 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32941 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32941 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32941 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32939 .
+<life5010050_makarova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32941 .
+_:32942 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32942 <http://www.w3.org/2002/07/owl#oneOf> _:32943 .
+_:32943 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author15> .
+_:32943 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32944 .
+_:32944 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author15> .
+_:32944 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32945 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32945 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32945 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32942 .
+<life5010050_makarova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32945 .
+_:32946 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32946 <http://www.w3.org/2002/07/owl#oneOf> _:32947 .
+_:32947 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32947 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32948 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32948 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32948 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32946 .
+<life5010050_makarova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32948 .
+_:32949 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32949 <http://www.w3.org/2002/07/owl#oneOf> _:32950 .
+_:32950 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author16> .
+_:32950 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32951 .
+_:32951 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author16> .
+_:32951 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32952 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32952 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32952 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32949 .
+<life5010050_makarova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32952 .
+_:32953 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32953 <http://www.w3.org/2002/07/owl#oneOf> _:32954 .
+_:32954 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32954 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32955 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32955 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32955 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32953 .
+<life5010050_makarova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32955 .
+_:32956 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32956 <http://www.w3.org/2002/07/owl#oneOf> _:32957 .
+_:32957 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author17> .
+_:32957 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32958 .
+_:32958 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author17> .
+_:32958 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32959 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32959 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32959 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32956 .
+<life5010050_makarova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32959 .
+_:32960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32960 <http://www.w3.org/2002/07/owl#oneOf> _:32961 .
+_:32961 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32961 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32962 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32962 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32962 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32960 .
+<life5010050_makarova.owl#reviewer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32962 .
+_:32963 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32963 <http://www.w3.org/2002/07/owl#oneOf> _:32964 .
+_:32964 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author18> .
+_:32964 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32965 .
+_:32965 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author18> .
+_:32965 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32966 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32966 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32966 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32963 .
+<life5010050_makarova.owl#reviewer_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32966 .
+_:32967 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32967 <http://www.w3.org/2002/07/owl#oneOf> _:32968 .
+_:32968 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#author19> .
+_:32968 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32969 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32969 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32969 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32967 .
+<life5010050_makarova.owl#reviewer_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32969 .
+_:32970 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32970 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32970 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#reviewer_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32970 .
+_:32971 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32971 <http://www.w3.org/2002/07/owl#oneOf> _:32972 .
+_:32972 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_11> .
+_:32972 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32973 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32973 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32973 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32971 .
+<life5010050_makarova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32973 .
+_:32974 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32974 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32974 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32974 .
+_:32975 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32975 <http://www.w3.org/2002/07/owl#oneOf> _:32976 .
+_:32976 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_12> .
+_:32976 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32977 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32977 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32977 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32975 .
+<life5010050_makarova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32977 .
+_:32978 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32978 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32978 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32978 .
+_:32979 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32979 <http://www.w3.org/2002/07/owl#oneOf> _:32980 .
+_:32980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_13> .
+_:32980 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32981 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32981 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32981 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32979 .
+<life5010050_makarova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32981 .
+_:32982 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32982 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32982 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32982 .
+_:32983 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32983 <http://www.w3.org/2002/07/owl#oneOf> _:32984 .
+_:32984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_14> .
+_:32984 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32985 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32985 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32985 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32983 .
+<life5010050_makarova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32985 .
+_:32986 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32986 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32986 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32986 .
+_:32987 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32987 <http://www.w3.org/2002/07/owl#oneOf> _:32988 .
+_:32988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_15> .
+_:32988 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32989 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32989 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32989 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32987 .
+<life5010050_makarova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32989 .
+_:32990 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32990 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32990 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32990 .
+_:32991 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32991 <http://www.w3.org/2002/07/owl#oneOf> _:32992 .
+_:32992 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_16> .
+_:32992 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32993 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32993 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32993 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32991 .
+<life5010050_makarova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32993 .
+_:32994 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32994 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32994 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32994 .
+_:32995 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32995 <http://www.w3.org/2002/07/owl#oneOf> _:32996 .
+_:32996 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_17> .
+_:32996 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:32997 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32997 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:32997 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32995 .
+<life5010050_makarova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32997 .
+_:32998 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:32998 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:32998 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:32998 .
+_:32999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:32999 <http://www.w3.org/2002/07/owl#oneOf> _:33000 .
+_:33000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_18> .
+_:33000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33001 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33001 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33001 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32999 .
+<life5010050_makarova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33001 .
+_:33002 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33002 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33002 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33002 .
+_:33003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33003 <http://www.w3.org/2002/07/owl#oneOf> _:33004 .
+_:33004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_19> .
+_:33004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33005 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33005 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33003 .
+<life5010050_makarova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33005 .
+_:33006 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33006 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33006 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33006 .
+_:33007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33007 <http://www.w3.org/2002/07/owl#oneOf> _:33008 .
+_:33008 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_110> .
+_:33008 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33009 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33009 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33009 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33007 .
+<life5010050_makarova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33009 .
+_:33010 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33010 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33010 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33010 .
+_:33011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33011 <http://www.w3.org/2002/07/owl#oneOf> _:33012 .
+_:33012 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_111> .
+_:33012 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33013 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33013 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33011 .
+<life5010050_makarova.owl#author11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33013 .
+_:33014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33014 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33014 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33014 .
+_:33015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33015 <http://www.w3.org/2002/07/owl#oneOf> _:33016 .
+_:33016 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_21> .
+_:33016 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33017 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33017 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33015 .
+<life5010050_makarova.owl#author12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33017 .
+_:33018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33018 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33018 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33018 .
+_:33019 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33019 <http://www.w3.org/2002/07/owl#oneOf> _:33020 .
+_:33020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_22> .
+_:33020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33021 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33021 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33019 .
+<life5010050_makarova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33021 .
+_:33022 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33022 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33022 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33022 .
+_:33023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33023 <http://www.w3.org/2002/07/owl#oneOf> _:33024 .
+_:33024 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_23> .
+_:33024 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33025 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33025 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33025 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33023 .
+<life5010050_makarova.owl#author14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33025 .
+_:33026 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33026 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33026 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33026 .
+_:33027 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33027 <http://www.w3.org/2002/07/owl#oneOf> _:33028 .
+_:33028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_24> .
+_:33028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33029 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33029 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33027 .
+<life5010050_makarova.owl#author15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33029 .
+_:33030 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33030 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33030 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33030 .
+_:33031 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33031 <http://www.w3.org/2002/07/owl#oneOf> _:33032 .
+_:33032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_25> .
+_:33032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33033 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33033 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33033 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33031 .
+<life5010050_makarova.owl#author16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33033 .
+_:33034 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33034 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33034 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33034 .
+_:33035 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33035 <http://www.w3.org/2002/07/owl#oneOf> _:33036 .
+_:33036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_26> .
+_:33036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33037 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33037 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33037 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33035 .
+<life5010050_makarova.owl#author17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33037 .
+_:33038 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33038 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33038 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33038 .
+_:33039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33039 <http://www.w3.org/2002/07/owl#oneOf> _:33040 .
+_:33040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_27> .
+_:33040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33041 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33041 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33039 .
+<life5010050_makarova.owl#author18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33041 .
+_:33042 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33042 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33042 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33042 .
+_:33043 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33043 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33043 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<life5010050_makarova.owl#author19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33043 .
+_:33044 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33044 <http://www.w3.org/2002/07/owl#oneOf> _:33045 .
+_:33045 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_11> .
+_:33045 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33046 .
+_:33046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_12> .
+_:33046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33047 .
+_:33047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_13> .
+_:33047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33048 .
+_:33048 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_14> .
+_:33048 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33049 .
+_:33049 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_15> .
+_:33049 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33050 .
+_:33050 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_16> .
+_:33050 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33051 .
+_:33051 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_17> .
+_:33051 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33052 .
+_:33052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_18> .
+_:33052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33053 .
+_:33053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_19> .
+_:33053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33054 .
+_:33054 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_110> .
+_:33054 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33055 .
+_:33055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_111> .
+_:33055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33056 .
+_:33056 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_112> .
+_:33056 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33057 .
+_:33057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_113> .
+_:33057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33058 .
+_:33058 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_21> .
+_:33058 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33059 .
+_:33059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_22> .
+_:33059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33060 .
+_:33060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_23> .
+_:33060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33061 .
+_:33061 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_24> .
+_:33061 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33062 .
+_:33062 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_25> .
+_:33062 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33063 .
+_:33063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_26> .
+_:33063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33064 .
+_:33064 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_27> .
+_:33064 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33065 .
+_:33065 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_28> .
+_:33065 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33066 .
+_:33066 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#reviewer_28> .
+_:33066 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33067 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33067 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33044 .
+<life5010050_makarova.owl#author19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:33067 .
 <life5010050_makarova.owl#Reviewer_1ConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_makarova.owl#Reviewer_1ConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_makarova.owl#Reviewer_1> .
-_:32798 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32798 <http://www.w3.org/2002/07/owl#unionOf> _:32797 .
-_:32797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_2> .
-_:32797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32799 .
-_:32799 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Author> .
-_:32799 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32800 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32800 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32800 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32798 .
-_:32801 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32801 <http://www.w3.org/2002/07/owl#intersectionOf> _:32796 .
-_:32796 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_1> .
-_:32796 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32802 .
-_:32802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:32800 .
-_:32802 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_makarova.owl#Reviewer_1ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:32801 .
+_:33070 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33070 <http://www.w3.org/2002/07/owl#unionOf> _:33069 .
+_:33069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_2> .
+_:33069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33071 .
+_:33071 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Author> .
+_:33071 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33072 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33072 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33072 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33070 .
+_:33073 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33073 <http://www.w3.org/2002/07/owl#intersectionOf> _:33068 .
+_:33068 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_1> .
+_:33068 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33074 .
+_:33074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33072 .
+_:33074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_makarova.owl#Reviewer_1ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:33073 .
 <life5010050_makarova.owl#Reviewer_2ConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_makarova.owl#Reviewer_2ConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_makarova.owl#Reviewer_2> .
-_:32805 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32805 <http://www.w3.org/2002/07/owl#unionOf> _:32804 .
-_:32804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_1> .
-_:32804 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32806 .
-_:32806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Author> .
-_:32806 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32807 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32807 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32805 .
-_:32808 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32808 <http://www.w3.org/2002/07/owl#intersectionOf> _:32803 .
-_:32803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_2> .
-_:32803 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32809 .
-_:32809 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:32807 .
-_:32809 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_makarova.owl#Reviewer_2ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:32808 .
+_:33077 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33077 <http://www.w3.org/2002/07/owl#unionOf> _:33076 .
+_:33076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_1> .
+_:33076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33078 .
+_:33078 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Author> .
+_:33078 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33079 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33079 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33079 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33077 .
+_:33080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33080 <http://www.w3.org/2002/07/owl#intersectionOf> _:33075 .
+_:33075 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_2> .
+_:33075 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33081 .
+_:33081 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33079 .
+_:33081 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_makarova.owl#Reviewer_2ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:33080 .
 <life5010050_makarova.owl#AuthorConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_makarova.owl#AuthorConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_makarova.owl#Author> .
-_:32812 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32812 <http://www.w3.org/2002/07/owl#unionOf> _:32811 .
-_:32811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_1> .
-_:32811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32813 .
-_:32813 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_2> .
-_:32813 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:32814 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32814 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
-_:32814 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32812 .
-_:32815 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32815 <http://www.w3.org/2002/07/owl#intersectionOf> _:32810 .
-_:32810 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Author> .
-_:32810 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32816 .
-_:32816 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:32814 .
-_:32816 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_makarova.owl#AuthorConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:32815 .
+_:33084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33084 <http://www.w3.org/2002/07/owl#unionOf> _:33083 .
+_:33083 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_1> .
+_:33083 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33085 .
+_:33085 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_2> .
+_:33085 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:33086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33086 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#attacks> .
+_:33086 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33084 .
+_:33087 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33087 <http://www.w3.org/2002/07/owl#intersectionOf> _:33082 .
+_:33082 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Author> .
+_:33082 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33088 .
+_:33088 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33086 .
+_:33088 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_makarova.owl#AuthorConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:33087 .
 <life5010050_makarova.owl#Reviewer_1Admissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_makarova.owl#Reviewer_1Admissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_makarova.owl#Reviewer_1ConflictFree> .
-_:32818 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32818 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32818 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_makarova.owl#Reviewer_1ConflictFree> .
-_:32819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32819 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32819 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32818 .
-_:32820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32820 <http://www.w3.org/2002/07/owl#intersectionOf> _:32817 .
-_:32817 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_1ConflictFree> .
-_:32817 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32821 .
-_:32821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:32819 .
-_:32821 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_makarova.owl#Reviewer_1Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:32820 .
+_:33090 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33090 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33090 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_makarova.owl#Reviewer_1ConflictFree> .
+_:33091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33091 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33091 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33090 .
+_:33092 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33092 <http://www.w3.org/2002/07/owl#intersectionOf> _:33089 .
+_:33089 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_1ConflictFree> .
+_:33089 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33093 .
+_:33093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33091 .
+_:33093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_makarova.owl#Reviewer_1Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:33092 .
 <life5010050_makarova.owl#Reviewer_2Admissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_makarova.owl#Reviewer_2Admissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_makarova.owl#Reviewer_2ConflictFree> .
-_:32823 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32823 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32823 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_makarova.owl#Reviewer_2ConflictFree> .
-_:32824 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32824 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32824 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32823 .
-_:32825 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32825 <http://www.w3.org/2002/07/owl#intersectionOf> _:32822 .
-_:32822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_2ConflictFree> .
-_:32822 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32826 .
-_:32826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:32824 .
-_:32826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_makarova.owl#Reviewer_2Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:32825 .
+_:33095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33095 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33095 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_makarova.owl#Reviewer_2ConflictFree> .
+_:33096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33096 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33096 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33095 .
+_:33097 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33097 <http://www.w3.org/2002/07/owl#intersectionOf> _:33094 .
+_:33094 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#Reviewer_2ConflictFree> .
+_:33094 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33098 .
+_:33098 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33096 .
+_:33098 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_makarova.owl#Reviewer_2Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:33097 .
 <life5010050_makarova.owl#AuthorAdmissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <life5010050_makarova.owl#AuthorAdmissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <life5010050_makarova.owl#AuthorConflictFree> .
-_:32828 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32828 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32828 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_makarova.owl#AuthorConflictFree> .
-_:32829 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:32829 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
-_:32829 <http://www.w3.org/2002/07/owl#allValuesFrom> _:32828 .
-_:32830 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:32830 <http://www.w3.org/2002/07/owl#intersectionOf> _:32827 .
-_:32827 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#AuthorConflictFree> .
-_:32827 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:32831 .
-_:32831 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:32829 .
-_:32831 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<life5010050_makarova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:32830 .
+_:33100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33100 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33100 <http://www.w3.org/2002/07/owl#someValuesFrom> <life5010050_makarova.owl#AuthorConflictFree> .
+_:33101 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:33101 <http://www.w3.org/2002/07/owl#onProperty> <life5010050_makarova.owl#isAttackedBy> .
+_:33101 <http://www.w3.org/2002/07/owl#allValuesFrom> _:33100 .
+_:33102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:33102 <http://www.w3.org/2002/07/owl#intersectionOf> _:33099 .
+_:33099 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <life5010050_makarova.owl#AuthorConflictFree> .
+_:33099 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:33103 .
+_:33103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:33101 .
+_:33103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<life5010050_makarova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:33102 .
 <life5010050_makarova.owl#author19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_makarova.owl#AuthorConflictFree> .
 <life5010050_makarova.owl#author13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_makarova.owl#AuthorAdmissible> .
 <life5010050_makarova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_makarova.owl#AuthorAdmissible> .
@@ -901,123 +903,123 @@ _:32831 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/199
 <life5010050_makarova.owl#reviewer_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_makarova.owl#Reviewer_2ConflictFree> .
 <life5010050_makarova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_makarova.owl#Reviewer_2ConflictFree> .
 <life5010050_makarova.owl#reviewer_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <life5010050_makarova.owl#Reviewer_2Admissible> .
-<life5010050_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "However, the only one universal method is quite insufficient in microorganisms, and the \ncombination of all possible classification criteria is desirable. Of course, the complex of all these \nmethods must be corrected with the progress of science, and especially for cyanobacteria is necessary to \napply the so called “polyphasic approach” for their classification. The molecular methods must be \nevidently preferred in this work, but other approaches (biochemical, ecophysiological, ecological, \nmorphological) must be included into the final evaluation."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_11> <life5010050_makarova.owl#text> "However, the only one universal method is quite insufficient in microorganisms, and the \ncombination of all possible classification criteria is desirable. Of course, the complex of all these \nmethods must be corrected with the progress of science, and especially for cyanobacteria is necessary to \napply the so called “polyphasic approach” for their classification. The molecular methods must be \nevidently preferred in this work, but other approaches (biochemical, ecophysiological, ecological, \nmorphological) must be included into the final evaluation."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_11> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_11> <life5010050_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "The manuscript of Eckert et al., submitted into the journal Life, concerns in principle again only one, \nbut very important genetic criterion for evaluation of prokaryotic diversity. It should be a serious part of \nthis complex evaluation. It is very important and useful and publication of the article is surely \nrecommendable. However, the connection, coincidences and relations to other criteria should be \nbetter expressed."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_12> <life5010050_makarova.owl#text> "The manuscript of Eckert et al., submitted into the journal Life, concerns in principle again only one, \nbut very important genetic criterion for evaluation of prokaryotic diversity. It should be a serious part of \nthis complex evaluation. It is very important and useful and publication of the article is surely \nrecommendable. However, the connection, coincidences and relations to other criteria should be \nbetter expressed."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_12> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_12> <life5010050_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "If we accept also strains and populations from literature or from databases to the evaluation, there \nis always questionable the taxonomic determination (scientific names) of various species and \nstrains, which are based on the old nomenclature and morphology. The critical revision of \nidentification of these strains and cited materials is necessary."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_13> <life5010050_makarova.owl#text> "If we accept also strains and populations from literature or from databases to the evaluation, there \nis always questionable the taxonomic determination (scientific names) of various species and \nstrains, which are based on the old nomenclature and morphology. The critical revision of \nidentification of these strains and cited materials is necessary."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_13> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_13> <life5010050_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "It follows from the whole article that the authors accepted the names (and also concepts) of taxa \n(mostly genera) from older literature, without necessary criticism. There are included revised \ngenera according to modern methods together with taxonomically very problematic groups. As \nexamples is possible to mention that Aphanizomenon ovalisporum and Anabaena bergii are really \nvery related taxa, but they were already re-classified in one special and separate genus \nChrysosporum. On the other hand, the complex “Prochlorococcus/Synechococcus” is still very \nunclear and surely is distant from the typical genus Synechoccocus. etc."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_14> <life5010050_makarova.owl#text> "It follows from the whole article that the authors accepted the names (and also concepts) of taxa \n(mostly genera) from older literature, without necessary criticism. There are included revised \ngenera according to modern methods together with taxonomically very problematic groups. As \nexamples is possible to mention that Aphanizomenon ovalisporum and Anabaena bergii are really \nvery related taxa, but they were already re-classified in one special and separate genus \nChrysosporum. On the other hand, the complex “Prochlorococcus/Synechococcus” is still very \nunclear and surely is distant from the typical genus Synechoccocus. etc."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_14> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_14> <life5010050_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "Numerous cited taxa (on the generic level) were already controlled and revised by most modern \nmethods, and examples in the manuscript should be used especially and selected from these genera. It is \ntrue, that majority of the cited genera were already revised (Microcystis, Planktothrix, Aphanizomenon), \nbut just these taxa are important as examples and should be preferred. From the presented results follows \nonly the confirmation of the present methodological principles and a modern system. This fact should \nbe emphasized."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_15> <life5010050_makarova.owl#text> "Numerous cited taxa (on the generic level) were already controlled and revised by most modern \nmethods, and examples in the manuscript should be used especially and selected from these genera. It is \ntrue, that majority of the cited genera were already revised (Microcystis, Planktothrix, Aphanizomenon), \nbut just these taxa are important as examples and should be preferred. From the presented results follows \nonly the confirmation of the present methodological principles and a modern system. This fact should \nbe emphasized."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_15> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_15> <life5010050_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "It is necessary to stress the fact that the numerical criteria (e.g., exactly limited percentage similarity) \nnever are valid uniformly for large groups of organisms and cannot be applied as one main criterion in \nlarge groups."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_16> <life5010050_makarova.owl#text> "It is necessary to stress the fact that the numerical criteria (e.g., exactly limited percentage similarity) \nnever are valid uniformly for large groups of organisms and cannot be applied as one main criterion in \nlarge groups."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_16> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_16> <life5010050_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> "As concerns the delimitation of taxa on the level of cyanobacterial species, there exists a lot of \nvaluable literature, which was not cited. The characterization and separation of species was not \nsatisfactory solved, but it is particularly important (criteria are not unique for all genera) and need \nbetter discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_17> <life5010050_makarova.owl#text> "As concerns the delimitation of taxa on the level of cyanobacterial species, there exists a lot of \nvaluable literature, which was not cited. The characterization and separation of species was not \nsatisfactory solved, but it is particularly important (criteria are not unique for all genera) and need \nbetter discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_17> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_17> <life5010050_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "In Line 40 is cited only DeQueiroz (2007) to the problematic of species concept. It would be useful \nto evaluate and mention many other authors, who discussed this question more complexly. It concerns \nalso several other problems, e.g., problematics of horizontal gene transfers (Line 43), “bounderies \nbetween taxon units” (Line 45), species concept (Line 48), etc. About species concept in cyanobacteria \nexist particularly many studies from last years."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_18> <life5010050_makarova.owl#text> "In Line 40 is cited only DeQueiroz (2007) to the problematic of species concept. It would be useful \nto evaluate and mention many other authors, who discussed this question more complexly. It concerns \nalso several other problems, e.g., problematics of horizontal gene transfers (Line 43), “bounderies \nbetween taxon units” (Line 45), species concept (Line 48), etc. About species concept in cyanobacteria \nexist particularly many studies from last years."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_18> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_18> <life5010050_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "I am not sure that cyanobacteria can be accepted as a typical example of all prokaryotes. On the \ncontrary, they have very special position (phylogenetic, metabolic, function in nature, ultrastructural, \nthey grow often in multicellular and differentiated thallus) and their diversity must be evaluated \nrespecting these specificities. It is clear that the taxonomic classification must be different in different \ngroups of organisms."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_19> <life5010050_makarova.owl#text> "I am not sure that cyanobacteria can be accepted as a typical example of all prokaryotes. On the \ncontrary, they have very special position (phylogenetic, metabolic, function in nature, ultrastructural, \nthey grow often in multicellular and differentiated thallus) and their diversity must be evaluated \nrespecting these specificities. It is clear that the taxonomic classification must be different in different \ngroups of organisms."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_19> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_19> <life5010050_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "The correct citation of scientific names is the obvious request of serious scientific publications. Few \nunnecessary mistakes are in the manuscript, e.g., in the whole text and also in Figures is written \n“Arthospira” instead the correct Arthrospira, on other places must be Leptolyngbya (Table 1, Line 191), \nFischerella (Line 207), Aphanizomenon (Line 218), Cylindrospermopsis (Line 219)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_110> <life5010050_makarova.owl#text> "The correct citation of scientific names is the obvious request of serious scientific publications. Few \nunnecessary mistakes are in the manuscript, e.g., in the whole text and also in Figures is written \n“Arthospira” instead the correct Arthrospira, on other places must be Leptolyngbya (Table 1, Line 191), \nFischerella (Line 207), Aphanizomenon (Line 218), Cylindrospermopsis (Line 219)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_110> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_110> <life5010050_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_111> <http://www.w3.org/2000/01/rdf-schema#label> "I do not understand why Leptolyngbya and Chamaesiphon could be “closely related genera”. \nIt is in contraversion to the whole up to date results and taxonomic classification. The authors really \nfound the “close” relation just between these two genera? By way, they both are polyphyletic and will \nbe surely divided in several different taxa after the following precise studies."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_111> <life5010050_makarova.owl#text> "I do not understand why Leptolyngbya and Chamaesiphon could be “closely related genera”. \nIt is in contraversion to the whole up to date results and taxonomic classification. The authors really \nfound the “close” relation just between these two genera? By way, they both are polyphyletic and will \nbe surely divided in several different taxa after the following precise studies."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_111> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_111> <life5010050_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_112> <http://www.w3.org/2000/01/rdf-schema#label> "More citations of modern literature would be expectable and useful."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_112> <life5010050_makarova.owl#text> "More citations of modern literature would be expectable and useful."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_112> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_112> <life5010050_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_113> <http://www.w3.org/2000/01/rdf-schema#label> "I have had the more critical remarks to the manuscript; however, I think that the presented data are \nuseful and should be published. My critics should inform authors about more complicated problematics \nof this whole group, and several principles should be respected and accepted for future cyanobacterial \nresearch. I believe that the article with proposed changes will be useful for future research."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_113> <life5010050_makarova.owl#text> "I have had the more critical remarks to the manuscript; however, I think that the presented data are \nuseful and should be published. My critics should inform authors about more complicated problematics \nof this whole group, and several principles should be respected and accepted for future cyanobacterial \nresearch. I believe that the article with proposed changes will be useful for future research."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_113> <life5010050_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_113> <life5010050_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "It is overall well-written and \ninnovative work, but there are few things to consider in methods and results, which should be revised, \nand some formal flaws. \nWhen you refer to the Synechococcus, it is important to specify, which clade you have in mind. \nHonda et al. (1999) and Roberston et al. (2001) showed Synechococcus is polyphyletic genus composed \nof a least 5 lineages. There are more recent works showing even more clades. From an amount of \nsequences and relationship to Prochlorococcus, I can assume, it is a marine pelagial picoplanktic clade. \nHowever, it should be specified for unexperienced reader in the field of cyanobacteria. The other \npolyphyletic genera should be also specified—Phormidium, Leptolyngbya, Microcoleus and others. \nMoreover, although the sequences might have same name (i.e., Synechococcus), they belong to \npolyphyletic groups, thus they probably belong to different genera, which have not yet been described."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_21> <life5010050_makarova.owl#text> "It is overall well-written and \ninnovative work, but there are few things to consider in methods and results, which should be revised, \nand some formal flaws. \nWhen you refer to the Synechococcus, it is important to specify, which clade you have in mind. \nHonda et al. (1999) and Roberston et al. (2001) showed Synechococcus is polyphyletic genus composed \nof a least 5 lineages. There are more recent works showing even more clades. From an amount of \nsequences and relationship to Prochlorococcus, I can assume, it is a marine pelagial picoplanktic clade. \nHowever, it should be specified for unexperienced reader in the field of cyanobacteria. The other \npolyphyletic genera should be also specified—Phormidium, Leptolyngbya, Microcoleus and others. \nMoreover, although the sequences might have same name (i.e., Synechococcus), they belong to \npolyphyletic groups, thus they probably belong to different genera, which have not yet been described."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_21> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_21> <life5010050_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "They might also appear to be monophyletic, because there are missing taxa between them."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_22> <life5010050_makarova.owl#text> "They might also appear to be monophyletic, because there are missing taxa between them."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_22> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_22> <life5010050_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "This might also cause false positive barcoding gaps, because there would be low similarity among \nsequences with same name. Therefore it may largely affect results."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_23> <life5010050_makarova.owl#text> "This might also cause false positive barcoding gaps, because there would be low similarity among \nsequences with same name. Therefore it may largely affect results."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_23> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_23> <life5010050_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "I suggest that the paper should be expanded with a discussion, whether barcode gaps are able to \ndelimit described species. For example, are there two species within Cylindrospermopsis? There seems \nto be a barcoding gap within this clade. In this particular case, it would be beneficial to use a species \nepithet too to avoid confusion. Is it Cylindrospermopsis raciborskii? Does a barcoding gap in the \nPlanktothrix clade correspond to the described species?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_24> <life5010050_makarova.owl#text> "I suggest that the paper should be expanded with a discussion, whether barcode gaps are able to \ndelimit described species. For example, are there two species within Cylindrospermopsis? There seems \nto be a barcoding gap within this clade. In this particular case, it would be beneficial to use a species \nepithet too to avoid confusion. Is it Cylindrospermopsis raciborskii? Does a barcoding gap in the \nPlanktothrix clade correspond to the described species?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_24> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_24> <life5010050_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "Why did you use Phormidium as an outgroup (Line 139)? Would not be more beneficial to use \nGloeobacter or some other bacterium?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_25> <life5010050_makarova.owl#text> "Why did you use Phormidium as an outgroup (Line 139)? Would not be more beneficial to use \nGloeobacter or some other bacterium?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_25> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_25> <life5010050_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_26> <http://www.w3.org/2000/01/rdf-schema#label> "Is there any way to use barcoding gaps in a taxonomy of cyanobacteria? This might be added \nto discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_26> <life5010050_makarova.owl#text> "Is there any way to use barcoding gaps in a taxonomy of cyanobacteria? This might be added \nto discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_26> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_26> <life5010050_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_27> <http://www.w3.org/2000/01/rdf-schema#label> "Minor point: There are errors in nomenclature throughout the text, figures, and supplements, e.g. \nLeptolyngbya, Aphanizomenon, Arthrospira. You might check: http://www.cyanodb.cz/. It is an updated \ndatabase of names of cyanobacteria."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_27> <life5010050_makarova.owl#text> "Minor point: There are errors in nomenclature throughout the text, figures, and supplements, e.g. \nLeptolyngbya, Aphanizomenon, Arthrospira. You might check: http://www.cyanodb.cz/. It is an updated \ndatabase of names of cyanobacteria."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_27> <life5010050_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_27> <life5010050_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#reviewer_28> <http://www.w3.org/2000/01/rdf-schema#label> "I accept the paper in the present form. All comments are answered satisfactorily."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#reviewer_28> <life5010050_makarova.owl#text> "I accept the paper in the present form. All comments are answered satisfactorily."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_28> <life5010050_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#reviewer_28> <life5010050_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "The concern the reviewer mentions here was also one of our main conclusions for the article. \nApparently we did not formulate it well enough. It has thus been reformulated to: “However an accurate \ntaxonomy can never be achieved by the use of a barcoding method only, since it is based on nucleotide \nsubstitutions of a single gene. Accurate classification always requires an integrative taxonomy effort including characteristics from ecology, morphology and physiology, as already previously suggested \nfor prokaryotes [9,28,29,45], and as it is becoming common also for animal taxonomy (e.g., [53,54]).”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author1> <life5010050_makarova.owl#text> "The concern the reviewer mentions here was also one of our main conclusions for the article. \nApparently we did not formulate it well enough. It has thus been reformulated to: “However an accurate \ntaxonomy can never be achieved by the use of a barcoding method only, since it is based on nucleotide \nsubstitutions of a single gene. Accurate classification always requires an integrative taxonomy effort including characteristics from ecology, morphology and physiology, as already previously suggested \nfor prokaryotes [9,28,29,45], and as it is becoming common also for animal taxonomy (e.g., [53,54]).”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author1> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author1> <life5010050_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "The concern the reviewer mentions here was also one of our main conclusions for the article. \nApparently we did not formulate it well enough. It has thus been reformulated to: “However an accurate \ntaxonomy can never be achieved by the use of a barcoding method only, since it is based on nucleotide \nsubstitutions of a single gene. Accurate classification always requires an integrative taxonomy effort including characteristics from ecology, morphology and physiology, as already previously suggested \nfor prokaryotes [9,28,29,45], and as it is becoming common also for animal taxonomy (e.g., [53,54]).”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author2> <life5010050_makarova.owl#text> "The concern the reviewer mentions here was also one of our main conclusions for the article. \nApparently we did not formulate it well enough. It has thus been reformulated to: “However an accurate \ntaxonomy can never be achieved by the use of a barcoding method only, since it is based on nucleotide \nsubstitutions of a single gene. Accurate classification always requires an integrative taxonomy effort including characteristics from ecology, morphology and physiology, as already previously suggested \nfor prokaryotes [9,28,29,45], and as it is becoming common also for animal taxonomy (e.g., [53,54]).”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author2> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author2> <life5010050_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "We understand that our choice of naming as in the database needed clarification. We \nhave thus added the following paragraph. We thank the reviewer for the useful example and have \nincluded it: “The names of genera and species used in this study where copied form the names given in \nthe database. This choice was made for the reason that cyanobacterial phylogeny underlies continuous \nchanges and genera and species are often reclassified (e.g., [34]). Thus a whole different type of work \nwould be required in order to use all state-of-art classification of cyanobacteria. Moreover, for the aims \nof this study not so much the phylogenetic classification of the bacterial species, but the genetic structure \nof the cyanobacterial 16S rRNA genes was of importance. The use of the names provided in the database \non the other hand enables other researchers to conduct a similar analysis using the same sequences. \nThus some old and revised names are used, for example the species name Anabaena bergii is used \nthroughout the study despite its revised taxonomy in the genus Crysosporum [35].”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author3> <life5010050_makarova.owl#text> "We understand that our choice of naming as in the database needed clarification. We \nhave thus added the following paragraph. We thank the reviewer for the useful example and have \nincluded it: “The names of genera and species used in this study where copied form the names given in \nthe database. This choice was made for the reason that cyanobacterial phylogeny underlies continuous \nchanges and genera and species are often reclassified (e.g., [34]). Thus a whole different type of work \nwould be required in order to use all state-of-art classification of cyanobacteria. Moreover, for the aims \nof this study not so much the phylogenetic classification of the bacterial species, but the genetic structure \nof the cyanobacterial 16S rRNA genes was of importance. The use of the names provided in the database \non the other hand enables other researchers to conduct a similar analysis using the same sequences. \nThus some old and revised names are used, for example the species name Anabaena bergii is used \nthroughout the study despite its revised taxonomy in the genus Crysosporum [35].”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author3> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author3> <life5010050_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "We understand that particularly the case of Synechoccocus needs clarification and have thus \nextended the explanation there: “Sequences termed Synechococcus on the other hand were analysed \ntogether with sequences of the monophyletic clade Prochlorococcus, since Synechococcus is known to \nbe a polyphyletic group and if all sequences (including a minimum of five lineages [36–38]) are taken \ntogether, Prochlorococcus has to be included, too”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author4> <life5010050_makarova.owl#text> "We understand that particularly the case of Synechoccocus needs clarification and have thus \nextended the explanation there: “Sequences termed Synechococcus on the other hand were analysed \ntogether with sequences of the monophyletic clade Prochlorococcus, since Synechococcus is known to \nbe a polyphyletic group and if all sequences (including a minimum of five lineages [36–38]) are taken \ntogether, Prochlorococcus has to be included, too”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author4> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author4> <life5010050_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer that we have to avoid misunderstandings of this kind and added \na very clear statement to the discussion: “Moreover it has to be emphasised that a close analysis of the \nactual properties of the cyanobacterial groups tested is limited by the fact that we used the provided names for the sequences and groups. Thus this study intends only to verify the existence of a barcoding \ngaps within the 16S rRNA sequences of certain cyanobacterial groups, and by no means revise or \nconfirm the complex cyanobacterial taxonomy.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author5> <life5010050_makarova.owl#text> "We agree with the reviewer that we have to avoid misunderstandings of this kind and added \na very clear statement to the discussion: “Moreover it has to be emphasised that a close analysis of the \nactual properties of the cyanobacterial groups tested is limited by the fact that we used the provided names for the sequences and groups. Thus this study intends only to verify the existence of a barcoding \ngaps within the 16S rRNA sequences of certain cyanobacterial groups, and by no means revise or \nconfirm the complex cyanobacterial taxonomy.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author5> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author5> <life5010050_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer that we have not stressed this fact enough and have added more \nsentences explaining why OTUs are used and the problem: “Enormous progress happened in prokaryote \ntaxonomy in the recent years [8,12,24]. However, the data produced with novel methodologies, such as \nnext generation sequencing, often requires a high throughput taxonomic classification of sequences such \nas fixed threshold to identify OTUs. This kind of fixed numeric classifications can always only be a vague \napproximation to the actual structure of relatedness of organisms.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author6> <life5010050_makarova.owl#text> "We agree with the reviewer that we have not stressed this fact enough and have added more \nsentences explaining why OTUs are used and the problem: “Enormous progress happened in prokaryote \ntaxonomy in the recent years [8,12,24]. However, the data produced with novel methodologies, such as \nnext generation sequencing, often requires a high throughput taxonomic classification of sequences such \nas fixed threshold to identify OTUs. This kind of fixed numeric classifications can always only be a vague \napproximation to the actual structure of relatedness of organisms.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author6> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author6> <life5010050_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "our aim was not to start from known and named sequences and test whether species from \nDNA taxonomy matched them or not; our aim was to test whether a barcoding gap existed at all. \nTo do so, we did not download named sequences from GenBank, but used a carefully annotated and \nchecked database with a built-in phylogeny that would allow us to obtain monophyletic clades, \nregardless of their names. We thus only briefly discuss names and taxonomy in our analysis. Given that \nboth reviewers commented on this issue, we tried to clarify our aims and included a sentence at the end \nof the introduction, in order to clarify the point. We hope that now both reviewers, and all other potential \nreaders, will not be misled by our approach. We do not deal with taxonomy at all, only with testing the \npresence of a barcoding gap"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author7> <life5010050_makarova.owl#text> "our aim was not to start from known and named sequences and test whether species from \nDNA taxonomy matched them or not; our aim was to test whether a barcoding gap existed at all. \nTo do so, we did not download named sequences from GenBank, but used a carefully annotated and \nchecked database with a built-in phylogeny that would allow us to obtain monophyletic clades, \nregardless of their names. We thus only briefly discuss names and taxonomy in our analysis. Given that \nboth reviewers commented on this issue, we tried to clarify our aims and included a sentence at the end \nof the introduction, in order to clarify the point. We hope that now both reviewers, and all other potential \nreaders, will not be misled by our approach. We do not deal with taxonomy at all, only with testing the \npresence of a barcoding gap"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author7> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author7> <life5010050_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "we now include new citations in relationship to different problems: Butlin et al. (2009), Cohan \n(2011), Cohan (2013), Cohan & Aracena (2012), Diekmann et al. (2004), Nosil (2012), \nVos (2011), Wiedenbeck & Cohan (2011)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author8> <life5010050_makarova.owl#text> "we now include new citations in relationship to different problems: Butlin et al. (2009), Cohan \n(2011), Cohan (2013), Cohan & Aracena (2012), Diekmann et al. (2004), Nosil (2012), \nVos (2011), Wiedenbeck & Cohan (2011)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author8> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author8> <life5010050_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer’s concern. In fact, this is exactly the reason why we chose \nCyanobacteria for this analysis. We reformulated this part of the introduction, to make this statement \nmore clear, which now reads: “We choose Cyanobacteria as an example of prokaryotes, not because \nthey are representative for all prokaryotes, but because there is ample phenotypic, ecological, physiological \nultrastructural, and biochemical evidence of the existence of independently evolving units in this \ngroup [20,21]. Thus, the expectation is that, if a barcoding gap exists in prokaryotes, this should be \nmore easily seen in taxa where groups can be identified also with other methods, as in Cyanobacteria.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author9> <life5010050_makarova.owl#text> "We agree with the reviewer’s concern. In fact, this is exactly the reason why we chose \nCyanobacteria for this analysis. We reformulated this part of the introduction, to make this statement \nmore clear, which now reads: “We choose Cyanobacteria as an example of prokaryotes, not because \nthey are representative for all prokaryotes, but because there is ample phenotypic, ecological, physiological \nultrastructural, and biochemical evidence of the existence of independently evolving units in this \ngroup [20,21]. Thus, the expectation is that, if a barcoding gap exists in prokaryotes, this should be \nmore easily seen in taxa where groups can be identified also with other methods, as in Cyanobacteria.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author9> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author9> <life5010050_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "We apologize for our carelessness in double-checking the naming of the organisms and hope \nthat we now eliminated all errors."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author10> <life5010050_makarova.owl#text> "We apologize for our carelessness in double-checking the naming of the organisms and hope \nthat we now eliminated all errors."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author10> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author10> <life5010050_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with the reviewer, this part was formulated clumsily. What we meant was actually \nexactly what the reviewer means. The two groups were polyphyletic and we could only chose a \nmonophyletic group when analysing them together. We changed the sentence to: “… by two genera that \nwere monophyletic only when taken together in the database used, e.g., Leptolyngbia and Chamaesiphon \n…” In accordance we did not check for relatedness of the taxa, neither in this one nor for any other one."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author11> <life5010050_makarova.owl#text> "We agree with the reviewer, this part was formulated clumsily. What we meant was actually \nexactly what the reviewer means. The two groups were polyphyletic and we could only chose a \nmonophyletic group when analysing them together. We changed the sentence to: “… by two genera that \nwere monophyletic only when taken together in the database used, e.g., Leptolyngbia and Chamaesiphon \n…” In accordance we did not check for relatedness of the taxa, neither in this one nor for any other one."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author11> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author11> <life5010050_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "We agree that this might be confusing to the reader. We have therefore clarified this choice \nand added this part to the first M&M section and the literature suggested has been cited: “Sequences \ntermed Synechococcus on the other hand were analysed together with sequences of Prochlorococcus, \nsince Synechococcus is known to be a polyphyletic group and if all sequences (including a minimum of \nfive lineages [36–38]) are taken together, Prochlorococcus has to be included too.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author12> <life5010050_makarova.owl#text> "We agree that this might be confusing to the reader. We have therefore clarified this choice \nand added this part to the first M&M section and the literature suggested has been cited: “Sequences \ntermed Synechococcus on the other hand were analysed together with sequences of Prochlorococcus, \nsince Synechococcus is known to be a polyphyletic group and if all sequences (including a minimum of \nfive lineages [36–38]) are taken together, Prochlorococcus has to be included too.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author12> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author12> <life5010050_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "The sequences we used were clustering monophyletically a-priori in the tree provided in the \ndatabase used, and we chose them independently of the name. We now clarified this in the first section \nof M&M: “Thereby a group was considered monophyletic if it was monophyletic in the tree provided \nwith the database, regardless of the taxonomy and the nomenclature of the organisms included in the \nclade (Supplemetary Figure 1), and only secondarily if there was a correspondence with known taxa.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author13> <life5010050_makarova.owl#text> "The sequences we used were clustering monophyletically a-priori in the tree provided in the \ndatabase used, and we chose them independently of the name. We now clarified this in the first section \nof M&M: “Thereby a group was considered monophyletic if it was monophyletic in the tree provided \nwith the database, regardless of the taxonomy and the nomenclature of the organisms included in the \nclade (Supplemetary Figure 1), and only secondarily if there was a correspondence with known taxa.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author13> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author13> <life5010050_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "As mentioned above, we did not only choose sequences that had the same name, but groups \nof sequences that were monophyletic in the database tree. Thus we should not have artificially \nintroduced a barcoding gap by sequence selection."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author14> <life5010050_makarova.owl#text> "As mentioned above, we did not only choose sequences that had the same name, but groups \nof sequences that were monophyletic in the database tree. Thus we should not have artificially \nintroduced a barcoding gap by sequence selection."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author14> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author14> <life5010050_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "Similarly to the replies for the previous reviewer, our aim was not to start from known and \nnamed sequences and test whether species from DNA taxonomy matched them or not; our aim was to \ntest whether a barcoding gaps existed at all. To do so, we did not download named sequences from \nGenBank, but used a carefully annotated and checked database with a built-in phylogeny that would \nallow us to obtain monophyletic clades, regardless of their names. We thus only briefly discuss names \nand taxonomy in our analysis. Given that both reviewers commented on this issue, we tried to clarify \nour aims and included a sentence at the end of the introduction, in order to clarify the point. We hope \nthat now both reviewers, and all other potential readers, will not be misled by our approach. We do not \ndeal with taxonomy at all, only with testing the presence of a barcoding gap. Given this rationale and \nthe kind of data we used, no clear statement towards the two barcoding groups within \nCylindrospermopsis can be made. Nearly all sequences within the database are termed \nCylindrospermopsis raciborskii by the people who deposited the sequences. However the clade does not \ncontain the type-strain (which was not in the database). So we would rather not speculate too much on \nthe taxonomic naming of these and other barcoded groups. However, we can clearly say that what is \ndeposited in database SILVA 111 as Cylindrospermopsis contains two species with a barcoding gap. \nFor Planktothrix we added a sentence: “Considering the naming of Planktothrix sequences in the \ndatabase, some OTUs and ABGD units seem to correspond not only to monophyletic groups but also to \nnamed species such as P. mougeotii or similarly in the case of Fischerella muscicola (Figure 3).” However we wish to remain careful on these kinds of statements since we are not sure if the underlying \nnaming of the species used is correct or not."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author15> <life5010050_makarova.owl#text> "Similarly to the replies for the previous reviewer, our aim was not to start from known and \nnamed sequences and test whether species from DNA taxonomy matched them or not; our aim was to \ntest whether a barcoding gaps existed at all. To do so, we did not download named sequences from \nGenBank, but used a carefully annotated and checked database with a built-in phylogeny that would \nallow us to obtain monophyletic clades, regardless of their names. We thus only briefly discuss names \nand taxonomy in our analysis. Given that both reviewers commented on this issue, we tried to clarify \nour aims and included a sentence at the end of the introduction, in order to clarify the point. We hope \nthat now both reviewers, and all other potential readers, will not be misled by our approach. We do not \ndeal with taxonomy at all, only with testing the presence of a barcoding gap. Given this rationale and \nthe kind of data we used, no clear statement towards the two barcoding groups within \nCylindrospermopsis can be made. Nearly all sequences within the database are termed \nCylindrospermopsis raciborskii by the people who deposited the sequences. However the clade does not \ncontain the type-strain (which was not in the database). So we would rather not speculate too much on \nthe taxonomic naming of these and other barcoded groups. However, we can clearly say that what is \ndeposited in database SILVA 111 as Cylindrospermopsis contains two species with a barcoding gap. \nFor Planktothrix we added a sentence: “Considering the naming of Planktothrix sequences in the \ndatabase, some OTUs and ABGD units seem to correspond not only to monophyletic groups but also to \nnamed species such as P. mougeotii or similarly in the case of Fischerella muscicola (Figure 3).” However we wish to remain careful on these kinds of statements since we are not sure if the underlying \nnaming of the species used is correct or not."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author15> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author15> <life5010050_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "We understand why the reviewer would think that that would be beneficial. However, one has \nto keep in mind that we were not constructing a phylogenetic tree for all cyanobacteria but for single \ngenera. In this case it is preferential to use a sister group that is more closely related to gain resolution \nwithin that group. e.g., Hedtke, S.M.; Townsend, T.M.; Hillis, D.M. Resolution of phylogenetic conflict \nin large data sets by increased taxon sampling. Syst. Biol. 2006, 55, 522–529. Moreover, for the sake of \nthe barcoding analyses, the choice of the outgroup will not affect the results, given that it will not change \nthe relationships towards the tips of the tree."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author16> <life5010050_makarova.owl#text> "We understand why the reviewer would think that that would be beneficial. However, one has \nto keep in mind that we were not constructing a phylogenetic tree for all cyanobacteria but for single \ngenera. In this case it is preferential to use a sister group that is more closely related to gain resolution \nwithin that group. e.g., Hedtke, S.M.; Townsend, T.M.; Hillis, D.M. Resolution of phylogenetic conflict \nin large data sets by increased taxon sampling. Syst. Biol. 2006, 55, 522–529. Moreover, for the sake of \nthe barcoding analyses, the choice of the outgroup will not affect the results, given that it will not change \nthe relationships towards the tips of the tree."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author16> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author16> <life5010050_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "The last paragraph of the discussion already included some comments on this issue. Now the \nparagraph has been expanded to provide a more detailed discussion on the possibility of using a DNA \nbarcoding gap in cyanobacteria."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author17> <life5010050_makarova.owl#text> "The last paragraph of the discussion already included some comments on this issue. Now the \nparagraph has been expanded to provide a more detailed discussion on the possibility of using a DNA \nbarcoding gap in cyanobacteria."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author17> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author17> <life5010050_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author18> <http://www.w3.org/2000/01/rdf-schema#label> " We apologize for our carelessness in double checking the naming of the organisms and hope \nthat we now eliminated all errors."^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author18> <life5010050_makarova.owl#text> " We apologize for our carelessness in double checking the naming of the organisms and hope \nthat we now eliminated all errors."^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author18> <life5010050_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author18> <life5010050_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<life5010050_makarova.owl#author19> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<life5010050_makarova.owl#author19> <life5010050_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author19> <life5010050_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <life5010050_makarova.owl#author19> <life5010050_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -5,6 +5,8 @@
 <agronomy12061433_perova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <agronomy12061433_perova.owl#isAttackedBy> .
 <agronomy12061433_perova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <agronomy12061433_perova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<agronomy12061433_perova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<agronomy12061433_perova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <agronomy12061433_perova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <agronomy12061433_perova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <agronomy12061433_perova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -841,123 +843,123 @@ _:4304 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:4308 .
 _:4308 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:4306 .
 _:4308 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
 <agronomy12061433_perova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:4307 .
-<agronomy12061433_perova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "lines 102 and 113: Were the seeds collected in 2000 and sown in 2021?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_11> <agronomy12061433_perova.owl#text> "lines 102 and 113: Were the seeds collected in 2000 and sown in 2021?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_11> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_11> <agronomy12061433_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "How many seeds were collected?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_12> <agronomy12061433_perova.owl#text> "How many seeds were collected?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_12> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_12> <agronomy12061433_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "line 115: Did one repetition mean one plant?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_13> <agronomy12061433_perova.owl#text> "line 115: Did one repetition mean one plant?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_13> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_13> <agronomy12061433_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "line 130: How many fruits were used as a sample of representative fruits?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_14> <agronomy12061433_perova.owl#text> "line 130: How many fruits were used as a sample of representative fruits?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_14> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_14> <agronomy12061433_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "line 135: How many fruits were used as a bulk of representative fruits?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_15> <agronomy12061433_perova.owl#text> "line 135: How many fruits were used as a bulk of representative fruits?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_15> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_15> <agronomy12061433_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "The introduction part is a bit long, although it states the importance of this local variety of sweet pepper and of tracing its origin."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_21> <agronomy12061433_perova.owl#text> "The introduction part is a bit long, although it states the importance of this local variety of sweet pepper and of tracing its origin."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_21> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_21> <agronomy12061433_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "In figure 3: why CP cultivars in purple lines are clustered with CC and MG in green? Any explanation?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_22> <agronomy12061433_perova.owl#text> "In figure 3: why CP cultivars in purple lines are clustered with CC and MG in green? Any explanation?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_22> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_22> <agronomy12061433_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "Line 37: “products”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_23> <agronomy12061433_perova.owl#text> "Line 37: “products”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_23> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_23> <agronomy12061433_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "Line 245: would be better to show the value of each agronomic trait mentioned here"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_24> <agronomy12061433_perova.owl#text> "Line 245: would be better to show the value of each agronomic trait mentioned here"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_24> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_24> <agronomy12061433_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "Line 385-388: the figure legend does not provide enough information on this figure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_25> <agronomy12061433_perova.owl#text> "Line 385-388: the figure legend does not provide enough information on this figure"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_25> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_25> <agronomy12061433_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_26> <http://www.w3.org/2000/01/rdf-schema#label> "Line 435: it may not be worth to mention the sweet pepper as the first 30 crops"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_26> <agronomy12061433_perova.owl#text> "Line 435: it may not be worth to mention the sweet pepper as the first 30 crops"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_26> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_26> <agronomy12061433_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_27> <http://www.w3.org/2000/01/rdf-schema#label> "Line 468: “GBS”? Genotype by sequencing?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_27> <agronomy12061433_perova.owl#text> "Line 468: “GBS”? Genotype by sequencing?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_27> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_27> <agronomy12061433_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#reviewer_28> <http://www.w3.org/2000/01/rdf-schema#label> "Conclusion: What kind of broader impact of this work could be?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#reviewer_28> <agronomy12061433_perova.owl#text> "Conclusion: What kind of broader impact of this work could be?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_28> <agronomy12061433_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#reviewer_28> <agronomy12061433_perova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author1> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author1> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author1> <agronomy12061433_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author2> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author2> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author2> <agronomy12061433_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author3> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author3> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author3> <agronomy12061433_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author4> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author4> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author4> <agronomy12061433_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author5> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author5> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author5> <agronomy12061433_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "We better clarified this in the method section (L101, L105-106). 2000 is the year of the establishment of Conservation and Safety Network. In this frame, seeds were collected and maintained in long term storage conditions by Arsial in the subsequent years."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author6> <agronomy12061433_perova.owl#text> "We better clarified this in the method section (L101, L105-106). 2000 is the year of the establishment of Conservation and Safety Network. In this frame, seeds were collected and maintained in long term storage conditions by Arsial in the subsequent years."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author6> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author6> <agronomy12061433_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "Between 8-10 grams (about 2000 seeds) we don’t think is a detail to insert in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author7> <agronomy12061433_perova.owl#text> "Between 8-10 grams (about 2000 seeds) we don’t think is a detail to insert in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author7> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author7> <agronomy12061433_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "Yes, we clarified (L116)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author8> <agronomy12061433_perova.owl#text> "Yes, we clarified (L116)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author8> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author8> <agronomy12061433_perova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "We added these details (L132 and L136)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author9> <agronomy12061433_perova.owl#text> "We added these details (L132 and L136)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author9> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author9> <agronomy12061433_perova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "We added these details (L132 and L136)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author10> <agronomy12061433_perova.owl#text> "We added these details (L132 and L136)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author10> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author10> <agronomy12061433_perova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author11> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author11> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author11> <agronomy12061433_perova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author12> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author12> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author12> <agronomy12061433_perova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author13> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author13> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author13> <agronomy12061433_perova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author14> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author14> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author14> <agronomy12061433_perova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author15> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author15> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author15> <agronomy12061433_perova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author16> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author16> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author16> <agronomy12061433_perova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author17> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author17> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author17> <agronomy12061433_perova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author18> <http://www.w3.org/2000/01/rdf-schema#label> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author18> <agronomy12061433_perova.owl#text> "We have carefully considered comments and thoughtful suggestions, revising the manuscript accordingly. All amendments suggested have been included. Additional corrections through the text have been done."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author18> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author18> <agronomy12061433_perova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author19> <http://www.w3.org/2000/01/rdf-schema#label> "We prefer to keep the introduction in order to give a broad overview to readers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author19> <agronomy12061433_perova.owl#text> "We prefer to keep the introduction in order to give a broad overview to readers"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author19> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author19> <agronomy12061433_perova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author20> <http://www.w3.org/2000/01/rdf-schema#label> "The cluster analysis is based on phenotypic traits, this analysis revealed specific clusters of \"Cornetto di Pontecorvo\" and similar types, although they were not clearly separated at the hierarchical level. The genotyping analysis provided more in-depth insights. We addressed this in the discussions section (see L485 and subsequent)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author20> <agronomy12061433_perova.owl#text> "The cluster analysis is based on phenotypic traits, this analysis revealed specific clusters of \"Cornetto di Pontecorvo\" and similar types, although they were not clearly separated at the hierarchical level. The genotyping analysis provided more in-depth insights. We addressed this in the discussions section (see L485 and subsequent)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author20> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author20> <agronomy12061433_perova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author21> <http://www.w3.org/2000/01/rdf-schema#label> "Product is correct since refer to This crop (singular), we specify (as a food and non-food product)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author21> <agronomy12061433_perova.owl#text> "Product is correct since refer to This crop (singular), we specify (as a food and non-food product)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author21> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author21> <agronomy12061433_perova.owl#number> "21"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author22> <http://www.w3.org/2000/01/rdf-schema#label> "We agree and better positioned the table 3 after the sentence"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author22> <agronomy12061433_perova.owl#text> "We agree and better positioned the table 3 after the sentence"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author22> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author22> <agronomy12061433_perova.owl#number> "22"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author23> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 4 caption has been improved"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author23> <agronomy12061433_perova.owl#text> "Figure 4 caption has been improved"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author23> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author23> <agronomy12061433_perova.owl#number> "23"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author24> <http://www.w3.org/2000/01/rdf-schema#label> "We agree and modified the sentence (see L439)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author24> <agronomy12061433_perova.owl#text> "We agree and modified the sentence (see L439)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author24> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author24> <agronomy12061433_perova.owl#number> "24"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author25> <http://www.w3.org/2000/01/rdf-schema#label> "We change referring to ddRAD seq (see L473)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author25> <agronomy12061433_perova.owl#text> "We change referring to ddRAD seq (see L473)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author25> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author25> <agronomy12061433_perova.owl#number> "25"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author26> <http://www.w3.org/2000/01/rdf-schema#label> "In order to answer to this question, we improved the conclusion (L524-529)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author26> <agronomy12061433_perova.owl#text> "In order to answer to this question, we improved the conclusion (L524-529)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author26> <agronomy12061433_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author26> <agronomy12061433_perova.owl#number> "26"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agronomy12061433_perova.owl#author27> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agronomy12061433_perova.owl#author27> <agronomy12061433_perova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author27> <agronomy12061433_perova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agronomy12061433_perova.owl#author27> <agronomy12061433_perova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

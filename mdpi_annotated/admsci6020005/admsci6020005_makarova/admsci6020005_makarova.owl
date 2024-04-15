@@ -5,6 +5,8 @@
 <admsci6020005_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <admsci6020005_makarova.owl#isAttackedBy> .
 <admsci6020005_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <admsci6020005_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<admsci6020005_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<admsci6020005_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <admsci6020005_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <admsci6020005_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <admsci6020005_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -734,102 +736,102 @@ _:2960 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:2964 .
 _:2964 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:2962 .
 _:2964 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
 <admsci6020005_makarova.owl#Reviewer_2Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:2963 .
-<admsci6020005_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "Why Jung? The authors have selected Jung’s archetypes as the theoretical foundation for the paper. "^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_11> <admsci6020005_makarova.owl#text> "Why Jung? The authors have selected Jung’s archetypes as the theoretical foundation for the paper. "^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_11> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_11> <admsci6020005_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "This paper’s potential impact will be enhanced if it can find a way to align itself with this growing branch of advertising research."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_12> <admsci6020005_makarova.owl#text> "This paper’s potential impact will be enhanced if it can find a way to align itself with this growing branch of advertising research."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_12> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_12> <admsci6020005_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "The abstract states: “Aaker is seen by many as the branding guru” and refers to Aaker (1997) in the introductory paragraph. Are you referring to David Aaker (the father) or Jennifer Aaker (the daughter)?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_13> <admsci6020005_makarova.owl#text> "The abstract states: “Aaker is seen by many as the branding guru” and refers to Aaker (1997) in the introductory paragraph. Are you referring to David Aaker (the father) or Jennifer Aaker (the daughter)?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_13> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_13> <admsci6020005_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "Indeed, Aaker (1997) is a highly-cited work. Are there any other limitations or criticisms the reader should be informed of? However, you may want to tell readers how brands can convey aspects of personality via advertising (see: Allen and Olson 1995)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_14> <admsci6020005_makarova.owl#text> "Indeed, Aaker (1997) is a highly-cited work. Are there any other limitations or criticisms the reader should be informed of? However, you may want to tell readers how brands can convey aspects of personality via advertising (see: Allen and Olson 1995)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_14> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_14> <admsci6020005_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "Page 2, line 62: I disagree with the claim that “above models can be seen as extensions of Aaker’s (1997) brand personality model.” The models you listed are variants of well-known hierarchy of effects models"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_15> <admsci6020005_makarova.owl#text> "Page 2, line 62: I disagree with the claim that “above models can be seen as extensions of Aaker’s (1997) brand personality model.” The models you listed are variants of well-known hierarchy of effects models"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_15> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_15> <admsci6020005_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "Though the paper is exploratory, I am not convinced that it aligns with the “grounded theory” tradition."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_16> <admsci6020005_makarova.owl#text> "Though the paper is exploratory, I am not convinced that it aligns with the “grounded theory” tradition."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_16> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_16> <admsci6020005_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> "The results would have been more compelling if the study measured the impact of ad campaigns (sets of related ads) in delivering a consistent (reliable) impression."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_17> <admsci6020005_makarova.owl#text> "The results would have been more compelling if the study measured the impact of ad campaigns (sets of related ads) in delivering a consistent (reliable) impression."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_17> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_17> <admsci6020005_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "Evidence of claim? Page 4, line 124 states: “European students did not know these two hotel chains and therefore were not pre-conditioned in any way. In contrast the 55 Asian students knew the chains.” Was brand familiarity actually measured, or was it assumed?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_18> <admsci6020005_makarova.owl#text> "Evidence of claim? Page 4, line 124 states: “European students did not know these two hotel chains and therefore were not pre-conditioned in any way. In contrast the 55 Asian students knew the chains.” Was brand familiarity actually measured, or was it assumed?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_18> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_18> <admsci6020005_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "However, if you included a storyboard (set of screenshots) for each ad, that would help the reader (for examples, see: Mulvey and Medina 2003; Scott 1994)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_19> <admsci6020005_makarova.owl#text> "However, if you included a storyboard (set of screenshots) for each ad, that would help the reader (for examples, see: Mulvey and Medina 2003; Scott 1994)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_19> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_19> <admsci6020005_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "Clarity and elaboration of Page 5+: The methods section lacks clarity – it would be very difficult for a researcher to replicate the procedure. Please provide greater detail of the scales used, the anchor terms, and how the survey/rating task was administered (online? Paper and pencil?)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_110> <admsci6020005_makarova.owl#text> "Clarity and elaboration of Page 5+: The methods section lacks clarity – it would be very difficult for a researcher to replicate the procedure. Please provide greater detail of the scales used, the anchor terms, and how the survey/rating task was administered (online? Paper and pencil?)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_110> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_110> <admsci6020005_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_111> <http://www.w3.org/2000/01/rdf-schema#label> " “Archetype Articulate Charisma” (heading title in Table 3): This is not clear. Either define the term in the text or use phrasing that is clear to the reader"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_111> <admsci6020005_makarova.owl#text> " “Archetype Articulate Charisma” (heading title in Table 3): This is not clear. Either define the term in the text or use phrasing that is clear to the reader"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_111> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_111> <admsci6020005_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_112> <http://www.w3.org/2000/01/rdf-schema#label> "Findings: Who rated the three personality traits? The student/respondents? How many items were used? Why do you not report reliability measures for the items and scale?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_112> <admsci6020005_makarova.owl#text> "Findings: Who rated the three personality traits? The student/respondents? How many items were used? Why do you not report reliability measures for the items and scale?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_112> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_112> <admsci6020005_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_113> <http://www.w3.org/2000/01/rdf-schema#label> "Factor analysis: Have you reported principal components, or a rotated solution?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_113> <admsci6020005_makarova.owl#text> "Factor analysis: Have you reported principal components, or a rotated solution?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_113> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_113> <admsci6020005_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_114> <http://www.w3.org/2000/01/rdf-schema#label> "Interpretation: The interpretation of Archetypes seems to assume that the types are mutually-exclusive. However, this is not really the case"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_114> <admsci6020005_makarova.owl#text> "Interpretation: The interpretation of Archetypes seems to assume that the types are mutually-exclusive. However, this is not really the case"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_114> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_114> <admsci6020005_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "We added Freud’s heritage and contemporary research e.g. Jung’s contribution to the Big 5. "^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author1> <admsci6020005_makarova.owl#text> "We added Freud’s heritage and contemporary research e.g. Jung’s contribution to the Big 5. "^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author1> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author1> <admsci6020005_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "We took great effort introducing above mentioned perspectives into our paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author2> <admsci6020005_makarova.owl#text> "We took great effort introducing above mentioned perspectives into our paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author2> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author2> <admsci6020005_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "We decided to call them both gurus because David obviously is the one but our paper refers to Jennifer."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author3> <admsci6020005_makarova.owl#text> "We decided to call them both gurus because David obviously is the one but our paper refers to Jennifer."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author3> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author3> <admsci6020005_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "We added Allen & Olson and other limitations such as criticism on the conceptual, methodological and substantive level as well as confusing user profiles (e.g., upper class) with brand characteristics and weak discriminatory power."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author4> <admsci6020005_makarova.owl#text> "We added Allen & Olson and other limitations such as criticism on the conceptual, methodological and substantive level as well as confusing user profiles (e.g., upper class) with brand characteristics and weak discriminatory power."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author4> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author4> <admsci6020005_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "We revised the statement in the sense that it is part and not different from it."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author5> <admsci6020005_makarova.owl#text> "We revised the statement in the sense that it is part and not different from it."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author5> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author5> <admsci6020005_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "We fully agree and deleted the claim to be Grounded Theory."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author6> <admsci6020005_makarova.owl#text> "We fully agree and deleted the claim to be Grounded Theory."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author6> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author6> <admsci6020005_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "We cited Roberts (2010) who, based on extensive research, found different leading archetypes depending on the product category. We added our thoughts as scope for further research in chapter 4.We added Matzler et al. (Personality, person-brand fit, and brand community: An investigation of individuals, brands, and brand communities. Journal Of Marketing Management) as research on customer-brand relationship."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author7> <admsci6020005_makarova.owl#text> "We cited Roberts (2010) who, based on extensive research, found different leading archetypes depending on the product category. We added our thoughts as scope for further research in chapter 4.We added Matzler et al. (Personality, person-brand fit, and brand community: An investigation of individuals, brands, and brand communities. Journal Of Marketing Management) as research on customer-brand relationship."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author7> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author7> <admsci6020005_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "The survey was conducted face-to-face in the classroom and students asked personally"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author8> <admsci6020005_makarova.owl#text> "The survey was conducted face-to-face in the classroom and students asked personally"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author8> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author8> <admsci6020005_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "We added more screenshots and background on the commercials."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author9> <admsci6020005_makarova.owl#text> "We added more screenshots and background on the commercials."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author9> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author9> <admsci6020005_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "We added the questions that participants were asked. Everything was based on pencil and paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author10> <admsci6020005_makarova.owl#text> "We added the questions that participants were asked. Everything was based on pencil and paper."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author10> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author10> <admsci6020005_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "Changed in the term ‘manifestation.’"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author11> <admsci6020005_makarova.owl#text> "Changed in the term ‘manifestation.’"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author11> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author11> <admsci6020005_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "The students."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author12> <admsci6020005_makarova.owl#text> "The students."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author12> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author12> <admsci6020005_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "Principal Component with Varimax rotation."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author13> <admsci6020005_makarova.owl#text> "Principal Component with Varimax rotation."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author13> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author13> <admsci6020005_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "We changed the wording. In fact, the cited Cinderalla is a prime example of blended archetype."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author14> <admsci6020005_makarova.owl#text> "We changed the wording. In fact, the cited Cinderalla is a prime example of blended archetype."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author14> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author14> <admsci6020005_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "We cleaned up our description of the experimental design by adding the questions that we asked, the scale we used etc."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author15> <admsci6020005_makarova.owl#text> "We cleaned up our description of the experimental design by adding the questions that we asked, the scale we used etc."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author15> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author15> <admsci6020005_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "We tried our best to address this problem, see the revised version of our paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author16> <admsci6020005_makarova.owl#text> "We tried our best to address this problem, see the revised version of our paper."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author16> <admsci6020005_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author16> <admsci6020005_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#author17> <admsci6020005_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author17> <admsci6020005_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#author17> <admsci6020005_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "I think there are some ways in which you may tighten up the description of the experimental design."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_21> <admsci6020005_makarova.owl#text> "I think there are some ways in which you may tighten up the description of the experimental design."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_21> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_21> <admsci6020005_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci6020005_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "I think that the relevance of the research to practitioners as well as academics needs to include some current findings about ads, their placement and effectiveness. "^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci6020005_makarova.owl#reviewer_22> <admsci6020005_makarova.owl#text> "I think that the relevance of the research to practitioners as well as academics needs to include some current findings about ads, their placement and effectiveness. "^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_22> <admsci6020005_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci6020005_makarova.owl#reviewer_22> <admsci6020005_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .

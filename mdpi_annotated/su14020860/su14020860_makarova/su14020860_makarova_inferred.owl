@@ -5,6 +5,8 @@
 <su14020860_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <su14020860_makarova.owl#isAttackedBy> .
 <su14020860_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <su14020860_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<su14020860_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<su14020860_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <su14020860_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <su14020860_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <su14020860_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -74,460 +76,460 @@
 <su14020860_makarova.owl#author8> <su14020860_makarova.owl#attacks> <su14020860_makarova.owl#reviewer_34> .
 <su14020860_makarova.owl#author9> <su14020860_makarova.owl#attacks> <su14020860_makarova.owl#reviewer_35> .
 <su14020860_makarova.owl#reviewer_36> <su14020860_makarova.owl#attacks> <su14020860_makarova.owl#author10> .
-_:43999 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:43999 <http://www.w3.org/2002/07/owl#oneOf> _:44000 .
-_:44000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44000 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44001 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44001 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44001 <http://www.w3.org/2002/07/owl#allValuesFrom> _:43999 .
-<su14020860_makarova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44001 .
-_:44002 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44002 <http://www.w3.org/2002/07/owl#oneOf> _:44003 .
-_:44003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author1> .
-_:44003 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44004 .
-_:44004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author1> .
-_:44004 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44005 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44005 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44005 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44002 .
-<su14020860_makarova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44005 .
-_:44006 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44006 <http://www.w3.org/2002/07/owl#oneOf> _:44007 .
-_:44007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44007 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44008 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44008 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44008 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44006 .
-<su14020860_makarova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44008 .
-_:44009 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44009 <http://www.w3.org/2002/07/owl#oneOf> _:44010 .
-_:44010 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author2> .
-_:44010 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44011 .
-_:44011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author2> .
-_:44011 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44012 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44012 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44012 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44009 .
-<su14020860_makarova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44012 .
-_:44013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44013 <http://www.w3.org/2002/07/owl#oneOf> _:44014 .
-_:44014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44014 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44015 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44015 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44015 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44013 .
-<su14020860_makarova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44015 .
-_:44016 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44016 <http://www.w3.org/2002/07/owl#oneOf> _:44017 .
-_:44017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author3> .
-_:44017 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44018 .
-_:44018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author3> .
-_:44018 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44019 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44019 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44019 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44016 .
-<su14020860_makarova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44019 .
-_:44020 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44020 <http://www.w3.org/2002/07/owl#oneOf> _:44021 .
-_:44021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44021 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44022 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44022 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44022 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44020 .
-<su14020860_makarova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44022 .
-_:44023 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44023 <http://www.w3.org/2002/07/owl#oneOf> _:44024 .
-_:44024 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author4> .
-_:44024 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44025 .
-_:44025 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author4> .
-_:44025 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44026 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44026 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44026 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44023 .
-<su14020860_makarova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44026 .
-_:44027 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44027 <http://www.w3.org/2002/07/owl#oneOf> _:44028 .
-_:44028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44028 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44029 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44029 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44029 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44027 .
-<su14020860_makarova.owl#reviewer_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44029 .
-_:44030 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44030 <http://www.w3.org/2002/07/owl#oneOf> _:44031 .
-_:44031 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author5> .
-_:44031 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44032 .
-_:44032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author5> .
-_:44032 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44033 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44033 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44033 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44030 .
-<su14020860_makarova.owl#reviewer_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44033 .
-_:44034 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44034 <http://www.w3.org/2002/07/owl#oneOf> _:44035 .
-_:44035 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44035 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44036 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44036 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44036 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44034 .
-<su14020860_makarova.owl#reviewer_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44036 .
-_:44037 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44037 <http://www.w3.org/2002/07/owl#oneOf> _:44038 .
-_:44038 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author6> .
-_:44038 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44039 .
-_:44039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author6> .
-_:44039 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44040 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44040 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44037 .
-<su14020860_makarova.owl#reviewer_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44040 .
-_:44041 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44041 <http://www.w3.org/2002/07/owl#oneOf> _:44042 .
-_:44042 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44042 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44043 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44043 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44043 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44041 .
-<su14020860_makarova.owl#reviewer_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44043 .
-_:44044 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44044 <http://www.w3.org/2002/07/owl#oneOf> _:44045 .
-_:44045 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author7> .
-_:44045 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44046 .
-_:44046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author7> .
-_:44046 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44047 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44047 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44047 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44044 .
-<su14020860_makarova.owl#reviewer_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44047 .
-_:44048 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44048 <http://www.w3.org/2002/07/owl#oneOf> _:44049 .
-_:44049 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44049 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44050 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44050 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44050 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44048 .
-<su14020860_makarova.owl#reviewer_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44050 .
-_:44051 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44051 <http://www.w3.org/2002/07/owl#oneOf> _:44052 .
-_:44052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author8> .
-_:44052 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44053 .
-_:44053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author8> .
-_:44053 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44054 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44054 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44054 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44051 .
-<su14020860_makarova.owl#reviewer_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44054 .
-_:44055 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44055 <http://www.w3.org/2002/07/owl#oneOf> _:44056 .
-_:44056 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44056 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44057 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44057 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44055 .
-<su14020860_makarova.owl#reviewer_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44057 .
-_:44058 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44058 <http://www.w3.org/2002/07/owl#oneOf> _:44059 .
-_:44059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author9> .
-_:44059 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44060 .
-_:44060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author9> .
-_:44060 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44061 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44061 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44061 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44058 .
-<su14020860_makarova.owl#reviewer_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44061 .
-_:44062 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44062 <http://www.w3.org/2002/07/owl#oneOf> _:44063 .
-_:44063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
-_:44063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44064 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44064 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44064 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44062 .
-<su14020860_makarova.owl#reviewer_36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44064 .
-_:44065 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44065 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44065 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#reviewer_36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44065 .
-_:44066 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44066 <http://www.w3.org/2002/07/owl#oneOf> _:44067 .
-_:44067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_11> .
-_:44067 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44068 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44068 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44068 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44066 .
-<su14020860_makarova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44068 .
-_:44069 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44069 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44069 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44069 .
-_:44070 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44070 <http://www.w3.org/2002/07/owl#oneOf> _:44071 .
-_:44071 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_12> .
-_:44071 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44072 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44072 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44072 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44070 .
-<su14020860_makarova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44072 .
-_:44073 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44073 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44073 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44073 .
-_:44074 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44074 <http://www.w3.org/2002/07/owl#oneOf> _:44075 .
-_:44075 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_13> .
-_:44075 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44076 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44076 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44076 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44074 .
-<su14020860_makarova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44076 .
-_:44077 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44077 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44077 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44077 .
-_:44078 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44078 <http://www.w3.org/2002/07/owl#oneOf> _:44079 .
-_:44079 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_21> .
-_:44079 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44080 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44080 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44080 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44078 .
-<su14020860_makarova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44080 .
-_:44081 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44081 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44081 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44081 .
-_:44082 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44082 <http://www.w3.org/2002/07/owl#oneOf> _:44083 .
-_:44083 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_31> .
-_:44083 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44084 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44084 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44084 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44082 .
-<su14020860_makarova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44084 .
-_:44085 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44085 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44085 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44085 .
-_:44086 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44086 <http://www.w3.org/2002/07/owl#oneOf> _:44087 .
-_:44087 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_32> .
-_:44087 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44088 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44088 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44088 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44086 .
-<su14020860_makarova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44088 .
-_:44089 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44089 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44089 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44089 .
-_:44090 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44090 <http://www.w3.org/2002/07/owl#oneOf> _:44091 .
-_:44091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_33> .
-_:44091 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44092 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44092 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44092 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44090 .
-<su14020860_makarova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44092 .
-_:44093 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44093 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44093 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44093 .
-_:44094 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44094 <http://www.w3.org/2002/07/owl#oneOf> _:44095 .
-_:44095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_34> .
-_:44095 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44096 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44096 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44096 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44094 .
-<su14020860_makarova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44096 .
-_:44097 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44097 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44097 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44097 .
-_:44098 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44098 <http://www.w3.org/2002/07/owl#oneOf> _:44099 .
-_:44099 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_35> .
-_:44099 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44100 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44100 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44100 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44098 .
-<su14020860_makarova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44100 .
-_:44101 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44101 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44101 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44101 .
-_:44102 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44102 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44102 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
-<su14020860_makarova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44102 .
-_:44103 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44103 <http://www.w3.org/2002/07/owl#oneOf> _:44104 .
-_:44104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_11> .
-_:44104 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44105 .
-_:44105 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_12> .
-_:44105 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44106 .
-_:44106 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_13> .
-_:44106 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44107 .
-_:44107 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_21> .
-_:44107 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44108 .
-_:44108 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_31> .
-_:44108 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44109 .
-_:44109 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_32> .
-_:44109 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44110 .
-_:44110 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_33> .
-_:44110 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44111 .
-_:44111 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_34> .
-_:44111 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44112 .
-_:44112 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_35> .
-_:44112 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44113 .
-_:44113 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_36> .
-_:44113 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44114 .
-_:44114 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_36> .
-_:44114 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44115 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44115 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44115 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44103 .
-<su14020860_makarova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:44115 .
+_:46295 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46295 <http://www.w3.org/2002/07/owl#oneOf> _:46296 .
+_:46296 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46296 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46297 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46297 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46297 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46295 .
+<su14020860_makarova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46297 .
+_:46298 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46298 <http://www.w3.org/2002/07/owl#oneOf> _:46299 .
+_:46299 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author1> .
+_:46299 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46300 .
+_:46300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author1> .
+_:46300 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46301 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46301 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46301 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46298 .
+<su14020860_makarova.owl#reviewer_11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46301 .
+_:46302 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46302 <http://www.w3.org/2002/07/owl#oneOf> _:46303 .
+_:46303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46303 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46304 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46304 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46304 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46302 .
+<su14020860_makarova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46304 .
+_:46305 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46305 <http://www.w3.org/2002/07/owl#oneOf> _:46306 .
+_:46306 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author2> .
+_:46306 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46307 .
+_:46307 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author2> .
+_:46307 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46308 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46308 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46308 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46305 .
+<su14020860_makarova.owl#reviewer_12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46308 .
+_:46309 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46309 <http://www.w3.org/2002/07/owl#oneOf> _:46310 .
+_:46310 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46310 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46311 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46311 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46311 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46309 .
+<su14020860_makarova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46311 .
+_:46312 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46312 <http://www.w3.org/2002/07/owl#oneOf> _:46313 .
+_:46313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author3> .
+_:46313 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46314 .
+_:46314 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author3> .
+_:46314 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46315 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46315 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46315 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46312 .
+<su14020860_makarova.owl#reviewer_13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46315 .
+_:46316 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46316 <http://www.w3.org/2002/07/owl#oneOf> _:46317 .
+_:46317 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46317 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46318 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46318 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46318 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46316 .
+<su14020860_makarova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46318 .
+_:46319 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46319 <http://www.w3.org/2002/07/owl#oneOf> _:46320 .
+_:46320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author4> .
+_:46320 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46321 .
+_:46321 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author4> .
+_:46321 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46322 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46322 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46322 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46319 .
+<su14020860_makarova.owl#reviewer_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46322 .
+_:46323 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46323 <http://www.w3.org/2002/07/owl#oneOf> _:46324 .
+_:46324 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46324 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46325 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46325 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46325 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46323 .
+<su14020860_makarova.owl#reviewer_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46325 .
+_:46326 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46326 <http://www.w3.org/2002/07/owl#oneOf> _:46327 .
+_:46327 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author5> .
+_:46327 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46328 .
+_:46328 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author5> .
+_:46328 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46329 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46329 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46329 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46326 .
+<su14020860_makarova.owl#reviewer_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46329 .
+_:46330 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46330 <http://www.w3.org/2002/07/owl#oneOf> _:46331 .
+_:46331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46331 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46332 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46332 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46332 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46330 .
+<su14020860_makarova.owl#reviewer_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46332 .
+_:46333 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46333 <http://www.w3.org/2002/07/owl#oneOf> _:46334 .
+_:46334 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author6> .
+_:46334 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46335 .
+_:46335 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author6> .
+_:46335 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46336 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46336 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46336 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46333 .
+<su14020860_makarova.owl#reviewer_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46336 .
+_:46337 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46337 <http://www.w3.org/2002/07/owl#oneOf> _:46338 .
+_:46338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46338 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46339 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46339 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46339 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46337 .
+<su14020860_makarova.owl#reviewer_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46339 .
+_:46340 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46340 <http://www.w3.org/2002/07/owl#oneOf> _:46341 .
+_:46341 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author7> .
+_:46341 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46342 .
+_:46342 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author7> .
+_:46342 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46343 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46343 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46343 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46340 .
+<su14020860_makarova.owl#reviewer_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46343 .
+_:46344 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46344 <http://www.w3.org/2002/07/owl#oneOf> _:46345 .
+_:46345 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46345 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46346 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46346 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46346 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46344 .
+<su14020860_makarova.owl#reviewer_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46346 .
+_:46347 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46347 <http://www.w3.org/2002/07/owl#oneOf> _:46348 .
+_:46348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author8> .
+_:46348 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46349 .
+_:46349 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author8> .
+_:46349 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46350 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46350 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46350 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46347 .
+<su14020860_makarova.owl#reviewer_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46350 .
+_:46351 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46351 <http://www.w3.org/2002/07/owl#oneOf> _:46352 .
+_:46352 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46352 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46353 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46353 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46353 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46351 .
+<su14020860_makarova.owl#reviewer_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46353 .
+_:46354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46354 <http://www.w3.org/2002/07/owl#oneOf> _:46355 .
+_:46355 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author9> .
+_:46355 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46356 .
+_:46356 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author9> .
+_:46356 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46357 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46357 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46357 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46354 .
+<su14020860_makarova.owl#reviewer_35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46357 .
+_:46358 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46358 <http://www.w3.org/2002/07/owl#oneOf> _:46359 .
+_:46359 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#author10> .
+_:46359 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46360 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46360 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46360 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46358 .
+<su14020860_makarova.owl#reviewer_36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46360 .
+_:46361 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46361 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46361 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#reviewer_36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46361 .
+_:46362 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46362 <http://www.w3.org/2002/07/owl#oneOf> _:46363 .
+_:46363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_11> .
+_:46363 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46364 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46364 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46364 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46362 .
+<su14020860_makarova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46364 .
+_:46365 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46365 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46365 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46365 .
+_:46366 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46366 <http://www.w3.org/2002/07/owl#oneOf> _:46367 .
+_:46367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_12> .
+_:46367 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46368 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46368 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46368 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46366 .
+<su14020860_makarova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46368 .
+_:46369 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46369 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46369 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46369 .
+_:46370 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46370 <http://www.w3.org/2002/07/owl#oneOf> _:46371 .
+_:46371 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_13> .
+_:46371 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46372 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46372 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46372 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46370 .
+<su14020860_makarova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46372 .
+_:46373 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46373 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46373 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46373 .
+_:46374 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46374 <http://www.w3.org/2002/07/owl#oneOf> _:46375 .
+_:46375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_21> .
+_:46375 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46376 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46376 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46376 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46374 .
+<su14020860_makarova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46376 .
+_:46377 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46377 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46377 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46377 .
+_:46378 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46378 <http://www.w3.org/2002/07/owl#oneOf> _:46379 .
+_:46379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_31> .
+_:46379 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46380 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46380 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46380 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46378 .
+<su14020860_makarova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46380 .
+_:46381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46381 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46381 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46381 .
+_:46382 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46382 <http://www.w3.org/2002/07/owl#oneOf> _:46383 .
+_:46383 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_32> .
+_:46383 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46384 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46384 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46384 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46382 .
+<su14020860_makarova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46384 .
+_:46385 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46385 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46385 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46385 .
+_:46386 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46386 <http://www.w3.org/2002/07/owl#oneOf> _:46387 .
+_:46387 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_33> .
+_:46387 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46388 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46388 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46388 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46386 .
+<su14020860_makarova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46388 .
+_:46389 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46389 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46389 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46389 .
+_:46390 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46390 <http://www.w3.org/2002/07/owl#oneOf> _:46391 .
+_:46391 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_34> .
+_:46391 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46392 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46392 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46392 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46390 .
+<su14020860_makarova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46392 .
+_:46393 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46393 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46393 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46393 .
+_:46394 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46394 <http://www.w3.org/2002/07/owl#oneOf> _:46395 .
+_:46395 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_35> .
+_:46395 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46396 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46396 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46396 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46394 .
+<su14020860_makarova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46396 .
+_:46397 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46397 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46397 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46397 .
+_:46398 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46398 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46398 <http://www.w3.org/2002/07/owl#allValuesFrom> <http://www.w3.org/2002/07/owl#Nothing> .
+<su14020860_makarova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46398 .
+_:46399 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46399 <http://www.w3.org/2002/07/owl#oneOf> _:46400 .
+_:46400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_11> .
+_:46400 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46401 .
+_:46401 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_12> .
+_:46401 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46402 .
+_:46402 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_13> .
+_:46402 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46403 .
+_:46403 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_21> .
+_:46403 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46404 .
+_:46404 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_31> .
+_:46404 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46405 .
+_:46405 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_32> .
+_:46405 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46406 .
+_:46406 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_33> .
+_:46406 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46407 .
+_:46407 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_34> .
+_:46407 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46408 .
+_:46408 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_35> .
+_:46408 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46409 .
+_:46409 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_36> .
+_:46409 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46410 .
+_:46410 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#reviewer_36> .
+_:46410 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46411 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46411 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46411 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46399 .
+<su14020860_makarova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> _:46411 .
 <su14020860_makarova.owl#Reviewer_1ConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <su14020860_makarova.owl#Reviewer_1ConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <su14020860_makarova.owl#Reviewer_1> .
-_:44118 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44118 <http://www.w3.org/2002/07/owl#unionOf> _:44117 .
-_:44117 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2> .
-_:44117 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44119 .
-_:44119 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3> .
-_:44119 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44120 .
-_:44120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Author> .
-_:44120 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44121 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44121 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44121 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44118 .
-_:44122 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44122 <http://www.w3.org/2002/07/owl#intersectionOf> _:44116 .
-_:44116 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1> .
-_:44116 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44123 .
-_:44123 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:44121 .
-_:44123 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<su14020860_makarova.owl#Reviewer_1ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:44122 .
+_:46414 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46414 <http://www.w3.org/2002/07/owl#unionOf> _:46413 .
+_:46413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2> .
+_:46413 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46415 .
+_:46415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3> .
+_:46415 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46416 .
+_:46416 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Author> .
+_:46416 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46417 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46417 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46417 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46414 .
+_:46418 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46418 <http://www.w3.org/2002/07/owl#intersectionOf> _:46412 .
+_:46412 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1> .
+_:46412 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46419 .
+_:46419 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:46417 .
+_:46419 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<su14020860_makarova.owl#Reviewer_1ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:46418 .
 <su14020860_makarova.owl#Reviewer_2ConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <su14020860_makarova.owl#Reviewer_2ConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <su14020860_makarova.owl#Reviewer_2> .
-_:44126 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44126 <http://www.w3.org/2002/07/owl#unionOf> _:44125 .
-_:44125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1> .
-_:44125 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44127 .
-_:44127 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3> .
-_:44127 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44128 .
-_:44128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Author> .
-_:44128 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44129 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44129 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44129 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44126 .
-_:44130 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44130 <http://www.w3.org/2002/07/owl#intersectionOf> _:44124 .
-_:44124 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2> .
-_:44124 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44131 .
-_:44131 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:44129 .
-_:44131 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<su14020860_makarova.owl#Reviewer_2ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:44130 .
+_:46422 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46422 <http://www.w3.org/2002/07/owl#unionOf> _:46421 .
+_:46421 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1> .
+_:46421 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46423 .
+_:46423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3> .
+_:46423 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46424 .
+_:46424 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Author> .
+_:46424 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46425 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46425 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46425 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46422 .
+_:46426 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46426 <http://www.w3.org/2002/07/owl#intersectionOf> _:46420 .
+_:46420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2> .
+_:46420 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46427 .
+_:46427 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:46425 .
+_:46427 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<su14020860_makarova.owl#Reviewer_2ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:46426 .
 <su14020860_makarova.owl#Reviewer_3ConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <su14020860_makarova.owl#Reviewer_3ConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <su14020860_makarova.owl#Reviewer_3> .
-_:44134 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44134 <http://www.w3.org/2002/07/owl#unionOf> _:44133 .
-_:44133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1> .
-_:44133 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44135 .
-_:44135 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2> .
-_:44135 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44136 .
-_:44136 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Author> .
-_:44136 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44137 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44137 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44137 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44134 .
-_:44138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44138 <http://www.w3.org/2002/07/owl#intersectionOf> _:44132 .
-_:44132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3> .
-_:44132 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44139 .
-_:44139 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:44137 .
-_:44139 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<su14020860_makarova.owl#Reviewer_3ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:44138 .
+_:46430 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46430 <http://www.w3.org/2002/07/owl#unionOf> _:46429 .
+_:46429 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1> .
+_:46429 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46431 .
+_:46431 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2> .
+_:46431 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46432 .
+_:46432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Author> .
+_:46432 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46433 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46433 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46433 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46430 .
+_:46434 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46434 <http://www.w3.org/2002/07/owl#intersectionOf> _:46428 .
+_:46428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3> .
+_:46428 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46435 .
+_:46435 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:46433 .
+_:46435 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<su14020860_makarova.owl#Reviewer_3ConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:46434 .
 <su14020860_makarova.owl#AuthorConflictFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <su14020860_makarova.owl#AuthorConflictFree> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <su14020860_makarova.owl#Author> .
-_:44142 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44142 <http://www.w3.org/2002/07/owl#unionOf> _:44141 .
-_:44141 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1> .
-_:44141 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44143 .
-_:44143 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2> .
-_:44143 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44144 .
-_:44144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3> .
-_:44144 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-_:44145 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44145 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
-_:44145 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44142 .
-_:44146 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44146 <http://www.w3.org/2002/07/owl#intersectionOf> _:44140 .
-_:44140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Author> .
-_:44140 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44147 .
-_:44147 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:44145 .
-_:44147 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<su14020860_makarova.owl#AuthorConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:44146 .
+_:46438 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46438 <http://www.w3.org/2002/07/owl#unionOf> _:46437 .
+_:46437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1> .
+_:46437 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46439 .
+_:46439 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2> .
+_:46439 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46440 .
+_:46440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3> .
+_:46440 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+_:46441 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46441 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#attacks> .
+_:46441 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46438 .
+_:46442 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46442 <http://www.w3.org/2002/07/owl#intersectionOf> _:46436 .
+_:46436 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Author> .
+_:46436 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46443 .
+_:46443 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:46441 .
+_:46443 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<su14020860_makarova.owl#AuthorConflictFree> <http://www.w3.org/2002/07/owl#equivalentClass> _:46442 .
 <su14020860_makarova.owl#Reviewer_1Admissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <su14020860_makarova.owl#Reviewer_1Admissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <su14020860_makarova.owl#Reviewer_1ConflictFree> .
-_:44149 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44149 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44149 <http://www.w3.org/2002/07/owl#someValuesFrom> <su14020860_makarova.owl#Reviewer_1ConflictFree> .
-_:44150 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44150 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44150 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44149 .
-_:44151 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44151 <http://www.w3.org/2002/07/owl#intersectionOf> _:44148 .
-_:44148 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1ConflictFree> .
-_:44148 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44152 .
-_:44152 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:44150 .
-_:44152 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<su14020860_makarova.owl#Reviewer_1Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:44151 .
+_:46445 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46445 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46445 <http://www.w3.org/2002/07/owl#someValuesFrom> <su14020860_makarova.owl#Reviewer_1ConflictFree> .
+_:46446 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46446 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46446 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46445 .
+_:46447 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46447 <http://www.w3.org/2002/07/owl#intersectionOf> _:46444 .
+_:46444 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_1ConflictFree> .
+_:46444 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46448 .
+_:46448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:46446 .
+_:46448 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<su14020860_makarova.owl#Reviewer_1Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:46447 .
 <su14020860_makarova.owl#Reviewer_2Admissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <su14020860_makarova.owl#Reviewer_2Admissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <su14020860_makarova.owl#Reviewer_2ConflictFree> .
-_:44154 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44154 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44154 <http://www.w3.org/2002/07/owl#someValuesFrom> <su14020860_makarova.owl#Reviewer_2ConflictFree> .
-_:44155 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44155 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44155 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44154 .
-_:44156 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44156 <http://www.w3.org/2002/07/owl#intersectionOf> _:44153 .
-_:44153 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2ConflictFree> .
-_:44153 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44157 .
-_:44157 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:44155 .
-_:44157 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<su14020860_makarova.owl#Reviewer_2Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:44156 .
+_:46450 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46450 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46450 <http://www.w3.org/2002/07/owl#someValuesFrom> <su14020860_makarova.owl#Reviewer_2ConflictFree> .
+_:46451 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46451 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46451 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46450 .
+_:46452 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46452 <http://www.w3.org/2002/07/owl#intersectionOf> _:46449 .
+_:46449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_2ConflictFree> .
+_:46449 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46453 .
+_:46453 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:46451 .
+_:46453 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<su14020860_makarova.owl#Reviewer_2Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:46452 .
 <su14020860_makarova.owl#Reviewer_3Admissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <su14020860_makarova.owl#Reviewer_3Admissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <su14020860_makarova.owl#Reviewer_3ConflictFree> .
-_:44159 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44159 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44159 <http://www.w3.org/2002/07/owl#someValuesFrom> <su14020860_makarova.owl#Reviewer_3ConflictFree> .
-_:44160 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44160 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44160 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44159 .
-_:44161 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44161 <http://www.w3.org/2002/07/owl#intersectionOf> _:44158 .
-_:44158 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3ConflictFree> .
-_:44158 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44162 .
-_:44162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:44160 .
-_:44162 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<su14020860_makarova.owl#Reviewer_3Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:44161 .
+_:46455 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46455 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46455 <http://www.w3.org/2002/07/owl#someValuesFrom> <su14020860_makarova.owl#Reviewer_3ConflictFree> .
+_:46456 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46456 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46456 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46455 .
+_:46457 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46457 <http://www.w3.org/2002/07/owl#intersectionOf> _:46454 .
+_:46454 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#Reviewer_3ConflictFree> .
+_:46454 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46458 .
+_:46458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:46456 .
+_:46458 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<su14020860_makarova.owl#Reviewer_3Admissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:46457 .
 <su14020860_makarova.owl#AuthorAdmissible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <su14020860_makarova.owl#AuthorAdmissible> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <su14020860_makarova.owl#AuthorConflictFree> .
-_:44164 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44164 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44164 <http://www.w3.org/2002/07/owl#someValuesFrom> <su14020860_makarova.owl#AuthorConflictFree> .
-_:44165 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
-_:44165 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
-_:44165 <http://www.w3.org/2002/07/owl#allValuesFrom> _:44164 .
-_:44166 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-_:44166 <http://www.w3.org/2002/07/owl#intersectionOf> _:44163 .
-_:44163 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#AuthorConflictFree> .
-_:44163 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:44167 .
-_:44167 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:44165 .
-_:44167 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
-<su14020860_makarova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:44166 .
+_:46460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46460 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46460 <http://www.w3.org/2002/07/owl#someValuesFrom> <su14020860_makarova.owl#AuthorConflictFree> .
+_:46461 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:46461 <http://www.w3.org/2002/07/owl#onProperty> <su14020860_makarova.owl#isAttackedBy> .
+_:46461 <http://www.w3.org/2002/07/owl#allValuesFrom> _:46460 .
+_:46462 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+_:46462 <http://www.w3.org/2002/07/owl#intersectionOf> _:46459 .
+_:46459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <su14020860_makarova.owl#AuthorConflictFree> .
+_:46459 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:46463 .
+_:46463 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:46461 .
+_:46463 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
+<su14020860_makarova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:46462 .
 <su14020860_makarova.owl#author10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <su14020860_makarova.owl#AuthorConflictFree> .
 <su14020860_makarova.owl#author3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <su14020860_makarova.owl#AuthorAdmissible> .
 <su14020860_makarova.owl#author5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <su14020860_makarova.owl#AuthorAdmissible> .
@@ -548,63 +550,63 @@ _:44167 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/199
 <su14020860_makarova.owl#reviewer_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <su14020860_makarova.owl#Reviewer_3ConflictFree> .
 <su14020860_makarova.owl#reviewer_32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <su14020860_makarova.owl#Reviewer_3ConflictFree> .
 <su14020860_makarova.owl#reviewer_36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <su14020860_makarova.owl#Reviewer_3Admissible> .
-<su14020860_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "Theoretical issues: although the agency theory and practical function of remuneration committees were described in the manuscript, few efforts were made to give the main theoretical mechanism/logic. Especially since “there does not appear to be any literature focused on examining the association between the constitution of remuneration committees and the reporting of CSR information”, the authors should provide the theoretical link to propose the hypotheses."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_11> <su14020860_makarova.owl#text> "Theoretical issues: although the agency theory and practical function of remuneration committees were described in the manuscript, few efforts were made to give the main theoretical mechanism/logic. Especially since “there does not appear to be any literature focused on examining the association between the constitution of remuneration committees and the reporting of CSR information”, the authors should provide the theoretical link to propose the hypotheses."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_11> <su14020860_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_11> <su14020860_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "Methodological issues: the dummy of CSR_index is too simple and cannot address the complexity of CSR strategy and CSR disclosure. And so is the independent variable. Many other important control variables should be introduced to the regression, such as, financial performance, the firm size, the firm age, the industry-fixed effects, the country-fixed effects. The results may not be robust without these controls."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_12> <su14020860_makarova.owl#text> "Methodological issues: the dummy of CSR_index is too simple and cannot address the complexity of CSR strategy and CSR disclosure. And so is the independent variable. Many other important control variables should be introduced to the regression, such as, financial performance, the firm size, the firm age, the industry-fixed effects, the country-fixed effects. The results may not be robust without these controls."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_12> <su14020860_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_12> <su14020860_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "Other issues: the figure 1 can be re-designed to conform the academic norms."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_13> <su14020860_makarova.owl#text> "Other issues: the figure 1 can be re-designed to conform the academic norms."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_13> <su14020860_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_13> <su14020860_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "The article is methodologically OK and well written. However, in general, we see many articles like this in the area of social and environmental reporting. Also, the application of agency theory is so common that reading it over and again in the new studies also makes the readers bored these days. Now it is important that the new researchers try to take the research on this area to a new and interesting level. However, I accept this article only for the moderating variable the authors have tested."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_21> <su14020860_makarova.owl#text> "The article is methodologically OK and well written. However, in general, we see many articles like this in the area of social and environmental reporting. Also, the application of agency theory is so common that reading it over and again in the new studies also makes the readers bored these days. Now it is important that the new researchers try to take the research on this area to a new and interesting level. However, I accept this article only for the moderating variable the authors have tested."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_21> <su14020860_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_21> <su14020860_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#reviewer_31> <http://www.w3.org/2000/01/rdf-schema#label> "The introduction lacks of motivation. The reader needs to understand why your research question is important."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_31> <su14020860_makarova.owl#text> "The introduction lacks of motivation. The reader needs to understand why your research question is important."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_31> <su14020860_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_31> <su14020860_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#reviewer_32> <http://www.w3.org/2000/01/rdf-schema#label> "The theoretical background is weak. I am not convinced on your explanation on why committees would affect CSR."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_32> <su14020860_makarova.owl#text> "The theoretical background is weak. I am not convinced on your explanation on why committees would affect CSR."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_32> <su14020860_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_32> <su14020860_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#reviewer_33> <http://www.w3.org/2000/01/rdf-schema#label> "Your empirical model needs to be reconsidered. Indeed, I believe you have some omitted control variables which may cause an endogeneity issue and drive your findings"^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_33> <su14020860_makarova.owl#text> "Your empirical model needs to be reconsidered. Indeed, I believe you have some omitted control variables which may cause an endogeneity issue and drive your findings"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_33> <su14020860_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_33> <su14020860_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#reviewer_34> <http://www.w3.org/2000/01/rdf-schema#label> "The paper lacks of robustness checks"^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_34> <su14020860_makarova.owl#text> "The paper lacks of robustness checks"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_34> <su14020860_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_34> <su14020860_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#reviewer_35> <http://www.w3.org/2000/01/rdf-schema#label> "The conclusion needs to be rewritten to highlight the practical contributions of the paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_35> <su14020860_makarova.owl#text> "The conclusion needs to be rewritten to highlight the practical contributions of the paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_35> <su14020860_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_35> <su14020860_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#reviewer_36> <http://www.w3.org/2000/01/rdf-schema#label> "Significant work has been done, congratulations !"^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#reviewer_36> <su14020860_makarova.owl#text> "Significant work has been done, congratulations !"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_36> <su14020860_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#reviewer_36> <su14020860_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you very much for your words. In our modest opinion, the originality of the paper is: (i) analyse of the association between remuneration committees and CSR disclosure; (ii) examine the moderating effect of independent board in the association between the remuneration committees and the disclosure of CSR information. We have not found previous research focused on these both topics. We have improved the section to clarify the need to extend this line of research. -Gallego‐Álvarez, I., & Pucheta‐Martínez, M. C. Corporate social responsibility reporting and corporate governance mechanisms: An international outlook from emerging countries. Business Strategy & Development 2020, 3(1), 77–97.\nPucheta-Martínez, M. C., & Gallego-Álvarez, I. (2021). The Role of CEO Power on CSR Reporting: The Moderating Effect of Linking CEO -Compensation to Shareholder Return. Sustainability, 13(6), 3197.\nMoreover, we include a Table 1 to justify the items used in the Corporate social responsibility disclosure.\nAdditionally, we have also introduced in the control variable paragraph more information to provide justifications on why those control variables are considered in this study. We had the firm size variable labelled as LTA which is calculated as logarithm of total assets. In this sense, we have used the control variables in line with previous research to avoid biased results. We have introduced the following references:\n-Ali, W., Frynas, J., & Mahmood, Z. (2017). Determinants of corporate social responsibility (CSR) disclosure in developed and developing countries: A literature review. Corporate Social Responsibility and Environmental Management,24, 273–294\n\n-Barako, D., & Brown, A. (2008). Corporate social reporting and board rep-resentation: Evidence from the Kenyan banking sector. Journal of Management and Governance,12, 309–324\n\n-Brammer, S., Millington, A., & Pavelin, S. (2007). Gender and ethnic diversity among UK corporate boards. Corporate Governance:  An International Review,15(2), 393–403\n\n-Chau, G., & Gray, S. (2010). Family ownership, board independence and voluntary disclosure: Evidence from Hong Kong. Journal of International Accounting, Auditing and Taxation,19(2), 93–109\n\n-Donnelly, R., & Mulcahy, M. (2008). Board structure, ownership, and voluntary disclosure in Ireland. Corporate Governance: An International Review,16(5), 416–429\n\n-Jizi, M., Salama, A., Dixon, R., & Stratling, R. (2014). Corporate governance and corporate social responsibility disclosure: Evidence from the US banking sector. Journal of Business Ethics,125(4), 601–615\n\n-Haniffa, R., & Cooke, T. (2005). The impact of culture and governance on corporate social reporting. Journal of Accounting and Public Policy,2 4(5), 391–430\n\n-Liao, L., Luo, L., & Tang, Q. (2015). Gender diversity, board independence, environmental committee, and greenhouse gas disclosure. The British Accounting   Review, 47, 409–424\n\n-Reverte, C. (2009). Determinants of corporate social responsibility disclosure ratings by Spanish listed firms. Journal of Business Ethics,8 8,351–366"^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author1> <su14020860_makarova.owl#text> "Thank you very much for your words. In our modest opinion, the originality of the paper is: (i) analyse of the association between remuneration committees and CSR disclosure; (ii) examine the moderating effect of independent board in the association between the remuneration committees and the disclosure of CSR information. We have not found previous research focused on these both topics. We have improved the section to clarify the need to extend this line of research. -Gallego‐Álvarez, I., & Pucheta‐Martínez, M. C. Corporate social responsibility reporting and corporate governance mechanisms: An international outlook from emerging countries. Business Strategy & Development 2020, 3(1), 77–97.\nPucheta-Martínez, M. C., & Gallego-Álvarez, I. (2021). The Role of CEO Power on CSR Reporting: The Moderating Effect of Linking CEO -Compensation to Shareholder Return. Sustainability, 13(6), 3197.\nMoreover, we include a Table 1 to justify the items used in the Corporate social responsibility disclosure.\nAdditionally, we have also introduced in the control variable paragraph more information to provide justifications on why those control variables are considered in this study. We had the firm size variable labelled as LTA which is calculated as logarithm of total assets. In this sense, we have used the control variables in line with previous research to avoid biased results. We have introduced the following references:\n-Ali, W., Frynas, J., & Mahmood, Z. (2017). Determinants of corporate social responsibility (CSR) disclosure in developed and developing countries: A literature review. Corporate Social Responsibility and Environmental Management,24, 273–294\n\n-Barako, D., & Brown, A. (2008). Corporate social reporting and board rep-resentation: Evidence from the Kenyan banking sector. Journal of Management and Governance,12, 309–324\n\n-Brammer, S., Millington, A., & Pavelin, S. (2007). Gender and ethnic diversity among UK corporate boards. Corporate Governance:  An International Review,15(2), 393–403\n\n-Chau, G., & Gray, S. (2010). Family ownership, board independence and voluntary disclosure: Evidence from Hong Kong. Journal of International Accounting, Auditing and Taxation,19(2), 93–109\n\n-Donnelly, R., & Mulcahy, M. (2008). Board structure, ownership, and voluntary disclosure in Ireland. Corporate Governance: An International Review,16(5), 416–429\n\n-Jizi, M., Salama, A., Dixon, R., & Stratling, R. (2014). Corporate governance and corporate social responsibility disclosure: Evidence from the US banking sector. Journal of Business Ethics,125(4), 601–615\n\n-Haniffa, R., & Cooke, T. (2005). The impact of culture and governance on corporate social reporting. Journal of Accounting and Public Policy,2 4(5), 391–430\n\n-Liao, L., Luo, L., & Tang, Q. (2015). Gender diversity, board independence, environmental committee, and greenhouse gas disclosure. The British Accounting   Review, 47, 409–424\n\n-Reverte, C. (2009). Determinants of corporate social responsibility disclosure ratings by Spanish listed firms. Journal of Business Ethics,8 8,351–366"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author1> <su14020860_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author1> <su14020860_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for your suggestion. From a theoretical point of view, we find various references that explain how CSR index is calculated as the ratio between the aggregation of 140 items focused on environmental, social and economic issues and the total number of items analyzed, which codes as 1 if the firm disclose the CSR information related each item, and 0."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author2> <su14020860_makarova.owl#text> "Thank you for your suggestion. From a theoretical point of view, we find various references that explain how CSR index is calculated as the ratio between the aggregation of 140 items focused on environmental, social and economic issues and the total number of items analyzed, which codes as 1 if the firm disclose the CSR information related each item, and 0."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author2> <su14020860_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author2> <su14020860_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your suggestion. I have improved the figure in line with academic norms."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author3> <su14020860_makarova.owl#text> "Thanks for your suggestion. I have improved the figure in line with academic norms."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author3> <su14020860_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author3> <su14020860_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you very much for your words. In our modest opinion, the originality of the paper is the analysis of the moderating role played by the proportion of independent directors on boards of directors with the relationship between the constitution of remuneration committees and CSR disclosure. \n\n-We have not found previous research focused on this topic using independent directors as moderator variable. We have improved the introduction by adding a paragraph that better motivates the work. Furthermore, we have included these other references to improve the introduction of the work:\n-Code, U. G. G. (2006). Unified Good Governance Code of Listed Companies. Comisión Nacional del Mercado de Valores. Spain.\n-Conyon, M. J., & Peck, S. I. (1998). Board control, remuneration committees, and top management compensation. Academy of management journal, 41(2), 146-157.\n-Good Governance Code of Listed Companies (2020). Comisión Nacional del Mercado de Valores. Spain.\n-Fama, E.F., & Jensen, M.C. (1983). Separation of ownership and control. Journal of Law and Economics, 24, 301–325.\n-Harrison, J. R. (1987). The strategic use of corporate board committees. California Management Review, 30(1), 109-125.\n\n-Khan, A., Muttakin, M. B., & Siddiqui, J. (2013). Corporate governance and corporate social responsibility disclosures: Evidence from an emerging economy. Journal of business ethics, 114(2), 207-223. -Tao, N. B., & Hutchinson, M. (2013). Corporate governance and risk management: The role of risk management and compensation committees. Journal of Contemporary Accounting and Economics, 9(1), 83-99.\n-Williamson, O. E. (1983). Credible commitments: Using hostages to support exchange. The American Economic Review, 73(4), 519–540.\n-Zaid, M. A., Abuhijleh, S. T., & Pucheta‐Martínez, M. C. (2020). Ownership structure, stakeholder engagement, and corporate social responsibility policies: The moderating effect of board independence. Corporate Social Responsibility and Environmental Management, 27(3), 1344-1360.\n\n\n-We have justified the need to extend the literature focused on the compensation committees and the disclosure of CSR information due to the scarce existence of previous literature in recent years."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author4> <su14020860_makarova.owl#text> "Thank you very much for your words. In our modest opinion, the originality of the paper is the analysis of the moderating role played by the proportion of independent directors on boards of directors with the relationship between the constitution of remuneration committees and CSR disclosure. \n\n-We have not found previous research focused on this topic using independent directors as moderator variable. We have improved the introduction by adding a paragraph that better motivates the work. Furthermore, we have included these other references to improve the introduction of the work:\n-Code, U. G. G. (2006). Unified Good Governance Code of Listed Companies. Comisión Nacional del Mercado de Valores. Spain.\n-Conyon, M. J., & Peck, S. I. (1998). Board control, remuneration committees, and top management compensation. Academy of management journal, 41(2), 146-157.\n-Good Governance Code of Listed Companies (2020). Comisión Nacional del Mercado de Valores. Spain.\n-Fama, E.F., & Jensen, M.C. (1983). Separation of ownership and control. Journal of Law and Economics, 24, 301–325.\n-Harrison, J. R. (1987). The strategic use of corporate board committees. California Management Review, 30(1), 109-125.\n\n-Khan, A., Muttakin, M. B., & Siddiqui, J. (2013). Corporate governance and corporate social responsibility disclosures: Evidence from an emerging economy. Journal of business ethics, 114(2), 207-223. -Tao, N. B., & Hutchinson, M. (2013). Corporate governance and risk management: The role of risk management and compensation committees. Journal of Contemporary Accounting and Economics, 9(1), 83-99.\n-Williamson, O. E. (1983). Credible commitments: Using hostages to support exchange. The American Economic Review, 73(4), 519–540.\n-Zaid, M. A., Abuhijleh, S. T., & Pucheta‐Martínez, M. C. (2020). Ownership structure, stakeholder engagement, and corporate social responsibility policies: The moderating effect of board independence. Corporate Social Responsibility and Environmental Management, 27(3), 1344-1360.\n\n\n-We have justified the need to extend the literature focused on the compensation committees and the disclosure of CSR information due to the scarce existence of previous literature in recent years."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author4> <su14020860_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author4> <su14020860_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you very much for this suggestion since, indeed, the introduction was presented with scant motivation. We have corrected this issue and we have included a new paragraph based on remuneration committee and which explains the importance of including this committee for companies. Furthermore, we have included these other references to improve the introduction of the work:\n-Code, U. G. G. (2006). Unified Good Governance Code of Listed Companies. Comisión Nacional del Mercado de Valores. Spain.\n-Conyon, M. J., & Peck, S. I. (1998). Board control, remuneration committees, and top management compensation. Academy of management journal, 41(2), 146-157.\n-Good Governance Code of Listed Companies (2020). Comisión Nacional del Mercado de Valores. Spain.\n-Fama, E.F., & Jensen, M.C. (1983). Separation of ownership and control. Journal of Law and Economics, 24, 301–325.\n-Harrison, J. R. (1987). The strategic use of corporate board committees. California Management Review, 30(1), 109-125.\n-Khan, A., Muttakin, M. B., & Siddiqui, J. (2013). Corporate governance and corporate social responsibility disclosures: Evidence from an emerging economy. Journal of business ethics, 114(2), 207-223.\n-Tao, N. B., & Hutchinson, M. (2013). Corporate governance and risk management: The role of risk management and compensation committees. Journal of Contemporary Accounting and Economics, 9(1), 83-99.\n-Williamson, O. E. (1983). Credible commitments: Using hostages to support exchange. The American Economic Review, 73(4), 519–540.\nZaid, M. A., Abuhijleh, S. T., & Pucheta‐Martínez, M. C. (2020). Ownership structure, stakeholder engagement, and corporate social responsibility policies: The moderating effect of board independence. Corporate Social Responsibility and Environmental Management, 27(3), -1344-1360.\n-We have justified the need to extend the literature focused on the compensation committees and the disclsoure of CSR information due to the scarce existence of previous literature in recent years."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author5> <su14020860_makarova.owl#text> "Thank you very much for this suggestion since, indeed, the introduction was presented with scant motivation. We have corrected this issue and we have included a new paragraph based on remuneration committee and which explains the importance of including this committee for companies. Furthermore, we have included these other references to improve the introduction of the work:\n-Code, U. G. G. (2006). Unified Good Governance Code of Listed Companies. Comisión Nacional del Mercado de Valores. Spain.\n-Conyon, M. J., & Peck, S. I. (1998). Board control, remuneration committees, and top management compensation. Academy of management journal, 41(2), 146-157.\n-Good Governance Code of Listed Companies (2020). Comisión Nacional del Mercado de Valores. Spain.\n-Fama, E.F., & Jensen, M.C. (1983). Separation of ownership and control. Journal of Law and Economics, 24, 301–325.\n-Harrison, J. R. (1987). The strategic use of corporate board committees. California Management Review, 30(1), 109-125.\n-Khan, A., Muttakin, M. B., & Siddiqui, J. (2013). Corporate governance and corporate social responsibility disclosures: Evidence from an emerging economy. Journal of business ethics, 114(2), 207-223.\n-Tao, N. B., & Hutchinson, M. (2013). Corporate governance and risk management: The role of risk management and compensation committees. Journal of Contemporary Accounting and Economics, 9(1), 83-99.\n-Williamson, O. E. (1983). Credible commitments: Using hostages to support exchange. The American Economic Review, 73(4), 519–540.\nZaid, M. A., Abuhijleh, S. T., & Pucheta‐Martínez, M. C. (2020). Ownership structure, stakeholder engagement, and corporate social responsibility policies: The moderating effect of board independence. Corporate Social Responsibility and Environmental Management, 27(3), -1344-1360.\n-We have justified the need to extend the literature focused on the compensation committees and the disclsoure of CSR information due to the scarce existence of previous literature in recent years."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author5> <su14020860_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author5> <su14020860_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "We have improved the theoretical background.\n\nIn our modest opinion, the originality of the paper is: (i) analyse of the association between remuneration committees and CSR disclosure; (ii) examine the moderating effect of independent board in the association between the remuneration committees and the disclosure of CSR information. We have not found previous research focused on these both topics. We have improved the section to clarify the need to extend this line of research and have included the following references:\n\n-Abeysekera, I. (2012). Role of remuneration committee in narrative human capital disclosure. Accounting & Finance, 52, 1-23.\n-Alotaibi, K. O., & Hussainey, K. (2016). Determinants of CSR disclosure quantity and quality: Evidence from non-financial listed firms in Saudi Arabia. International Journal of Disclosure and Governance, 13(4), 364-393.\n-Chhaochharia, V. & Grinstein, Y. (2009). CEO compensation and board structure. The Journal of Finance, 61,(1), 231-261.\n-Kanapathippillai, S., Mihret, D., & Johl, S. (2019). Remuneration committees and attribution disclosures on remuneration decisions: Australian evidence. Journal of business ethics, 158(4), 1063–1082\n-Suttipun, M. (2021). The influence of board composition on environmental, social and governance (ESG) disclosure of Thai listed companies. International Journal of Disclosure and Governance, 1-12."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author6> <su14020860_makarova.owl#text> "We have improved the theoretical background.\n\nIn our modest opinion, the originality of the paper is: (i) analyse of the association between remuneration committees and CSR disclosure; (ii) examine the moderating effect of independent board in the association between the remuneration committees and the disclosure of CSR information. We have not found previous research focused on these both topics. We have improved the section to clarify the need to extend this line of research and have included the following references:\n\n-Abeysekera, I. (2012). Role of remuneration committee in narrative human capital disclosure. Accounting & Finance, 52, 1-23.\n-Alotaibi, K. O., & Hussainey, K. (2016). Determinants of CSR disclosure quantity and quality: Evidence from non-financial listed firms in Saudi Arabia. International Journal of Disclosure and Governance, 13(4), 364-393.\n-Chhaochharia, V. & Grinstein, Y. (2009). CEO compensation and board structure. The Journal of Finance, 61,(1), 231-261.\n-Kanapathippillai, S., Mihret, D., & Johl, S. (2019). Remuneration committees and attribution disclosures on remuneration decisions: Australian evidence. Journal of business ethics, 158(4), 1063–1082\n-Suttipun, M. (2021). The influence of board composition on environmental, social and governance (ESG) disclosure of Thai listed companies. International Journal of Disclosure and Governance, 1-12."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author6> <su14020860_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author6> <su14020860_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for your suggestion, we have included in the control variable paragraph more information to provide justifications on why those control variables are considered in this study. In this sense, we have used the control variables in line with previous research to avoid biased results. We have introduced the following references:\n-Ali, W., Frynas, J., & Mahmood, Z. (2017). Determinants of corporate social responsibility (CSR) disclosure in developed and developing countries: A literature review. Corporate Social Responsibility and Environmental Management,24, 273–294\n\n-Barako, D., & Brown, A. (2008). Corporate social reporting and board rep-resentation: Evidence from the Kenyan banking sector. Journal of Management and Governance,12, 309–324\n\n-Brammer, S., Millington, A., & Pavelin, S. (2007). Gender and ethnic diversity among UK corporate boards. Corporate Governance:  An International Review,15(2), 393–403\n\n-Chau, G., & Gray, S. (2010). Family ownership, board independence and voluntary disclosure: Evidence from Hong Kong. Journal of International Accounting, Auditing and Taxation,19(2), 93–109\n\n-Donnelly, R., & Mulcahy, M. (2008). Board structure, ownership, and voluntary disclosure in Ireland. Corporate Governance: An International Review,16(5), 416–429\n\n-Jizi, M., Salama, A., Dixon, R., & Stratling, R. (2014). Corporate governance and corporate social responsibility disclosure: Evidence from the US banking sector. Journal of Business Ethics,125(4), 601–615\n\n-Haniffa, R., & Cooke, T. (2005). The impact of culture and governance on corporate social reporting. Journal of Accounting and Public Policy,2 4(5), 391–430\n\n-Liao, L., Luo, L., & Tang, Q. (2015). Gender diversity, board independence, environmental committee, and greenhouse gas disclosure. The British Accounting   Review, 47, 409–424\n\n-Reverte, C. (2009). Determinants of corporate social responsibility disclosure ratings by Spanish listed firms. Journal of Business Ethics,8 8,351–366"^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author7> <su14020860_makarova.owl#text> "Thank you for your suggestion, we have included in the control variable paragraph more information to provide justifications on why those control variables are considered in this study. In this sense, we have used the control variables in line with previous research to avoid biased results. We have introduced the following references:\n-Ali, W., Frynas, J., & Mahmood, Z. (2017). Determinants of corporate social responsibility (CSR) disclosure in developed and developing countries: A literature review. Corporate Social Responsibility and Environmental Management,24, 273–294\n\n-Barako, D., & Brown, A. (2008). Corporate social reporting and board rep-resentation: Evidence from the Kenyan banking sector. Journal of Management and Governance,12, 309–324\n\n-Brammer, S., Millington, A., & Pavelin, S. (2007). Gender and ethnic diversity among UK corporate boards. Corporate Governance:  An International Review,15(2), 393–403\n\n-Chau, G., & Gray, S. (2010). Family ownership, board independence and voluntary disclosure: Evidence from Hong Kong. Journal of International Accounting, Auditing and Taxation,19(2), 93–109\n\n-Donnelly, R., & Mulcahy, M. (2008). Board structure, ownership, and voluntary disclosure in Ireland. Corporate Governance: An International Review,16(5), 416–429\n\n-Jizi, M., Salama, A., Dixon, R., & Stratling, R. (2014). Corporate governance and corporate social responsibility disclosure: Evidence from the US banking sector. Journal of Business Ethics,125(4), 601–615\n\n-Haniffa, R., & Cooke, T. (2005). The impact of culture and governance on corporate social reporting. Journal of Accounting and Public Policy,2 4(5), 391–430\n\n-Liao, L., Luo, L., & Tang, Q. (2015). Gender diversity, board independence, environmental committee, and greenhouse gas disclosure. The British Accounting   Review, 47, 409–424\n\n-Reverte, C. (2009). Determinants of corporate social responsibility disclosure ratings by Spanish listed firms. Journal of Business Ethics,8 8,351–366"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author7> <su14020860_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author7> <su14020860_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for this suggestion. In our modest opinion, this paper presents the exhaustive revision and calculation."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author8> <su14020860_makarova.owl#text> "Thank you for this suggestion. In our modest opinion, this paper presents the exhaustive revision and calculation."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author8> <su14020860_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author8> <su14020860_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you. In the implications paragraph located in the conclusions section, we have added a short text to assess the practical implications."^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author9> <su14020860_makarova.owl#text> "Thank you. In the implications paragraph located in the conclusions section, we have added a short text to assess the practical implications."^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author9> <su14020860_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author9> <su14020860_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<su14020860_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<su14020860_makarova.owl#author10> <su14020860_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author10> <su14020860_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <su14020860_makarova.owl#author10> <su14020860_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -5,6 +5,8 @@
 <agriculture12060868_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <agriculture12060868_makarova.owl#isAttackedBy> .
 <agriculture12060868_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <agriculture12060868_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<agriculture12060868_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<agriculture12060868_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <agriculture12060868_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <agriculture12060868_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <agriculture12060868_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -1050,138 +1052,138 @@ _:3531 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999
 <agriculture12060868_makarova.owl#reviewer_33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <agriculture12060868_makarova.owl#Reviewer_3ConflictFree> .
 <agriculture12060868_makarova.owl#reviewer_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <agriculture12060868_makarova.owl#Reviewer_3ConflictFree> .
 <agriculture12060868_makarova.owl#reviewer_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <agriculture12060868_makarova.owl#Reviewer_3ConflictFree> .
-<agriculture12060868_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "In the introduction, (Line 76   79), you present the objectives, but those are not clear, I respectfully suggest focusing on your hypothesis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_11> <agriculture12060868_makarova.owl#text> "In the introduction, (Line 76   79), you present the objectives, but those are not clear, I respectfully suggest focusing on your hypothesis"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_11> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_11> <agriculture12060868_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "Line 78: You wrote, “designed to meet the basic behavioral needs of the sow at farrowing”, but this is not tested on the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_12> <agriculture12060868_makarova.owl#text> "Line 78: You wrote, “designed to meet the basic behavioral needs of the sow at farrowing”, but this is not tested on the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_12> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_12> <agriculture12060868_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "Lines 80 – 83 moves to discussion section."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_13> <agriculture12060868_makarova.owl#text> "Lines 80 – 83 moves to discussion section."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_13> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_13> <agriculture12060868_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1 is missing."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_14> <agriculture12060868_makarova.owl#text> "Figure 1 is missing."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_14> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_14> <agriculture12060868_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 2 needs more description, maybe include which wall… Please describe units of the dimensions."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_15> <agriculture12060868_makarova.owl#text> "Figure 2 needs more description, maybe include which wall… Please describe units of the dimensions."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_15> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_15> <agriculture12060868_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 4. Please indicate which is “sowconf” and which is “trad”. In the left graph the units are in m2, but in right side it does not have unit, seems ar?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_16> <agriculture12060868_makarova.owl#text> "Figure 4. Please indicate which is “sowconf” and which is “trad”. In the left graph the units are in m2, but in right side it does not have unit, seems ar?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_16> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_16> <agriculture12060868_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> "Line 206:  I don’t understand why you use just 10 o 12 sows, 50% primi and multiparous, but in line 225 mentioned that “there were no secure information about sow parity” please be consistent."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_17> <agriculture12060868_makarova.owl#text> "Line 206:  I don’t understand why you use just 10 o 12 sows, 50% primi and multiparous, but in line 225 mentioned that “there were no secure information about sow parity” please be consistent."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_17> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_17> <agriculture12060868_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "Please include P values when report significant differences."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_18> <agriculture12060868_makarova.owl#text> "Please include P values when report significant differences."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_18> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_18> <agriculture12060868_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1 does not appear in the pdf that this reviewer could download. Only the Figure Caption appears."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_21> <agriculture12060868_makarova.owl#text> "Figure 1 does not appear in the pdf that this reviewer could download. Only the Figure Caption appears."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_21> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_21> <agriculture12060868_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "It is not totally clear to the reviewer how stillborn piglets were evaluated as compared to “piglets with no milk in stomach”."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_22> <agriculture12060868_makarova.owl#text> "It is not totally clear to the reviewer how stillborn piglets were evaluated as compared to “piglets with no milk in stomach”."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_22> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_22> <agriculture12060868_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "Line 224-225, it states that that no information/security on the productivity data on whether it was primiparous or multiparous sow. Again this creates a bit of confusion. Sows were recorded, 50% primiparous and 50% multiparous to evaluate behaviour, and results are discussed accorging to that (lines 320-321). Why productivity data was not available?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_23> <agriculture12060868_makarova.owl#text> "Line 224-225, it states that that no information/security on the productivity data on whether it was primiparous or multiparous sow. Again this creates a bit of confusion. Sows were recorded, 50% primiparous and 50% multiparous to evaluate behaviour, and results are discussed accorging to that (lines 320-321). Why productivity data was not available?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_23> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_23> <agriculture12060868_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 5 and 7 display the overall causes of mortality for the three batches. However, differences in batches were found. Could this overall causes be biased by this batch effect?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_24> <agriculture12060868_makarova.owl#text> "Figure 5 and 7 display the overall causes of mortality for the three batches. However, differences in batches were found. Could this overall causes be biased by this batch effect?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_24> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_24> <agriculture12060868_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_31> <http://www.w3.org/2000/01/rdf-schema#label> "Please add the important information to the footnote or figure legend of the tables and figures. Such as: abbreviations, replicates n=?, mean±SD/SE, ect."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_31> <agriculture12060868_makarova.owl#text> "Please add the important information to the footnote or figure legend of the tables and figures. Such as: abbreviations, replicates n=?, mean±SD/SE, ect."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_31> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_31> <agriculture12060868_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_32> <http://www.w3.org/2000/01/rdf-schema#label> "Please italic the P value throughout the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_32> <agriculture12060868_makarova.owl#text> "Please italic the P value throughout the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_32> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_32> <agriculture12060868_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_33> <http://www.w3.org/2000/01/rdf-schema#label> "Lines 129-133, where is the figure 1?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_33> <agriculture12060868_makarova.owl#text> "Lines 129-133, where is the figure 1?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_33> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_33> <agriculture12060868_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_34> <http://www.w3.org/2000/01/rdf-schema#label> "Line 263, please add “(3 batches with TRAD and 2 batches with SOWCOMF)” to the figure legends."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_34> <agriculture12060868_makarova.owl#text> "Line 263, please add “(3 batches with TRAD and 2 batches with SOWCOMF)” to the figure legends."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_34> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_34> <agriculture12060868_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_35> <http://www.w3.org/2000/01/rdf-schema#label> "Line 275-276, Space needed before and after “±”."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_35> <agriculture12060868_makarova.owl#text> "Line 275-276, Space needed before and after “±”."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_35> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_35> <agriculture12060868_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_36> <http://www.w3.org/2000/01/rdf-schema#label> "The quality of the Figrue 6 need to be improved."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_36> <agriculture12060868_makarova.owl#text> "The quality of the Figrue 6 need to be improved."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_36> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_36> <agriculture12060868_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_37> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 7, using “*” to substitute the different letters to express the difference."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_37> <agriculture12060868_makarova.owl#text> "Figure 7, using “*” to substitute the different letters to express the difference."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_37> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_37> <agriculture12060868_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_38> <http://www.w3.org/2000/01/rdf-schema#label> "Table 4, please using the writing way to present the table."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_38> <agriculture12060868_makarova.owl#text> "Table 4, please using the writing way to present the table."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_38> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_38> <agriculture12060868_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_39> <http://www.w3.org/2000/01/rdf-schema#label> "Figure8, do not understand the meaning of “***” here?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_39> <agriculture12060868_makarova.owl#text> "Figure8, do not understand the meaning of “***” here?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_39> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_39> <agriculture12060868_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#reviewer_310> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 7, please improve the perspective of the figure."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#reviewer_310> <agriculture12060868_makarova.owl#text> "Figure 7, please improve the perspective of the figure."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_310> <agriculture12060868_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#reviewer_310> <agriculture12060868_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "line 76 and 79: Sentence about two farms with financial support is deleted from the aim."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author1> <agriculture12060868_makarova.owl#text> "line 76 and 79: Sentence about two farms with financial support is deleted from the aim."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author1> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author1> <agriculture12060868_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "Line 78: \"designed to meet behavioural needs....\" is deleted. Overall, the objective now is focused on the hypotheses."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author2> <agriculture12060868_makarova.owl#text> "Line 78: \"designed to meet behavioural needs....\" is deleted. Overall, the objective now is focused on the hypotheses."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author2> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author2> <agriculture12060868_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> " l 80-83 is now deleted from the objectives."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author3> <agriculture12060868_makarova.owl#text> " l 80-83 is now deleted from the objectives."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author3> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author3> <agriculture12060868_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1 must was lost from the last document, and we are so sorry for this. The figure is now included in the new document."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author4> <agriculture12060868_makarova.owl#text> "Figure 1 must was lost from the last document, and we are so sorry for this. The figure is now included in the new document."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author4> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author4> <agriculture12060868_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "More explanation is included in the figure text of figure 2."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author5> <agriculture12060868_makarova.owl#text> "More explanation is included in the figure text of figure 2."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author5> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author5> <agriculture12060868_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "Corrections are made in the text of figure 4."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author6> <agriculture12060868_makarova.owl#text> "Corrections are made in the text of figure 4."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author6> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author6> <agriculture12060868_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "l 206, l225 Info is changed according to the reviewers request."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author7> <agriculture12060868_makarova.owl#text> "l 206, l225 Info is changed according to the reviewers request."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author7> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author7> <agriculture12060868_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "Insted of inserting P-values in the text when reporting significant differences for the ones that are in tables, we have included more references to the stat-tables."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author8> <agriculture12060868_makarova.owl#text> "Insted of inserting P-values in the text when reporting significant differences for the ones that are in tables, we have included more references to the stat-tables."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author8> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author8> <agriculture12060868_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "This is now included."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author9> <agriculture12060868_makarova.owl#text> "This is now included."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author9> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author9> <agriculture12060868_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "Stillborn piglets vs piglets with no milk: more details are included about this in the description of the M/M"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author10> <agriculture12060868_makarova.owl#text> "Stillborn piglets vs piglets with no milk: more details are included about this in the description of the M/M"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author10> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author10> <agriculture12060868_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "224-225: confusion about parity is corrected."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author11> <agriculture12060868_makarova.owl#text> "224-225: confusion about parity is corrected."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author11> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author11> <agriculture12060868_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 5 and 7. There is always effects of batches in these types of studies. This is also why we prefer to have several batches, but  the main effect should not be biased by the batch effect in the present study, as the main finding are quite clear even in our small data set. "^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author12> <agriculture12060868_makarova.owl#text> "Figure 5 and 7. There is always effects of batches in these types of studies. This is also why we prefer to have several batches, but  the main effect should not be biased by the batch effect in the present study, as the main finding are quite clear even in our small data set. "^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author12> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author12> <agriculture12060868_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "mean + se is given in all tables and figures, Replicates are now included and abbreviations explained."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author13> <agriculture12060868_makarova.owl#text> "mean + se is given in all tables and figures, Replicates are now included and abbreviations explained."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author13> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author13> <agriculture12060868_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "Italic for P-values in the text. Done!"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author14> <agriculture12060868_makarova.owl#text> "Italic for P-values in the text. Done!"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author14> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author14> <agriculture12060868_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1 was no included by an error in the last MS. It is now inserted again."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author15> <agriculture12060868_makarova.owl#text> "Figure 1 was no included by an error in the last MS. It is now inserted again."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author15> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author15> <agriculture12060868_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "Batches and number of litters are added to the figure legends."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author16> <agriculture12060868_makarova.owl#text> "Batches and number of litters are added to the figure legends."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author16> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author16> <agriculture12060868_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "Space before and after sign is added."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author17> <agriculture12060868_makarova.owl#text> "Space before and after sign is added."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author17> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author17> <agriculture12060868_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author18> <http://www.w3.org/2000/01/rdf-schema#label> "A new and improved version of figure 6 is now included."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author18> <agriculture12060868_makarova.owl#text> "A new and improved version of figure 6 is now included."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author18> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author18> <agriculture12060868_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author19> <http://www.w3.org/2000/01/rdf-schema#label> "We have inserted * to denote differences instead of letters."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author19> <agriculture12060868_makarova.owl#text> "We have inserted * to denote differences instead of letters."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author19> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author19> <agriculture12060868_makarova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author20> <http://www.w3.org/2000/01/rdf-schema#label> "Table 4 is inserted again in the writing form."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author20> <agriculture12060868_makarova.owl#text> "Table 4 is inserted again in the writing form."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author20> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author20> <agriculture12060868_makarova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author21> <http://www.w3.org/2000/01/rdf-schema#label> "The meaning of ***: this is explained."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author21> <agriculture12060868_makarova.owl#text> "The meaning of ***: this is explained."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author21> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author21> <agriculture12060868_makarova.owl#number> "21"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author22> <http://www.w3.org/2000/01/rdf-schema#label> "Quality of figure 7 is improved."^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author22> <agriculture12060868_makarova.owl#text> "Quality of figure 7 is improved."^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author22> <agriculture12060868_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author22> <agriculture12060868_makarova.owl#number> "22"^^<http://www.w3.org/2001/XMLSchema#string> .
-<agriculture12060868_makarova.owl#author23> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<agriculture12060868_makarova.owl#author23> <agriculture12060868_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author23> <agriculture12060868_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <agriculture12060868_makarova.owl#author23> <agriculture12060868_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

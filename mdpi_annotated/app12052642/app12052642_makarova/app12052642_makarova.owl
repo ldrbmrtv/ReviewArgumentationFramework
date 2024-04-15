@@ -5,6 +5,8 @@
 <app12052642_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <app12052642_makarova.owl#isAttackedBy> .
 <app12052642_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <app12052642_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<app12052642_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<app12052642_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <app12052642_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <app12052642_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <app12052642_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -1168,162 +1170,162 @@ _:6912 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:6916 .
 _:6916 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:6914 .
 _:6916 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
 <app12052642_makarova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:6915 .
-<app12052642_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "Transient analysis followed by reliability experiments/analysis/modeling of the proposed structure would be interesting and critical in aspect of joint application contrains. In my opoinion is should be added or explained in context of scheduled follow-up activities."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_11> <app12052642_makarova.owl#text> "Transient analysis followed by reliability experiments/analysis/modeling of the proposed structure would be interesting and critical in aspect of joint application contrains. In my opoinion is should be added or explained in context of scheduled follow-up activities."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_11> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_11> <app12052642_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for your explanation."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_12> <app12052642_makarova.owl#text> "Thank you for your explanation."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_12> <app12052642_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_12> <app12052642_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "The article being evaluated is an extension of the above cited reference, and the authors would be well advised as to summarize this article, in part, and to delineate what has changed as of 2019, i.e. put this in a paragraph and to explain the subsequent evolution since 2019."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_21> <app12052642_makarova.owl#text> "The article being evaluated is an extension of the above cited reference, and the authors would be well advised as to summarize this article, in part, and to delineate what has changed as of 2019, i.e. put this in a paragraph and to explain the subsequent evolution since 2019."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_21> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_21> <app12052642_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "Secondly what is missing in the article is in terms of application a clear delineation as to what benefits robotics accrue by the developments summarized in this article ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_22> <app12052642_makarova.owl#text> "Secondly what is missing in the article is in terms of application a clear delineation as to what benefits robotics accrue by the developments summarized in this article ."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_22> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_22> <app12052642_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_31> <http://www.w3.org/2000/01/rdf-schema#label> "Abstract (what you are going to do) & conclusions (what you have done) are not sharp, rewrite it."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_31> <app12052642_makarova.owl#text> "Abstract (what you are going to do) & conclusions (what you have done) are not sharp, rewrite it."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_31> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_31> <app12052642_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_32> <http://www.w3.org/2000/01/rdf-schema#label> "A part of the abstract looks like it has been copied from standard papers."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_32> <app12052642_makarova.owl#text> "A part of the abstract looks like it has been copied from standard papers."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_32> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_32> <app12052642_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_33> <http://www.w3.org/2000/01/rdf-schema#label> "Keywords are not sufficient after the abstract."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_33> <app12052642_makarova.owl#text> "Keywords are not sufficient after the abstract."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_33> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_33> <app12052642_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_34> <http://www.w3.org/2000/01/rdf-schema#label> "I think, the similar work has been done by many people, which has to be referenced, i.e., the base paper from where the work has started has to be written (The base paper is not mentioned or cited)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_34> <app12052642_makarova.owl#text> "I think, the similar work has been done by many people, which has to be referenced, i.e., the base paper from where the work has started has to be written (The base paper is not mentioned or cited)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_34> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_34> <app12052642_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_35> <http://www.w3.org/2000/01/rdf-schema#label> "Work done by various authors has not been cited properly in the manuscript. "^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_35> <app12052642_makarova.owl#text> "Work done by various authors has not been cited properly in the manuscript. "^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_35> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_35> <app12052642_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_36> <http://www.w3.org/2000/01/rdf-schema#label> "Recent references are to be added as well as it has to be cited, majority of them are old references."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_36> <app12052642_makarova.owl#text> "Recent references are to be added as well as it has to be cited, majority of them are old references."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_36> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_36> <app12052642_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_37> <http://www.w3.org/2000/01/rdf-schema#label> "References are not written in the standard journal format."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_37> <app12052642_makarova.owl#text> "References are not written in the standard journal format."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_37> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_37> <app12052642_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_38> <http://www.w3.org/2000/01/rdf-schema#label> "The recent work done by the author of the paper in the relevant field also has to be mentioned in the references."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_38> <app12052642_makarova.owl#text> "The recent work done by the author of the paper in the relevant field also has to be mentioned in the references."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_38> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_38> <app12052642_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_39> <http://www.w3.org/2000/01/rdf-schema#label> "Similarity index is there with many of the papers already published, hence, use of plagiarism software is recommended to test for the originality before submitting the final manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_39> <app12052642_makarova.owl#text> "Similarity index is there with many of the papers already published, hence, use of plagiarism software is recommended to test for the originality before submitting the final manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_39> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_39> <app12052642_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_310> <http://www.w3.org/2000/01/rdf-schema#label> "Many of the paragraphs seems to be copied from standard papers (to be changed in your own words in simple English)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_310> <app12052642_makarova.owl#text> "Many of the paragraphs seems to be copied from standard papers (to be changed in your own words in simple English)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_310> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_310> <app12052642_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_311> <http://www.w3.org/2000/01/rdf-schema#label> "Work relevant to the research topic is not incorporated, i.e., the work done by other researchers / authors in this field are not incorporated."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_311> <app12052642_makarova.owl#text> "Work relevant to the research topic is not incorporated, i.e., the work done by other researchers / authors in this field are not incorporated."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_311> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_311> <app12052642_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_312> <http://www.w3.org/2000/01/rdf-schema#label> "The disadvantages, drawbacks of the works in the other author’s papers in the relevant field are not put."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_312> <app12052642_makarova.owl#text> "The disadvantages, drawbacks of the works in the other author’s papers in the relevant field are not put."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_312> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_312> <app12052642_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_313> <http://www.w3.org/2000/01/rdf-schema#label> "The future work in this field is not mentioned."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_313> <app12052642_makarova.owl#text> "The future work in this field is not mentioned."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_313> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_313> <app12052642_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_314> <http://www.w3.org/2000/01/rdf-schema#label> "Literature survey is inadequate; incorporate the recent works of the authors."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_314> <app12052642_makarova.owl#text> "Literature survey is inadequate; incorporate the recent works of the authors."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_314> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_314> <app12052642_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_315> <http://www.w3.org/2000/01/rdf-schema#label> "There is lot of spelling mistakes & grammatical errors, which has to be corrected using spell check & by other means."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_315> <app12052642_makarova.owl#text> "There is lot of spelling mistakes & grammatical errors, which has to be corrected using spell check & by other means."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_315> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_315> <app12052642_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_316> <http://www.w3.org/2000/01/rdf-schema#label> "Paragraphs are lengthy & have to be cut into smaller sizes."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_316> <app12052642_makarova.owl#text> "Paragraphs are lengthy & have to be cut into smaller sizes."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_316> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_316> <app12052642_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_317> <http://www.w3.org/2000/01/rdf-schema#label> "Flow chart or the algorithm of the proposed work should be incorporated."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_317> <app12052642_makarova.owl#text> "Flow chart or the algorithm of the proposed work should be incorporated."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_317> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_317> <app12052642_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_318> <http://www.w3.org/2000/01/rdf-schema#label> "Figures have to be in .jpeg (insert mode)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_318> <app12052642_makarova.owl#text> "Figures have to be in .jpeg (insert mode)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_318> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_318> <app12052642_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_319> <http://www.w3.org/2000/01/rdf-schema#label> "Paper is not in the relevant conference / journal format; redo it according to the format specified by the committee."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_319> <app12052642_makarova.owl#text> "Paper is not in the relevant conference / journal format; redo it according to the format specified by the committee."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_319> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_319> <app12052642_makarova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_320> <http://www.w3.org/2000/01/rdf-schema#label> "The existing work is not compared with some standard technique"^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_320> <app12052642_makarova.owl#text> "The existing work is not compared with some standard technique"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_320> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_320> <app12052642_makarova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_321> <http://www.w3.org/2000/01/rdf-schema#label> "The paper has to be revised giving the proper flow of reading, It seems like abruptly written. English writing is very poor, some abbreviations are used without telling what it is, It will hamper the flow of reading."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_321> <app12052642_makarova.owl#text> "The paper has to be revised giving the proper flow of reading, It seems like abruptly written. English writing is very poor, some abbreviations are used without telling what it is, It will hamper the flow of reading."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_321> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_321> <app12052642_makarova.owl#number> "21"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_322> <http://www.w3.org/2000/01/rdf-schema#label> "Figures & tables should be cited in the text & the insertion of the same should be very near to where it is cited."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_322> <app12052642_makarova.owl#text> "Figures & tables should be cited in the text & the insertion of the same should be very near to where it is cited."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_322> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_322> <app12052642_makarova.owl#number> "22"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_323> <http://www.w3.org/2000/01/rdf-schema#label> "Nomenclature has to be put at the end along with the acknowledgement. Paper contains the content, but it has to be revised in a standard way."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_323> <app12052642_makarova.owl#text> "Nomenclature has to be put at the end along with the acknowledgement. Paper contains the content, but it has to be revised in a standard way."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_323> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_323> <app12052642_makarova.owl#number> "23"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_41> <http://www.w3.org/2000/01/rdf-schema#label> "Please add more details regarding paper’s novelty, it is not very clear what are the novelties of this paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_41> <app12052642_makarova.owl#text> "Please add more details regarding paper’s novelty, it is not very clear what are the novelties of this paper."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_41> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_41> <app12052642_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_42> <http://www.w3.org/2000/01/rdf-schema#label> "Please add more details of how the theory from the first sections is applied in the results section and better detail the theoretical part, in this version the theoretical part is almost inexistent."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_42> <app12052642_makarova.owl#text> "Please add more details of how the theory from the first sections is applied in the results section and better detail the theoretical part, in this version the theoretical part is almost inexistent."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_42> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_42> <app12052642_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_43> <http://www.w3.org/2000/01/rdf-schema#label> "Please detail how the parameters were obtained."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_43> <app12052642_makarova.owl#text> "Please detail how the parameters were obtained."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_43> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_43> <app12052642_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_44> <http://www.w3.org/2000/01/rdf-schema#label> "The state of the art it is very poor regarding representative papers, maybe the author could add the following publications."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_44> <app12052642_makarova.owl#text> "The state of the art it is very poor regarding representative papers, maybe the author could add the following publications."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_44> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_44> <app12052642_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_45> <http://www.w3.org/2000/01/rdf-schema#label> "Please add more details regarding the obtained results."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_45> <app12052642_makarova.owl#text> "Please add more details regarding the obtained results."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_45> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_45> <app12052642_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_46> <http://www.w3.org/2000/01/rdf-schema#label> "Add the both the advantages and the disadvantages of the proposed method."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_46> <app12052642_makarova.owl#text> "Add the both the advantages and the disadvantages of the proposed method."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_46> <app12052642_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_46> <app12052642_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#reviewer_47> <http://www.w3.org/2000/01/rdf-schema#label> "The authors answered to all my concern in the second version of the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#reviewer_47> <app12052642_makarova.owl#text> "The authors answered to all my concern in the second version of the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_47> <app12052642_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#reviewer_47> <app12052642_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "We agree that transient analysis is important in designing a robot joint.  The following sentence has been added at the end of Conclusions:\"For future work we will develop variable stiffness techniques of this joint, and explore its application in a robot arm considering both kinetostatic and transient behaviors\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author1> <app12052642_makarova.owl#text> "We agree that transient analysis is important in designing a robot joint.  The following sentence has been added at the end of Conclusions:\"For future work we will develop variable stiffness techniques of this joint, and explore its application in a robot arm considering both kinetostatic and transient behaviors\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author1> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author1> <app12052642_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "The mentioned reference is focused on an analytical method for modeling large deflections in compliant mechanisms, while this work presents a method of enhancing the tensile strength of lamina emergent joints by using double-layer materials. "^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author2> <app12052642_makarova.owl#text> "The mentioned reference is focused on an analytical method for modeling large deflections in compliant mechanisms, while this work presents a method of enhancing the tensile strength of lamina emergent joints by using double-layer materials. "^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author2> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author2> <app12052642_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "As to the second comment, Ref. [34] has been new added in the reference list and the following sentence has been added at the end of the second paragraph of Introduction: \"Ref. [34] made a robot using double-layer LEMs, which is driven by magnetic force. This paper further discussed how to adjust the motion by changing different parameters of the mechanism\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author3> <app12052642_makarova.owl#text> "As to the second comment, Ref. [34] has been new added in the reference list and the following sentence has been added at the end of the second paragraph of Introduction: \"Ref. [34] made a robot using double-layer LEMs, which is driven by magnetic force. This paper further discussed how to adjust the motion by changing different parameters of the mechanism\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author3> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author3> <app12052642_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "We have rewritten the conclusions and abstract, and added additional keywords."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author4> <app12052642_makarova.owl#text> "We have rewritten the conclusions and abstract, and added additional keywords."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author4> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author4> <app12052642_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "We have rewritten the conclusions and abstract, and added additional keywords."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author5> <app12052642_makarova.owl#text> "We have rewritten the conclusions and abstract, and added additional keywords."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author5> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author5> <app12052642_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "The following sentences have been added in the first paragraph of Introduction to mention the base paper and the related work (more references have been added): \"Finding suitable compliant joints [7] can be a key step in designing LEMs. Jacobsen et al. [8] first proposed the design concept of utilizing torsional deflection to obtain out-of-plane motions from planar structures, leading to a new group of compliant joints for LEMs called Lamina Emergent Torsional (LET) joints\"."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author6> <app12052642_makarova.owl#text> "The following sentences have been added in the first paragraph of Introduction to mention the base paper and the related work (more references have been added): \"Finding suitable compliant joints [7] can be a key step in designing LEMs. Jacobsen et al. [8] first proposed the design concept of utilizing torsional deflection to obtain out-of-plane motions from planar structures, leading to a new group of compliant joints for LEMs called Lamina Emergent Torsional (LET) joints\"."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author6> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author6> <app12052642_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "The following sentences have been added in the first paragraph of Introduction to mention the base paper and the related work (more references have been added): \"Finding suitable compliant joints [7] can be a key step in designing LEMs. Jacobsen et al. [8] first proposed the design concept of utilizing torsional deflection to obtain out-of-plane motions from planar structures, leading to a new group of compliant joints for LEMs called Lamina Emergent Torsional (LET) joints\"."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author7> <app12052642_makarova.owl#text> "The following sentences have been added in the first paragraph of Introduction to mention the base paper and the related work (more references have been added): \"Finding suitable compliant joints [7] can be a key step in designing LEMs. Jacobsen et al. [8] first proposed the design concept of utilizing torsional deflection to obtain out-of-plane motions from planar structures, leading to a new group of compliant joints for LEMs called Lamina Emergent Torsional (LET) joints\"."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author7> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author7> <app12052642_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "The references have been reformatted according to standard journal format."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author8> <app12052642_makarova.owl#text> "The references have been reformatted according to standard journal format."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author8> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author8> <app12052642_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "The references have been reformatted according to standard journal format."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author9> <app12052642_makarova.owl#text> "The references have been reformatted according to standard journal format."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author9> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author9> <app12052642_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "We have added more relevant references in this version."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author10> <app12052642_makarova.owl#text> "We have added more relevant references in this version."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author10> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author10> <app12052642_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "We have added more relevant references in this version."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author11> <app12052642_makarova.owl#text> "We have added more relevant references in this version."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author11> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author11> <app12052642_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "We have added more relevant references in this version."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author12> <app12052642_makarova.owl#text> "We have added more relevant references in this version."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author12> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author12> <app12052642_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "The contribution of this work with respect to the relevant work is further described in Introduction (as marked in the manuscript)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author13> <app12052642_makarova.owl#text> "The contribution of this work with respect to the relevant work is further described in Introduction (as marked in the manuscript)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author13> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author13> <app12052642_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "The theoretical part has been extended in the modeling section (page 3)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author14> <app12052642_makarova.owl#text> "The theoretical part has been extended in the modeling section (page 3)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author14> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author14> <app12052642_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "The modeling section (page 3) has been extended to make it clear how the parameters were obtained."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author15> <app12052642_makarova.owl#text> "The modeling section (page 3) has been extended to make it clear how the parameters were obtained."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author15> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author15> <app12052642_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "The recommended and other relevant references have been added."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author16> <app12052642_makarova.owl#text> "The recommended and other relevant references have been added."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author16> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author16> <app12052642_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "Subsection 3.2 has been rewritten to add more details regarding the obtained results."^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author17> <app12052642_makarova.owl#text> "Subsection 3.2 has been rewritten to add more details regarding the obtained results."^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author17> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author17> <app12052642_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author18> <http://www.w3.org/2000/01/rdf-schema#label> "The following sentence has been added at the end of first paragraph of Conclusions to clarify disadvantage of DL-LET: “The DL-LET joint is vulnerable to delamination of the two layers.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author18> <app12052642_makarova.owl#text> "The following sentence has been added at the end of first paragraph of Conclusions to clarify disadvantage of DL-LET: “The DL-LET joint is vulnerable to delamination of the two layers.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author18> <app12052642_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author18> <app12052642_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<app12052642_makarova.owl#author19> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<app12052642_makarova.owl#author19> <app12052642_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author19> <app12052642_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <app12052642_makarova.owl#author19> <app12052642_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

@@ -5,6 +5,8 @@
 <biom12060834_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <biom12060834_makarova.owl#isAttackedBy> .
 <biom12060834_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <biom12060834_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<biom12060834_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<biom12060834_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <biom12060834_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <biom12060834_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <biom12060834_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -2489,363 +2491,363 @@ _:10689 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/199
 <biom12060834_makarova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <biom12060834_makarova.owl#Reviewer_2ConflictFree> .
 <biom12060834_makarova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <biom12060834_makarova.owl#Reviewer_2ConflictFree> .
 <biom12060834_makarova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <biom12060834_makarova.owl#Reviewer_2ConflictFree> .
-<biom12060834_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "Unfortunately, its structure was not fully determined."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_11> <biom12060834_makarova.owl#text> "Unfortunately, its structure was not fully determined."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_11> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_11> <biom12060834_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "The manuscript is very long: it contains a lot of information and many references not always pertinent to EPS characterization."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_12> <biom12060834_makarova.owl#text> "The manuscript is very long: it contains a lot of information and many references not always pertinent to EPS characterization."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_12> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_12> <biom12060834_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "Optimization of production constitutes an important part not mentioned in the title."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_13> <biom12060834_makarova.owl#text> "Optimization of production constitutes an important part not mentioned in the title."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_13> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_13> <biom12060834_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "Acceptability for food applications was not discussed."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_14> <biom12060834_makarova.owl#text> "Acceptability for food applications was not discussed."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_14> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_14> <biom12060834_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "English language should be revised thoroughly."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_15> <biom12060834_makarova.owl#text> "English language should be revised thoroughly."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_15> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_15> <biom12060834_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "There are inconsistencies in singular-plural concordance between subject and verb as well as noun and pronoun."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_16> <biom12060834_makarova.owl#text> "There are inconsistencies in singular-plural concordance between subject and verb as well as noun and pronoun."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_16> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_16> <biom12060834_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> " Verb tenses should be checked."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_17> <biom12060834_makarova.owl#text> " Verb tenses should be checked."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_17> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_17> <biom12060834_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "Articles (mostly definite, but also indefinite) are often missing and sometimes superfluous."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_18> <biom12060834_makarova.owl#text> "Articles (mostly definite, but also indefinite) are often missing and sometimes superfluous."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_18> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_18> <biom12060834_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "EPS vs. EPSs in plural form should be consistent throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_19> <biom12060834_makarova.owl#text> "EPS vs. EPSs in plural form should be consistent throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_19> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_19> <biom12060834_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "Use a consistent abbreviation (l or L) for liter (including milliliter and microliter) throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_110> <biom12060834_makarova.owl#text> "Use a consistent abbreviation (l or L) for liter (including milliliter and microliter) throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_110> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_110> <biom12060834_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_111> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 50-51 \nimprovement of rheological"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_111> <biom12060834_makarova.owl#text> "ll. 50-51 \nimprovement of rheological"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_111> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_111> <biom12060834_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_112> <http://www.w3.org/2000/01/rdf-schema#label> "l. 57 \nstabilizing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_112> <biom12060834_makarova.owl#text> "l. 57 \nstabilizing"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_112> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_112> <biom12060834_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_113> <http://www.w3.org/2000/01/rdf-schema#label> "l. 133 \nin nutrient"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_113> <biom12060834_makarova.owl#text> "l. 133 \nin nutrient"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_113> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_113> <biom12060834_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_114> <http://www.w3.org/2000/01/rdf-schema#label> "l. 143 \nmin instead of mins"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_114> <biom12060834_makarova.owl#text> "l. 143 \nmin instead of mins"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_114> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_114> <biom12060834_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_115> <http://www.w3.org/2000/01/rdf-schema#label> "l. 145 \nvolume of chilled acetone was added"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_115> <biom12060834_makarova.owl#text> "l. 145 \nvolume of chilled acetone was added"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_115> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_115> <biom12060834_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_116> <http://www.w3.org/2000/01/rdf-schema#label> "l. 160 \nThere is no coded value in Table 1."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_116> <biom12060834_makarova.owl#text> "l. 160 \nThere is no coded value in Table 1."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_116> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_116> <biom12060834_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_117> <http://www.w3.org/2000/01/rdf-schema#label> "l. 165 \nTable 2 where Table 1 expected"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_117> <biom12060834_makarova.owl#text> "l. 165 \nTable 2 where Table 1 expected"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_117> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_117> <biom12060834_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_118> <http://www.w3.org/2000/01/rdf-schema#label> "l. 169-170 \nthirty instead of thirteen ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_118> <biom12060834_makarova.owl#text> "l. 169-170 \nthirty instead of thirteen ?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_118> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_118> <biom12060834_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_119> <http://www.w3.org/2000/01/rdf-schema#label> "l. 177 i\n instead of 0 in second term?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_119> <biom12060834_makarova.owl#text> "l. 177 i\n instead of 0 in second term?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_119> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_119> <biom12060834_makarova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_120> <http://www.w3.org/2000/01/rdf-schema#label> "l. 228 \nGPC defined on l. 231"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_120> <biom12060834_makarova.owl#text> "l. 228 \nGPC defined on l. 231"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_120> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_120> <biom12060834_makarova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_121> <http://www.w3.org/2000/01/rdf-schema#label> "l. 230 \nPEG undefined"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_121> <biom12060834_makarova.owl#text> "l. 230 \nPEG undefined"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_121> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_121> <biom12060834_makarova.owl#number> "21"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_122> <http://www.w3.org/2000/01/rdf-schema#label> "l. 247 \nVolume of 0.2 mM ethanolic DPPH solution?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_122> <biom12060834_makarova.owl#text> "l. 247 \nVolume of 0.2 mM ethanolic DPPH solution?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_122> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_122> <biom12060834_makarova.owl#number> "22"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_123> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 255, 286, and 441 \net al."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_123> <biom12060834_makarova.owl#text> "ll. 255, 286, and 441 \net al."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_123> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_123> <biom12060834_makarova.owl#number> "23"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_124> <http://www.w3.org/2000/01/rdf-schema#label> "l. 284 \nNo section 2.6.3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_124> <biom12060834_makarova.owl#text> "l. 284 \nNo section 2.6.3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_124> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_124> <biom12060834_makarova.owl#number> "24"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_125> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1 \nWhat is the significance of the tick mark labels on the maps? Are these maps really necessary?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_125> <biom12060834_makarova.owl#text> "Figure 1 \nWhat is the significance of the tick mark labels on the maps? Are these maps really necessary?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_125> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_125> <biom12060834_makarova.owl#number> "25"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_126> <http://www.w3.org/2000/01/rdf-schema#label> "l. 340 \nsource"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_126> <biom12060834_makarova.owl#text> "l. 340 \nsource"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_126> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_126> <biom12060834_makarova.owl#number> "26"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_127> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 2 \nNo x-axis label \nUnits not specified"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_127> <biom12060834_makarova.owl#text> "Figure 2 \nNo x-axis label \nUnits not specified"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_127> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_127> <biom12060834_makarova.owl#number> "27"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_128> <http://www.w3.org/2000/01/rdf-schema#label> "l. 400 affected ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_128> <biom12060834_makarova.owl#text> "l. 400 affected ?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_128> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_128> <biom12060834_makarova.owl#number> "28"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_129> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 3 Units are not specified on the axes labels or in the legend."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_129> <biom12060834_makarova.owl#text> "Figure 3 Units are not specified on the axes labels or in the legend."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_129> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_129> <biom12060834_makarova.owl#number> "29"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_130> <http://www.w3.org/2000/01/rdf-schema#label> "l. 414 \nDelete ( before C. pH ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_130> <biom12060834_makarova.owl#text> "l. 414 \nDelete ( before C. pH ."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_130> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_130> <biom12060834_makarova.owl#number> "30"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_131> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 416 and 432 Add C. before pH= "^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_131> <biom12060834_makarova.owl#text> "ll. 416 and 432 Add C. before pH= "^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_131> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_131> <biom12060834_makarova.owl#number> "31"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_132> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 417 and 432 30.0 instead of 3.0 ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_132> <biom12060834_makarova.owl#text> "ll. 417 and 432 30.0 instead of 3.0 ?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_132> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_132> <biom12060834_makarova.owl#number> "32"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_133> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 4 This figure is redundant as it gives the same information as Figure 3. Tick label values for glucose and yeast extract are different. Units are not specified on the axes labels or in the legend."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_133> <biom12060834_makarova.owl#text> "Figure 4 This figure is redundant as it gives the same information as Figure 3. Tick label values for glucose and yeast extract are different. Units are not specified on the axes labels or in the legend."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_133> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_133> <biom12060834_makarova.owl#number> "33"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_134> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 433, 434, 454, 458, and 507 \nFirst section 3.6 (and its subsections) should be section 3.5."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_134> <biom12060834_makarova.owl#text> "ll. 433, 434, 454, 458, and 507 \nFirst section 3.6 (and its subsections) should be section 3.5."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_134> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_134> <biom12060834_makarova.owl#number> "34"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_135> <http://www.w3.org/2000/01/rdf-schema#label> "l. 442 C), whereas the"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_135> <biom12060834_makarova.owl#text> "l. 442 C), whereas the"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_135> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_135> <biom12060834_makarova.owl#number> "35"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_136> <http://www.w3.org/2000/01/rdf-schema#label> "l. 471, 600, 678, and 718 \nReference format is different; corresponding references could be missing in the list."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_136> <biom12060834_makarova.owl#text> "l. 471, 600, 678, and 718 \nReference format is different; corresponding references could be missing in the list."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_136> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_136> <biom12060834_makarova.owl#number> "36"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_137> <http://www.w3.org/2000/01/rdf-schema#label> "l. 480 \nWhy was linkage analysis not performed?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_137> <biom12060834_makarova.owl#text> "l. 480 \nWhy was linkage analysis not performed?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_137> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_137> <biom12060834_makarova.owl#number> "37"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_138> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 481-482 \nspectrum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_138> <biom12060834_makarova.owl#text> "ll. 481-482 \nspectrum"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_138> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_138> <biom12060834_makarova.owl#number> "38"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_139> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 6 \nBacterial EPSs are normally composed of repeating units. Based on the 1H NMR spectrum, the purity \nand/or heterogeneity of the EPS is questioned. How can the authors ascertain that mannose does not \ncome from mannans in yeast extract? \nA 2D COSY spectrum would be necessary to confirm the assignments made on the 1D: e.g., H2- Man is \nnot normally found in the range 3.2-3.5 ppm (the statement ll. 495-496 is wrong). \nThe abbreviation for glucose is Glc."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_139> <biom12060834_makarova.owl#text> "Figure 6 \nBacterial EPSs are normally composed of repeating units. Based on the 1H NMR spectrum, the purity \nand/or heterogeneity of the EPS is questioned. How can the authors ascertain that mannose does not \ncome from mannans in yeast extract? \nA 2D COSY spectrum would be necessary to confirm the assignments made on the 1D: e.g., H2- Man is \nnot normally found in the range 3.2-3.5 ppm (the statement ll. 495-496 is wrong). \nThe abbreviation for glucose is Glc."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_139> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_139> <biom12060834_makarova.owl#number> "39"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_140> <http://www.w3.org/2000/01/rdf-schema#label> "l. 500 \nThe chemical shift range is more than from 1 to 5."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_140> <biom12060834_makarova.owl#text> "l. 500 \nThe chemical shift range is more than from 1 to 5."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_140> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_140> <biom12060834_makarova.owl#number> "40"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_141> <http://www.w3.org/2000/01/rdf-schema#label> "ll. 528 and 531 \nradical"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_141> <biom12060834_makarova.owl#text> "ll. 528 and 531 \nradical"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_141> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_141> <biom12060834_makarova.owl#number> "41"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_142> <http://www.w3.org/2000/01/rdf-schema#label> "l. 535 and 536 \nactivity"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_142> <biom12060834_makarova.owl#text> "l. 535 and 536 \nactivity"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_142> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_142> <biom12060834_makarova.owl#number> "42"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_143> <http://www.w3.org/2000/01/rdf-schema#label> "l. 537 \nNo section 3.6.2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_143> <biom12060834_makarova.owl#text> "l. 537 \nNo section 3.6.2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_143> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_143> <biom12060834_makarova.owl#number> "43"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_144> <http://www.w3.org/2000/01/rdf-schema#label> "l. 581 \nTable S1A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_144> <biom12060834_makarova.owl#text> "l. 581 \nTable S1A"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_144> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_144> <biom12060834_makarova.owl#number> "44"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_145> <http://www.w3.org/2000/01/rdf-schema#label> "l. 603 \nFigure S1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_145> <biom12060834_makarova.owl#text> "l. 603 \nFigure S1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_145> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_145> <biom12060834_makarova.owl#number> "45"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_146> <http://www.w3.org/2000/01/rdf-schema#label> "l. 636 \nGlc and Gal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_146> <biom12060834_makarova.owl#text> "l. 636 \nGlc and Gal"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_146> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_146> <biom12060834_makarova.owl#number> "46"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_147> <http://www.w3.org/2000/01/rdf-schema#label> "l. 683-684 \nFood-grade oils are not aliphatic and aromatic hydrocarbons."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_147> <biom12060834_makarova.owl#text> "l. 683-684 \nFood-grade oils are not aliphatic and aromatic hydrocarbons."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_147> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_147> <biom12060834_makarova.owl#number> "47"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_148> <http://www.w3.org/2000/01/rdf-schema#label> "l. 711 \nto be significantly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_148> <biom12060834_makarova.owl#text> "l. 711 \nto be significantly"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_148> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_148> <biom12060834_makarova.owl#number> "48"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_149> <http://www.w3.org/2000/01/rdf-schema#label> "l. 725 \npossibility of future"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_149> <biom12060834_makarova.owl#text> "l. 725 \npossibility of future"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_149> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_149> <biom12060834_makarova.owl#number> "49"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_150> <http://www.w3.org/2000/01/rdf-schema#label> "The English language was improved, but there are still errors."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_150> <biom12060834_makarova.owl#text> "The English language was improved, but there are still errors."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_150> <biom12060834_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_150> <biom12060834_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_151> <http://www.w3.org/2000/01/rdf-schema#label> "Why was linkage analysis not performed? (I was referring to the chemical method by methylation.).\nBacterial EPSs are normally composed of repeating units. Based on the 1H NMR spectrum, the purity\nand/or heterogeneity of the EPS is questioned. (I was referring to peak intensities that are not uniform.\nThe new spectra emphasize this even more: for example, I count at least 10 H1/H2 cross peaks of different\nintensities on the COSY.) The authors added a COSY spectrum but did not analyze it.\nThey deleted erroneous information about mannose residues, but came up with new conclusions about\nmannose identity and linkages based solely on chemical shift of anomeric proton/carbon.The information\ncontained in the other 2D spectra was not exploited to provide structural information. Chemical shift\nsimilarity is not sufficient to identify monosaccharide and linkage in a polysaccharide repeating unit. The\nevidences for the partial structure given are not convincing. If the authors do not add methylation analysis\nand perform full NMR spectral analysis, the claims about structure determination should be removed from\nthe manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_151> <biom12060834_makarova.owl#text> "Why was linkage analysis not performed? (I was referring to the chemical method by methylation.).\nBacterial EPSs are normally composed of repeating units. Based on the 1H NMR spectrum, the purity\nand/or heterogeneity of the EPS is questioned. (I was referring to peak intensities that are not uniform.\nThe new spectra emphasize this even more: for example, I count at least 10 H1/H2 cross peaks of different\nintensities on the COSY.) The authors added a COSY spectrum but did not analyze it.\nThey deleted erroneous information about mannose residues, but came up with new conclusions about\nmannose identity and linkages based solely on chemical shift of anomeric proton/carbon.The information\ncontained in the other 2D spectra was not exploited to provide structural information. Chemical shift\nsimilarity is not sufficient to identify monosaccharide and linkage in a polysaccharide repeating unit. The\nevidences for the partial structure given are not convincing. If the authors do not add methylation analysis\nand perform full NMR spectral analysis, the claims about structure determination should be removed from\nthe manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_151> <biom12060834_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_151> <biom12060834_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "To my deep regret the structural characteristic of EPS is the weak point of this publication. "^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_21> <biom12060834_makarova.owl#text> "To my deep regret the structural characteristic of EPS is the weak point of this publication. "^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_21> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_21> <biom12060834_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "It is advisable, in my opinion, to provide information on the content of heavy metals in the EPS, since the authors plan to offer this product for the food industry in the future."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_22> <biom12060834_makarova.owl#text> "It is advisable, in my opinion, to provide information on the content of heavy metals in the EPS, since the authors plan to offer this product for the food industry in the future."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_22> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_22> <biom12060834_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "Line 42: It is premature to include the term \"structure\" in keywords at this stage."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_23> <biom12060834_makarova.owl#text> "Line 42: It is premature to include the term \"structure\" in keywords at this stage."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_23> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_23> <biom12060834_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "Line 526-527: The proposal should be reformulated. According to Figure 7. the activity of the ascorbic acid is higher than the activity of EPS produced by CamB6."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#reviewer_24> <biom12060834_makarova.owl#text> "Line 526-527: The proposal should be reformulated. According to Figure 7. the activity of the ascorbic acid is higher than the activity of EPS produced by CamB6."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_24> <biom12060834_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#reviewer_24> <biom12060834_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "To better understand EPS chemical structure, further 2D NMR experiments were performed \nand results are presented inside the manuscript. In short, they allow to clearly identify the D-mannose \nα-(1→2) and α-(1→4) linkages in EPS. These results suggest they are the prevailing units of the EPS \nbackbone making it a branched one. Also, β-glucopyranose and β-galactopyranose structures were \nidentified and the acetylation was confirmed."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author1> <biom12060834_makarova.owl#text> "To better understand EPS chemical structure, further 2D NMR experiments were performed \nand results are presented inside the manuscript. In short, they allow to clearly identify the D-mannose \nα-(1→2) and α-(1→4) linkages in EPS. These results suggest they are the prevailing units of the EPS \nbackbone making it a branched one. Also, β-glucopyranose and β-galactopyranose structures were \nidentified and the acetylation was confirmed."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author1> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author1> <biom12060834_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "As suggested by the reviewer, the non-pertinent references has been checked throughout the \nmanuscript and unnecessary references are removed too."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author2> <biom12060834_makarova.owl#text> "As suggested by the reviewer, the non-pertinent references has been checked throughout the \nmanuscript and unnecessary references are removed too."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author2> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author2> <biom12060834_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "As suggested by the reviewer, now the title include the production optimization too and the \nnew title is “Optimization and characterization of a novel exopolysaccharide from Bacillus haynesii\nCamB6 for food applications”."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author3> <biom12060834_makarova.owl#text> "As suggested by the reviewer, now the title include the production optimization too and the \nnew title is “Optimization and characterization of a novel exopolysaccharide from Bacillus haynesii\nCamB6 for food applications”."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author3> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author3> <biom12060834_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "As suggested by the reviewer, the acceptability for food application has now been mentioned \nwith appropriate refences (Nicolaus et al., 2010; Kambourova et al., 2018; Gongi et al., 2022) in the \nrevised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author4> <biom12060834_makarova.owl#text> "As suggested by the reviewer, the acceptability for food application has now been mentioned \nwith appropriate refences (Nicolaus et al., 2010; Kambourova et al., 2018; Gongi et al., 2022) in the \nrevised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author4> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author4> <biom12060834_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "According to reviewer´s suggestion, the language of the manuscript is thoroughly revised."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author5> <biom12060834_makarova.owl#text> "According to reviewer´s suggestion, the language of the manuscript is thoroughly revised."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author5> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author5> <biom12060834_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "According to reviewer´s suggestion, the language of the manuscript is thoroughly revised."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author6> <biom12060834_makarova.owl#text> "According to reviewer´s suggestion, the language of the manuscript is thoroughly revised."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author6> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author6> <biom12060834_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "According to reviewer´s suggestion, the language of the manuscript is thoroughly revised."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author7> <biom12060834_makarova.owl#text> "According to reviewer´s suggestion, the language of the manuscript is thoroughly revised."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author7> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author7> <biom12060834_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "According to reviewer´s suggestion, the language of the manuscript is thoroughly revised."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author8> <biom12060834_makarova.owl#text> "According to reviewer´s suggestion, the language of the manuscript is thoroughly revised."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author8> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author8> <biom12060834_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "As suggested by the reviewer, the consistent of the word had been checked throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author9> <biom12060834_makarova.owl#text> "As suggested by the reviewer, the consistent of the word had been checked throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author9> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author9> <biom12060834_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "Constant abbreviation had been checked throughout in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author10> <biom12060834_makarova.owl#text> "Constant abbreviation had been checked throughout in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author10> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author10> <biom12060834_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author11> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author11> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author11> <biom12060834_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author12> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author12> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author12> <biom12060834_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author13> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author13> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author13> <biom12060834_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author14> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author14> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author14> <biom12060834_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author15> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author15> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author15> <biom12060834_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "Accoding to the suggestion of the reviewer, Table 1 is revised and both coded – noncoded\nvalues are now included."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author16> <biom12060834_makarova.owl#text> "Accoding to the suggestion of the reviewer, Table 1 is revised and both coded – noncoded\nvalues are now included."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author16> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author16> <biom12060834_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "Both the tables (table 1 and table 2) have been placed in the proper place where it expected \nin the revised manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author17> <biom12060834_makarova.owl#text> "Both the tables (table 1 and table 2) have been placed in the proper place where it expected \nin the revised manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author17> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author17> <biom12060834_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author18> <http://www.w3.org/2000/01/rdf-schema#label> "The suggested correction has been done in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author18> <biom12060834_makarova.owl#text> "The suggested correction has been done in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author18> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author18> <biom12060834_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author19> <http://www.w3.org/2000/01/rdf-schema#label> "The corrected has been made now."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author19> <biom12060834_makarova.owl#text> "The corrected has been made now."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author19> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author19> <biom12060834_makarova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author20> <http://www.w3.org/2000/01/rdf-schema#label> "The revision has been made as suggested."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author20> <biom12060834_makarova.owl#text> "The revision has been made as suggested."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author20> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author20> <biom12060834_makarova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author21> <http://www.w3.org/2000/01/rdf-schema#label> "as suggested by the reviewer, PEG has been defined in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author21> <biom12060834_makarova.owl#text> "as suggested by the reviewer, PEG has been defined in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author21> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author21> <biom12060834_makarova.owl#number> "21"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author22> <http://www.w3.org/2000/01/rdf-schema#label> "The volume is now added in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author22> <biom12060834_makarova.owl#text> "The volume is now added in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author22> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author22> <biom12060834_makarova.owl#number> "22"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author23> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author23> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript throughout."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author23> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author23> <biom12060834_makarova.owl#number> "23"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author24> <http://www.w3.org/2000/01/rdf-schema#label> "As per the suggestion given by the reviewer, section numbering has been checked \nthoroughly in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author24> <biom12060834_makarova.owl#text> "As per the suggestion given by the reviewer, section numbering has been checked \nthoroughly in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author24> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author24> <biom12060834_makarova.owl#number> "24"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author25> <http://www.w3.org/2000/01/rdf-schema#label> "This to kindly mention to the reviewer, the map is the collection site of the EPS producing \nBacillus haynesii CamB6. This is a first such report from this collection site, the map is necessary to \nkeep in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author25> <biom12060834_makarova.owl#text> "This to kindly mention to the reviewer, the map is the collection site of the EPS producing \nBacillus haynesii CamB6. This is a first such report from this collection site, the map is necessary to \nkeep in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author25> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author25> <biom12060834_makarova.owl#number> "25"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author26> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author26> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author26> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author26> <biom12060834_makarova.owl#number> "26"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author27> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 2 has been modified as suggested by the reviewer."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author27> <biom12060834_makarova.owl#text> "Figure 2 has been modified as suggested by the reviewer."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author27> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author27> <biom12060834_makarova.owl#number> "27"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author28> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author28> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author28> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author28> <biom12060834_makarova.owl#number> "28"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author29> <http://www.w3.org/2000/01/rdf-schema#label> "As suggested by the reviewer, Figure 3 is now modified with specified units of the axes \nand also in the figure legend."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author29> <biom12060834_makarova.owl#text> "As suggested by the reviewer, Figure 3 is now modified with specified units of the axes \nand also in the figure legend."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author29> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author29> <biom12060834_makarova.owl#number> "29"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author30> <http://www.w3.org/2000/01/rdf-schema#label> "All the Suggestion has been included in the figure legend of revised version of the \nmanuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author30> <biom12060834_makarova.owl#text> "All the Suggestion has been included in the figure legend of revised version of the \nmanuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author30> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author30> <biom12060834_makarova.owl#number> "30"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author31> <http://www.w3.org/2000/01/rdf-schema#label> "All the Suggestion has been included in the figure legend of revised version of the \nmanuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author31> <biom12060834_makarova.owl#text> "All the Suggestion has been included in the figure legend of revised version of the \nmanuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author31> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author31> <biom12060834_makarova.owl#number> "31"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author32> <http://www.w3.org/2000/01/rdf-schema#label> "All the Suggestion has been included in the figure legend of revised version of the \nmanuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author32> <biom12060834_makarova.owl#text> "All the Suggestion has been included in the figure legend of revised version of the \nmanuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author32> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author32> <biom12060834_makarova.owl#number> "32"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author33> <http://www.w3.org/2000/01/rdf-schema#label> "To avoid the redundancy of the figures as suggested by the reviewer, figure 4 is removed \nfrom the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author33> <biom12060834_makarova.owl#text> "To avoid the redundancy of the figures as suggested by the reviewer, figure 4 is removed \nfrom the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author33> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author33> <biom12060834_makarova.owl#number> "33"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author34> <http://www.w3.org/2000/01/rdf-schema#label> "As per the suggestion given by the reviewer, section numbering has been checked \nthoroughly in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author34> <biom12060834_makarova.owl#text> "As per the suggestion given by the reviewer, section numbering has been checked \nthoroughly in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author34> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author34> <biom12060834_makarova.owl#number> "34"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author35> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author35> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author35> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author35> <biom12060834_makarova.owl#number> "35"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author36> <http://www.w3.org/2000/01/rdf-schema#label> "This has been checked now and revised."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author36> <biom12060834_makarova.owl#text> "This has been checked now and revised."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author36> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author36> <biom12060834_makarova.owl#number> "36"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author37> <http://www.w3.org/2000/01/rdf-schema#label> "We performed 2D-NMR analysis , which allows us to determine exactly the α-Manp\nlinkage, which is the major sugar component, and the β- structure of Galp and Glucp."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author37> <biom12060834_makarova.owl#text> "We performed 2D-NMR analysis , which allows us to determine exactly the α-Manp\nlinkage, which is the major sugar component, and the β- structure of Galp and Glucp."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author37> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author37> <biom12060834_makarova.owl#number> "37"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author38> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author38> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author38> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author38> <biom12060834_makarova.owl#number> "38"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author39> <http://www.w3.org/2000/01/rdf-schema#label> "This is a heteropolysaccharide composed of 3 different sugars as determined for HPLC, which is \nhighly common in this kind of polysaccharides isolated from bacterial strains (10.3390/foods11020156)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author39> <biom12060834_makarova.owl#text> "This is a heteropolysaccharide composed of 3 different sugars as determined for HPLC, which is \nhighly common in this kind of polysaccharides isolated from bacterial strains (10.3390/foods11020156)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author39> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author39> <biom12060834_makarova.owl#number> "39"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author40> <http://www.w3.org/2000/01/rdf-schema#label> "There are several earlier report where different concentration of yeast extract is added to the culture \nmedia for optimized EPS production, and the resultant EPS also concisted of mannan. "^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author40> <biom12060834_makarova.owl#text> "There are several earlier report where different concentration of yeast extract is added to the culture \nmedia for optimized EPS production, and the resultant EPS also concisted of mannan. "^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author40> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author40> <biom12060834_makarova.owl#number> "40"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author41> <http://www.w3.org/2000/01/rdf-schema#label> "Several 2D-NMR spectra were performed to confirm 1H and 13C chemical shift of EPS structure, \nand their analysis was added to the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author41> <biom12060834_makarova.owl#text> "Several 2D-NMR spectra were performed to confirm 1H and 13C chemical shift of EPS structure, \nand their analysis was added to the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author41> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author41> <biom12060834_makarova.owl#number> "41"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author42> <http://www.w3.org/2000/01/rdf-schema#label> "It was corrected in manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author42> <biom12060834_makarova.owl#text> "It was corrected in manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author42> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author42> <biom12060834_makarova.owl#number> "42"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author43> <http://www.w3.org/2000/01/rdf-schema#label> "A new discussion of 1D and 2D NMR spectra was added and corrected."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author43> <biom12060834_makarova.owl#text> "A new discussion of 1D and 2D NMR spectra was added and corrected."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author43> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author43> <biom12060834_makarova.owl#number> "43"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author44> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author44> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author44> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author44> <biom12060834_makarova.owl#number> "44"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author45> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author45> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author45> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author45> <biom12060834_makarova.owl#number> "45"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author46> <http://www.w3.org/2000/01/rdf-schema#label> " According to the suggestion, section numbering has been checked thoroughly in the revised \nversion of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author46> <biom12060834_makarova.owl#text> " According to the suggestion, section numbering has been checked thoroughly in the revised \nversion of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author46> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author46> <biom12060834_makarova.owl#number> "46"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author47> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author47> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author47> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author47> <biom12060834_makarova.owl#number> "47"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author48> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author48> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author48> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author48> <biom12060834_makarova.owl#number> "48"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author49> <http://www.w3.org/2000/01/rdf-schema#label> "As suggested by the reviewer, the necessary revision in done in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author49> <biom12060834_makarova.owl#text> "As suggested by the reviewer, the necessary revision in done in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author49> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author49> <biom12060834_makarova.owl#number> "49"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author50> <http://www.w3.org/2000/01/rdf-schema#label> "As suggested by the reviewer, the information is corrected and revised now."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author50> <biom12060834_makarova.owl#text> "As suggested by the reviewer, the information is corrected and revised now."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author50> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author50> <biom12060834_makarova.owl#number> "50"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author51> <http://www.w3.org/2000/01/rdf-schema#label> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author51> <biom12060834_makarova.owl#text> "Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author51> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author51> <biom12060834_makarova.owl#number> "51"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author52> <http://www.w3.org/2000/01/rdf-schema#label> " Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author52> <biom12060834_makarova.owl#text> " Suggestion has been included in the revised version of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author52> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author52> <biom12060834_makarova.owl#number> "52"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author53> <http://www.w3.org/2000/01/rdf-schema#label> "To better understand EPS chemical structure, further 2D NMR experiments were performed \nand results are presented inside the manuscript. In short, they allow to clearly identify the D-mannose \nα-(1→2) and α-(1→4) linkages in EPS. These results suggest they are the prevailing units of the EPS \nbackbone making it a branched one. Also, β-glucopyranose and β-galactopyranose structures were \nidentified and the acetylation was confirmed."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author53> <biom12060834_makarova.owl#text> "To better understand EPS chemical structure, further 2D NMR experiments were performed \nand results are presented inside the manuscript. In short, they allow to clearly identify the D-mannose \nα-(1→2) and α-(1→4) linkages in EPS. These results suggest they are the prevailing units of the EPS \nbackbone making it a branched one. Also, β-glucopyranose and β-galactopyranose structures were \nidentified and the acetylation was confirmed."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author53> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author53> <biom12060834_makarova.owl#number> "53"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author54> <http://www.w3.org/2000/01/rdf-schema#label> "According to the composition of EPS no metal was found to be attached with the structure \nof purified EPS. Likewise, in this study the monomeric composition was analysed to demonstrate the \nstructure of purified EPS, where no metal was found to be attached with the chemical structure of it. \nThis is also mentioned and referred in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author54> <biom12060834_makarova.owl#text> "According to the composition of EPS no metal was found to be attached with the structure \nof purified EPS. Likewise, in this study the monomeric composition was analysed to demonstrate the \nstructure of purified EPS, where no metal was found to be attached with the chemical structure of it. \nThis is also mentioned and referred in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author54> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author54> <biom12060834_makarova.owl#number> "54"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author55> <http://www.w3.org/2000/01/rdf-schema#label> "As suggested by the reviewer, this keyword is removed from the revised version of the \nmanuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author55> <biom12060834_makarova.owl#text> "As suggested by the reviewer, this keyword is removed from the revised version of the \nmanuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author55> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author55> <biom12060834_makarova.owl#number> "55"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author56> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you so much dear reviewer for mentioning this point. The correction has been made \nnow in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author56> <biom12060834_makarova.owl#text> "Thank you so much dear reviewer for mentioning this point. The correction has been made \nnow in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author56> <biom12060834_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author56> <biom12060834_makarova.owl#number> "56"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author57> <http://www.w3.org/2000/01/rdf-schema#label> "As suggested by the reviewer, minor errors throughout the manuscript has been revised now."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author57> <biom12060834_makarova.owl#text> "As suggested by the reviewer, minor errors throughout the manuscript has been revised now."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author57> <biom12060834_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author57> <biom12060834_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author58> <http://www.w3.org/2000/01/rdf-schema#label> "We agree with some of the comments that you made. However, we would like to remind you that the \nmain purpose of this manuscript is not the complete elucidation of the EPS chemical structure but also \nthe optimization of the EPS production, and characterization of the EPS functional properties. At the \nsame time, we provided different chemical properties like: sugar identification and its molar ratio, \nmolecular weight, functional group analysis and thermal stability of the EPS, and this journal has \nrecently published other papers with similar or less chemical information on the EPS, for instance: \nKuo, H.-C.; Liu, Y.-W.; Lum, C.-C.; Hsu, K.-D.; Lin, S.-P.; Hsieh, C.-W.; Lin, H.-W.; Lu, T.-Y.; Cheng, K.-\nC. Ganoderma formosanum Exopolysaccharides Inhibit Tumor Growth via Immunomodulation. Int. J. Mol. \nSci. 2021, 22, 11251. https://doi.org/10.3390/ijms222011251\nFetsiukh, A.; Conrad, J.; Bergquist, J.; Timmusk, S. Silica Particles Trigger the Exopolysaccharide Production of \nHarsh Environment Isolates of Growth-Promoting Rhizobacteria and Increase Their Ability to Enhance Wheat \nBiomass in Drought-Stressed Soils. Int. J. Mol. Sci. 2021, 22, 6201. https://doi.org/10.3390/ijms22126201."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author58> <biom12060834_makarova.owl#text> "We agree with some of the comments that you made. However, we would like to remind you that the \nmain purpose of this manuscript is not the complete elucidation of the EPS chemical structure but also \nthe optimization of the EPS production, and characterization of the EPS functional properties. At the \nsame time, we provided different chemical properties like: sugar identification and its molar ratio, \nmolecular weight, functional group analysis and thermal stability of the EPS, and this journal has \nrecently published other papers with similar or less chemical information on the EPS, for instance: \nKuo, H.-C.; Liu, Y.-W.; Lum, C.-C.; Hsu, K.-D.; Lin, S.-P.; Hsieh, C.-W.; Lin, H.-W.; Lu, T.-Y.; Cheng, K.-\nC. Ganoderma formosanum Exopolysaccharides Inhibit Tumor Growth via Immunomodulation. Int. J. Mol. \nSci. 2021, 22, 11251. https://doi.org/10.3390/ijms222011251\nFetsiukh, A.; Conrad, J.; Bergquist, J.; Timmusk, S. Silica Particles Trigger the Exopolysaccharide Production of \nHarsh Environment Isolates of Growth-Promoting Rhizobacteria and Increase Their Ability to Enhance Wheat \nBiomass in Drought-Stressed Soils. Int. J. Mol. Sci. 2021, 22, 6201. https://doi.org/10.3390/ijms22126201."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author58> <biom12060834_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author58> <biom12060834_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author59> <http://www.w3.org/2000/01/rdf-schema#label> "On the other side, we performed the 1D and 2D - NMR analysis as complementary information to the \nother techniques in the present work. Such analysis was performed to try to replace the traditional acid \nhydrolysis, methylation/acetylation and GC-MS used in glycoside analysis. On the opposite to NMR, \nwe do not have access to this analysis, and we could not find it as a service."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author59> <biom12060834_makarova.owl#text> "On the other side, we performed the 1D and 2D - NMR analysis as complementary information to the \nother techniques in the present work. Such analysis was performed to try to replace the traditional acid \nhydrolysis, methylation/acetylation and GC-MS used in glycoside analysis. On the opposite to NMR, \nwe do not have access to this analysis, and we could not find it as a service."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author59> <biom12060834_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author59> <biom12060834_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author60> <http://www.w3.org/2000/01/rdf-schema#label> "The HPLC and NMR results from the present work confirmed the heterogeneity of the EPS (3 different \nsugar moieties with different molar ratios), which agrees with the other reported mannan polysaccharides. The 1H and 13C NMR chemical shifts are comparable with literature reports of other similar EPS or oligosaccharides, where complex structures are identified by NMR too (Casillo et al.,2021; Chatterjee et al; 2018). Besides, our 2D-NMR analysis supported EPS heterogeneity, identifying different types of monomer linkages."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author60> <biom12060834_makarova.owl#text> "The HPLC and NMR results from the present work confirmed the heterogeneity of the EPS (3 different \nsugar moieties with different molar ratios), which agrees with the other reported mannan polysaccharides. The 1H and 13C NMR chemical shifts are comparable with literature reports of other similar EPS or oligosaccharides, where complex structures are identified by NMR too (Casillo et al.,2021; Chatterjee et al; 2018). Besides, our 2D-NMR analysis supported EPS heterogeneity, identifying different types of monomer linkages."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author60> <biom12060834_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author60> <biom12060834_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author61> <http://www.w3.org/2000/01/rdf-schema#label> "Your mention of the non-uniform peak intensity confirming the three different sugar units found. This \nis because the signal intensity of NMR peaks is related to an -H abundance. Different monomer \nratios are responsible for this variation and support our findings. Also, the 10 H1/H2 cross peaks \nobserved in the COSY spectra supported our findings of EPS heterogeneity, given the following facts: \n1) We found 3 different types of sugars by HPLC. 2) We identified by NMR at least 2 types of linkages \nα 1-2 Man-Man and alfa 1-4 Man-Man monosaccharides. 3) There are other 2 sugars for which the β-\ntype of linkage was identified but not the exact sugar position. 4) Anomeric protons shifts from units \nat the reducing end of polysaccharide differs from the one in another position. In conclusion, there are \ndifferent linkage possibilities (plus already identified) to different monosaccharides in different ring \npositions. This gives rise to a multiplicity of signals (not fully identified in this work), which could \nproduce different H1/H2 correlations."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author61> <biom12060834_makarova.owl#text> "Your mention of the non-uniform peak intensity confirming the three different sugar units found. This \nis because the signal intensity of NMR peaks is related to an -H abundance. Different monomer \nratios are responsible for this variation and support our findings. Also, the 10 H1/H2 cross peaks \nobserved in the COSY spectra supported our findings of EPS heterogeneity, given the following facts: \n1) We found 3 different types of sugars by HPLC. 2) We identified by NMR at least 2 types of linkages \nα 1-2 Man-Man and alfa 1-4 Man-Man monosaccharides. 3) There are other 2 sugars for which the β-\ntype of linkage was identified but not the exact sugar position. 4) Anomeric protons shifts from units \nat the reducing end of polysaccharide differs from the one in another position. In conclusion, there are \ndifferent linkage possibilities (plus already identified) to different monosaccharides in different ring \npositions. This gives rise to a multiplicity of signals (not fully identified in this work), which could \nproduce different H1/H2 correlations."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author61> <biom12060834_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author61> <biom12060834_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author62> <http://www.w3.org/2000/01/rdf-schema#label> "About the COSY spectrum discussion, only a minor and partial discussion is presented that can be \nfound below the Scheme in manuscript: “In the COSY spectrum, it was found its α-configuration by \nlow-field H-1 signal at δ 5.34 and correlated with H-2 (δ 4.0), H-6 (δ 3.98 and 3.85), and H-5 (δ 4.12) \n(Speciale et al., 2022).”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author62> <biom12060834_makarova.owl#text> "About the COSY spectrum discussion, only a minor and partial discussion is presented that can be \nfound below the Scheme in manuscript: “In the COSY spectrum, it was found its α-configuration by \nlow-field H-1 signal at δ 5.34 and correlated with H-2 (δ 4.0), H-6 (δ 3.98 and 3.85), and H-5 (δ 4.12) \n(Speciale et al., 2022).”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author62> <biom12060834_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author62> <biom12060834_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author63> <http://www.w3.org/2000/01/rdf-schema#label> "Regarding the TOCSY and HMBC mentioned in the methods, they are now deleted from the \nmanuscript, as suggested."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author63> <biom12060834_makarova.owl#text> "Regarding the TOCSY and HMBC mentioned in the methods, they are now deleted from the \nmanuscript, as suggested."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author63> <biom12060834_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author63> <biom12060834_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author64> <http://www.w3.org/2000/01/rdf-schema#label> "Finally, we kindly request the reviewer to consider that this is the first approach to studying a Chilean \nhot spring EPS isolation and its functional characterization. We also mention that further work to fully \nreveal this EPS structure will be necessary using higher resolution NMR spectra combined with \nchemical techniques. This work has given partial structural elucidation, which can be considered a \nprevious background for other research on this topic."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author64> <biom12060834_makarova.owl#text> "Finally, we kindly request the reviewer to consider that this is the first approach to studying a Chilean \nhot spring EPS isolation and its functional characterization. We also mention that further work to fully \nreveal this EPS structure will be necessary using higher resolution NMR spectra combined with \nchemical techniques. This work has given partial structural elucidation, which can be considered a \nprevious background for other research on this topic."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author64> <biom12060834_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author64> <biom12060834_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biom12060834_makarova.owl#author65> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biom12060834_makarova.owl#author65> <biom12060834_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author65> <biom12060834_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biom12060834_makarova.owl#author65> <biom12060834_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

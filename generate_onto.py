@@ -23,6 +23,9 @@ def json2owl(name):
         class round(AnnotationProperty, FunctionalProperty):
             pass
 
+        class text(AnnotationProperty, FunctionalProperty):
+            pass
+
         class number(AnnotationProperty, FunctionalProperty):
             pass
         
@@ -33,7 +36,7 @@ def json2owl(name):
             for argument, text in arguments.items():
                 argument = argument.split('.')
                 inst = Cl()
-                inst.label = text
+                inst.text = text
                 inst.round = argument[1]
                 inst.number = argument[2]
 
