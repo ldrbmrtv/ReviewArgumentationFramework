@@ -36,7 +36,7 @@ with onto:
         rel = [x.label[0] for x in rel]
         edges.append(rel)
 
-color_scale = 'Viridis'
+color_scale = 'Plasma'
 sides_set = set(sides)
 colors_set = sample_colorscale(color_scale, len(sides_set))
 color_map = {}
@@ -90,7 +90,7 @@ node_trace = go.Scatter(
     textposition = 'top center',
     customdata = templates,
     hovertemplate = '%{customdata}<extra></extra>',
-    marker = dict(size = 12,
+    marker = dict(size = 20,
                   line_width = 2,
                   line_color = borders),
     showlegend = False)
