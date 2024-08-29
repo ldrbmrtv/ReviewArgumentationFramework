@@ -5,9 +5,9 @@ from generate_onto import json2owl
 
 if __name__ == '__main__':
 
-    path = 'mdpi_annotated'
-    review = 'toxins14060409'
-    annotation = 'toxins14060409_perova'
+    path = ''
+    review = ''
+    annotation = 'JLC_reviews'
     file = os.path.join(path, review, annotation, f'{annotation}.csv')
     name = file.split('.')[0]
 

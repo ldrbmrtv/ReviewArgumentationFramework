@@ -1,18 +1,78 @@
 {
-  "Annotator0: average number of argument sets": 3.41,
-  "Annotator0: average number of author's arguments": 22.24,
-  "Annotator0: average number of reviewers' arguments": 9.35,
-  "Annotator0: average length of argument chains": 2.95,
-  "Annotator0: average number of author's admissible arguments": 21.77,
-  "Annotator0: average number of reviewers' admissible arguments": 0.42,
-  "Annotator0: average if author's extension preferable": 1.0,
-  "Annotator1: average number of argument sets": 3.41,
-  "Annotator1: average number of author's arguments": 21.36,
-  "Annotator1: average number of reviewers' arguments": 8.69,
-  "Annotator1: average length of argument chains": 2.98,
-  "Annotator1: average number of author's admissible arguments": 20.92,
-  "Annotator1: average number of reviewers' admissible arguments": 0.39,
-  "Annotator1: average if author's extension preferable": 0.99,
+  "Annotator0: number of argument sets": [
+    3.41,
+    0.71
+  ],
+  "Annotator0: number of author's arguments": [
+    22.24,
+    14.62
+  ],
+  "Annotator0: total number of reviewers' arguments": [
+    21.99,
+    14.66
+  ],
+  "Annotator0: average number of reviewers' arguments": [
+    9.35,
+    6.24
+  ],
+  "Annotator0: length of argument chains": [
+    2.95,
+    0.08
+  ],
+  "Annotator0: number of author's admissible arguments": [
+    21.77,
+    14.59
+  ],
+  "Annotator0: total number of reviewers' admissible arguments": [
+    1.06,
+    2.2
+  ],
+  "Annotator0: average number of reviewers' admissible arguments": [
+    0.42,
+    0.66
+  ],
+  "Annotator0: paper in complete extension": [
+    0.53,
+    0.5
+  ],
+  "Annotator0: total papers accepted": "47",
+  "Annotator1: number of argument sets": [
+    3.41,
+    0.69
+  ],
+  "Annotator1: number of author's arguments": [
+    21.36,
+    14.96
+  ],
+  "Annotator1: total number of reviewers' arguments": [
+    20.4,
+    14.02
+  ],
+  "Annotator1: average number of reviewers' arguments": [
+    8.69,
+    6.08
+  ],
+  "Annotator1: length of argument chains": [
+    2.98,
+    0.07
+  ],
+  "Annotator1: number of author's admissible arguments": [
+    20.92,
+    14.92
+  ],
+  "Annotator1: total number of reviewers' admissible arguments": [
+    0.95,
+    2.68
+  ],
+  "Annotator1: average number of reviewers' admissible arguments": [
+    0.39,
+    0.89
+  ],
+  "Annotator1: paper in complete extension": [
+    0.7,
+    0.46
+  ],
+  "Annotator1: total papers accepted": "62",
   "Correlation in number of argument sets": 0.95,
   "Correlation in number of author's arguments": 0.96,
   "Correlation in average number of reviewers' arguments": 0.96,

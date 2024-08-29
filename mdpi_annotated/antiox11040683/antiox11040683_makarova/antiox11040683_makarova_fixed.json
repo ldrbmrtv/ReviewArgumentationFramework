@@ -1,0 +1,75 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "The figures should be improved in quality so the work would take on another aspect.",
+      "Reviewer_1.1.2": "Figure 7b is not very credible, when U937 become macrogphages adhere to the plate and assume the morphology of a macrophage. the figure is not clear and not well visible.",
+      "Reviewer_1.1.3": "The authors should also show the flow cytometers panels related to cd68 and cd14.",
+      "Reviewer_1.3.1": "The authors have now addressed all my major initial comments."
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Small comment, the supplementary Fig. S4B would need some compensation work....this would be better to correct before final approval for publication ( up to editor).",
+      "Reviewer_2.1.2": "Also the gating strategy on Fig. 4d ( is going in right direction), what I am missing here is the exclusion of dead cells?)"
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "The data presented by the authors are robust and interesting but are based on a single AML cell line, which is not a bonafide AML cell line (derived from the pleural effusion of a 37-year-old, White, male patient with histiocytic lymphoma, according to ATCC)."
+    },
+    "Author": {
+      "Author.2.1": "In order to address your feedback fully, we felt it necessary to split Figure 7. The data contained in the original Figure 7 is now split between Figure 7 (deals with CD14 and CD68 only) and Figure 8 (deals with CD11b and CD36).",
+      "Author.2.2": "Fig 7b. We have removed the Giemsa images and replaced with phase contrast images to better show cell morphology under our light microscope. We also include representative flow cytometric overlayed histograms, which display CD14 and CD68 expression changes between our Vector control and WT / CXXS BCAT1 cells. Included on these histograms is the mean fold MFI change (ratio).",
+      "Author.2.3": "Fig S4B. This is fully compensated.",
+      "Author.2.4": "Fig 4d. This is going in the correct direction.",
+      "Author.2.5": "Thank you for taking time to review are work and for giving us the opportunity to comment on the use of U937 cells as a limitation for the work presented. We have included a section dedicated to addressing this in the discussion section, along with supporting references.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ]
+  ]
+}

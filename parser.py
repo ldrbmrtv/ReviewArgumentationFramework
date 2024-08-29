@@ -40,6 +40,7 @@ def csv2json(name):
             if row['Attacks'] != '0':
                 if int(row['Round']) > 1:
                     print(name)
+                print(row['Side'])
                 rev_i = int(row['Side'].split('_')[1])
                 n_args_before = 0
                 for i in range(1, rev_i):

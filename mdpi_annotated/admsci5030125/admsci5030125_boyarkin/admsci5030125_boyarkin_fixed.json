@@ -1,0 +1,185 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "My principle concern is with the logical construction of the paper. Each of these departures undermines the authors\u2019 claims of validating the CIRA method. Given the number and apparent scope of adaptations of the CIRA method, I am not sure that I am more familiar with CIRA or its advantages having read the paper than I was previously.",
+      "Reviewer_1.1.2": "While the authors describe the process as a case study, the procedure they use is a table top exercise. Rather than developing a case through research, interviews, or observation, they presented a stylized scenario to academic peers for discussion. Given their process, the claim to validate the methodology is incorrect.",
+      "Reviewer_1.1.3": "I would recommend re-formatting the paper as a pedagogical tool. Rather than claiming to validate the method, focus on a detailed step by step examination of its implementation using a known outcome.",
+      "Reviewer_1.1.4": "As a separate recommendation, the paper needs smoother transitions between topics on pages 2-7. The authors should add one or two lines smoothing the flow for the reader, rather than relying on subject headings"
+    },
+    "Author": {
+      "Author.2.1": "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.2.2": "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.2.3": "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.2.4": "I have tried to address your principle concern by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.2.5": "I have tried to improve the information density of the paper from being to verbiose",
+      "Author.2.6": "I have added the results of the stakeholder analysis to improve the communication our view of the PRP.",
+      "Author.2.7": "I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.2.8": "I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.2.9": "I have tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.2.10": "I have elaborated on all the areas you commented, and clarified the CIRA methodology and hopefully my contribution",
+      "Author.2.11": "Thank you for comments on the grammar issues, these are now fixed. Abbrevation issues should be fixed.",
+      "Author.2.12": "I have also tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.2.13": "I have also tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.2.14": "I have also tried to address your other concerns by improving the scope of the work, revising the method section, results, discussion and conclusion.",
+      "Author.4.1": "I have included all your suggested changes together with a major spellcheck.",
+      "Author.4.2": "I have included all your suggested changes together with a major spellcheck.",
+      "Author.0.0": "Paper"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "The paper is on the one hand quite verbose, but with respect to the peer review incomplete. Possible risks in peer review are many more than the ones listed in Table 3.",
+      "Reviewer_2.1.2": "The line of reasoning in the paper is not easy to follow.",
+      "Reviewer_2.1.3": "The paper can become stronger if it limits itself to the Peer Review Ring Incident and will look at the various aspects of that scenario including risk reducing measures.",
+      "Reviewer_2.1.4": "The role of the journal editor is to my experience much stronger than depicted.",
+      "Reviewer_2.1.5": "Much of what is analyzed and concluded is rather obvious.",
+      "Reviewer_2.1.6": "It didn't become clear to me as a reader where the specific results of the 13 steps of the CIRA application are and where these are described. What are the conclusions about the root cause? Or are there multiple root causes? And what definition of root cause is used?",
+      "Reviewer_2.1.7": "There are flaws in the English singular/plural verb grammar. ",
+      "Reviewer_2.3.1": "Few minor linguistic glitches have been indicated by annotations in the text."
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "However, the originality level and based on that, the contribution of your research/work is not too clear. The way you conducted your literature review, the existing work has not been completely explained in order for readers to see what the novelty/originality of your study/research is.",
+      "Reviewer_3.1.2": "Regarding section 2, literature review should usually be structured with explicitly stating what types of methodologies have already been developed/are existing in the context of what you studied or conducted your research on.",
+      "Reviewer_3.1.3": "there is not enough explanation about the CIRA and the person(s) who developed this method. Also there is not enough clarification and elaboration on the differences of your work on CIRA and your customizations comparing to the original methodology.",
+      "Reviewer_3.1.4": "There are some consistency issues in your writing. This does not look professional in scientific papers.\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "Reviewer_3.1.5": "There are some typos, punctuations and grammatical errors in the paper",
+      "Reviewer_3.3.1": "There is a need for some editing; e.g. grammatical and punctuation corrections, elements in\nthe text."
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Reviewer_2.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.1",
+      "Reviewer_2.3.1"
+    ],
+    [
+      "Reviewer_3.3.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.4.2",
+      "Reviewer_3.3.1"
+    ]
+  ]
+}

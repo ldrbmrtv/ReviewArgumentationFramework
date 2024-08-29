@@ -20,6 +20,9 @@ def json2owl(name):
         class isAttackedBy(ObjectProperty):
             inverse_property = attacks
 
+        class text(AnnotationProperty, FunctionalProperty):
+            pass
+
         class round(AnnotationProperty, FunctionalProperty):
             pass
 
@@ -30,16 +33,18 @@ def json2owl(name):
         argument_sets = data['argument_sets']
         for argument_set, arguments in argument_sets.items():
             Cl = types.new_class(argument_set, (Thing,))
+            Cl.label = argument_set
             for argument, text in arguments.items():
-                argument = argument.split('.')
                 inst = Cl()
-                inst.label = text
+                inst.label = argument
+                argument = argument.split('.')
+                inst.text = text
                 inst.round = argument[1]
                 inst.number = argument[2]
 
         attack_pairs = data['attack_pairs']
         for pair in attack_pairs:
-            print(pair)
+            #print(pair)
             argument1 = pair[0].split('.')
             argument1 = onto.search_one(is_a = onto[argument1[0]],
                                         round = argument1[1],
@@ -86,6 +91,6 @@ def json2owl(name):
     onto.save(f'{name}.owl', format = 'ntriples')
     with onto:
         sync_reasoner_pellet(infer_property_values = True,
-                             debug = 2)
+                             debug = 0)
     onto.save(f'{name}_inferred.owl', format = 'ntriples')
     onto.destroy()

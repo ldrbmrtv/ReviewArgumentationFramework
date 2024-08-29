@@ -1,0 +1,37 @@
+Side;Opponent;Round;Number;Attacks;Text
+Reviewer_1;Author;1;1;0;Q1.1: How are the arguments identified from the reviews?
+Reviewer_1;Author;1;2;0;Q1.2: How are the relations (the attacks) between arguments identified?
+Reviewer_1;Author;1;3;0;Q2.1: How does the tool deal with this case? It is not addressed later on.
+Reviewer_1;Author;1;4;0;Q2.2: Isn't it the case that the article should be rejected if the root argument is not contained in the extension? I thought the root argument P represents paper acceptance?
+Reviewer_1;Author;1;5;0;Q3: Why was no existing solver for argumentation frameworks used (a lot of research has been dedicated to efficient solver design, see comment above)? What is the specific benefit of using OWL DL?
+Reviewer_1;Author;1;6;0;What is the specific benefit of using OWL DL?
+Reviewer_1;Author;1;7;0;Paragraph 1 and 2 from 2.1 read more like part of the introduction.
+Reviewer_1;Author;1;8;0;Page 4: AIF is positioned as the most common argument representation. I suggest to tone it down a little bit. There are several formats which claim to be the gold standard for abstract argumentation, e.g., the format used in the ICCMA competition (International Competition on Computational Models of Argumentation), see [3], is quite established.
+Reviewer_1;Author;1;9;0;second paragraph in 3.2: very long sentence, could be made shorter
+Reviewer_1;Author;1;10;0;"second paragraph in 3.3: I do not really understand ""without loss of meaning"". Can you specify this/give examples?"
+Reviewer_1;Author;1;11;0;"third paragraph in 3.3: ""no computational guarantees."" -- can you make this more precise?"
+Reviewer_1;Author;1;12;0;"last paragraph at page 8: ""largest number of elements"" -- a preferred extension is subset-maximal, not cardinality-maximal. the sentence is misleading."
+Reviewer_2;Author;1;1;0;The problem of considering disputes through abstract argumentation frameworks and the proposal of a method for representing such disputes in OWL DL that allows resolving them with reasoning has already been investigated by the same authors in [2, reference in the paper]. In [2],  an algorithm for generating the OWL DL representation having argument sets and attack relations as input is proposed. The proposed approach is given in Section 4 (Method), where the algorithms in Section 4.1 (Representation of Abstract Argumentation Frameworks in OWL DL) are from [2]. The new (1 page) material in Section 4.2 (Formalizing Peer Review with Abstract Argumentation Frameworks) is quite vague and leaves several questions open---see additional comments below. Then, the content of Section 4.3 (Representing Argumentation Frameworks for Peer Review in OWL DL) is again from [2] but specialized to the use case considered in the paper. Overall, the paper proposes formalizing reviews with a simple AF and then applies the approach proposed in [2] by providing some experiments.
+Reviewer_2;Author;1;2;0;"The formalization of peer review with abstract argumentation frameworks is unclear and poorly-motivated. It seems that the argumentation frameworks that can be obtained are acyclic. But this is in contrast with using the (multiple-status) preferred semantics, which coincides with the (single-status) grounded semantics on acyclic frameworks. Also, the motivation for focusing on credulous acceptance is not clear, especially if the considered context is modeled in a so simple way that there is only one preferred extension (in several points in the paper, ""the preferred extension"" is mentioned). Still, the preferred extension is maximal (w.r.t. set-inclusion) admissible extension as said in Definition 5. But the algorithm focuses on ""which of the subsets has the largest number of elements and hence is the preferred extension"". In general, there may be several preferred extensions of different cardinality. Overall the motivation for choosing credulous acceptance under preferred semantics remains unclear."
+Reviewer_2;Author;1;3;0;The experimental results do not help to validate the proposed approach. They just show that there is a proof of concept that has been developed and run. It is unclear if dispute resolution can effectively be automatized by the proposed approach. The average number of authors’ arguments is almost equal to teh average number of authors’ acceptable arguments, meaning that almost all authors' arguments are accepted, while reviewers' arguments are almost all rejected.
+Reviewer_2;Author;1;4;0;"The presentation should be improved. Besides the unclear statements concerning the above-mentioned issues, several concepts are introduced without appropriate explanations (e.g. ""There I is an interpretation function and ∆ is a domain."" in the background section)."
+Author;Reviewer_1;2;1;1;"The dataset was manually annotated. We explicitly detailed it in the paragraph ""Formalization"" in Section 5"
+Author;Reviewer_1;2;2;2;"The dataset was manually annotated. We explicitly detailed it in the paragraph ""Formalization"" in Section 5"
+Author;Reviewer_1;2;3;3;"The description of method is Subsection 4.2 ""Formalizing Peer Review with Abstract Argumentation
+Frameworks"" is updated. A paper should be accepted if the root argument representing it is acceptable."
+Author;Reviewer_1;2;4;4;"It is. The description of method is Subsection 4.2 ""Formalizing Peer Review with Abstract Argumentation
+Frameworks"" is updated."
+Author;Reviewer_1;2;5;5;"Section 2 ""Related Work"" was extended with Subsection 2.1 ""Argumentation Solvers""."
+Author;Reviewer_1;2;6;6;"Subsection 2.3 ""Argument Representation"" is updated to answer this question."
+Author;Reviewer_1;2;7;7;These paragraphs disuss related work on peer review, thus, we suppose, they are suitable for a Related Work section
+Author;Reviewer_1;2;8;8;"Subsection 2.3 ""Argument Representation"" is updated accordingly."
+Author;Reviewer_1;2;9;9;The paragraph is rewritten.
+Author;Reviewer_1;2;10;10;The paragraph is rewritten.
+Author;Reviewer_1;2;11;11;The paragraph is rewritten.
+Author;Reviewer_1;2;12;12;"The paragraph 3.1 ""Abstract Argumentation Frameworks"" is updated.
+Frameworks"" is updated. A paper should be accepted if the root argument representing it is acceptable."
+Author;Reviewer_2;2;13;1;"To make the distinction between previous work and contributions of the present paper, we moved the descirpition of the general approach for representing AFs in OWL DL presented in [2] (now [4]) into Section 3 ""Background"". Additionally, we added an explicit declaration of the present paper contributions as paragraph 5 in the Introduction."
+Author;Reviewer_2;2;14;2;"We updated Subsection 4.2 ""Formalizing Peer Review with Abstract Argumentation
+Frameworks""  and added Subsection 4.3 ""Graph-theoretic Analysis of Peer Review Argumentation Frameworks"" to address these concerns."
+Author;Reviewer_2;2;15;3;"We updated Section 5 ""Evaluation"" to address these concerns."
+Author;Reviewer_2;2;16;4;We (hopefully) improved the overall presentation of the paper.

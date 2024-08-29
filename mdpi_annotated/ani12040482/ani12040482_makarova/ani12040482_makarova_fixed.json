@@ -1,0 +1,814 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "A catchy topic, but its content  is unoriginal, bringing nothing new to the pre-pandemic science. ",
+      "Reviewer_1.1.2": "It seems that the authors of this study have already tackled this topic exhaustively in their previous articles.",
+      "Reviewer_1.1.3": "The entire first paragraph of Discussion repeats what has already been written in earlier chapters (line 372-379).",
+      "Reviewer_1.1.4": "Line 382-384   \u201eTo our  knowledge, this is the first empirical evidence to show a link between changes in dogs\u2019  leaving routines and risk of SRBs.\u201d The authors have hardly studied all the publications on how dogs behave when daily routines were changed, so the term \"first study\" is exaggerated.",
+      "Reviewer_1.1.5": "Line 444 \u201eThis study has provided a unique and valuable insight into\u2026..\u201d  the authors also mark their only unique role in the study, which does not bring new content.",
+      "Reviewer_1.1.6": "Final decision: reject.",
+      "Reviewer_1.3.1": "Manuscript has been slightly improved, but my comments were not included. My final decision: reject"
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Abstract/simple summary: These are clear and well detailed. My only suggestion is that making it clear why February and October were chosen as survey-points may be beneficial.",
+      "Reviewer_2.1.2": "Introduction: This is clear and in general provides a good background to the topic (bar a couple of points where more expansion would be beneficial).",
+      "Reviewer_2.1.3": "Aa little more mention of issues of SRBs from owner perspective (e.g. noise complaints and issues with housing; property damage; decline of human-pet bond) could be beneficial (line 56-57).",
+      "Reviewer_2.1.4": "It may be helpful to discuss why there is poor owner adherence to programmes to reduce SRB (Line 66-67).",
+      "Reviewer_2.1.5": "I wasn't sure if line 79-80 was needed- about dogs having returned to pre-pandemic pattern,  I think it is a little dismissive of your own research which is valuable and applicable beyond the pandemic.",
+      "Reviewer_2.1.6": "Line 96-97- some more detail on the findings of these various surveys would be beneficial similarly to Bowen's study, just so provide a clear background/discussion of literature setting scene for your study.",
+      "Reviewer_2.1.7": "Methods: This is generally well-detailed. It may be beneficial to make it clear why cut off of 'at least 5 mins' was used, e.g. justification for this/why this time duration used.",
+      "Reviewer_2.1.8": "Line 131: There was an error with referencing wanted to flag.",
+      "Reviewer_2.1.9": "Study periods: It may be useful to spell out a little more here why these survey periods were chosen here, this is covered elsewhere but think could be made clearer here and earlier.",
+      "Reviewer_2.1.10": "Figure 1- Perhaps just double-check this is referred to in the text. Think either way this figure would benefit a bit of context on why was included/what was showing in context of this study as currently info is a bit generic and didn't totally tie into people's working from home etc.",
+      "Reviewer_2.1.11": "Results: These were generally well-detailed with clear layout considering scope of results. However, I don't think the figures were referred to in the text (unless that was the errors highlighted below?)",
+      "Reviewer_2.1.12": "There were some errors where reference source not found  which would want to look into (line 246; 265; 274; 292; 305; 323 etc).",
+      "Reviewer_2.1.13": "Line 366-369= I'm not sure it's totally fair to interpret this (the dog not always bringing toy when greeting them) as an anthropomorphic interpretation on the part of the owner",
+      "Reviewer_2.1.14": "Discussion: The results are appropriately discussed though perhaps more discussion about further study would be beneficial.",
+      "Reviewer_2.1.15": "I felt the discussion about changes in greeting behaviour as an early indicator was interesting and could be expanded.",
+      "Reviewer_2.1.16": "Some more detail on the application of the findings to practitioners/owners would be beneficial. "
+    },
+    "Reviewer_3": {
+      "Reviewer_3.1.1": "P1 L29 and P3 L112 the present tense \u201creduce\u201d sounds strange to me here. I would suggest \r\n\u201creduced\u201d since you are looking at changes that have already occurred",
+      "Reviewer_3.1.2": "P6 L176 I am assuming you excluded dogs that were not left alone in February (or were there none?) ",
+      "Reviewer_3.1.3": "P10 L307-308 Could you make this a positive statement to show highlight the impact of amount of \r\nchange on SRB: Dogs whose days left alone per week increased the most\u2026If the data support that \r\nangle, I think it\u2019s a stronger statement than what is written. ",
+      "Reviewer_3.1.4": "Larger issues: I would like to see the authors address a few different angles in the discussion \r\n1. That dogs showing SRB prior to lockdown were more likely to show it after. Suggests the behavior \r\nis fairly robust and dogs having shown it at one point continue to be at risk (without knowing what \r\ninterventions were taken) ",
+      "Reviewer_3.1.5": "Can you address the dogs that improved between Feb and Oct? You report the number of new \r\ndogs showing SRB but can you report on dogs that went the other way? What was the actual # and \r\n%? This comparison seems essential\u2014if some dogs get worse but some get better, than the \r\nargument that changes due to COVID might bring about new SRB becomes weaker. It seems you \r\nhave compared within dogs that showed SRB in baseline and other models for dogs that did not. \r\nSeems a comparison between SRB- (baseline) \u2192 SRB + (post lockdown) and SRB + (baseline) \u2192 SRB- \r\n(post lockdown) dogs is critical and missing.",
+      "Reviewer_3.1.6": "One of the challenges in this is we don\u2019t know background rates of change for dogs with SRB. That \r\nis, would the same % of dogs changed (in either direction) regardless of changes in owner \r\nschedules? We might see some dogs become sensitized over time and develop SRB (or something \r\nelse changes in their life to precipitate it), while others might habituate or their behavior undergo \r\nextinction. As such, we can\u2019t say for certain that these changes are due to changes in owner schedule. You note that the pseudo-R2 was small but I think you could go into more details and note \r\nthe possibility that it was unrelated too. However, your results that the greater the change \u2192 the \r\ngreater the new risk of SRB does lend support to the idea that this change in management might be \r\na factor. I would suggest highlighting and discussing this outcome more.\r\n"
+    },
+    "Reviewer_4": {
+      "Reviewer_4.1.1": "Title: change \u201cLeaving Pattern\u201d to \u201cTime Spent Away\u201d; leaving pattern is less clear (it could be frequency of leaving each day)",
+      "Reviewer_4.1.2": "Line 27: change \u201creduced\u201d to \u201cdecreased\u201d.",
+      "Reviewer_4.1.3": "Line 29: change \u201cdogs whose leaving hours reduce most\u201d to \u201cdogs whose time left alone decreased most\u201d.",
+      "Reviewer_4.1.4": "Line 30: change \u201cleaving hours increase again\u201d to \u201ctime left alone increased again\u201d.",
+      "Reviewer_4.1.5": "Line 214: if possible (might not be possible if this was how it was phrased in the survey), change \u201cdifferent to before\u201d to \u201cdifferent from before\u201d.",
+      "Reviewer_4.1.6": "Lines 383-384: Change \u201cdogs\u2019 leaving routines\u201d to \u201cdogs\u2019 time left alone\u201d.",
+      "Reviewer_4.1.7": "Line 151: how was the criterion of \u201cat least 5 minutes\u201d chosen? My main question when reading this section concerned how owners would know that certain separation-related behaviors occurred when they were away? ",
+      "Reviewer_4.1.8": "Also, I might have missed it, but did all of these owners live alone with their dog(s), meaning no other people in the household? If other people were present, did all of them have to be away or just the dog\u2019s owner? This information might be presented in your other paper, but it would be good to include this basic information here as well, so readers can better understand your methods and findings.",
+      "Reviewer_4.1.9": "Line 166: define \u201cdevolved nations\u201d for readers unfamiliar with the term.",
+      "Reviewer_4.1.10": "Figure 2: should the blank box for \u201cFeb, Not at all\u201d be 0.0%?",
+      "Reviewer_4.1.11": "Figure 4 is not called out in the text of the Results section.",
+      "Reviewer_4.1.12": "I believe Animals requires a Conclusions section.",
+      "Reviewer_4.1.13": "Line 35: insert \u201cof\u201d after 9.9%",
+      "Reviewer_4.1.14": "Line 100: insert \u201cthe\u201d after \u201cin\u201d",
+      "Reviewer_4.1.15": "An error message occurred in several places (e.g., line 131, line 246, line 265).",
+      "Reviewer_4.1.16": "Line 148: change \u201cfocusses\u201d to \u201cfocuses\u201d.",
+      "Reviewer_4.1.17": "Line 355: delete the first \u201cthe\u201d.",
+      "Reviewer_4.1.18": "Line 461: change \u201conto\u201d to \u201con to\u201d."
+    },
+    "Reviewer_5": {
+      "Reviewer_5.1.1": "However, currently, the paper seems too long, and it goes into too much detail about how the pandemic took place in the UK.",
+      "Reviewer_5.1.2": "This information would have been interesting if data on the mood, stress level, general mental health of the owners had also been collected in connection with the pandemic and the links with dog behaviour have been investigated.",
+      "Reviewer_5.1.3": "Therefore, the detailed description of the pandemic is unnecessary and could be moved to the Supplemental material, together with Figure 1.",
+      "Reviewer_5.1.4": "What is surprising though is that 55.7% of the dogs who were reported to show SRB in February (before the pandemic) were clear in October which is good news. However, the authors do not focus on this result and do not explain this finding.",
+      "Reviewer_5.1.5": "L18-20 \u201eWhether dogs showed SRBs or not changed considerably over the months of the study, and one in ten dogs were found to have developed new SRBs in October, that they didn\u2019t show before the pandemic\u201d. Overall, the percentage of dogs showing SRBs decreased during the study, and this should be clarified in the sentence above. ",
+      "Reviewer_5.1.6": "L22 and elsewhere: dogs\u2019 \u201cleaving time\u201d or \u201cleaving hours\u201d. I think this expression is misleading because it is not the dogs that have left home, but the owners.",
+      "Reviewer_5.1.7": "L33 10th instead of \u201c10th\u201d.",
+      "Reviewer_5.1.8": "L45 Separation behaviour, separation-related behaviour, separation distress, separation anxiety terms are used interchangeably throughout the text, although these terms do not necessarily describe the same behaviours. Please provide a clear definition of the behaviour aimed to study and stick to one term.",
+      "Reviewer_5.1.9": "L92 delete the comma after Bowen et al.\u2019s.",
+      "Reviewer_5.1.10": "L92-92 28.5% of dogs reported to have SRPs \u2013 this is a much higher number than mentioned in previous studies and needs to be discussed.",
+      "Reviewer_5.1.11": "L118 Materials and Methods.This section (after the Ethics) should begin with the Subjects section.",
+      "Reviewer_5.1.12": "L127-137 The dates of data collections have been already mentioned in L121-126, so there is no need for repeating them. The whole section is not relevant to the main question.",
+      "Reviewer_5.1.13": "L131-132 and elsewhere: (Error! Reference source not found.) This error occurs 7 times in the text, please correct.",
+      "Reviewer_5.1.14": "L148 Please explain why a periof of 7 days were asked to be reported.",
+      "Reviewer_5.1.15": "L165-167 Figure 1. This Figure should be moved to the Supplement material as it tells nothing about the dogs\u2019 behaviour.",
+      "Reviewer_5.1.16": "L216-218 \u201cThe text was then coded by two researchers\u201d. I could not find agreement data reported later.",
+      "Reviewer_5.1.17": "L238 Do the authors have information about the Owner demographics? What was the proportion of females? Was there a relationship between age and leaving hours? Or explain why this information has not been used.",
+      "Reviewer_5.1.18": "L232-242 These sections should be moved to the Materials and Methods as a \u201cSubjects\u201d section",
+      "Reviewer_5.1.19": "L232 How many owners have filled in the questionnaire altogether?",
+      "Reviewer_5.1.20": "L232  What was the proportion of owners who did not leave their dog at home before the pandemic?",
+      "Reviewer_5.1.21": "L232 Why were they excluded?",
+      "Reviewer_5.1.22": "L232 What was the proportion of owners who indicated that they would like to participate in the follow-up study?",
+      "Reviewer_5.1.23": "L232 Among them, what was the proportion of owners who has not responded to the request afterward?",
+      "Reviewer_5.1.24": "L278-280 \u201cThere were 1,407 dogs who were clear of SRB at baseline in February 2020. When looking at SRB status in October, of 1,187 dogs who were left alone in October, 117 (9.9%) were reported to have shown at least one SRB\u201d. In other words, 1407/1807 (78%) of dogs were clear of SRB in February and 90.1% in October. This is good news, and it is unclear for me why is it reported as bad news.",
+      "Reviewer_5.1.25": "L285 Figure 4. This is a great figure, thank you for including it. However, an explanation would be useful for those readers who are not familiar with this type of depicting.",
+      "Reviewer_5.1.26": "L291 The odds ratio (OR) is 5.38 and not 4.38 in Table 1.",
+      "Reviewer_5.1.27": "L293-295 \u201cThe final variable associated with October SRB status was the difference in the number of days dogs were left alone for between the February baseline and lockdown\u201d. OR was 0.81 here. Please explain the relationship between the variables.",
+      "Reviewer_5.1.28": "L298 Table 1 legend: Add what bold indicates.",
+      "Reviewer_5.1.29": "L307 The odds ratio (OR) is 4.97 in Table 1 and not 3.60.",
+      "Reviewer_5.1.30": "L314 Table 2: bold is not used here although it was used in Table 1.",
+      "Reviewer_5.1.31": "L333 table 3: same: bold is not used here.",
+      "Reviewer_5.1.32": "L382 Please refer to Flannigan and Dodman (2001) here (owner\u2019s work schedule affects separation problems). Flannigan, G., & Dodman, N. H. (2001). Risk factors and behaviors associated with separation anxiety in dogs. Journal of the American Veterinary Medical Association, 219(4), 460-466.",
+      "Reviewer_5.1.33": "L395-397 \u201cThis value is likely to be an underestimate\u201d.The underestimation has already occurred during the baseline."
+    },
+    "Author": {
+      "Author.2.1": "The content of the two papers Reviewer 1 mentions here focussed on the impact of the pandemic on management changes in dogs and on dog owner experiences at a single time point during the most restrictive \u2018lockdown\u2019. The current paper is different to either of these, and indeed any other published paper, in that it focusses on changes in separation related behaviour over time, across two different surveys in a longitudinal cohort",
+      "Author.2.2": "The paper is about separation-related behaviour, not about the pandemic. ",
+      "Author.2.3": "Yes, this was purposeful, it provides a summary of the aims & methods to introduce the discussion as not everyone reads papers in a linear fashion. We have not made any changes based on this statement.",
+      "Author.2.4": "There is a difference between something that is considered to be \u201cwell-known\u201d or folk-knowledge and demonstrable evidence. The sentence quoted here is not untrue, or exaggerated, however, if the Editor wishes us to explore this further, we would kindly request the Reviewer provide us with examples of publications where this has been empirically demonstrated, as we have not found any in our own searches.",
+      "Author.2.5": "Given the lack of constructive feedback in these statements, no changes have been made based on these comments.",
+      "Author.2.6": "Thank you, in line 16 and 32 we have added \u201cwhen restrictions had eased\u201d to explain why we surveyed in October 2020.",
+      "Author.2.7": "Thank you, we have now expanded this to read: \u201cIn addition to being a welfare concern for the dog, \r\nSRBs are often unwanted or problematic for the owner and/or neighbours such as in the case of excessive vocalisation, which may lead to noise complaints, or in terms of house soiling and destruction of property, which may be particularly problematic for people living in rental accommodation. In such cases, these issues may increase risk of relinquishment [7]\u201d (see new lines 56-59)\r\n",
+      "Author.2.8": "Thank you, we have now expanded this to read: \u201cIn addition to being a welfare concern for the dog, \r\nSRBs are often unwanted or problematic for the owner and/or neighbours such as in the case of excessive vocalisation, which may lead to noise complaints, or in terms of house soiling and destruction of property, which may be particularly problematic for people living in rental accommodation. In such cases, these issues may increase risk of relinquishment [7]\u201d (see new lines 56-59)\r\n",
+      "Author.2.9": "The following text has now been added beginning at line 69: \u201cWhilst the precise reasons for poor adherence to advice for preventing or reducing SRBs have not been documented, it is at least partly attributed to the relative difficulty of adhering to specific aspects of these programmes, with the easier \r\npieces of advice followed more often than the parts that take more commitment and consideration [13].\u201d\r\n",
+      "Author.2.10": "Thank you for your comment, I think we were pre-judging that people would think it was just another covid paper, and we are glad to see you agree with us that it is valuable beyond the pandemic. This line has now been deleted. ",
+      "Author.2.11": "The findings were all extremely similar, so it felt quite repetitive to discuss them all. We actually had more detail in an early draft then trimmed it out. However, we have now added some more of this detail as requested (see lines 100 to 112), whilst trying to limit repetition. ",
+      "Author.2.12": "We presumed that at some point owners would pop out of the house, to take out the bin or go to the \r\ngarage etc.. Such leaving events are likely to be experienced differently by some dogs, as the owners \r\nwon\u2019t likely give off the same cues as when they leave for an extended period of time, such as picking \r\nup house keys, or leaving through a different door. This has been explained now in lines 179-83.\r\n",
+      "Author.2.13": "Thank you, this seemed ok when we submitted it, but must have gone wrong when uploaded but we\u2019ve corrected it now.\r\n",
+      "Author.2.14": "We\u2019ve amended description of the study periods in a few places, including between lines 132-142, which we hope addresses this query now. ",
+      "Author.2.15": "One of the other reviewers also commented on this and asked for Figure 1 and much of the text to be moved to the supplemental material, so this has been done now. It\u2019s also further explained in the supplementary material how it links to working and in lines 140-142 in the main text which now explains that many businesses were open again in October.",
+      "Author.2.16": "This was due to the errors you mentioned below. We used the Word automatic referencing and \r\nsomehow that seemed to get broken when the document was uploaded to the online system. It\u2019s \r\nbeen done manually now. ",
+      "Author.2.17": "See above.\r\n",
+      "Author.2.18": "Agreed, this was how we interpreted why the owner was reporting this change. We have rephrased \r\nthis section now.",
+      "Author.2.19": "Thank you for your review. We have expanded the discussion to address these points, however due \r\nto another reviewer saying the paper was already too long, we have kept this brief. A section detailing \r\nrelevance to practitioners has been added to lines 545-551.",
+      "Author.2.20": "Thank you for your review. We have expanded the discussion to address these points, however due \r\nto another reviewer saying the paper was already too long, we have kept this brief. A section detailing \r\nrelevance to practitioners has been added to lines 545-551.",
+      "Author.2.21": "Thank you for your review. We have expanded the discussion to address these points, however due \r\nto another reviewer saying the paper was already too long, we have kept this brief. A section detailing \r\nrelevance to practitioners has been added to lines 545-551.",
+      "Author.2.22": "Thank you, this edit has been applied.",
+      "Author.2.23": "Yes, this is correct. This is stated in line 232-233 or the original submission, but it seems we omitted it from the Methods section. Thank you for spotting that. Text has been added to lines 198-200 to explain this.",
+      "Author.2.24": "Within the results table (Table 2) the direction of the estimate for this result is negative. Whilst we \r\nagree that it would be more impactful worded the other way around, we worry that changing the \r\nway it is described won\u2019t match up to the data as it was coded and reported. We haven\u2019t changed \r\nthis wording for these reasons. ",
+      "Author.2.25": "Yes, and no, depending on your perspective. Whilst this was a significant predictor in the modelling, \r\nin reality 55% of dogs that were being left again changed from SRB+ to SRB-. So whilst 45% of dogs \r\nstill showed it, a large proportion did not. ",
+      "Author.2.26": "Thank you for these thoughtful comments, we agree that we were a bit overly focussed on the \r\nresults that supported the studies hypothesis and neglected to discuss the findings related to the \r\ndogs whose SRB appeared to have resolved. The number and percentage are detailed in the results \r\nsection (lines 282-283 of the original submission and 298-298 in this one), but we failed to discuss \r\nthese in the Discussion. We ran two models, one focussing on the dogs who started SRB- to see how \r\nmany changed to SRB+ or remained SRB- and what factors influenced this, and the other focussing \r\non dogs that started SRB+ to see what factors influence whether they changed to SRB- or remained \r\nSRB+. These models therefore, cover the comparisons you suggest (unless we\u2019ve misinterpreted \r\nyour comments). We have now added some discussion of the dogs who began the pandemic SRB+ \r\nhowever, as this was lacking from the first version (see the paragraph beginning at line 524). ",
+      "Author.2.27": "Thank you for this comment, we have discussed this further in the Discussion now (see lines 517-\r\n523)",
+      "Author.2.28": "Thank you, we have changed the title to: Impact of changes in time left alone on separation-related behaviour in UK pet dogs",
+      "Author.2.29": "Thank you, this edit has been applied.",
+      "Author.2.30": "Thank you, this edit has been applied",
+      "Author.2.31": "Thank you, this edit has been applied.",
+      "Author.2.32": "This is how it was phrased in the survey, so this has not been changed",
+      "Author.2.33": "Thank you, this edit has been applied.\r\n",
+      "Author.2.34": "It seemed unfeasible to expect a dog to never be left for even a minute or two, for example if the \r\nowner pops outside to take out the bin or to get something from the garage/shed etc. ",
+      "Author.2.35": "The wording given to the owners is all presented here, and in the supplementary material. No further \r\ndefinitions for behaviours or vocalisations were given. Pined, whined and cried were all mentioned, as \r\nall are words owner tend to use to describe similar dog vocalisations. As with all owner awareness of \r\nSRBs, it is fundamentally challenging unless they use recording equipment to view their dogs when \r\nthey leave them or are otherwise able to view their dogs when alone such as by looking through a \r\nwindow. As this is a limitation of the method used, the appropriate place to mention this would be in \r\nthe Discussion, not the Methods, so we have not discussed this limitation there. ",
+      "Author.2.36": "The wording of the question asked about the dog being left alone, without human company (see line \r\n173), so it applied to anyone, and specifically meant when no-human was present in the house with \r\nthe dog. ",
+      "Author.2.37": "This has now been explained, however this section has been moved entirely to the supplementary \r\nmaterial on request of other reviewers. ",
+      "Author.2.38": "Not strictly speaking, no. Dogs who were not left in February were excluded from the analysis. So, \r\nwhilst there are 0 of them, that\u2019s because of methodological choice not because there weren\u2019t any \r\ndogs left alone. A note explaining this has been added to the figure legend. ",
+      "Author.2.39": "There were issues in the figure referencing when we uploaded the manuscript to the submission system. This has now been corrected.",
+      "Author.2.40": "For some reason I was convinced I\u2019d read it was optional for longer discussions, but having double \r\nchecked, you are indeed correct. Thank you. A brief conclusion section has now been added. ",
+      "Author.2.41": "Thank you, we have corrected the typo.\r\n",
+      "Author.2.42": "Thank you, we have corrected the typo",
+      "Author.2.43": "Thank you, this seemed ok until the manuscript was uploaded but we\u2019ve corrected it now",
+      "Author.2.44": "Thank you, we\u2019ve corrected the typo.\r\n",
+      "Author.2.45": "This has been corrected",
+      "Author.2.46": "Thank you, we\u2019ve corrected the typo.\r\n",
+      "Author.2.47": "Thank you for your comments. The detail was provided to anchor the study in the background of what \r\nwas occurring at the time, but we agree it is not necessary to the reader to see in the main text. These \r\ndetails and Figure 1 have been moved to the Supplementary material. ",
+      "Author.2.48": "Thank you for your comments. The detail was provided to anchor the study in the background of what \r\nwas occurring at the time, but we agree it is not necessary to the reader to see in the main text. These \r\ndetails and Figure 1 have been moved to the Supplementary material. ",
+      "Author.2.49": "Thank you for your comments. The detail was provided to anchor the study in the background of what \r\nwas occurring at the time, but we agree it is not necessary to the reader to see in the main text. These \r\ndetails and Figure 1 have been moved to the Supplementary material. ",
+      "Author.2.50": "We agree this was completely missed from the Discussion. It wasn\u2019t intentional, we were just overly \r\nfocussed on the results that related to the research hypothesis. Discussion around this has been \r\nadded now to lines 524-544.",
+      "Author.2.51": "Agreed, we have altered this part of the simple summary and abstract and included discussion of this \r\nin lines 539-544 now as well as into the conclusions, thank you.",
+      "Author.2.52": "Thank you! Leaving time has been changed throughout to \u2018time left alone\u2019\r\n",
+      "Author.2.53": "Thank you, we\u2019ve corrected the typo.\r\n",
+      "Author.2.54": "Thank you for pointing this out. We define SRB in the opening lines of the Introduction (45-50), \r\nhowever you are right that in places the terms can get confusing. Section 3.7.3. details behaviours \r\nowners reported as associated with separation, that are not what class as SRBs. Those were names \r\n\u2018other\u2019 separation behaviour but this has now been clarified, hopefully, by remaining the section \r\n\u2018Other\u2019 separation-linked behaviour, and then in the text it is now stated they are not SRBs. The term \r\n\u2018separation anxiety\u2019 was used in the introduction where it referenced a study that used that specific \r\nterm. This has now been put into quote marks to be clear it is their term, not ours. The one mention of \r\nseparation-distress has also now been changed. ",
+      "Author.2.55": "Thank you, we\u2019ve corrected the typo.\r\n",
+      "Author.2.56": "This has now been discussed further in lines 98-100.",
+      "Author.2.57": "This has now been moved to the beginning of the methods section. ",
+      "Author.2.58": "Agreed, this has been amended and condensed, thank you.",
+      "Author.2.59": "Thank you, this seemed ok until the manuscript was uploaded but we\u2019ve corrected it now",
+      "Author.2.60": "We asked about the dogs\u2019 management and behaviour over the previous 7 days so as to limit recall \r\nbias and anchor the data to a specific snapshot of time, rather than being more general. This was first \r\nasked for the first survey which was specifically looking at changes in management and behaviour \r\nduring the strict lockdown period, so needed to be time specific. Questions were then repeated in the \r\nfollow-up survey. Wording has been added to lines 165-169 now to clarify this.",
+      "Author.2.61": "This has been done now.",
+      "Author.2.62": "Thank you for spotting this, we have updated both the methods (L243-247) and results section (L370-\r\n374) with further detail of inter-rater reliability checks.",
+      "Author.2.63": "At the end of survey 1 there was the option for people to provide their demographic details, which not \r\neveryone did. This was done to conform to GDPR by asking only the most necessary questions. \r\nGiven that the research question here is related to the dogs\u2019 behaviour change over time versus \r\nleaving hours, it wasn\u2019t deemed relevant to include analysis of the owner demographics. ",
+      "Author.2.64": "This has now been done.\r\n",
+      "Author.2.65": "For the purpose of this study it was required that we had baseline data on the dogs\u2019 leaving behaviour \r\nso that we could classify them as SRB+ or \u2013 before the pandemic began. Owners of dogs who were \r\nnot left alone in a typical week in February, were not asked about their dogs\u2019 separation-related \r\nbehaviour, so we did not have these data for them which is why they were excluded. New text has \r\nbeen added to the Subjects section of the methodology to explain how many owners answered the \r\nfollow up questionnaire, the response rate and what percentage and number of dogs were not left \r\nhome alone before the pandemic. The new section beginning at line 146 now reads: \u201cA total of 2,425 \r\npeople completed the follow-up survey for the same dog they scored in the original survey (a 51.9% \r\nresponse rate), of which 2,285 had previously provided data to indicate whether their dog was left \r\nalone or not in February 2020. Of these, 15.3% dogs (n=305) were not left alone at all in an average \r\nweek in February, and as such, these dogs did not have baseline data for their behaviour when left so \r\nwere excluded from further analysis.\u201d Additionally, the number of people we emailed the invitation to \r\n(n=4,670) has been added to line 139.\r\n",
+      "Author.2.66": "For the purpose of this study it was required that we had baseline data on the dogs\u2019 leaving behaviour \r\nso that we could classify them as SRB+ or \u2013 before the pandemic began. Owners of dogs who were \r\nnot left alone in a typical week in February, were not asked about their dogs\u2019 separation-related \r\nbehaviour, so we did not have these data for them which is why they were excluded. New text has \r\nbeen added to the Subjects section of the methodology to explain how many owners answered the \r\nfollow up questionnaire, the response rate and what percentage and number of dogs were not left \r\nhome alone before the pandemic. The new section beginning at line 146 now reads: \u201cA total of 2,425 \r\npeople completed the follow-up survey for the same dog they scored in the original survey (a 51.9% \r\nresponse rate), of which 2,285 had previously provided data to indicate whether their dog was left \r\nalone or not in February 2020. Of these, 15.3% dogs (n=305) were not left alone at all in an average \r\nweek in February, and as such, these dogs did not have baseline data for their behaviour when left so \r\nwere excluded from further analysis.\u201d Additionally, the number of people we emailed the invitation to \r\n(n=4,670) has been added to line 139.\r\n",
+      "Author.2.67": "For the purpose of this study it was required that we had baseline data on the dogs\u2019 leaving behaviour \r\nso that we could classify them as SRB+ or \u2013 before the pandemic began. Owners of dogs who were \r\nnot left alone in a typical week in February, were not asked about their dogs\u2019 separation-related \r\nbehaviour, so we did not have these data for them which is why they were excluded. New text has \r\nbeen added to the Subjects section of the methodology to explain how many owners answered the \r\nfollow up questionnaire, the response rate and what percentage and number of dogs were not left \r\nhome alone before the pandemic. The new section beginning at line 146 now reads: \u201cA total of 2,425 \r\npeople completed the follow-up survey for the same dog they scored in the original survey (a 51.9% \r\nresponse rate), of which 2,285 had previously provided data to indicate whether their dog was left \r\nalone or not in February 2020. Of these, 15.3% dogs (n=305) were not left alone at all in an average \r\nweek in February, and as such, these dogs did not have baseline data for their behaviour when left so \r\nwere excluded from further analysis.\u201d Additionally, the number of people we emailed the invitation to \r\n(n=4,670) has been added to line 139.\r\n",
+      "Author.2.68": "For the purpose of this study it was required that we had baseline data on the dogs\u2019 leaving behaviour \r\nso that we could classify them as SRB+ or \u2013 before the pandemic began. Owners of dogs who were \r\nnot left alone in a typical week in February, were not asked about their dogs\u2019 separation-related \r\nbehaviour, so we did not have these data for them which is why they were excluded. New text has \r\nbeen added to the Subjects section of the methodology to explain how many owners answered the \r\nfollow up questionnaire, the response rate and what percentage and number of dogs were not left \r\nhome alone before the pandemic. The new section beginning at line 146 now reads: \u201cA total of 2,425 \r\npeople completed the follow-up survey for the same dog they scored in the original survey (a 51.9% \r\nresponse rate), of which 2,285 had previously provided data to indicate whether their dog was left \r\nalone or not in February 2020. Of these, 15.3% dogs (n=305) were not left alone at all in an average \r\nweek in February, and as such, these dogs did not have baseline data for their behaviour when left so \r\nwere excluded from further analysis.\u201d Additionally, the number of people we emailed the invitation to \r\n(n=4,670) has been added to line 139.\r\n",
+      "Author.2.69": "For the purpose of this study it was required that we had baseline data on the dogs\u2019 leaving behaviour \r\nso that we could classify them as SRB+ or \u2013 before the pandemic began. Owners of dogs who were \r\nnot left alone in a typical week in February, were not asked about their dogs\u2019 separation-related \r\nbehaviour, so we did not have these data for them which is why they were excluded. New text has \r\nbeen added to the Subjects section of the methodology to explain how many owners answered the \r\nfollow up questionnaire, the response rate and what percentage and number of dogs were not left \r\nhome alone before the pandemic. The new section beginning at line 146 now reads: \u201cA total of 2,425 \r\npeople completed the follow-up survey for the same dog they scored in the original survey (a 51.9% \r\nresponse rate), of which 2,285 had previously provided data to indicate whether their dog was left \r\nalone or not in February 2020. Of these, 15.3% dogs (n=305) were not left alone at all in an average \r\nweek in February, and as such, these dogs did not have baseline data for their behaviour when left so \r\nwere excluded from further analysis.\u201d Additionally, the number of people we emailed the invitation to \r\n(n=4,670) has been added to line 139.\r\n",
+      "Author.2.70": "For the 1407 dogs who were clear of SRB in February, they changed from being 100% clear to being \r\n90.1% clear, with 1 in 10 of these dogs developing SRB they didn\u2019t have previously. However, \r\nbecause of the dramatic improvement seen in the dogs that had SRB before the pandemic, the \r\noverall prevalence of SRB in the population decreased from 22% in February, to 17.2% in October \r\n(reported in the paragraph above). The numbers have been clarified in this section to help future \r\nreaders, and additional discussion has been added around the overall decrease in SRB prevalence in \r\nboth the abstract and in the discussion (lines 524-544).\r\n",
+      "Author.2.71": "Thank you, we\u2019re glad you liked it! Further explanation to help interpret the figure has now been \r\nadded.\r\n",
+      "Author.2.72": "Thank you for spotting that!\r\n",
+      "Author.2.73": "This was explained further down in the section on the multi-variable model, but I have now moved the \r\nexplanation to here, where it\u2019s first mentioned and added some additional text also.",
+      "Author.2.74": "Thank you, this has been added now. ",
+      "Author.2.75": "Thank you! Looks like I read the z-value when I was typing. I promise this has been proof read, but it\u2019s \r\nso easy to miss things, thank you so much!\r\n",
+      "Author.2.76": "Since there were no non-significant variables it wasn\u2019t necessary to distinguish the results. ",
+      "Author.2.77": "This has been corrected, thank you.",
+      "Author.2.78": "Thank you for this, we were familiar with the paper but had missed that link. New text has been added \r\nhere now to discuss this. ",
+      "Author.2.79": "Agreed, this has been explicitly stated here now. ",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_1.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.14",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.15",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.16",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_3.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.14",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.15",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.16",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.17",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_4.1.18",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.2",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.3",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.4",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.5",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.6",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.7",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.8",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.9",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.10",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.11",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.12",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.13",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.14",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.15",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.16",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.17",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.18",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.19",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.20",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.21",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.22",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.23",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.24",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.25",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.26",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.27",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.28",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.29",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.30",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.31",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.32",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_5.1.33",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.2"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.3"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.4"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_1.1.5"
+    ],
+    [
+      "Author.2.6",
+      "Reviewer_2.1.1"
+    ],
+    [
+      "Author.2.7",
+      "Reviewer_2.1.2"
+    ],
+    [
+      "Author.2.8",
+      "Reviewer_2.1.3"
+    ],
+    [
+      "Author.2.9",
+      "Reviewer_2.1.4"
+    ],
+    [
+      "Author.2.10",
+      "Reviewer_2.1.5"
+    ],
+    [
+      "Author.2.11",
+      "Reviewer_2.1.6"
+    ],
+    [
+      "Author.2.12",
+      "Reviewer_2.1.7"
+    ],
+    [
+      "Author.2.13",
+      "Reviewer_2.1.8"
+    ],
+    [
+      "Author.2.14",
+      "Reviewer_2.1.9"
+    ],
+    [
+      "Author.2.15",
+      "Reviewer_2.1.10"
+    ],
+    [
+      "Author.2.16",
+      "Reviewer_2.1.11"
+    ],
+    [
+      "Author.2.17",
+      "Reviewer_2.1.12"
+    ],
+    [
+      "Author.2.18",
+      "Reviewer_2.1.13"
+    ],
+    [
+      "Author.2.19",
+      "Reviewer_2.1.14"
+    ],
+    [
+      "Author.2.20",
+      "Reviewer_2.1.15"
+    ],
+    [
+      "Author.2.21",
+      "Reviewer_2.1.16"
+    ],
+    [
+      "Author.2.22",
+      "Reviewer_3.1.1"
+    ],
+    [
+      "Author.2.23",
+      "Reviewer_3.1.2"
+    ],
+    [
+      "Author.2.24",
+      "Reviewer_3.1.3"
+    ],
+    [
+      "Author.2.25",
+      "Reviewer_3.1.4"
+    ],
+    [
+      "Author.2.26",
+      "Reviewer_3.1.5"
+    ],
+    [
+      "Author.2.27",
+      "Reviewer_3.1.6"
+    ],
+    [
+      "Author.2.28",
+      "Reviewer_4.1.1"
+    ],
+    [
+      "Author.2.29",
+      "Reviewer_4.1.2"
+    ],
+    [
+      "Author.2.30",
+      "Reviewer_4.1.3"
+    ],
+    [
+      "Author.2.31",
+      "Reviewer_4.1.4"
+    ],
+    [
+      "Author.2.32",
+      "Reviewer_4.1.5"
+    ],
+    [
+      "Author.2.33",
+      "Reviewer_4.1.6"
+    ],
+    [
+      "Author.2.34",
+      "Reviewer_4.1.7"
+    ],
+    [
+      "Author.2.35",
+      "Reviewer_4.1.7"
+    ],
+    [
+      "Author.2.36",
+      "Reviewer_4.1.8"
+    ],
+    [
+      "Author.2.37",
+      "Reviewer_4.1.9"
+    ],
+    [
+      "Author.2.38",
+      "Reviewer_4.1.10"
+    ],
+    [
+      "Author.2.39",
+      "Reviewer_4.1.11"
+    ],
+    [
+      "Author.2.40",
+      "Reviewer_4.1.12"
+    ],
+    [
+      "Author.2.41",
+      "Reviewer_4.1.13"
+    ],
+    [
+      "Author.2.42",
+      "Reviewer_4.1.14"
+    ],
+    [
+      "Author.2.43",
+      "Reviewer_4.1.15"
+    ],
+    [
+      "Author.2.44",
+      "Reviewer_4.1.16"
+    ],
+    [
+      "Author.2.45",
+      "Reviewer_4.1.17"
+    ],
+    [
+      "Author.2.46",
+      "Reviewer_4.1.18"
+    ],
+    [
+      "Author.2.47",
+      "Reviewer_5.1.1"
+    ],
+    [
+      "Author.2.48",
+      "Reviewer_5.1.2"
+    ],
+    [
+      "Author.2.49",
+      "Reviewer_5.1.3"
+    ],
+    [
+      "Author.2.50",
+      "Reviewer_5.1.4"
+    ],
+    [
+      "Author.2.51",
+      "Reviewer_5.1.5"
+    ],
+    [
+      "Author.2.52",
+      "Reviewer_5.1.6"
+    ],
+    [
+      "Author.2.53",
+      "Reviewer_5.1.7"
+    ],
+    [
+      "Author.2.54",
+      "Reviewer_5.1.8"
+    ],
+    [
+      "Author.2.55",
+      "Reviewer_5.1.9"
+    ],
+    [
+      "Author.2.56",
+      "Reviewer_5.1.10"
+    ],
+    [
+      "Author.2.57",
+      "Reviewer_5.1.11"
+    ],
+    [
+      "Author.2.58",
+      "Reviewer_5.1.12"
+    ],
+    [
+      "Author.2.59",
+      "Reviewer_5.1.13"
+    ],
+    [
+      "Author.2.60",
+      "Reviewer_5.1.14"
+    ],
+    [
+      "Author.2.61",
+      "Reviewer_5.1.15"
+    ],
+    [
+      "Author.2.62",
+      "Reviewer_5.1.16"
+    ],
+    [
+      "Author.2.63",
+      "Reviewer_5.1.17"
+    ],
+    [
+      "Author.2.64",
+      "Reviewer_5.1.18"
+    ],
+    [
+      "Author.2.65",
+      "Reviewer_5.1.19"
+    ],
+    [
+      "Author.2.66",
+      "Reviewer_5.1.20"
+    ],
+    [
+      "Author.2.67",
+      "Reviewer_5.1.21"
+    ],
+    [
+      "Author.2.68",
+      "Reviewer_5.1.22"
+    ],
+    [
+      "Author.2.69",
+      "Reviewer_5.1.23"
+    ],
+    [
+      "Author.2.70",
+      "Reviewer_5.1.24"
+    ],
+    [
+      "Author.2.71",
+      "Reviewer_5.1.25"
+    ],
+    [
+      "Author.2.72",
+      "Reviewer_5.1.26"
+    ],
+    [
+      "Author.2.73",
+      "Reviewer_5.1.27"
+    ],
+    [
+      "Author.2.74",
+      "Reviewer_5.1.28"
+    ],
+    [
+      "Author.2.75",
+      "Reviewer_5.1.29"
+    ],
+    [
+      "Author.2.76",
+      "Reviewer_5.1.30"
+    ],
+    [
+      "Author.2.77",
+      "Reviewer_5.1.31"
+    ],
+    [
+      "Author.2.78",
+      "Reviewer_5.1.32"
+    ],
+    [
+      "Author.2.79",
+      "Reviewer_5.1.33"
+    ],
+    [
+      "Reviewer_1.3.1",
+      "Author.0.0"
+    ]
+  ]
+}

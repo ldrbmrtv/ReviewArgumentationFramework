@@ -1,0 +1,48 @@
+{
+  "argument_sets": {
+    "Reviewer_1": {
+      "Reviewer_1.1.1": "It is known that HSA can bind RNA and DNA and has RNA hydrolyzing activity. In this way your experiment in par 2.2. may lead to not all RNA after incubation with such amount of albumin. That is why some of your effects may have other explanations. "
+    },
+    "Reviewer_2": {
+      "Reviewer_2.1.1": "Cefiderocol is a cidal antibiotic. It would be of great interest if for the key results the authors would also provide MBC and / or time-resolved kill-curves. I believe this kind of data would be of great relevance for assessing the clinical relevance of the observed effects."
+    },
+    "Author": {
+      "Author.2.1": "This is not the case; HSA and the other fluids tested as inductors were added to the growth medium (LB) medium, and the cells were allowed to grow in these conditions for 5 h at 37\u00baC. After that, the cells were collected, and RNA was extracted. Since HSA does not reach the cytosol, at least not in an intact manner, hydrolysis seems not possible during cell growth.",
+      "Author.2.2": "It is also worth mentioning that the presence of HSA in the growth medium produced a reduction only in some mRNA species. These results speak against an unspecific hydrolyzing effect.",
+      "Author.2.3": "We also want to underscore that all RNA samples were checked after extraction. Agarose gels electrophoresis confirmed the integrity of RNA and lack of DNA contamination. ",
+      "Author.2.4": "Finally, the article provided by the reviewer describes HSA hydrolysis of extracellular, not intracellular, RNA.",
+      "Author.2.5": "A follow-up project that will be submitted for publication in the near future extends the studies of the effects produced by human fluids, and their components will include the experiments demonstrating a bactericidal effect of cefiderocol.",
+      "Author.0.0": "Paper"
+    }
+  },
+  "attack_pairs": [
+    [
+      "Reviewer_1.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Reviewer_2.1.1",
+      "Author.0.0"
+    ],
+    [
+      "Author.2.1",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.2",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.3",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.4",
+      "Reviewer_1.1.1"
+    ],
+    [
+      "Author.2.5",
+      "Reviewer_2.1.1"
+    ]
+  ]
+}
