@@ -5,6 +5,8 @@
 <cosmetics2030248_perova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <cosmetics2030248_perova.owl#isAttackedBy> .
 <cosmetics2030248_perova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <cosmetics2030248_perova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<cosmetics2030248_perova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<cosmetics2030248_perova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <cosmetics2030248_perova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <cosmetics2030248_perova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <cosmetics2030248_perova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -777,102 +779,102 @@ _:19701 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:19705 .
 _:19705 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:19703 .
 _:19705 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
 <cosmetics2030248_perova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:19704 .
-<cosmetics2030248_perova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "Some errors in the legend of Figure 4, such as EM/PHYT/BHT, EM/PHYT is not presented in\n Figure 4."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_11> <cosmetics2030248_perova.owl#text> "Some errors in the legend of Figure 4, such as EM/PHYT/BHT, EM/PHYT is not presented in\n Figure 4."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_11> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_11> <cosmetics2030248_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "In Figure 4, the results is represented in three times or signal one or other times. Therefore, you\n must rewritten the legend of Figure 4."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_12> <cosmetics2030248_perova.owl#text> "In Figure 4, the results is represented in three times or signal one or other times. Therefore, you\n must rewritten the legend of Figure 4."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_12> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_12> <cosmetics2030248_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "We recommend “galenic” can be changed to herbaceous, because galenic is not usually to see for\n non-professional fields or general cosmetics reader."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_21> <cosmetics2030248_perova.owl#text> "We recommend “galenic” can be changed to herbaceous, because galenic is not usually to see for\n non-professional fields or general cosmetics reader."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_21> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_21> <cosmetics2030248_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "Less a parenthesis at line 132."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_22> <cosmetics2030248_perova.owl#text> "Less a parenthesis at line 132."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_22> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_22> <cosmetics2030248_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "At line 160, “Figureure” should be “Figure.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_23> <cosmetics2030248_perova.owl#text> "At line 160, “Figureure” should be “Figure.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_23> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_23> <cosmetics2030248_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "At line 161 mentioned Tonset DCS, but does not explain what this word mean."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_24> <cosmetics2030248_perova.owl#text> "At line 161 mentioned Tonset DCS, but does not explain what this word mean."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_24> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_24> <cosmetics2030248_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "In Table II, Tonset DCS is a units of temperature, it should be used comma instead of decimal point."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_25> <cosmetics2030248_perova.owl#text> "In Table II, Tonset DCS is a units of temperature, it should be used comma instead of decimal point."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_25> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_25> <cosmetics2030248_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_26> <http://www.w3.org/2000/01/rdf-schema#label> "At line 167, “donateis” is typically used to represent donate money, we proposed change to be\n “provide”, in additional, this sentence is not fluent at grammar."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_26> <cosmetics2030248_perova.owl#text> "At line 167, “donateis” is typically used to represent donate money, we proposed change to be\n “provide”, in additional, this sentence is not fluent at grammar."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_26> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_26> <cosmetics2030248_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_27> <http://www.w3.org/2000/01/rdf-schema#label> "The sentence in line 168 is not fluent at grammar."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_27> <cosmetics2030248_perova.owl#text> "The sentence in line 168 is not fluent at grammar."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_27> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_27> <cosmetics2030248_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_28> <http://www.w3.org/2000/01/rdf-schema#label> "At line 189, it dors (does) not have sample named EBL, it needs to be check again."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_28> <cosmetics2030248_perova.owl#text> "At line 189, it dors (does) not have sample named EBL, it needs to be check again."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_28> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_28> <cosmetics2030248_perova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_29> <http://www.w3.org/2000/01/rdf-schema#label> "Integration of all the above problems, this post Journal does not provide future applications of phytic\n acid in cosmetics and its title is mentioned in herbal lotion but the experiment did not use any herb\n emulsion formulation. For the antioxidant capacity of phytic acid only do the experiment of DPPH that\n has not more in-depth study. Lot of grammatical errors is found in sentences. So we suggested to big\n modifications, then returned for review."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_29> <cosmetics2030248_perova.owl#text> "Integration of all the above problems, this post Journal does not provide future applications of phytic\n acid in cosmetics and its title is mentioned in herbal lotion but the experiment did not use any herb\n emulsion formulation. For the antioxidant capacity of phytic acid only do the experiment of DPPH that\n has not more in-depth study. Lot of grammatical errors is found in sentences. So we suggested to big\n modifications, then returned for review."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_29> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_29> <cosmetics2030248_perova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_210> <http://www.w3.org/2000/01/rdf-schema#label> "From the experimental results that phytic acid will decrease the thermal stability of the emulsion, but\n at line 220 mention that phytic acid has the effect of lipid peroxidation and therefore can be added as an\n anti-oxidant in the emulsion. So we recommend authors to describe these two points much clearer."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_210> <cosmetics2030248_perova.owl#text> "From the experimental results that phytic acid will decrease the thermal stability of the emulsion, but\n at line 220 mention that phytic acid has the effect of lipid peroxidation and therefore can be added as an\n anti-oxidant in the emulsion. So we recommend authors to describe these two points much clearer."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_210> <cosmetics2030248_perova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_210> <cosmetics2030248_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_31> <http://www.w3.org/2000/01/rdf-schema#label> "The conclusions reported are very short and poor. More discussion of the presented results is\n needed."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_31> <cosmetics2030248_perova.owl#text> "The conclusions reported are very short and poor. More discussion of the presented results is\n needed."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_31> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_31> <cosmetics2030248_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_32> <http://www.w3.org/2000/01/rdf-schema#label> "The authors missed to report other authors’ studies which agree or disagree with their findings."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_32> <cosmetics2030248_perova.owl#text> "The authors missed to report other authors’ studies which agree or disagree with their findings."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_32> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_32> <cosmetics2030248_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_33> <http://www.w3.org/2000/01/rdf-schema#label> "What is the output of this study? What are the implications in the use of PA in galenic/cosmetic\n formulations?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_33> <cosmetics2030248_perova.owl#text> "What is the output of this study? What are the implications in the use of PA in galenic/cosmetic\n formulations?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_33> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_33> <cosmetics2030248_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#reviewer_34> <http://www.w3.org/2000/01/rdf-schema#label> "What are the suggestions of the authors about the use of PA in Cosmetics based on their results?\n And what the parameters and the tricks that the formulators should be aware of while using PA in\n their products?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#reviewer_34> <cosmetics2030248_perova.owl#text> "What are the suggestions of the authors about the use of PA in Cosmetics based on their results?\n And what the parameters and the tricks that the formulators should be aware of while using PA in\n their products?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_34> <cosmetics2030248_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#reviewer_34> <cosmetics2030248_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "All the corrections are highlighted in yellow. Corrected the legend of Figure 4\n (EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author1> <cosmetics2030248_perova.owl#text> "All the corrections are highlighted in yellow. Corrected the legend of Figure 4\n (EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author1> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author1> <cosmetics2030248_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "The errors were corrected in text on page 09. (EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author2> <cosmetics2030248_perova.owl#text> "The errors were corrected in text on page 09. (EM/HPHYT/BHT, EM/HPHYT, ET/HPHYT)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author2> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author2> <cosmetics2030248_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "All the corrections are highlighted in red. The “galenic” was mentioned in the article due to\n physician Claudio Galeno, which created the first creams formulations. Therefore we decided to change\n galenic to cosmetic."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author3> <cosmetics2030248_perova.owl#text> "All the corrections are highlighted in red. The “galenic” was mentioned in the article due to\n physician Claudio Galeno, which created the first creams formulations. Therefore we decided to change\n galenic to cosmetic."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author3> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author3> <cosmetics2030248_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "Inserted parenthesis at line 132 (Tpeak = 48.17 °C)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author4> <cosmetics2030248_perova.owl#text> "Inserted parenthesis at line 132 (Tpeak = 48.17 °C)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author4> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author4> <cosmetics2030248_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "Corrected at line 160 “Figureure” to “Figure”."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author5> <cosmetics2030248_perova.owl#text> "Corrected at line 160 “Figureure” to “Figure”."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author5> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author5> <cosmetics2030248_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "This abbreviation is widely use in Thermal analysis. We specified in the text (the extrapolated\n peak onset temperature (TonsetDSC)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author6> <cosmetics2030248_perova.owl#text> "This abbreviation is widely use in Thermal analysis. We specified in the text (the extrapolated\n peak onset temperature (TonsetDSC)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author6> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author6> <cosmetics2030248_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "We removed the units of temperature from the Table."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author7> <cosmetics2030248_perova.owl#text> "We removed the units of temperature from the Table."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author7> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author7> <cosmetics2030248_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "We changed “donate” to provide and the other word donor to provider."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author8> <cosmetics2030248_perova.owl#text> "We changed “donate” to provide and the other word donor to provider."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author8> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author8> <cosmetics2030248_perova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "We changed this sentence."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author9> <cosmetics2030248_perova.owl#text> "We changed this sentence."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author9> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author9> <cosmetics2030248_perova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "The sample´s name corrected (EM/BL) at line 189."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author10> <cosmetics2030248_perova.owl#text> "The sample´s name corrected (EM/BL) at line 189."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author10> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author10> <cosmetics2030248_perova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "We integrated all the problems and correct he errors."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author11> <cosmetics2030248_perova.owl#text> "We integrated all the problems and correct he errors."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author11> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author11> <cosmetics2030248_perova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "All the corrections are highlighted in green. We expanded the discussion of the results on pages 7,\n 10 and the conclusion on page 11 (item 4)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author12> <cosmetics2030248_perova.owl#text> "All the corrections are highlighted in green. We expanded the discussion of the results on pages 7,\n 10 and the conclusion on page 11 (item 4)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author12> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author12> <cosmetics2030248_perova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "As mentioned in this paper, there are few studies related to the phytic acid in cosmetic products.\n However we added more references regarding about phytic acid antioxidant activity. References 24, 25\n and 26."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author13> <cosmetics2030248_perova.owl#text> "As mentioned in this paper, there are few studies related to the phytic acid in cosmetic products.\n However we added more references regarding about phytic acid antioxidant activity. References 24, 25\n and 26."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author13> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author13> <cosmetics2030248_perova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "We mentioned in the text more information about incorporation of phytic acid into emulsion on\n Thermal Analysis results, DPPH results and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author14> <cosmetics2030248_perova.owl#text> "We mentioned in the text more information about incorporation of phytic acid into emulsion on\n Thermal Analysis results, DPPH results and conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author14> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author14> <cosmetics2030248_perova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "Regarding with this queries we improved the discussion in the results on page 7. But we need to\n study more about."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author15> <cosmetics2030248_perova.owl#text> "Regarding with this queries we improved the discussion in the results on page 7. But we need to\n study more about."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author15> <cosmetics2030248_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author15> <cosmetics2030248_perova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "We described these two points more clearly. The thermal analysis technique applies high\n temperatures in the samples due to this thermal stability of the emulsion associated with phytic\n acid decreased."^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author16> <cosmetics2030248_perova.owl#text> "We described these two points more clearly. The thermal analysis technique applies high\n temperatures in the samples due to this thermal stability of the emulsion associated with phytic\n acid decreased."^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author16> <cosmetics2030248_perova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author16> <cosmetics2030248_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<cosmetics2030248_perova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<cosmetics2030248_perova.owl#author17> <cosmetics2030248_perova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author17> <cosmetics2030248_perova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <cosmetics2030248_perova.owl#author17> <cosmetics2030248_perova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

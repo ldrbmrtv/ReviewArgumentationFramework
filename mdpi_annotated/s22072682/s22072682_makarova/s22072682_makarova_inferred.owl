@@ -5,6 +5,8 @@
 <s22072682_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <s22072682_makarova.owl#isAttackedBy> .
 <s22072682_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <s22072682_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<s22072682_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<s22072682_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <s22072682_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <s22072682_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <s22072682_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -527,66 +529,66 @@ _:46134 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/199
 <s22072682_makarova.owl#reviewer_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <s22072682_makarova.owl#Reviewer_2ConflictFree> .
 <s22072682_makarova.owl#reviewer_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <s22072682_makarova.owl#Reviewer_2ConflictFree> .
 <s22072682_makarova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <s22072682_makarova.owl#Reviewer_2ConflictFree> .
-<s22072682_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "Please add a table with patients' baseline characteristics, including BMI and smoking status."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_11> <s22072682_makarova.owl#text> "Please add a table with patients' baseline characteristics, including BMI and smoking status."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_11> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_11> <s22072682_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "Did authors estimate sample size? Please add in data analysis section"^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_12> <s22072682_makarova.owl#text> "Did authors estimate sample size? Please add in data analysis section"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_12> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_12> <s22072682_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "Please add ethics protocol approval number"^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_13> <s22072682_makarova.owl#text> "Please add ethics protocol approval number"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_13> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_13> <s22072682_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "I found some minor English errors throughout the paper. Please have a re-check."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_14> <s22072682_makarova.owl#text> "I found some minor English errors throughout the paper. Please have a re-check."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_14> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_14> <s22072682_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "The paper's aim should be the same in the abstract and the introduction"^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_21> <s22072682_makarova.owl#text> "The paper's aim should be the same in the abstract and the introduction"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_21> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_21> <s22072682_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "I suggest presenting the paper's aim as the last idea in the introduction to make the manuscript easier to read."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_22> <s22072682_makarova.owl#text> "I suggest presenting the paper's aim as the last idea in the introduction to make the manuscript easier to read."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_22> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_22> <s22072682_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "Given the poor quality of the images (Fig 1 and 2), it might be better to redraw them and describe them as an adaptation of the original publication."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_23> <s22072682_makarova.owl#text> "Given the poor quality of the images (Fig 1 and 2), it might be better to redraw them and describe them as an adaptation of the original publication."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_23> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_23> <s22072682_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "The methods do not specify how the baseline load of the participants was determined."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_24> <s22072682_makarova.owl#text> "The methods do not specify how the baseline load of the participants was determined."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_24> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_24> <s22072682_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "In figure 3, the indication of the test time appears in the reverse direction. Time \"0\" should be at the start."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_25> <s22072682_makarova.owl#text> "In figure 3, the indication of the test time appears in the reverse direction. Time \"0\" should be at the start."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_25> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_25> <s22072682_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#reviewer_26> <http://www.w3.org/2000/01/rdf-schema#label> "I recommend deleting graphs 5, 8, and 11 because graphs 7, 10, and 13 show the same information together with lines obtained by analyzing the structural change of the time series."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#reviewer_26> <s22072682_makarova.owl#text> "I recommend deleting graphs 5, 8, and 11 because graphs 7, 10, and 13 show the same information together with lines obtained by analyzing the structural change of the time series."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_26> <s22072682_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#reviewer_26> <s22072682_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "I added a table listing the baseline characteristics, including BMI and smoking status, of subjects."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author1> <s22072682_makarova.owl#text> "I added a table listing the baseline characteristics, including BMI and smoking status, of subjects."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author1> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author1> <s22072682_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "Since this study focuses on AT search, detailed estimation of sample size is not performed. I added in data analysis section."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author2> <s22072682_makarova.owl#text> "Since this study focuses on AT search, detailed estimation of sample size is not performed. I added in data analysis section."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author2> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author2> <s22072682_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "Project identification code is H29-4. I added in 2.1.subjects and 6.patents."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author3> <s22072682_makarova.owl#text> "Project identification code is H29-4. I added in 2.1.subjects and 6.patents."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author3> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author3> <s22072682_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "My manuscript is checked by an English proofreader. \nI will attach an English proofreading certificate."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author4> <s22072682_makarova.owl#text> "My manuscript is checked by an English proofreader. \nI will attach an English proofreading certificate."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author4> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author4> <s22072682_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "I described the paper's aim."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author5> <s22072682_makarova.owl#text> "I described the paper's aim."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author5> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author5> <s22072682_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "I described the paper's aim."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author6> <s22072682_makarova.owl#text> "I described the paper's aim."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author6> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author6> <s22072682_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "I redrew Figures 1 and 2 and described them as an adaptation of the original publication."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author7> <s22072682_makarova.owl#text> "I redrew Figures 1 and 2 and described them as an adaptation of the original publication."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author7> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author7> <s22072682_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "I described baseline load of the participants in 2.2. Experimental Protocol and Setup."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author8> <s22072682_makarova.owl#text> "I described baseline load of the participants in 2.2. Experimental Protocol and Setup."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author8> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author8> <s22072682_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "I revised Figure 3."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author9> <s22072682_makarova.owl#text> "I revised Figure 3."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author9> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author9> <s22072682_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "I deleted graphs 5, 8, and 11."^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author10> <s22072682_makarova.owl#text> "I deleted graphs 5, 8, and 11."^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author10> <s22072682_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author10> <s22072682_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<s22072682_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<s22072682_makarova.owl#author11> <s22072682_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author11> <s22072682_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <s22072682_makarova.owl#author11> <s22072682_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

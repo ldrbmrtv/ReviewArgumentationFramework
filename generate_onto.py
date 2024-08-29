@@ -26,6 +26,9 @@ def json2owl(name):
         class round(AnnotationProperty, FunctionalProperty):
             pass
 
+        class text(AnnotationProperty, FunctionalProperty):
+            pass
+
         class number(AnnotationProperty, FunctionalProperty):
             pass
         

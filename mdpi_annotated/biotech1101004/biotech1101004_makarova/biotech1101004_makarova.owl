@@ -5,6 +5,8 @@
 <biotech1101004_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <biotech1101004_makarova.owl#isAttackedBy> .
 <biotech1101004_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <biotech1101004_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<biotech1101004_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<biotech1101004_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <biotech1101004_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <biotech1101004_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <biotech1101004_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -979,141 +981,141 @@ _:12009 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:12013 .
 _:12013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:12011 .
 _:12013 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
 <biotech1101004_makarova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:12012 .
-<biotech1101004_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "The article, however, must be improved in terms of writing since some grammar and syntax errors are present in the manuscript. They should address the subject and critically review the information from the literature."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_11> <biotech1101004_makarova.owl#text> "The article, however, must be improved in terms of writing since some grammar and syntax errors are present in the manuscript. They should address the subject and critically review the information from the literature."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_11> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_11> <biotech1101004_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "The authors need to revise the title of the paper in a more meaningful way. “Identification of ethidium bromide degrading bacteria from laboratory gel electrophoresis waste”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_12> <biotech1101004_makarova.owl#text> "The authors need to revise the title of the paper in a more meaningful way. “Identification of ethidium bromide degrading bacteria from laboratory gel electrophoresis waste”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_12> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_12> <biotech1101004_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "The abstract is written in a way lacks logic. It should highlight the salient findings more critically."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_13> <biotech1101004_makarova.owl#text> "The abstract is written in a way lacks logic. It should highlight the salient findings more critically."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_13> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_13> <biotech1101004_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "Keywords are present in the title, choose others."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_14> <biotech1101004_makarova.owl#text> "Keywords are present in the title, choose others."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_14> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_14> <biotech1101004_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "Introduction need more convincing rational for this article."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_15> <biotech1101004_makarova.owl#text> "Introduction need more convincing rational for this article."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_15> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_15> <biotech1101004_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "The introduction has long paragraphs, I suggest reducing the size of the paragraphs."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_16> <biotech1101004_makarova.owl#text> "The introduction has long paragraphs, I suggest reducing the size of the paragraphs."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_16> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_16> <biotech1101004_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> "Provide experimental work plan at the start of M&M. No detail description is available about the experiment."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_17> <biotech1101004_makarova.owl#text> "Provide experimental work plan at the start of M&M. No detail description is available about the experiment."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_17> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_17> <biotech1101004_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "What statistical method is used?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_18> <biotech1101004_makarova.owl#text> "What statistical method is used?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_18> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_18> <biotech1101004_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "In the materials and methods, where are described how the Pathogenic Status of BR3 and BR4 analyzes were carried out? Just a bibliographic survey? in my opinion does not fit as results found."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_19> <biotech1101004_makarova.owl#text> "In the materials and methods, where are described how the Pathogenic Status of BR3 and BR4 analyzes were carried out? Just a bibliographic survey? in my opinion does not fit as results found."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_19> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_19> <biotech1101004_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "Authors should discuss the results integrally. The discussion is based on individual results. I suggest that integrating the results will give more value to the work. I suggest that you discuss by integrating all your results. You can use correlation tests (PCA or Pearson Correlation)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_110> <biotech1101004_makarova.owl#text> "Authors should discuss the results integrally. The discussion is based on individual results. I suggest that integrating the results will give more value to the work. I suggest that you discuss by integrating all your results. You can use correlation tests (PCA or Pearson Correlation)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_110> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_110> <biotech1101004_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_111> <http://www.w3.org/2000/01/rdf-schema#label> "The results of this study are not fully explained therefore the interpretation of the results is very difficult. The author needs to provide the % increase or decrease rather than just writing ''significantly increased….''."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_111> <biotech1101004_makarova.owl#text> "The results of this study are not fully explained therefore the interpretation of the results is very difficult. The author needs to provide the % increase or decrease rather than just writing ''significantly increased….''."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_111> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_111> <biotech1101004_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_112> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 4 and 5, where is the outgroup?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_112> <biotech1101004_makarova.owl#text> "Figure 4 and 5, where is the outgroup?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_112> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_112> <biotech1101004_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_113> <http://www.w3.org/2000/01/rdf-schema#label> "Table 1: Please provide standard error or standard deviation of the results."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_113> <biotech1101004_makarova.owl#text> "Table 1: Please provide standard error or standard deviation of the results."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_113> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_113> <biotech1101004_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_114> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1 and 2: insert figure scales."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_114> <biotech1101004_makarova.owl#text> "Figure 1 and 2: insert figure scales."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_114> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_114> <biotech1101004_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_115> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 3: insert molecular mass marker and improve the quality of the gel."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_115> <biotech1101004_makarova.owl#text> "Figure 3: insert molecular mass marker and improve the quality of the gel."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_115> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_115> <biotech1101004_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_116> <http://www.w3.org/2000/01/rdf-schema#label> "The discussion is poorly written hence, needs rewriting."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_116> <biotech1101004_makarova.owl#text> "The discussion is poorly written hence, needs rewriting."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_116> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_116> <biotech1101004_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_117> <http://www.w3.org/2000/01/rdf-schema#label> "The discussion should be further strengthened by adding some more relevant papers."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_117> <biotech1101004_makarova.owl#text> "The discussion should be further strengthened by adding some more relevant papers."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_117> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_117> <biotech1101004_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_118> <http://www.w3.org/2000/01/rdf-schema#label> "The literature search is insufficient, only few related research papers in the past three years are cited, add the latest research results appropriately."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_118> <biotech1101004_makarova.owl#text> "The literature search is insufficient, only few related research papers in the past three years are cited, add the latest research results appropriately."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_118> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_118> <biotech1101004_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_119> <http://www.w3.org/2000/01/rdf-schema#label> "See the below links if you think it will benefit your discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_119> <biotech1101004_makarova.owl#text> "See the below links if you think it will benefit your discussion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_119> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_119> <biotech1101004_makarova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_120> <http://www.w3.org/2000/01/rdf-schema#label> "Rewrite the conclusion! It needs to be much improved."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_120> <biotech1101004_makarova.owl#text> "Rewrite the conclusion! It needs to be much improved."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_120> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_120> <biotech1101004_makarova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_121> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for attending the suggestions. The manuscript has been significantly improved. In view of the above, I believe that the article presents robust and consolidated content."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_121> <biotech1101004_makarova.owl#text> "Thanks for attending the suggestions. The manuscript has been significantly improved. In view of the above, I believe that the article presents robust and consolidated content."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_121> <biotech1101004_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_121> <biotech1101004_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "Add bromide to the manuscript title to be ethidium bromide."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_21> <biotech1101004_makarova.owl#text> "Add bromide to the manuscript title to be ethidium bromide."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_21> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_21> <biotech1101004_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "Revise the language of the manuscript in addition to the punctuation."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#reviewer_22> <biotech1101004_makarova.owl#text> "Revise the language of the manuscript in addition to the punctuation."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_22> <biotech1101004_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#reviewer_22> <biotech1101004_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for your valuable suggestions. We have incorporated changes throughout the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author1> <biotech1101004_makarova.owl#text> "Thank you for your valuable suggestions. We have incorporated changes throughout the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author1> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author1> <biotech1101004_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "Title has been revised."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author2> <biotech1101004_makarova.owl#text> "Title has been revised."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author2> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author2> <biotech1101004_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for suggestion. Abstract has been revised as per your suggestion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author3> <biotech1101004_makarova.owl#text> "Thank you for suggestion. Abstract has been revised as per your suggestion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author3> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author3> <biotech1101004_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "Corrected and others keywords have been incorporated."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author4> <biotech1101004_makarova.owl#text> "Corrected and others keywords have been incorporated."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author4> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author4> <biotech1101004_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "We have incorporated all your suggestion in the introduction section."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author5> <biotech1101004_makarova.owl#text> "We have incorporated all your suggestion in the introduction section."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author5> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author5> <biotech1101004_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "We have incorporated all your suggestion in the introduction section."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author6> <biotech1101004_makarova.owl#text> "We have incorporated all your suggestion in the introduction section."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author6> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author6> <biotech1101004_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "Work plan has been added as flowchart. Method has either been detailed or reference has been already given. If required all the methods may be detailed further."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author7> <biotech1101004_makarova.owl#text> "Work plan has been added as flowchart. Method has either been detailed or reference has been already given. If required all the methods may be detailed further."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author7> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author7> <biotech1101004_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "This is qualitative study; therefore, statistics has not been used in this study."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author8> <biotech1101004_makarova.owl#text> "This is qualitative study; therefore, statistics has not been used in this study."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author8> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author8> <biotech1101004_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "It has been analyzed just based on bibliographic survey after 16srRNA homology based identification of isolates. This has been performed to support the data."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author9> <biotech1101004_makarova.owl#text> "It has been analyzed just based on bibliographic survey after 16srRNA homology based identification of isolates. This has been performed to support the data."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author9> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author9> <biotech1101004_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for your valuable suggestions. We have added/deleted several lines in the discussion section integrating the results. We will improve"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author10> <biotech1101004_makarova.owl#text> "Thank you for your valuable suggestions. We have added/deleted several lines in the discussion section integrating the results. We will improve"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author10> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author10> <biotech1101004_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "The authors did not find use of ''significantly increased” in this manuscript. This study is based on qualitative measurements."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author11> <biotech1101004_makarova.owl#text> "The authors did not find use of ''significantly increased” in this manuscript. This study is based on qualitative measurements."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author11> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author11> <biotech1101004_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "We did online 16S-rRNA sequence similarity-based identification of isolates. Organisms of another genus may be considered as outgroup."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author12> <biotech1101004_makarova.owl#text> "We did online 16S-rRNA sequence similarity-based identification of isolates. Organisms of another genus may be considered as outgroup."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author12> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author12> <biotech1101004_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "It was screened once. Not applicable."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author13> <biotech1101004_makarova.owl#text> "It was screened once. Not applicable."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author13> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author13> <biotech1101004_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "Inner diameter of the medium holding plate measures 86 mm."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author14> <biotech1101004_makarova.owl#text> "Inner diameter of the medium holding plate measures 86 mm."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author14> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author14> <biotech1101004_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "Molecular mass marker has been included and quality has been improved."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author15> <biotech1101004_makarova.owl#text> "Molecular mass marker has been included and quality has been improved."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author15> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author15> <biotech1101004_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author16> <biotech1101004_makarova.owl#text> "Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author16> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author16> <biotech1101004_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author17> <biotech1101004_makarova.owl#text> "Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author17> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author17> <biotech1101004_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author18> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author18> <biotech1101004_makarova.owl#text> "Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author18> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author18> <biotech1101004_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author19> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author19> <biotech1101004_makarova.owl#text> "Thank you for the suggestion. We have added few lines to support the results along with references. We will improve more in proof read of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author19> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author19> <biotech1101004_makarova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author20> <http://www.w3.org/2000/01/rdf-schema#label> "Conclusion has been improved in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author20> <biotech1101004_makarova.owl#text> "Conclusion has been improved in the revised version of the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author20> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author20> <biotech1101004_makarova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author21> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for your suggestions and feedback on the manuscript. We have incorporated all your suggested changes in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author21> <biotech1101004_makarova.owl#text> "Thank you for your suggestions and feedback on the manuscript. We have incorporated all your suggested changes in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author21> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author21> <biotech1101004_makarova.owl#number> "21"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author22> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for your suggestions and feedback on the manuscript. We have incorporated all your suggested changes in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author22> <biotech1101004_makarova.owl#text> "Thank you for your suggestions and feedback on the manuscript. We have incorporated all your suggested changes in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author22> <biotech1101004_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author22> <biotech1101004_makarova.owl#number> "22"^^<http://www.w3.org/2001/XMLSchema#string> .
-<biotech1101004_makarova.owl#author23> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<biotech1101004_makarova.owl#author23> <biotech1101004_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author23> <biotech1101004_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <biotech1101004_makarova.owl#author23> <biotech1101004_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

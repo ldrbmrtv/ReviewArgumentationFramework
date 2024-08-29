@@ -5,6 +5,8 @@
 <admsci5030148_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <admsci5030148_makarova.owl#isAttackedBy> .
 <admsci5030148_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <admsci5030148_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<admsci5030148_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<admsci5030148_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <admsci5030148_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <admsci5030148_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <admsci5030148_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -1617,216 +1619,216 @@ _:1540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999
 <admsci5030148_makarova.owl#reviewer_41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <admsci5030148_makarova.owl#Reviewer_4ConflictFree> .
 <admsci5030148_makarova.owl#reviewer_45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <admsci5030148_makarova.owl#Reviewer_4ConflictFree> .
 <admsci5030148_makarova.owl#reviewer_44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <admsci5030148_makarova.owl#Reviewer_4ConflictFree> .
-<admsci5030148_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "The third sector, its definition and description is missing.  The third sector in Europe, Edward Elgar, spesifically discuss whether cooperations are defined within or outside the third sector."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_11> <admsci5030148_makarova.owl#text> "The third sector, its definition and description is missing.  The third sector in Europe, Edward Elgar, spesifically discuss whether cooperations are defined within or outside the third sector."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_11> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_11> <admsci5030148_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "The case description and analysis is based only on media accounts - no actual first hand information to inform the analysis."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_12> <admsci5030148_makarova.owl#text> "The case description and analysis is based only on media accounts - no actual first hand information to inform the analysis."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_12> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_12> <admsci5030148_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "I also have problems with the depth of the discussion, and I feel the conclusion does not match the promises of the abstract."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_13> <admsci5030148_makarova.owl#text> "I also have problems with the depth of the discussion, and I feel the conclusion does not match the promises of the abstract."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_13> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_13> <admsci5030148_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "Wrong reference number on page 4, line 14: should be 15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_14> <admsci5030148_makarova.owl#text> "Wrong reference number on page 4, line 14: should be 15"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_14> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_14> <admsci5030148_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1 text overwrite part of the figure, and there should be comments on how this is different from a general structure for a private sector company (if you look at stakeholders as shareholders)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_15> <admsci5030148_makarova.owl#text> "Figure 1 text overwrite part of the figure, and there should be comments on how this is different from a general structure for a private sector company (if you look at stakeholders as shareholders)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_15> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_15> <admsci5030148_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "Bottom of page 9: Missing reference to Co-operative principles by Rochdale Society."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_16> <admsci5030148_makarova.owl#text> "Bottom of page 9: Missing reference to Co-operative principles by Rochdale Society."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_16> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_16> <admsci5030148_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> "USA context concerning cooperatives (upper half page 10) should be highlighted even more for readers to be able to compare to their own context (for instance in Europe)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_17> <admsci5030148_makarova.owl#text> "USA context concerning cooperatives (upper half page 10) should be highlighted even more for readers to be able to compare to their own context (for instance in Europe)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_17> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_17> <admsci5030148_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_18> <http://www.w3.org/2000/01/rdf-schema#label> "The cooperative firm removes adversarial aspects of market contracting (page 11) - what adversarial aspects?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_18> <admsci5030148_makarova.owl#text> "The cooperative firm removes adversarial aspects of market contracting (page 11) - what adversarial aspects?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_18> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_18> <admsci5030148_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_19> <http://www.w3.org/2000/01/rdf-schema#label> "are references 27 and 33 used in the text? (could not find them)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_19> <admsci5030148_makarova.owl#text> "are references 27 and 33 used in the text? (could not find them)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_19> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_19> <admsci5030148_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_110> <http://www.w3.org/2000/01/rdf-schema#label> "However, I cannot see how chapter 2.2. is a sub-theme under the Ostrom Principles? If they are - the connection need explainnig. If they are not, the main headling Chapter 2 should be reformulated again."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_110> <admsci5030148_makarova.owl#text> "However, I cannot see how chapter 2.2. is a sub-theme under the Ostrom Principles? If they are - the connection need explainnig. If they are not, the main headling Chapter 2 should be reformulated again."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_110> <admsci5030148_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_110> <admsci5030148_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_111> <http://www.w3.org/2000/01/rdf-schema#label> "I still miss a source reference at the bottom of page 9 (Rochdale Society)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_111> <admsci5030148_makarova.owl#text> "I still miss a source reference at the bottom of page 9 (Rochdale Society)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_111> <admsci5030148_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_111> <admsci5030148_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_112> <http://www.w3.org/2000/01/rdf-schema#label> "On top of page 11 there is still no examples of adversarial effects removed by co-operative."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_112> <admsci5030148_makarova.owl#text> "On top of page 11 there is still no examples of adversarial effects removed by co-operative."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_112> <admsci5030148_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_112> <admsci5030148_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_113> <http://www.w3.org/2000/01/rdf-schema#label> "The author openly acknowledges that the basis for a complete picture is lacking. I do not expect the complete picture, but should have comments on limitations and to what degree the conclusions and learnings are possible to generalize."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_113> <admsci5030148_makarova.owl#text> "The author openly acknowledges that the basis for a complete picture is lacking. I do not expect the complete picture, but should have comments on limitations and to what degree the conclusions and learnings are possible to generalize."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_113> <admsci5030148_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_113> <admsci5030148_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_114> <http://www.w3.org/2000/01/rdf-schema#label> "Conclusion: middle of page 16: \"we cannot know the motivations behind..\" Have you tried to talk to them? I believe it is possible to get to know."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_114> <admsci5030148_makarova.owl#text> "Conclusion: middle of page 16: \"we cannot know the motivations behind..\" Have you tried to talk to them? I believe it is possible to get to know."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_114> <admsci5030148_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_114> <admsci5030148_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_115> <http://www.w3.org/2000/01/rdf-schema#label> "Low on page 16: \"The ownership becomes absentee, ...\" This is in the case of co-operative?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_115> <admsci5030148_makarova.owl#text> "Low on page 16: \"The ownership becomes absentee, ...\" This is in the case of co-operative?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_115> <admsci5030148_makarova.owl#round> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_115> <admsci5030148_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "Therefore, I recalibrated the piece to note that co-operatives are not third sector organizations, but instead have similar features that could allow the institutional analyst fertile ground for innovations in governance."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author1> <admsci5030148_makarova.owl#text> "Therefore, I recalibrated the piece to note that co-operatives are not third sector organizations, but instead have similar features that could allow the institutional analyst fertile ground for innovations in governance."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author1> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author1> <admsci5030148_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "I have therefore changed the paper from a case study to a discussion paper. Additionally, I note in the paper that I perform an archival analysis of media accounts in an effort to demonstrate how the utilization of the ODPs for analysizing secondary data may better position the analyst to perform rigorous, interogative fieldwork."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author2> <admsci5030148_makarova.owl#text> "I have therefore changed the paper from a case study to a discussion paper. Additionally, I note in the paper that I perform an archival analysis of media accounts in an effort to demonstrate how the utilization of the ODPs for analysizing secondary data may better position the analyst to perform rigorous, interogative fieldwork."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author2> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author2> <admsci5030148_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "See the DISCUSSION and CONCLUSION sections, where I have added additional analyses."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author3> <admsci5030148_makarova.owl#text> "See the DISCUSSION and CONCLUSION sections, where I have added additional analyses."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author3> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author3> <admsci5030148_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "Corrected."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author4> <admsci5030148_makarova.owl#text> "Corrected."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author4> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author4> <admsci5030148_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "Corrected and accounted for."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author5> <admsci5030148_makarova.owl#text> "Corrected and accounted for."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author5> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author5> <admsci5030148_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "I do not believe this is a necessary reference as I cite the International Co-operative Alliance principles, and the Rochdale Principles are somewhat commonly understood."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author6> <admsci5030148_makarova.owl#text> "I do not believe this is a necessary reference as I cite the International Co-operative Alliance principles, and the Rochdale Principles are somewhat commonly understood."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author6> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author6> <admsci5030148_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "Accounted for."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author7> <admsci5030148_makarova.owl#text> "Accounted for."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author7> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author7> <admsci5030148_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "Addressed in the text."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author8> <admsci5030148_makarova.owl#text> "Addressed in the text."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author8> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author8> <admsci5030148_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "Corrected."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author9> <admsci5030148_makarova.owl#text> "Corrected."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author9> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author9> <admsci5030148_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "I agree with your points about the over-emphasis on principle-agent types of governance arrangements."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author10> <admsci5030148_makarova.owl#text> "I agree with your points about the over-emphasis on principle-agent types of governance arrangements."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author10> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author10> <admsci5030148_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "I believe the recalibration of the core critique from \"P-A\" to unitarism addresses the commentary, here."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author11> <admsci5030148_makarova.owl#text> "I believe the recalibration of the core critique from \"P-A\" to unitarism addresses the commentary, here."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author11> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author11> <admsci5030148_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "A further recalibration. I adusted the commentary to address \"pluralistic\" governance as opposed to stakeholder governance."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author12> <admsci5030148_makarova.owl#text> "A further recalibration. I adusted the commentary to address \"pluralistic\" governance as opposed to stakeholder governance."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author12> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author12> <admsci5030148_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "I editted the paper for consistenct, in line with your commentary."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author13> <admsci5030148_makarova.owl#text> "I editted the paper for consistenct, in line with your commentary."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author13> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author13> <admsci5030148_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "The definition used is from the official representative body, the International Co-operative Alliance."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author14> <admsci5030148_makarova.owl#text> "The definition used is from the official representative body, the International Co-operative Alliance."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author14> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author14> <admsci5030148_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "Acknowledged."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author15> <admsci5030148_makarova.owl#text> "Acknowledged."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author15> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author15> <admsci5030148_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "Acknowledged."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author16> <admsci5030148_makarova.owl#text> "Acknowledged."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author16> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author16> <admsci5030148_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "As per your suggestions, I did focus on the co-operative model"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author17> <admsci5030148_makarova.owl#text> "As per your suggestions, I did focus on the co-operative model"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author17> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author17> <admsci5030148_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author18> <http://www.w3.org/2000/01/rdf-schema#label> "Agreed."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author18> <admsci5030148_makarova.owl#text> "Agreed."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author18> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author18> <admsci5030148_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author19> <http://www.w3.org/2000/01/rdf-schema#label> "I agree with your critique. I have adjusted accordingly."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author19> <admsci5030148_makarova.owl#text> "I agree with your critique. I have adjusted accordingly."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author19> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author19> <admsci5030148_makarova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author20> <http://www.w3.org/2000/01/rdf-schema#label> "Note that throughout the document I incorporate Coule's unitary pluralist dimensions"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author20> <admsci5030148_makarova.owl#text> "Note that throughout the document I incorporate Coule's unitary pluralist dimensions"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author20> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author20> <admsci5030148_makarova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author21> <http://www.w3.org/2000/01/rdf-schema#label> "Agreed and accounted for."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author21> <admsci5030148_makarova.owl#text> "Agreed and accounted for."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author21> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author21> <admsci5030148_makarova.owl#number> "21"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author22> <http://www.w3.org/2000/01/rdf-schema#label> "Agreed. I misrepresented the analysis. It is not a case study, but instead an cursory archival analysis and exploration, utilizing secondary sources."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author22> <admsci5030148_makarova.owl#text> "Agreed. I misrepresented the analysis. It is not a case study, but instead an cursory archival analysis and exploration, utilizing secondary sources."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author22> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author22> <admsci5030148_makarova.owl#number> "22"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author23> <http://www.w3.org/2000/01/rdf-schema#label> "Agreed. The Analysis, Discussiom, and Conclusion sections are more fleshed out."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author23> <admsci5030148_makarova.owl#text> "Agreed. The Analysis, Discussiom, and Conclusion sections are more fleshed out."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author23> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author23> <admsci5030148_makarova.owl#number> "23"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author24> <http://www.w3.org/2000/01/rdf-schema#label> "Agreed, and accounted for."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author24> <admsci5030148_makarova.owl#text> "Agreed, and accounted for."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author24> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author24> <admsci5030148_makarova.owl#number> "24"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author25> <http://www.w3.org/2000/01/rdf-schema#label> "I hope that the revisions in the abstract an introduction better clarify the purpose."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author25> <admsci5030148_makarova.owl#text> "I hope that the revisions in the abstract an introduction better clarify the purpose."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author25> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author25> <admsci5030148_makarova.owl#number> "25"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author26> <http://www.w3.org/2000/01/rdf-schema#label> "Agreed. I accounted for this throughout the document. Terminology is used in a definitionally consistent manner."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author26> <admsci5030148_makarova.owl#text> "Agreed. I accounted for this throughout the document. Terminology is used in a definitionally consistent manner."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author26> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author26> <admsci5030148_makarova.owl#number> "26"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author27> <http://www.w3.org/2000/01/rdf-schema#label> "Note that I adjusted the paper, and recalibrated it from a case study, to a discussion paper that utilizes an archival analysis of secondary sources."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author27> <admsci5030148_makarova.owl#text> "Note that I adjusted the paper, and recalibrated it from a case study, to a discussion paper that utilizes an archival analysis of secondary sources."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author27> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author27> <admsci5030148_makarova.owl#number> "27"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author28> <http://www.w3.org/2000/01/rdf-schema#label> "Noted and accounted for throughout the document."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author28> <admsci5030148_makarova.owl#text> "Noted and accounted for throughout the document."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author28> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author28> <admsci5030148_makarova.owl#number> "28"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author29> <http://www.w3.org/2000/01/rdf-schema#label> "Acknowledged. I cleaned and honed the Introduction, and added a more robust Conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author29> <admsci5030148_makarova.owl#text> "Acknowledged. I cleaned and honed the Introduction, and added a more robust Conclusion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author29> <admsci5030148_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author29> <admsci5030148_makarova.owl#number> "29"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author30> <http://www.w3.org/2000/01/rdf-schema#label> " I have changed the headings for these sections to better reflect the content."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author30> <admsci5030148_makarova.owl#text> " I have changed the headings for these sections to better reflect the content."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author30> <admsci5030148_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author30> <admsci5030148_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author31> <http://www.w3.org/2000/01/rdf-schema#label> "This is general knowledge, thereby not necessitating a reference. If the reviewers disagree, I would add a reference."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author31> <admsci5030148_makarova.owl#text> "This is general knowledge, thereby not necessitating a reference. If the reviewers disagree, I would add a reference."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author31> <admsci5030148_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author31> <admsci5030148_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author32> <http://www.w3.org/2000/01/rdf-schema#label> "I have added commentary about moral hazard and information asymetries."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author32> <admsci5030148_makarova.owl#text> "I have added commentary about moral hazard and information asymetries."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author32> <admsci5030148_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author32> <admsci5030148_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author33> <http://www.w3.org/2000/01/rdf-schema#label> "Agreed. I have added additional elaboration."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author33> <admsci5030148_makarova.owl#text> "Agreed. I have added additional elaboration."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author33> <admsci5030148_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author33> <admsci5030148_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author34> <http://www.w3.org/2000/01/rdf-schema#label> "Commentary added, nothing the need for additiona interogation."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author34> <admsci5030148_makarova.owl#text> "Commentary added, nothing the need for additiona interogation."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author34> <admsci5030148_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author34> <admsci5030148_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author35> <http://www.w3.org/2000/01/rdf-schema#label> "Commentary added for further clarity."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author35> <admsci5030148_makarova.owl#text> "Commentary added for further clarity."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author35> <admsci5030148_makarova.owl#round> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author35> <admsci5030148_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#author36> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#author36> <admsci5030148_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author36> <admsci5030148_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#author36> <admsci5030148_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "The abstract of the manuscript mentions that dominant modes of third sector organizational governance adhere to a narrow principal-agent orientation. Similarly, in the introduction, it is stated that governance research on third sector organizations predominantly fixates analysts on the board-management dynamic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_21> <admsci5030148_makarova.owl#text> "The abstract of the manuscript mentions that dominant modes of third sector organizational governance adhere to a narrow principal-agent orientation. Similarly, in the introduction, it is stated that governance research on third sector organizations predominantly fixates analysts on the board-management dynamic"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_21> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_21> <admsci5030148_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "In the abstract, the author also states that the over-reliance on the principal-agent model introduces two challenges. However, a solid foundation for this argument is missing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_22> <admsci5030148_makarova.owl#text> "In the abstract, the author also states that the over-reliance on the principal-agent model introduces two challenges. However, a solid foundation for this argument is missing"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_22> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_22> <admsci5030148_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "In the introduction, the author also mentions underdeveloped modes of stakeholder governance in the third sector. I do not agree with this view. Several stakeholder governance frameworks for third sector organizations have already been developed in the literature"^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_23> <admsci5030148_makarova.owl#text> "In the introduction, the author also mentions underdeveloped modes of stakeholder governance in the third sector. I do not agree with this view. Several stakeholder governance frameworks for third sector organizations have already been developed in the literature"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_23> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_23> <admsci5030148_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "The author uses “stakeholder-controlled firm”, “third sector organizations”, “nonprofit organizations”, “social enterprise”, and “co-operative” without clearly defining these types and mentioning which nonprofit type is actually the focus of the study."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_24> <admsci5030148_makarova.owl#text> "The author uses “stakeholder-controlled firm”, “third sector organizations”, “nonprofit organizations”, “social enterprise”, and “co-operative” without clearly defining these types and mentioning which nonprofit type is actually the focus of the study."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_24> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_24> <admsci5030148_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "I am also not convinced by the definition of co-operatives mentioned in the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_25> <admsci5030148_makarova.owl#text> "I am also not convinced by the definition of co-operatives mentioned in the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_25> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_25> <admsci5030148_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_26> <http://www.w3.org/2000/01/rdf-schema#label> "Furthermore, given that the world of third sector organizations is very rich and heterogeneous, one should be careful by discussing third sector organizations in general, especially since the case study seems to focus on co-operative enterprises."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_26> <admsci5030148_makarova.owl#text> "Furthermore, given that the world of third sector organizations is very rich and heterogeneous, one should be careful by discussing third sector organizations in general, especially since the case study seems to focus on co-operative enterprises."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_26> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_26> <admsci5030148_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_27> <http://www.w3.org/2000/01/rdf-schema#label> "The literature review is completely missing."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_27> <admsci5030148_makarova.owl#text> "The literature review is completely missing."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_27> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_27> <admsci5030148_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_28> <http://www.w3.org/2000/01/rdf-schema#label> "Given the aforementioned comments, I would advise the author to revise the paper by focusing on the governance of nonprofit associations / co-operatives."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_28> <admsci5030148_makarova.owl#text> "Given the aforementioned comments, I would advise the author to revise the paper by focusing on the governance of nonprofit associations / co-operatives."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_28> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_28> <admsci5030148_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_31> <http://www.w3.org/2000/01/rdf-schema#label> "However, there are subtleties in the literature that need considering, and also the methodology (which is extremely weak)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_31> <admsci5030148_makarova.owl#text> "However, there are subtleties in the literature that need considering, and also the methodology (which is extremely weak)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_31> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_31> <admsci5030148_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_32> <http://www.w3.org/2000/01/rdf-schema#label> "The characterisation of third sector governance is too crude."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_32> <admsci5030148_makarova.owl#text> "The characterisation of third sector governance is too crude."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_32> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_32> <admsci5030148_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_33> <http://www.w3.org/2000/01/rdf-schema#label> "Given the inclusion of Coule's paper, I would have already expected more sensitivity to divisions unitary and pluralist theories of governance but by reviting this (and reading Turnbull's Cornforth's and Ridley-Duff's precursor to Coule's work), this should be adequately addressed."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_33> <admsci5030148_makarova.owl#text> "Given the inclusion of Coule's paper, I would have already expected more sensitivity to divisions unitary and pluralist theories of governance but by reviting this (and reading Turnbull's Cornforth's and Ridley-Duff's precursor to Coule's work), this should be adequately addressed."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_33> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_33> <admsci5030148_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_34> <http://www.w3.org/2000/01/rdf-schema#label> "I just can't agree that third sector governance is derived from for-profit principles."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_34> <admsci5030148_makarova.owl#text> "I just can't agree that third sector governance is derived from for-profit principles."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_34> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_34> <admsci5030148_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_35> <http://www.w3.org/2000/01/rdf-schema#label> "Certainly, some description of the process by which the case study was developed (sources used, data collection techniquies, analysis techniques) are needed to be publishable."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_35> <admsci5030148_makarova.owl#text> "Certainly, some description of the process by which the case study was developed (sources used, data collection techniquies, analysis techniques) are needed to be publishable."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_35> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_35> <admsci5030148_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_36> <http://www.w3.org/2000/01/rdf-schema#label> "The framework for this section exists but feels a bit superficial and under-developed. I think it needs linking back to the findings more clearly and to be elaborated and slightly more length (cut some literature if needed to stay within the word length limits)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_36> <admsci5030148_makarova.owl#text> "The framework for this section exists but feels a bit superficial and under-developed. I think it needs linking back to the findings more clearly and to be elaborated and slightly more length (cut some literature if needed to stay within the word length limits)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_36> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_36> <admsci5030148_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_37> <http://www.w3.org/2000/01/rdf-schema#label> "Lastly, the discussion and conclusions need to stick to contributions to theory / research practice and refrain from commenting on wider issues without adequate justification."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_37> <admsci5030148_makarova.owl#text> "Lastly, the discussion and conclusions need to stick to contributions to theory / research practice and refrain from commenting on wider issues without adequate justification."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_37> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_37> <admsci5030148_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_41> <http://www.w3.org/2000/01/rdf-schema#label> "I do not understand the purpose of the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_41> <admsci5030148_makarova.owl#text> "I do not understand the purpose of the paper."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_41> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_41> <admsci5030148_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_42> <http://www.w3.org/2000/01/rdf-schema#label> "The author is mixing up several concepts and ignore the abundant literature on governance in nonprofits not dealing with the agency theory."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_42> <admsci5030148_makarova.owl#text> "The author is mixing up several concepts and ignore the abundant literature on governance in nonprofits not dealing with the agency theory."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_42> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_42> <admsci5030148_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_43> <http://www.w3.org/2000/01/rdf-schema#label> "The style is more journalistic and free opinion than rigourous research."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_43> <admsci5030148_makarova.owl#text> "The style is more journalistic and free opinion than rigourous research."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_43> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_43> <admsci5030148_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_44> <http://www.w3.org/2000/01/rdf-schema#label> "Public enterprises, third sector cooperatives are all mixedup."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_44> <admsci5030148_makarova.owl#text> "Public enterprises, third sector cooperatives are all mixedup."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_44> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_44> <admsci5030148_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<admsci5030148_makarova.owl#reviewer_45> <http://www.w3.org/2000/01/rdf-schema#label> "The conceptual framework is not clearly presented and I do not see what are the contributions except some free statements at the end not really related to the analysis."^^<http://www.w3.org/2001/XMLSchema#string> .
+<admsci5030148_makarova.owl#reviewer_45> <admsci5030148_makarova.owl#text> "The conceptual framework is not clearly presented and I do not see what are the contributions except some free statements at the end not really related to the analysis."^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_45> <admsci5030148_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <admsci5030148_makarova.owl#reviewer_45> <admsci5030148_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .

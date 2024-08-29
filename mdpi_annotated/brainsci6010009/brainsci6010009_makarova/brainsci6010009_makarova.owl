@@ -5,6 +5,8 @@
 <brainsci6010009_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <brainsci6010009_makarova.owl#isAttackedBy> .
 <brainsci6010009_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <brainsci6010009_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<brainsci6010009_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<brainsci6010009_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <brainsci6010009_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <brainsci6010009_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <brainsci6010009_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -354,42 +356,42 @@ _:13857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:13861 .
 _:13861 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:13859 .
 _:13861 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
 <brainsci6010009_makarova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:13860 .
-<brainsci6010009_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "In table 1, the \"-\" is used to signify absent values but that should be footnoted in the table precisely what this signifies."^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#reviewer_11> <brainsci6010009_makarova.owl#text> "In table 1, the \"-\" is used to signify absent values but that should be footnoted in the table precisely what this signifies."^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_11> <brainsci6010009_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_11> <brainsci6010009_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "In the exposed and control groups were there other related diseases such as Autism? If so, how many and what would happen to the analysis if you removed them?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#reviewer_12> <brainsci6010009_makarova.owl#text> "In the exposed and control groups were there other related diseases such as Autism? If so, how many and what would happen to the analysis if you removed them?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_12> <brainsci6010009_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_12> <brainsci6010009_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "On page 3 line 22, they describe children with the diagnosis before the exposure. How many were there that fit in this category?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#reviewer_13> <brainsci6010009_makarova.owl#text> "On page 3 line 22, they describe children with the diagnosis before the exposure. How many were there that fit in this category?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_13> <brainsci6010009_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_13> <brainsci6010009_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "On page 11 line 4 you say levels of Hg in the environment and in humans are increasing but your reference #26 doesn't speak to that point. Are there better references to substantiate this point?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#reviewer_14> <brainsci6010009_makarova.owl#text> "On page 11 line 4 you say levels of Hg in the environment and in humans are increasing but your reference #26 doesn't speak to that point. Are there better references to substantiate this point?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_14> <brainsci6010009_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_14> <brainsci6010009_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "Can the authors address this point: is this database publicly available?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#reviewer_15> <brainsci6010009_makarova.owl#text> "Can the authors address this point: is this database publicly available?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_15> <brainsci6010009_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_15> <brainsci6010009_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "The results are controversial. However, the findings may be of great interest for the readers of the journal. The paper is of high quality. I recommend the manuscript published. It can be published as it is."^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#reviewer_21> <brainsci6010009_makarova.owl#text> "The results are controversial. However, the findings may be of great interest for the readers of the journal. The paper is of high quality. I recommend the manuscript published. It can be published as it is."^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_21> <brainsci6010009_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#reviewer_21> <brainsci6010009_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "In the revised manuscript, this was corrected as suggested."^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#author1> <brainsci6010009_makarova.owl#text> "In the revised manuscript, this was corrected as suggested."^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author1> <brainsci6010009_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author1> <brainsci6010009_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "Both cases and controls could have been diagnosed with autism, but it should have been a relative minority. Autism is relatively rare compared to a 314 diagnosis. This issue was added to the study limitations in the revised manuscript.\n“In the present study, neurodevelopmental diagnoses other than 314.xx were not examined among cases and controls. This limitation of the present study should have had a limited impact on the results observed because of the rarity of other neurodevelopmental diagnoses as compared to a 314.xx diagnosis, but future studies could further evaluate this phenomenon.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#author2> <brainsci6010009_makarova.owl#text> "Both cases and controls could have been diagnosed with autism, but it should have been a relative minority. Autism is relatively rare compared to a 314 diagnosis. This issue was added to the study limitations in the revised manuscript.\n“In the present study, neurodevelopmental diagnoses other than 314.xx were not examined among cases and controls. This limitation of the present study should have had a limited impact on the results observed because of the rarity of other neurodevelopmental diagnoses as compared to a 314.xx diagnosis, but future studies could further evaluate this phenomenon.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author2> <brainsci6010009_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author2> <brainsci6010009_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "We don’t have the exact number, but it is assumed to be a relatively small number."^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#author3> <brainsci6010009_makarova.owl#text> "We don’t have the exact number, but it is assumed to be a relatively small number."^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author3> <brainsci6010009_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author3> <brainsci6010009_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "In the revised manuscript, this was corrected with a better reference."^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#author4> <brainsci6010009_makarova.owl#text> "In the revised manuscript, this was corrected with a better reference."^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author4> <brainsci6010009_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author4> <brainsci6010009_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "In the revised manuscript, this information was added.\n“This database is available to outside researchers after obtaining approval from the CDC and KP. Information regarding access to this database is at: http://www.cdc.gov/vaccinesafety/ensuringsafety/monitoring/vsd/accessing-data.html.”"^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#author5> <brainsci6010009_makarova.owl#text> "In the revised manuscript, this information was added.\n“This database is available to outside researchers after obtaining approval from the CDC and KP. Information regarding access to this database is at: http://www.cdc.gov/vaccinesafety/ensuringsafety/monitoring/vsd/accessing-data.html.”"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author5> <brainsci6010009_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author5> <brainsci6010009_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you."^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#author6> <brainsci6010009_makarova.owl#text> "Thank you."^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author6> <brainsci6010009_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author6> <brainsci6010009_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<brainsci6010009_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<brainsci6010009_makarova.owl#author7> <brainsci6010009_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author7> <brainsci6010009_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <brainsci6010009_makarova.owl#author7> <brainsci6010009_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

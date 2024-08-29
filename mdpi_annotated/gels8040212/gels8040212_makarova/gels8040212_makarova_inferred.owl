@@ -5,6 +5,8 @@
 <gels8040212_makarova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <gels8040212_makarova.owl#isAttackedBy> .
 <gels8040212_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <gels8040212_makarova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<gels8040212_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<gels8040212_makarova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <gels8040212_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <gels8040212_makarova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <gels8040212_makarova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -927,126 +929,126 @@ _:22826 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/199
 <gels8040212_makarova.owl#reviewer_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <gels8040212_makarova.owl#Reviewer_2ConflictFree> .
 <gels8040212_makarova.owl#reviewer_212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <gels8040212_makarova.owl#Reviewer_2ConflictFree> .
 <gels8040212_makarova.owl#reviewer_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <gels8040212_makarova.owl#Reviewer_2ConflictFree> .
-<gels8040212_makarova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "What equipment was used for the texture profile analysis? "^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_11> <gels8040212_makarova.owl#text> "What equipment was used for the texture profile analysis? "^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_11> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_11> <gels8040212_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "Describe the emulsion blank gel."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_12> <gels8040212_makarova.owl#text> "Describe the emulsion blank gel."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_12> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_12> <gels8040212_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "What does the term \"wet gel\" mean?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_13> <gels8040212_makarova.owl#text> "What does the term \"wet gel\" mean?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_13> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_13> <gels8040212_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "Line 60: define WPI at first use"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_21> <gels8040212_makarova.owl#text> "Line 60: define WPI at first use"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_21> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_21> <gels8040212_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "Line 84-88: This is a summary of what was carried out and not a discussion, please remove."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_22> <gels8040212_makarova.owl#text> "Line 84-88: This is a summary of what was carried out and not a discussion, please remove."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_22> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_22> <gels8040212_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 1: Include in Fig.1c what was the the % of WPI used"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_23> <gels8040212_makarova.owl#text> "Figure 1: Include in Fig.1c what was the the % of WPI used"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_23> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_23> <gels8040212_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 2: Increase the font of the legend"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_24> <gels8040212_makarova.owl#text> "Figure 2: Increase the font of the legend"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_24> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_24> <gels8040212_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "Line 166: English check"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_25> <gels8040212_makarova.owl#text> "Line 166: English check"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_25> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_25> <gels8040212_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_26> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 3: rename using latin alphabet"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_26> <gels8040212_makarova.owl#text> "Figure 3: rename using latin alphabet"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_26> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_26> <gels8040212_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_27> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 4: Increase legend as it is not visible. B1, B2, and B3 looks biphasic, was this the case?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_27> <gels8040212_makarova.owl#text> "Figure 4: Increase legend as it is not visible. B1, B2, and B3 looks biphasic, was this the case?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_27> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_27> <gels8040212_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_28> <http://www.w3.org/2000/01/rdf-schema#label> "Figure 7-B: I suggest choosing just one shear rate, instead of providing both graphs one can provide the numerical values at a fixed shear rate."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_28> <gels8040212_makarova.owl#text> "Figure 7-B: I suggest choosing just one shear rate, instead of providing both graphs one can provide the numerical values at a fixed shear rate."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_28> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_28> <gels8040212_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_29> <http://www.w3.org/2000/01/rdf-schema#label> "Line 474: What is meant by optimize condition?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_29> <gels8040212_makarova.owl#text> "Line 474: What is meant by optimize condition?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_29> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_29> <gels8040212_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_210> <http://www.w3.org/2000/01/rdf-schema#label> "Line 478 and 485: Are the gel continuous phase and the protein-emulsion mixture the same thing? This section is a bit confusing so I would suggest authors include a Table with all the sample formulations/conditions tested."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_210> <gels8040212_makarova.owl#text> "Line 478 and 485: Are the gel continuous phase and the protein-emulsion mixture the same thing? This section is a bit confusing so I would suggest authors include a Table with all the sample formulations/conditions tested."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_210> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_210> <gels8040212_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_211> <http://www.w3.org/2000/01/rdf-schema#label> "Line 496: remove respectively"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_211> <gels8040212_makarova.owl#text> "Line 496: remove respectively"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_211> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_211> <gels8040212_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_212> <http://www.w3.org/2000/01/rdf-schema#label> "Line 499. Characteristics or characterization?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_212> <gels8040212_makarova.owl#text> "Line 499. Characteristics or characterization?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_212> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_212> <gels8040212_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_213> <http://www.w3.org/2000/01/rdf-schema#label> "Line 500: Define PDI at first use"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_213> <gels8040212_makarova.owl#text> "Line 500: Define PDI at first use"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_213> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_213> <gels8040212_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_214> <http://www.w3.org/2000/01/rdf-schema#label> "Line 507: Clearance height or gap`?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_214> <gels8040212_makarova.owl#text> "Line 507: Clearance height or gap`?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_214> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_214> <gels8040212_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_215> <http://www.w3.org/2000/01/rdf-schema#label> "Line 512: Was 1% found to be within the viscoelastic region?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_215> <gels8040212_makarova.owl#text> "Line 512: Was 1% found to be within the viscoelastic region?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_215> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_215> <gels8040212_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_216> <http://www.w3.org/2000/01/rdf-schema#label> "Line 516: rephase"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_216> <gels8040212_makarova.owl#text> "Line 516: rephase"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_216> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_216> <gels8040212_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#reviewer_217> <http://www.w3.org/2000/01/rdf-schema#label> "Line 530: English check"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#reviewer_217> <gels8040212_makarova.owl#text> "Line 530: English check"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_217> <gels8040212_makarova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#reviewer_217> <gels8040212_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your suggestion. In this study, texture profile analysis was investigated by a Texture Analyzer (TA.XT PLUS/50, STABLEMICVO, UK) using a P/0.5R cylindrical probe, and corresponding description has been added to the manuscript in Line 526 marked in red font."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author1> <gels8040212_makarova.owl#text> "Thanks for your suggestion. In this study, texture profile analysis was investigated by a Texture Analyzer (TA.XT PLUS/50, STABLEMICVO, UK) using a P/0.5R cylindrical probe, and corresponding description has been added to the manuscript in Line 526 marked in red font."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author1> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author1> <gels8040212_makarova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your comment. The gel without the emulsion was taken as the emulsion blank gel, which was the gel formed only by gel continuous phase."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author2> <gels8040212_makarova.owl#text> "Thanks for your comment. The gel without the emulsion was taken as the emulsion blank gel, which was the gel formed only by gel continuous phase."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author2> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author2> <gels8040212_makarova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your question. Wet gel were the emulsion gels we obtained, which had a three-dimensional network structure that can hold a large amount of water. The corresponding Line  570 in the manuscript has been revised to a more accurate expression, emulsion gels. Thanks again for your careful review."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author3> <gels8040212_makarova.owl#text> "Thanks for your question. Wet gel were the emulsion gels we obtained, which had a three-dimensional network structure that can hold a large amount of water. The corresponding Line  570 in the manuscript has been revised to a more accurate expression, emulsion gels. Thanks again for your careful review."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author3> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author3> <gels8040212_makarova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for carefully checking. Whey protein isolate (WPI) has been added in Line 60-61 in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author4> <gels8040212_makarova.owl#text> "Thanks for carefully checking. Whey protein isolate (WPI) has been added in Line 60-61 in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author4> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author4> <gels8040212_makarova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your constructive comment. Line 84-88 has been removed and it made the manuscript more logically. Thank you again for the good comment."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author5> <gels8040212_makarova.owl#text> "Thanks for your constructive comment. Line 84-88 has been removed and it made the manuscript more logically. Thank you again for the good comment."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author5> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author5> <gels8040212_makarova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your comment. The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102. This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author6> <gels8040212_makarova.owl#text> "Thanks for your comment. The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102. This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author6> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author6> <gels8040212_makarova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your comment. The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102. This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author7> <gels8040212_makarova.owl#text> "Thanks for your comment. The emulsions of different droplet size was prepared at WPI concentration of 1.5 wt% and this information has been added in Line 102. This concentration was selected as a suitable emulsifier concentration based on the results in Figure 1a and 1b, and more details can be found in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author7> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author7> <gels8040212_makarova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your carefully check. The manuscript has been revised accordingly in Line 159-161."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author8> <gels8040212_makarova.owl#text> "Thanks for your carefully check. The manuscript has been revised accordingly in Line 159-161."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author8> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author8> <gels8040212_makarova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your carefully check. Figure 3 has been revised accordingly."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author9> <gels8040212_makarova.owl#text> "Thanks for your carefully check. Figure 3 has been revised accordingly."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author9> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author9> <gels8040212_makarova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your comment. Figure 4 has been adjusted to make the legend clear. In fact, B1, B2 and B3 were in a relatively homogeneous state, and no phase separation had occurred. The shadow in the middle part of the apparent image of the heat-induced gels was because the texture test was carried out before shooting. Unlike TGase-induced emulsion gel had very good elastic texture, the structure of heat-induced gels did not fully recover to its original state due to its soft and less elastic texture after compression."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author10> <gels8040212_makarova.owl#text> "Thanks for your comment. Figure 4 has been adjusted to make the legend clear. In fact, B1, B2 and B3 were in a relatively homogeneous state, and no phase separation had occurred. The shadow in the middle part of the apparent image of the heat-induced gels was because the texture test was carried out before shooting. Unlike TGase-induced emulsion gel had very good elastic texture, the structure of heat-induced gels did not fully recover to its original state due to its soft and less elastic texture after compression."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author10> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author10> <gels8040212_makarova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your constructive suggestion. Figure 7B has been revised accordingly, that is, a graph was added which displayed the apparent viscosity of all emulsion gels at a fixed shear rate of 0.25/s, showing the differences between groups very visually. Thanks again for your suggestion."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author11> <gels8040212_makarova.owl#text> "Thanks for your constructive suggestion. Figure 7B has been revised accordingly, that is, a graph was added which displayed the apparent viscosity of all emulsion gels at a fixed shear rate of 0.25/s, showing the differences between groups very visually. Thanks again for your suggestion."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author11> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author11> <gels8040212_makarova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your question. In order to choose appropriate emulsifier, we prepare different WPI concentration of 1.0-2.0 wt% and found the emulsion formulated with 1.5 wt% WPI had smaller size and medimum zeta potential, so it was described to the optimize condition. For clarity, we have also revised the corresponding positions in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author12> <gels8040212_makarova.owl#text> "Thanks for your question. In order to choose appropriate emulsifier, we prepare different WPI concentration of 1.0-2.0 wt% and found the emulsion formulated with 1.5 wt% WPI had smaller size and medimum zeta potential, so it was described to the optimize condition. For clarity, we have also revised the corresponding positions in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author12> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author12> <gels8040212_makarova.owl#number> "12"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author13> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your good suggestion. The gel continuous phase was the WPI-gelatin mixture. To more clearly describe the composition of the emulsion gel, Table 3 has been added to the manuscript. The pre-gel mixture, refered to the mixture before gelation occurred, was composed of WPI-gelatin mixture and emulsions, but due to the large number of samples prepared by the single factor experiment, only the general formulation of the emulsion gel was listed in Table 3. And the relevant statements in 4.2.2 and 4.2.3 have been revised in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author13> <gels8040212_makarova.owl#text> "Thanks for your good suggestion. The gel continuous phase was the WPI-gelatin mixture. To more clearly describe the composition of the emulsion gel, Table 3 has been added to the manuscript. The pre-gel mixture, refered to the mixture before gelation occurred, was composed of WPI-gelatin mixture and emulsions, but due to the large number of samples prepared by the single factor experiment, only the general formulation of the emulsion gel was listed in Table 3. And the relevant statements in 4.2.2 and 4.2.3 have been revised in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author13> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author13> <gels8040212_makarova.owl#number> "13"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author14> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your check. It was revised in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author14> <gels8040212_makarova.owl#text> "Thanks for your check. It was revised in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author14> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author14> <gels8040212_makarova.owl#number> "14"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author15> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your carefully review. The characterization of emulsions was investigated by the droplet size, polydispersity index (PDI) and zeta potential. This expression has been revised in the manuscript.\nPoint 14: Line 500: Define PDI at first use"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author15> <gels8040212_makarova.owl#text> "Thanks for your carefully review. The characterization of emulsions was investigated by the droplet size, polydispersity index (PDI) and zeta potential. This expression has been revised in the manuscript.\nPoint 14: Line 500: Define PDI at first use"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author15> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author15> <gels8040212_makarova.owl#number> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author16> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your comment. PDI was the polydispersity index and the manuscript has been revised in Line 501."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author16> <gels8040212_makarova.owl#text> "Thanks for your comment. PDI was the polydispersity index and the manuscript has been revised in Line 501."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author16> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author16> <gels8040212_makarova.owl#number> "16"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author17> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your comment. The gap was set to 1 mm. Thank you again for your careful review."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author17> <gels8040212_makarova.owl#text> "Thanks for your comment. The gap was set to 1 mm. Thank you again for your careful review."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author17> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author17> <gels8040212_makarova.owl#number> "17"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author18> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your question. 1% strain was within the linear viscoelastic region in our pre-experiment so it was chosen for other tests."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author18> <gels8040212_makarova.owl#text> "Thanks for your question. 1% strain was within the linear viscoelastic region in our pre-experiment so it was chosen for other tests."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author18> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author18> <gels8040212_makarova.owl#number> "18"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author19> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your comment. The statement in 4.2.5 has been revised in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author19> <gels8040212_makarova.owl#text> "Thanks for your comment. The statement in 4.2.5 has been revised in the manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author19> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author19> <gels8040212_makarova.owl#number> "19"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author20> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for your carefully check. Line 533 has been modified which corresponding to the line of revised manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author20> <gels8040212_makarova.owl#text> "Thanks for your carefully check. Line 533 has been modified which corresponding to the line of revised manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author20> <gels8040212_makarova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author20> <gels8040212_makarova.owl#number> "20"^^<http://www.w3.org/2001/XMLSchema#string> .
-<gels8040212_makarova.owl#author21> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<gels8040212_makarova.owl#author21> <gels8040212_makarova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author21> <gels8040212_makarova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <gels8040212_makarova.owl#author21> <gels8040212_makarova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

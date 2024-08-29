@@ -5,6 +5,8 @@
 <molecules27123843_perova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <molecules27123843_perova.owl#isAttackedBy> .
 <molecules27123843_perova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <molecules27123843_perova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<molecules27123843_perova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<molecules27123843_perova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <molecules27123843_perova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <molecules27123843_perova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <molecules27123843_perova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -354,42 +356,42 @@ _:40134 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:40138 .
 _:40138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:40136 .
 _:40138 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
 <molecules27123843_perova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:40137 .
-<molecules27123843_perova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "In page 2, you write the heading “2. Results”, but the content of that paragraph belong to the introduction part. So, please remove the heading “2. Results”."^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#reviewer_11> <molecules27123843_perova.owl#text> "In page 2, you write the heading “2. Results”, but the content of that paragraph belong to the introduction part. So, please remove the heading “2. Results”."^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_11> <molecules27123843_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_11> <molecules27123843_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "line. 57-58. It seems that Figure 1 should be placed in other section, namely Section 3.1. , where it is mentioned for the first time (line 176)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#reviewer_21> <molecules27123843_perova.owl#text> "line. 57-58. It seems that Figure 1 should be placed in other section, namely Section 3.1. , where it is mentioned for the first time (line 176)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_21> <molecules27123843_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_21> <molecules27123843_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "Line 59. Remove \"2. Results\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#reviewer_22> <molecules27123843_perova.owl#text> "Line 59. Remove \"2. Results\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_22> <molecules27123843_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_22> <molecules27123843_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "line 148. What does NAA mean?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#reviewer_23> <molecules27123843_perova.owl#text> "line 148. What does NAA mean?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_23> <molecules27123843_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_23> <molecules27123843_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "line 251. Write \"On TEM images \" instead of \"Transmission electrone microscopy can be observed...\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#reviewer_24> <molecules27123843_perova.owl#text> "line 251. Write \"On TEM images \" instead of \"Transmission electrone microscopy can be observed...\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_24> <molecules27123843_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_24> <molecules27123843_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#reviewer_25> <http://www.w3.org/2000/01/rdf-schema#label> "line 284. Remove the word \"that\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#reviewer_25> <molecules27123843_perova.owl#text> "line 284. Remove the word \"that\""^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_25> <molecules27123843_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#reviewer_25> <molecules27123843_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for the valuable comment. We have removed the heading “2. Results” in the revised manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#author1> <molecules27123843_perova.owl#text> "Thanks for the valuable comment. We have removed the heading “2. Results” in the revised manuscript."^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author1> <molecules27123843_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author1> <molecules27123843_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for the valuable comment. We have changed the position of Figure 1 to line 182, and adjusted the arrangement of the figures in the article"^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#author2> <molecules27123843_perova.owl#text> "Thanks for the valuable comment. We have changed the position of Figure 1 to line 182, and adjusted the arrangement of the figures in the article"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author2> <molecules27123843_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author2> <molecules27123843_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for the valuable comment. We have removed the heading “2. Results” in the revised manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#author3> <molecules27123843_perova.owl#text> "Thanks for the valuable comment. We have removed the heading “2. Results” in the revised manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author3> <molecules27123843_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author3> <molecules27123843_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "Thank you for your valuable opinion. NAA is an abbreviation for amino acid, and we have added the description of NAA in the section of “2.3 Construction of sensor array"^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#author4> <molecules27123843_perova.owl#text> "Thank you for your valuable opinion. NAA is an abbreviation for amino acid, and we have added the description of NAA in the section of “2.3 Construction of sensor array"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author4> <molecules27123843_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author4> <molecules27123843_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for the valuable comment. We have made the appropriate changes in the text to make the sentences more concise and highlighted them in red (line 248)."^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#author5> <molecules27123843_perova.owl#text> "Thanks for the valuable comment. We have made the appropriate changes in the text to make the sentences more concise and highlighted them in red (line 248)."^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author5> <molecules27123843_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author5> <molecules27123843_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks for the valuable comment. We have removed the word “that” in the revised manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#author6> <molecules27123843_perova.owl#text> "Thanks for the valuable comment. We have removed the word “that” in the revised manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author6> <molecules27123843_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author6> <molecules27123843_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<molecules27123843_perova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<molecules27123843_perova.owl#author7> <molecules27123843_perova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author7> <molecules27123843_perova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <molecules27123843_perova.owl#author7> <molecules27123843_perova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

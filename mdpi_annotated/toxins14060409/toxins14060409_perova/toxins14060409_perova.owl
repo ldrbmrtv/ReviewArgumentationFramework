@@ -5,6 +5,8 @@
 <toxins14060409_perova.owl#attacks> <http://www.w3.org/2002/07/owl#inverseOf> <toxins14060409_perova.owl#isAttackedBy> .
 <toxins14060409_perova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <toxins14060409_perova.owl#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
+<toxins14060409_perova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
+<toxins14060409_perova.owl#text> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <toxins14060409_perova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#AnnotationProperty> .
 <toxins14060409_perova.owl#number> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#FunctionalProperty> .
 <toxins14060409_perova.owl#Reviewer_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -544,72 +546,72 @@ _:50185 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> _:50189 .
 _:50189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> _:50187 .
 _:50189 <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> .
 <toxins14060409_perova.owl#AuthorAdmissible> <http://www.w3.org/2002/07/owl#equivalentClass> _:50188 .
-<toxins14060409_perova.owl#reviewer_11> <http://www.w3.org/2000/01/rdf-schema#label> "I would like to suggest authors label inoculation points in Figure 1, which could give readers a clear view of three different inoculation methods."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_11> <toxins14060409_perova.owl#text> "I would like to suggest authors label inoculation points in Figure 1, which could give readers a clear view of three different inoculation methods."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_11> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_11> <toxins14060409_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_12> <http://www.w3.org/2000/01/rdf-schema#label> "Line 142: “proportion of PPSD” should be “proportion of PSD or PPSD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_12> <toxins14060409_perova.owl#text> "Line 142: “proportion of PPSD” should be “proportion of PSD or PPSD"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_12> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_12> <toxins14060409_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_13> <http://www.w3.org/2000/01/rdf-schema#label> "Line 143: “PPSD-premature spike death” should be “PPSD-proportion of premature spike death”."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_13> <toxins14060409_perova.owl#text> "Line 143: “PPSD-premature spike death” should be “PPSD-proportion of premature spike death”."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_13> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_13> <toxins14060409_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_14> <http://www.w3.org/2000/01/rdf-schema#label> "Lines 168 - 169: Should it be that DON content of most lines without Fhb1 exceeded 1000 μg/kg under UBFI? Where is 4224.38 μg/kg in Table 1? Do you mean in Table S1?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_14> <toxins14060409_perova.owl#text> "Lines 168 - 169: Should it be that DON content of most lines without Fhb1 exceeded 1000 μg/kg under UBFI? Where is 4224.38 μg/kg in Table 1? Do you mean in Table S1?"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_14> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_14> <toxins14060409_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_15> <http://www.w3.org/2000/01/rdf-schema#label> "Lines 411 & 413: “PPSB” should be “PPSD”."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_15> <toxins14060409_perova.owl#text> "Lines 411 & 413: “PPSB” should be “PPSD”."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_15> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_15> <toxins14060409_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_16> <http://www.w3.org/2000/01/rdf-schema#label> "Table S1: “PPSD - premature spike death” in the footnote should be “PPSD - proportion of premature spike death”."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_16> <toxins14060409_perova.owl#text> "Table S1: “PPSD - premature spike death” in the footnote should be “PPSD - proportion of premature spike death”."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_16> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_16> <toxins14060409_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_17> <http://www.w3.org/2000/01/rdf-schema#label> "Fhb1- and Fhb1+ don’t appear in Table S1, so they can be removed from the footnote"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_17> <toxins14060409_perova.owl#text> "Fhb1- and Fhb1+ don’t appear in Table S1, so they can be removed from the footnote"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_17> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_17> <toxins14060409_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_21> <http://www.w3.org/2000/01/rdf-schema#label> "I would suggest to avoid citing supplementary figures at the beginning of the chapter.\n See for example chapter 2.4. Given that 2.4 chapter discusses data of supplementary figure 4 would suggest to make figure S4 as Figure 4 of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_21> <toxins14060409_perova.owl#text> "I would suggest to avoid citing supplementary figures at the beginning of the chapter.\n See for example chapter 2.4. Given that 2.4 chapter discusses data of supplementary figure 4 would suggest to make figure S4 as Figure 4 of the manuscript"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_21> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_21> <toxins14060409_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_22> <http://www.w3.org/2000/01/rdf-schema#label> "To further clarify the infection methods a supplementary figure detailing graphically the modes of inoculation with figures would make the paper extremely useful for the community"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_22> <toxins14060409_perova.owl#text> "To further clarify the infection methods a supplementary figure detailing graphically the modes of inoculation with figures would make the paper extremely useful for the community"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_22> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_22> <toxins14060409_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_23> <http://www.w3.org/2000/01/rdf-schema#label> "Identity of the strain used for infection should be confirmed: a multilocus species characterisation is needed to confirm the species of the strain or a reference to a publication where the strain was described and appropriately characterised."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_23> <toxins14060409_perova.owl#text> "Identity of the strain used for infection should be confirmed: a multilocus species characterisation is needed to confirm the species of the strain or a reference to a publication where the strain was described and appropriately characterised."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_23> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_23> <toxins14060409_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#reviewer_24> <http://www.w3.org/2000/01/rdf-schema#label> "Mycotoxin data analysis should be provided (I guess is policy of mdpi to make raw data available together with the publication)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#reviewer_24> <toxins14060409_perova.owl#text> "Mycotoxin data analysis should be provided (I guess is policy of mdpi to make raw data available together with the publication)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_24> <toxins14060409_perova.owl#round> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#reviewer_24> <toxins14060409_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author1> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks! the inoculation points were labeled with the red arrows in Figure 1 as suggested"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author1> <toxins14060409_perova.owl#text> "Thanks! the inoculation points were labeled with the red arrows in Figure 1 as suggested"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author1> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author1> <toxins14060409_perova.owl#number> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author2> <http://www.w3.org/2000/01/rdf-schema#label> "Sorry for carelessness. We corrected it as suggested. (Pag.4 Line 157)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author2> <toxins14060409_perova.owl#text> "Sorry for carelessness. We corrected it as suggested. (Pag.4 Line 157)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author2> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author2> <toxins14060409_perova.owl#number> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author3> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks. We revised the expression in the footnote of Table 1. (Pag.4 Line 158)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author3> <toxins14060409_perova.owl#text> "Thanks. We revised the expression in the footnote of Table 1. (Pag.4 Line 158)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author3> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author3> <toxins14060409_perova.owl#number> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author4> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks. we revised the sentence as “DON content of most lines without Fhb1 exceeded 1000 μg∙kg-1 under UBFI method (Figure 2), with the highest reaching 4224.38 μg∙kg-1 (Table S1)”. (Pag.5 Line 184-186)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author4> <toxins14060409_perova.owl#text> "Thanks. we revised the sentence as “DON content of most lines without Fhb1 exceeded 1000 μg∙kg-1 under UBFI method (Figure 2), with the highest reaching 4224.38 μg∙kg-1 (Table S1)”. (Pag.5 Line 184-186)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author4> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author4> <toxins14060409_perova.owl#number> "4"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author5> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks. We corrected it. (Pag.11 Line 441 & 443)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author5> <toxins14060409_perova.owl#text> "Thanks. We corrected it. (Pag.11 Line 441 & 443)"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author5> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author5> <toxins14060409_perova.owl#number> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author6> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks. We revised the expression in the footnote of Table S1."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author6> <toxins14060409_perova.owl#text> "Thanks. We revised the expression in the footnote of Table S1."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author6> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author6> <toxins14060409_perova.owl#number> "6"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author7> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks. We revised the annotations in Table S1."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author7> <toxins14060409_perova.owl#text> "Thanks. We revised the annotations in Table S1."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author7> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author7> <toxins14060409_perova.owl#number> "7"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author8> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks! We agree with the reviewer’s comments and make Figure S4 as Figure 4 in this revised version."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author8> <toxins14060409_perova.owl#text> "Thanks! We agree with the reviewer’s comments and make Figure S4 as Figure 4 in this revised version."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author8> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author8> <toxins14060409_perova.owl#number> "8"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author9> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks! We marked the inoculation sites with red arrows in Figure 1."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author9> <toxins14060409_perova.owl#text> "Thanks! We marked the inoculation sites with red arrows in Figure 1."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author9> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author9> <toxins14060409_perova.owl#number> "9"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author10> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks! We added more details about the strain and cited the following paper. (Pag.10 Line 402-403)\n Zhang, Y.; Li, A.; Zhu, S.; Li, L.; He, X.; Sun, Z.; Li, T. Basal Rachis Internode Injection (BRII): A novel inoculation method to evaluate wheat resistance to Fusarium head blight. Phytopathology, 2021, 111, 1670-1674, doi:10.1094/PHYTO-11-20-0488-R."^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author10> <toxins14060409_perova.owl#text> "Thanks! We added more details about the strain and cited the following paper. (Pag.10 Line 402-403)\n Zhang, Y.; Li, A.; Zhu, S.; Li, L.; He, X.; Sun, Z.; Li, T. Basal Rachis Internode Injection (BRII): A novel inoculation method to evaluate wheat resistance to Fusarium head blight. Phytopathology, 2021, 111, 1670-1674, doi:10.1094/PHYTO-11-20-0488-R."^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author10> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author10> <toxins14060409_perova.owl#number> "10"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author11> <http://www.w3.org/2000/01/rdf-schema#label> "Thanks! We uploaded the raw mycotoxin data as suggested"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author11> <toxins14060409_perova.owl#text> "Thanks! We uploaded the raw mycotoxin data as suggested"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author11> <toxins14060409_perova.owl#round> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author11> <toxins14060409_perova.owl#number> "11"^^<http://www.w3.org/2001/XMLSchema#string> .
-<toxins14060409_perova.owl#author12> <http://www.w3.org/2000/01/rdf-schema#label> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
+<toxins14060409_perova.owl#author12> <toxins14060409_perova.owl#text> "Paper"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author12> <toxins14060409_perova.owl#round> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
 <toxins14060409_perova.owl#author12> <toxins14060409_perova.owl#number> "0"^^<http://www.w3.org/2001/XMLSchema#string> .

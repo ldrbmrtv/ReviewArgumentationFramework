@@ -24,8 +24,6 @@ for i, review in enumerate(os.listdir(path)):
         onto = os.path.join(path, review, annotation, f'{annotation}_inferred.owl')
         if os.path.exists(onto):
             onto = get_ontology(onto).load()
-            print(len(list(onto.individuals())))
-                
             n_classes = len(list(Thing.subclasses()))
             
             n_arg_revs = []
